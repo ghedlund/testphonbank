@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011758-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1974-03-31"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Sean"
+      role="Target_Child"
+      language="eng"
+      age="P2Y01M08D"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">31-MAR-1974</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>I</w>
+    <w>want</w>
+    <w>tape</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Mommy</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">ai wan tet mami</a>
+    <a type="extension" flavor="mod">ˈaɪ ˈwɑnt ˈteɪp ˈmɑmiː</a>
+    <a type="extension" flavor="uttnum">1908</a>
+    <a type="extension" flavor="sesdat">1974-03-31</a>
+    <a type="extension" flavor="age">2;1.8</a>
+    <a type="comments">(masking tape)</a>
+  </u>
+</CHAT>

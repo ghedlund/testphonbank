@@ -1,0 +1,2455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00042346-1"
+      Version="2.20.0"
+      Lang="glg spa"
+      Corpus="Koine"
+      Date="1997-06-11"
+      >
+  <Participants>
+    <participant
+      id="PIL"
+    name="PilarOtero"
+      role="Investigator"
+      language="glg spa"
+      sex="female"
+      group="Susana"
+
+    />
+    <participant
+      id="ANC"
+    name="AnaCodesido"
+      role="Investigator"
+      language="glg spa"
+      sex="female"
+      group="Susana"
+
+    />
+    <participant
+      id="GUI"
+    name="Guillermo"
+      role="Target_Child"
+      language="glg spa"
+      age="P3Y05M04D"
+      sex="male"
+      group="Susana"
+
+    />
+    <participant
+      id="DAV"
+    name="David"
+      role="Target_Child"
+      language="glg spa"
+      age="P3Y00M02D"
+      sex="male"
+      group="Susana"
+
+    />
+  </Participants>
+  <comment type="Transcriber">PIL</comment>
+  <comment type="Location">Santiago de Compostela</comment>
+  <comment type="Situation">escuela infantil Santa Susana</comment>
+  <comment type="Tape Location">3.3</comment>
+  <comment type="Date">11-JUN-1997</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="PIL" uID="u0">
+    <w>quién</w>
+    <w>era</w>
+    <w>María</w>
+    <w>Luisa</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>levante</w>
+    <w>la</w>
+    <w>mano</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="GUI" uID="u1">
+    <w>está</w>
+    <pause symbolic-length="simple"/>
+    <w>aquí</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:3S:1C_VER-CIRC_305_2SIL:está .</a>
+    <a type="comments">hay varios niños que intervienen pero sólo transcribo a GUI porque los otros no son niños pertenecientes a la muestra</a>
+  </u>
+  <u who="ANC" uID="u2">
+    <w>y</w>
+    <w>un</w>
+    <w>sol</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>qué</w>
+    <w>más</w>
+    <w>tiene</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="GUI" uID="u3">
+    <w>echa</w>
+    <g><w>loz</w><error/></g>
+    <w>cuernos</w>
+    <w>al</w>
+    <w>sol</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">loz=los $PHO ;</a>
+    <a type="extension" flavor="mor">v|echar:2SIL_IMP:2S:1C_VER-ARG2-CIRC_305_2SIL:echa .</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u4">
+    <w>quién</w>
+    <w>saca</w>
+    <w>los</w>
+    <w>cuernos</w>
+    <w>al</w>
+    <w>sol</w>
+    <pause symbolic-length="simple"/>
+    <w>el</w>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="GUI" uID="u5">
+    <w>mi</w>
+    <w>mamá</w>
+    <t type="e"></t>
+
+    <a type="speech act">$IMIT</a>
+  </u>
+  <u who="ANC" uID="u6">
+    <w>caracol</w>
+    <w>col</w>
+    <w>col</w>
+    <pause symbolic-length="simple"/>
+    <w>o</w>
+    <w>no</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u7">
+    <w>sabemos</w>
+    <w>la</w>
+    <w>canción</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u8">
+    <g><w>zí</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">zí=sí $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u9">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>se</w>
+    <w>la</w>
+    <w>cantamos</w>
+    <w>a</w>
+    <w>Pili</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u10">
+    <w>caracol</w>
+    <w type="fragment">col</w>
+    <w type="fragment">col</w>
+    <w>echa</w>
+    <g><w>loz</w><error/></g>
+    <w>cuernos</w>
+    <w>al</w>
+    <w>sol</w>
+    <w>que</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">loz=los $PHO ;</a>
+    <a type="extension" flavor="mor">v|echar:2SIL_IMP:2S:1C_VOC-VER-ARG2-CIRC-CIRC_305_2SIL:echa !</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u11">
+    <w>pasamos</w>
+    <w>la</w>
+    <w>hoja</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u12">
+    <g><w>zí</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">zí=sí $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u13">
+    <w>a</w>
+    <w>ver</w>
+    <w>qué</w>
+    <w>nos</w>
+    <w>aparece</w>
+    <w>ahora</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="GUI" uID="u14">
+    <w>un</w>
+    <w>camión</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u15">
+    <w>un</w>
+    <w>camión</w>
+    <w>de</w>
+    <w>bomberos</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>de</w>
+    <w>qué</w>
+    <w>color</w>
+    <w>es</w>
+    <w>este</w>
+    <w>camión</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u16">
+    <g><w>dojo</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">dojo=rojo $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+    <a type="speech act">$IMIT</a>
+  </u>
+  <u who="ANC" uID="u17">
+    <w>muy</w>
+    <w>bien</w>
+    <t type="e"></t>
+
+    <a type="comments">no está transcrito desde 01:35 hasta 02:05.</a>
+  </u>
+  <u who="ANC" uID="u18">
+    <w>y</w>
+    <w>alguna</w>
+    <w>vez</w>
+    <w>visteis</w>
+    <w>a</w>
+    <w>los</w>
+    <w>bomberos</w>
+    <pause symbolic-length="simple"/>
+    <w>apagar</w>
+    <w>el</w>
+    <w>fuego</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u19">
+    <g><w>zí</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">zí=sí $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u20">
+    <w>y</w>
+    <w>cómo</w>
+    <w>hacen</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u21">
+    <w untranscribed="unintelligible">xxx</w>
+    <g><w>loz</w>
+    <w>bomberoz</w><error/></g>
+    <g><w>y</w><k type="retracing with correction"/></g>
+    <w>y</w>
+    <w>nos</w>
+    <w>tiraban</w>
+    <g><w>golozinas</w><error/></g>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">loz=los $PHO; bomberoz=bomberos $PHO ; golozinas=golosinas $PHO ;</a>
+    <a type="extension" flavor="mor">v|tirar:2SIL_PAS2:3P:1C_ENL2-CLI3-VER-ARG2-INI_305_3SIL:tiraban !</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS-FRON ; $SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u22">
+    <w>qué</w>
+    <w>suerte</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="GUI" uID="u23">
+    <w>y</w>
+    <w>también</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="e"></t>
+
+    <a type="comments">no está transcrito desde 02:28 hasta 02:34.</a>
+  </u>
+  <u who="ANC" uID="u24">
+    <w>bueno</w>
+    <w>hombre</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>suerte</w>
+    <t type="e"></t>
+
+    <a type="comments">no está transcrito desde 02:42 hasta 02:50.</a>
+  </u>
+  <u who="ANC" uID="u25">
+    <w>tienes</w>
+    <w>un</w>
+    <w>Powerranger</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u26">
+    <w>dos</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u27">
+    <w>rosa</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u28">
+    <w>y</w>
+    <w>yo</w>
+    <pause symbolic-length="simple"/>
+    <g><w>un</w><k type="retracing"/></g>
+    <g><w>un</w><k type="retracing"/></g>
+    <w untranscribed="unintelligible">xxx</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>yo</w>
+    <g><w>un</w><k type="retracing with correction"/></g>
+    <w>un</w>
+    <w>Powerranger</w>
+    <w>de</w>
+    <w>calzoncillo</w>
+    <w>de</w>
+    <w>caca</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u29">
+    <w>bueno</w>
+    <pause symbolic-length="simple"/>
+    <w>muy</w>
+    <w>bien</w>
+    <t type="p"></t>
+
+    <a type="comments">no está transcrito desde 02:55 hasta 03:17.</a>
+  </u>
+  <u who="ANC" uID="u30">
+    <w>primero</w>
+    <w>vimos</w>
+    <w>una</w>
+    <w>casa</w>
+    <pause symbolic-length="simple"/>
+    <w>después</w>
+    <w>el</w>
+    <w>camión</w>
+    <w>de</w>
+    <w>los</w>
+    <w>bomberos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u31">
+    <w>y</w>
+    <w>ahora</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>ahora</w>
+    <w>qué</w>
+    <w>vemos</w>
+    <w>aquí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u32">
+    <g><w>cochez</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">cochez=coches $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u33">
+    <w>cuántos</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u34">
+    <g><w>doz</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">doz=dos $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u35">
+    <w>está</w>
+    <w>roto</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>por</w>
+    <w>qué</w>
+    <w>se</w>
+    <w>rompió</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u36">
+    <w>vaya</w>
+    <pause symbolic-length="simple"/>
+    <w>porque</w>
+    <w>iba</w>
+    <w>muy</w>
+    <w>rápido</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="GUI" uID="u37">
+    <g><w>rompió</w>
+    <pause symbolic-length="simple"/>
+    <w>porque</w>
+    <w>lo</w>
+    <w>rompiste</w>
+    <w>con</w>
+    <w>otro</w><k type="best guess"/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="mor">v|romper:2SIL_PAS1:3S:2C_VER-CIRC_305_2SIL:rompió ; v|romper:2SIL_PAS1:2S:2C_ENL2-CLI2-VER-CIRC_305_3SIL:rompiste !</a>
+  </u>
+  <u who="ANC" uID="u38">
+    <w>me_cachis</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="GUI" uID="u39">
+    <g><w>está</w>
+    <w>roto</w><k type="best guess"/></g>
+    <w>porque</w>
+    <w>chocó</w>
+    <t type="e"></t>
+
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:3S:1C_VER-PRED-CIRC_305_2SIL:está ; v|chocar:2SIL_PAS1:3S:1C_ENL2-VER_305_2SIL:chocó !</a>
+  </u>
+  <u who="ANC" uID="u40">
+    <w>chocó</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="GUI" uID="u41">
+    <w type="fragment">eh</w>
+    <pause symbolic-length="simple"/>
+    <w>Pili</w>
+    <t type="e"></t>
+
+    <a type="actions">se da la vuelta y llama a PIL. No está transcrito desde 04:08 hasta 04:18.</a>
+  </u>
+  <u who="ANC" uID="u42">
+    <w>pasamos</w>
+    <w>a</w>
+    <w>otro</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u43">
+    <w>un</w>
+    <w>osito</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="GUI" uID="u44">
+    <w>está</w>
+    <w>en</w>
+    <w>la</w>
+    <w>cama</w>
+    <t type="e"></t>
+
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:3S:1C_VER-CIRC_305_2SIL:está !</a>
+  </u>
+  <u who="ANC" uID="u45">
+    <w>está</w>
+    <w>durmiendo</w>
+    <t type="q"></t>
+
+    <a type="comments">no está transcrito desde 04:26 hasta 04:36.</a>
+  </u>
+  <u who="ANC" uID="u46">
+    <w>y</w>
+    <w>está</w>
+    <w>soñando</w>
+    <w>el</w>
+    <w>osito</w>
+    <pause symbolic-length="simple"/>
+    <w>con</w>
+    <w>quién</w>
+    <w>sueña</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u47">
+    <g><w>con</w>
+    <w>loz</w>
+    <w type="fragment">co</w><error/><k type="retracing with correction"/></g>
+    <w>con</w>
+    <g><w>loz</w><error/></g>
+    <w type="fragment">co</w>
+    <g><w>conejitoz</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">loz=los $PHO ; conejitoz=conejitos $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u48">
+    <w>con</w>
+    <w>los</w>
+    <w>conejitos</w>
+    <w>sueña</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u49">
+    <w>y</w>
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <g><w>loz</w>
+    <w>conejitoz</w><error/></g>
+    <w>que</w>
+    <w>comen</w>
+    <g><w>zanahoriaz</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">loz=los $PHO ; conejitoz=conejitos $PHO ; zanahoriaz=zanahorias $PHO ;</a>
+    <a type="extension" flavor="mor">v|comer:2SIL_PRES:3P:2C_ARG1'REL-VER-ARG2_305_2SIL:comen !</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS-FRON ; $SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u50">
+    <w>a</w>
+    <w>ver</w>
+    <w>si</w>
+    <w>los</w>
+    <w>encontramos</w>
+    <w>después</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u51">
+    <w>hala</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>ahora</w>
+    <w>quién</w>
+    <w>está</w>
+    <w>aquí</w>
+    <pause symbolic-length="simple"/>
+    <w>esta</w>
+    <w>es</w>
+    <w>la</w>
+    <w>amiga</w>
+    <w>del</w>
+    <w>osito</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u52">
+    <w>una</w>
+    <w>muñeca</w>
+    <pause symbolic-length="simple"/>
+    <w>claro</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>de</w>
+    <w>qué</w>
+    <w>color</w>
+    <w>tiene</w>
+    <w>el</w>
+    <w>vestido</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u53">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <g><w>dojo</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">dojo=rojo $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+    <a type="actions">se pone de lado y parece que se dirige al compañero que dijo azul</a>
+  </u>
+  <u who="ANC" uID="u54">
+    <w>alto</w>
+    <w>para</w>
+    <w>que</w>
+    <w>lo</w>
+    <w>oiga</w>
+    <w>Pili</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="GUI" uID="u55">
+    <w>rojo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u56">
+    <w>rojo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u57">
+    <w>y</w>
+    <w>marrón</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u58">
+    <w>yo</w>
+    <w>creo</w>
+    <w>que</w>
+    <w>tú</w>
+    <w>cuentas</w>
+    <w>mentiras</w>
+    <pause symbolic-length="simple"/>
+    <w>Guillermo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u59">
+    <w>azul</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="GUI" uID="u60">
+    <w>azul</w>
+    <pause symbolic-length="simple"/>
+    <w>azul</w>
+    <t type="e"></t>
+
+    <a type="speech act">$IMIT</a>
+    <a type="comments">no está transcrito desde 05:35 hasta 05:40.</a>
+  </u>
+  <u who="GUI" uID="u61">
+    <w>no</w>
+    <w>veo</w>
+    <t type="e"></t>
+
+    <a type="extension" flavor="mor">v|ver:1SIL_PRES:1S:2C_NEG-VER_305_2SIL:veo !</a>
+  </u>
+  <u who="ANC" uID="u62">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="long"/>
+    <w>vemos</w>
+    <w>todos</w>
+    <t type="p"></t>
+
+    <a type="comments">no está transcrito desde 05:48 hasta 06:13.</a>
+  </u>
+  <u who="ANC" uID="u63">
+    <w>pasamos</w>
+    <w>a</w>
+    <w>la</w>
+    <w>otra</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u64">
+    <w>un</w>
+    <w>payaso</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u65">
+    <w>como</w>
+    <w>en</w>
+    <w>carnavales</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="GUI" uID="u66">
+    <w>un</w>
+    <w>payazo</w>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">payazo=payaso $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+    <a type="speech act">$IMIT</a>
+  </u>
+  <u who="ANC" uID="u67">
+    <w>un</w>
+    <w>payaso</w>
+    <w>que</w>
+    <w>está</w>
+    <w>riendo</w>
+    <w>o</w>
+    <w>está</w>
+    <w>llorando</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u68">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="GUI" uID="u69">
+    <w>hola</w>
+    <g><w>payazo</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">payazo=payaso $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u70">
+    <w>hola</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u71">
+    <w>así</w>
+    <pause symbolic-length="simple"/>
+    <w>sentadiños</w>
+    <w>atrás</w>
+    <t type="p"></t>
+
+    <a type="comments">se arma barullo y ANC trata de poner orden. No está transcrito desde 06:44 hasta 07_03.</a>
+  </u>
+  <u who="GUI" uID="u72">
+    <w untranscribed="unintelligible">xxx</w>
+    <g><w>laz</w><error/></g>
+    <w>de</w>
+    <g><w>loz</w>
+    <w>cagnavales</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">laz=las $PHO ; loz=los $PHO; cagnavales=carnavales $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS-FRON ; $SUS</a>
+  </u>
+  <u who="ANC" uID="u73">
+    <w>en</w>
+    <w>carnavales</w>
+    <pause symbolic-length="simple"/>
+    <w>claro</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="GUI" uID="u74">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u75">
+    <w>una</w>
+    <w>tele</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u76">
+    <w>de</w>
+    <w>qué</w>
+    <w>color</w>
+    <w>es</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u77">
+    <w>marrón</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u78">
+    <w>marrón</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u79">
+    <w>y</w>
+    <w>tiene</w>
+    <w>patas</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>tele</w>
+    <w>más</w>
+    <w>rara</w>
+    <pause symbolic-length="simple"/>
+    <w>es</w>
+    <w>una</w>
+    <w>tele</w>
+    <w>un</w>
+    <w>poco</w>
+    <w>rara</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="GUI" uID="u80">
+    <g><w>y</w><k type="retracing"/></g>
+    <w>y</w>
+    <w>yo</w>
+    <w>tengo</w>
+    <pause symbolic-length="simple"/>
+    <g><w>futbolín</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">futbolín=un futbolín $PRE ;</a>
+    <a type="extension" flavor="mor">v|tener:2SIL_PRES:1S:2C_ENL3-ARG1-VER-ARG2_305_2SIL:tengo !</a>
+  </u>
+  <u who="ANC" uID="u81">
+    <w>bueno</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>la</w>
+    <w>tele</w>
+    <w>de</w>
+    <w>casa</w>
+    <pause symbolic-length="simple"/>
+    <w>cómo</w>
+    <w>es</w>
+    <w>la</w>
+    <w>tele</w>
+    <w>de</w>
+    <w>vuestra</w>
+    <w>casa</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u82">
+    <w>y</w>
+    <w>de</w>
+    <w>qué</w>
+    <w>color</w>
+    <w>es</w>
+    <w>la</w>
+    <w>tele</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u83">
+    <w>marrón</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u84">
+    <w>qué</w>
+    <w>es</w>
+    <w>esto</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u85">
+    <w>esto</w>
+    <w>es</w>
+    <w>un</w>
+    <w>avión</w>
+    <pause symbolic-length="simple"/>
+    <w>pero</w>
+    <w>para</w>
+    <w>ser</w>
+    <w>un</w>
+    <w>avión</w>
+    <w>es</w>
+    <w>un</w>
+    <w>poco</w>
+    <w>raro</w>
+    <pause symbolic-length="simple"/>
+    <w>o</w>
+    <w>no</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u86">
+    <g><w>vuela</w><k type="best guess"/></g>
+    <w>por</w>
+    <w>el</w>
+    <w>aire</w>
+    <t type="e"></t>
+
+    <a type="extension" flavor="mor">v|volar:2SIL_PRES:3S:1C_VER-CIRC_305_2SIL:vuela !</a>
+  </u>
+  <u who="ANC" uID="u87">
+    <w>claro</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="GUI" uID="u88">
+    <w formType="onomatopoeia">brrrr</w>
+    <t type="e"></t>
+
+    <a type="actions">imita las alas con sus brazos</a>
+  </u>
+  <u who="ANC" uID="u89">
+    <w>tiene</w>
+    <w>alas</w>
+    <pause symbolic-length="simple"/>
+    <w>así</w>
+    <w>hacen</w>
+    <w>los</w>
+    <w>aviones</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u90">
+    <w>y</w>
+    <w>ahora</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u91">
+    <w>dinero</w>
+    <pause symbolic-length="simple"/>
+    <w>dinero</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="GUI" uID="u92">
+    <g><w>dinedo</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">dinedo=dinero $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+    <a type="speech act">$IMIT</a>
+  </u>
+  <u who="GUI" uID="u93">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u94">
+    <w>esta</w>
+    <w>es</w>
+    <w>amarilla</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>estas</w>
+    <w>de</w>
+    <w>qué</w>
+    <w>color</w>
+    <w>son</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u95">
+    <g><w>magrones</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">magrones=marrones $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="ANC" uID="u96">
+    <w>y</w>
+    <w>estas</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u97">
+    <w>un</w>
+    <w>color</w>
+    <w>que</w>
+    <w>se</w>
+    <w>llama</w>
+    <w>gris</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="GUI" uID="u98">
+    <w>gris</w>
+    <t type="p"></t>
+
+    <a type="speech act">$IMIT</a>
+  </u>
+  <u who="PIL" uID="u99">
+    <w>vino</w>
+    <w>mi</w>
+    <w>amigo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u100">
+    <w>de</w>
+    <w>qué</w>
+    <w>color</w>
+    <w>es</w>
+    <w>el</w>
+    <w>dinero</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u101">
+    <w>corre</w>
+    <w>David</w>
+    <pause symbolic-length="simple"/>
+    <w>ponte</w>
+    <w>allí</w>
+    <w>junto</w>
+    <w>a</w>
+    <w>Ana</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u102">
+    <w>hola</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DAV" uID="u103">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>de</w>
+    <g><w>cumpeaños</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">cumpeaños=cumpleaños $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="ANC" uID="u104">
+    <w>hola</w>
+    <w>David</w>
+    <pause symbolic-length="simple"/>
+    <w>es</w>
+    <w>tu</w>
+    <w>cumpleaños</w>
+    <g><w>hoy</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="DAV" uID="u105">
+    <g><w>Spidiman</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u106">
+    <w>es</w>
+    <w>tu</w>
+    <w>cumpleaños</w>
+    <w>hoy</w>
+    <pause symbolic-length="simple"/>
+    <w>hay</w>
+    <w>fiesta</w>
+    <w>de</w>
+    <w>cumpleaños</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DAV" uID="u107">
+    <w>Spidiman</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u108">
+    <w>qué</w>
+    <w>suerte</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u109">
+    <w>ven</w>
+    <w>aquí</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>nos</w>
+    <w>cuentas</w>
+    <w>que</w>
+    <w>te</w>
+    <w>regalaron</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>te</w>
+    <w>regalaron</w>
+    <w>ayer</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DAV" uID="u110">
+    <w>nada</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u111">
+    <w>este</w>
+    <pause symbolic-length="simple"/>
+    <w>Spiderman</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>Batman</w>
+    <pause symbolic-length="simple"/>
+    <w>Batman</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u112">
+    <w>oh</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u113">
+    <w>y</w>
+    <w>qué</w>
+    <w>hace</w>
+    <w>Batman</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DAV" uID="u114">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>lo</w>
+    <g><w>vez</w><error/></g>
+    <t type="q"></t>
+
+    <a type="extension" flavor="par">vez=ves $PHO ;</a>
+    <a type="extension" flavor="mor">v|ver:1SIL_PRES:2S:2C_CLI2-VER_300_1SIL:vez ?</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+    <a type="actions">se acerca y le explica lo que hace</a>
+  </u>
+  <u who="ANC" uID="u115">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>pero</w>
+    <w>lo</w>
+    <w>tiene</w>
+    <w>que</w>
+    <w>ver</w>
+    <w>Pili</w>
+    <w>también</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u116">
+    <w>vamos</w>
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <w>si</w>
+    <w>soy</w>
+    <w>capaz</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:1S:2C_ENL2-VER-PRED_300_1SIL:soy .</a>
+  </u>
+  <u who="ANC" uID="u117">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>te</w>
+    <w>ayudo</w>
+    <w>yo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u118">
+    <w>te</w>
+    <w>ayudo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DAV" uID="u119">
+    <w>mira</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|mirar:2SIL_IMP:2S:1C_VER_300_2SIL:mira .</a>
+  </u>
+  <u who="ANC" uID="u120">
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u121">
+    <w>oh</w>
+    <w>se</w>
+    <w>cayó</w>
+    <t type="e"></t>
+
+    <a type="extension" flavor="mor">v|caer:2SIL_PAS1:3S:2C_CLI1-VER_300_2SIL:cayó !</a>
+  </u>
+  <u who="ANC" uID="u122">
+    <w>y</w>
+    <w>cuántos</w>
+    <w>años</w>
+    <w>cumpliste</w>
+    <w>David</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DAV" uID="u123">
+    <w>donde</w>
+    <g><w>eztá</w><error/></g>
+    <t type="q"></t>
+
+    <a type="extension" flavor="par">eztá=está $PHO ;</a>
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:3S:1C_CIRC'INT-VER_300_2SIL:eztá ?</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u124">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>espera</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u125">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>donde</w>
+    <g><w>eztá</w><error/></g>
+    <t type="q"></t>
+
+    <a type="extension" flavor="par">eztá=está $PHO ;</a>
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:3S:1C_CIRC'INT-VER_300_2SIL:eztá ?</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u126">
+    <w>pienso</w>
+    <w>que</w>
+    <w>debajo</w>
+    <w>de</w>
+    <w>la</w>
+    <w>silla</w>
+    <pause symbolic-length="simple"/>
+    <w>allí</w>
+    <w>está</w>
+    <pause symbolic-length="simple"/>
+    <w>aquí</w>
+    <pause symbolic-length="simple"/>
+    <w>toma</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u127">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u128">
+    <w>a</w>
+    <w>ver</w>
+    <w>cómo</w>
+    <w>puedo</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|poder:2SIL_PRES:1S:2C_CIRC'ENL2-VER-INI_300_2SIL:puedo .</a>
+  </u>
+  <u who="ANC" uID="u129">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>quieres</w>
+    <w>que</w>
+    <w>te</w>
+    <w>ayude</w>
+    <w>yo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DAV" uID="u130">
+    <g><w>zí</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">zí=sí $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u131">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>vamos</w>
+    <w>a</w>
+    <w>ayudarle</w>
+    <w>a</w>
+    <w>David</w>
+    <pause symbolic-length="simple"/>
+    <w>para</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>sepa</w>
+    <w>cómo</w>
+    <w>se</w>
+    <w>coloca</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u132">
+    <g><w>ze</w>
+    <w>colocan</w><error/><k type="retracing with correction"/></g>
+    <g><w>ze</w><error/></g>
+    <w>colocan</w>
+    <g><w>loz</w>
+    <w>piez</w><error/></g>
+    <pause symbolic-length="simple"/>
+    <w>ahí</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">ze=se $PHO ; loz=los $PHO ; piez=pies $PHO ;</a>
+    <a type="extension" flavor="mor">v|colocar:3SIL_PRES:3P:1C_CLI1-VER-ARG1-CIRC-INI_300_3SIL:colocan .</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS-FRON ; $SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u133">
+    <w>mira</w>
+    <w>esto</w>
+    <w>así</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u134">
+    <w>o</w>
+    <w>no</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u135">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>este</w>
+    <w>yo</w>
+    <w>creo</w>
+    <w>que</w>
+    <pause symbolic-length="simple"/>
+    <w>mira</w>
+    <w>esto</w>
+    <w>va</w>
+    <w>aquí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u136">
+    <w>esto</w>
+    <w>va</w>
+    <w>aquí</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>así</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DAV" uID="u137">
+    <g><w>zí</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">zí=sí $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u138">
+    <w>entonces</w>
+    <w>ahora</w>
+    <w>esto</w>
+    <pause symbolic-length="simple"/>
+    <w>hay</w>
+    <w>que</w>
+    <w>buscarle</w>
+    <w>un</w>
+    <w>sitio</w>
+    <w>en</w>
+    <w>la</w>
+    <w>mano</w>
+    <pause symbolic-length="simple"/>
+    <w>o</w>
+    <w>en</w>
+    <w>los</w>
+    <w>pies</w>
+    <pause symbolic-length="simple"/>
+    <w>en</w>
+    <w>dónde</w>
+    <w>es</w>
+    <pause symbolic-length="simple"/>
+    <w>en</w>
+    <w>la</w>
+    <w>mano</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DAV" uID="u139">
+    <w>en</w>
+    <w>la</w>
+    <w>mano</w>
+    <pause symbolic-length="simple"/>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u140">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>aquí</w>
+    <w>está</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>ahora</w>
+    <w>hay</w>
+    <w>que</w>
+    <w>disparar</w>
+    <pause symbolic-length="simple"/>
+    <g><w>pero</w>
+    <w>a</w>
+    <w>ver</w>
+    <w>a</w>
+    <w>quién</w>
+    <w>disparas</w>
+    <w>eh</w><overlap type="overlap follows"/></g>
+    <pause symbolic-length="simple"/>
+    <w>cuidado</w>
+    <w>con</w>
+    <w>los</w>
+    <w>ojos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u141">
+    <g><w>mira</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|mirar:2SIL_IMP:2S:1C_VER_300_2SIL:mira .</a>
+  </u>
+  <u who="PIL" uID="u142">
+    <w>Dios</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u143">
+    <w>muy</w>
+    <w>bien</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u144">
+    <w>vale</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>ahora</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="DAV" uID="u145">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>de</w>
+    <g><w>dizparar</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">dizparar=disparar $PHO ;</a>
+    <a type="extension" flavor="mor">v|disparar:3SIL_INF:1C_INI-ENL1-VER_300_3SIL:dizparar .</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u146">
+    <w>David</w>
+    <pause symbolic-length="simple"/>
+    <w>hoy</w>
+    <w>estamos</w>
+    <w>viendo</w>
+    <w>un</w>
+    <w>cuento</w>
+    <w>nuevo</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="GUI" uID="u147">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u148">
+    <g><w>y</w>
+    <w>yo</w>
+    <w>tengo</w><k type="retracing with correction"/><overlap type="overlap precedes"/></g>
+    <g><w>y</w>
+    <w>yo</w>
+    <w type="fragment">ten</w><k type="retracing with correction"/></g>
+    <g><w>y</w>
+    <w>yo</w>
+    <w>tengo</w>
+    <w>un</w><k type="retracing"/></g>
+    <w>y</w>
+    <w>yo</w>
+    <w>tengo</w>
+    <w>un</w>
+    <w>viejo</w>
+    <g><w>mandil</w><k type="best guess"/></g>
+    <pause symbolic-length="simple"/>
+    <w>mira</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|tener:2SIL_PRES:1S:2C_ENL3-ARG1-VER-ARG2_300_2SIL:tengo ; v|mirar:2SIL_IMP:2S:1C_VER_300_2SIL:mira .</a>
+  </u>
+  <u who="ANC" uID="u149">
+    <w>mira</w>
+    <pause symbolic-length="simple"/>
+    <w>escúchame</w>
+    <w>un</w>
+    <w>momento</w>
+    <pause symbolic-length="simple"/>
+    <w>guardamos</w>
+    <w>ahora</w>
+    <w>el</w>
+    <w>muñeco</w>
+    <pause symbolic-length="simple"/>
+    <w>vamos</w>
+    <w>a</w>
+    <w>leer</w>
+    <w>el</w>
+    <w>libro</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u150">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>pero</w>
+    <w>nos</w>
+    <w>sentamos</w>
+    <pause symbolic-length="simple"/>
+    <w>yo</w>
+    <w>si</w>
+    <w>no</w>
+    <w>os</w>
+    <w>veo</w>
+    <w>sentados</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="DAV" uID="u151">
+    <w>dónde</w>
+    <w>me</w>
+    <g><w>ziento</w><error/></g>
+    <w>yo</w>
+    <t type="q"></t>
+
+    <a type="extension" flavor="par">ziento=siento $PHO ;</a>
+    <a type="extension" flavor="mor">v|sentar:2SIL_PRES:1S:1C_CIRC'INT-CLI1-VER-ARG1_300_2SIL:ziento ?</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u152">
+    <w>pues</w>
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>allí</w>
+    <w>al</w>
+    <w>lado</w>
+    <w>de</w>
+    <w>ellos</w>
+    <pause symbolic-length="simple"/>
+    <w>hay</w>
+    <w>una</w>
+    <w>sillita</w>
+    <w>allí</w>
+    <t type="p"></t>
+
+    <a type="comments">no está trancrito desde 11:26 a 11:33.</a>
+  </u>
+  <u who="ANC" uID="u153">
+    <w>qué</w>
+    <w>tenemos</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u154">
+    <w>qué</w>
+    <w>sorpresa</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u155">
+    <w>una</w>
+    <w>mamá</w>
+    <w>con</w>
+    <w>un</w>
+    <w>carrito</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u156">
+    <w>a</w>
+    <w>ver</w>
+    <w>David</w>
+    <pause symbolic-length="simple"/>
+    <w>David</w>
+    <w>mira</w>
+    <pause symbolic-length="simple"/>
+    <w>David</w>
+    <pause symbolic-length="simple"/>
+    <w>mira</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u157">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u158">
+    <w>David</w>
+    <pause symbolic-length="simple"/>
+    <w>pero</w>
+    <w>ahora</w>
+    <w>hay</w>
+    <w>que</w>
+    <w>guardar</w>
+    <w>el</w>
+    <w>juguete</w>
+    <w>eh</w>
+    <pause symbolic-length="simple"/>
+    <w>si</w>
+    <w>no</w>
+    <w>me</w>
+    <w>enfado</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u159">
+    <w>lo</w>
+    <w>ponemos</w>
+    <w>aquí</w>
+    <w>un</w>
+    <w>momento</w>
+    <w>David</w>
+    <pause symbolic-length="simple"/>
+    <w>yo</w>
+    <w>lo</w>
+    <w>guardo</w>
+    <w>y</w>
+    <w>nadie</w>
+    <w>le</w>
+    <w>va</w>
+    <w>a</w>
+    <w>tocar</w>
+    <pause symbolic-length="simple"/>
+    <w>vale</w>
+    <pause symbolic-length="simple"/>
+    <w>si</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u160">
+    <w>lo</w>
+    <w>pongo</w>
+    <w>aquí</w>
+    <w>yo</w>
+    <pause symbolic-length="simple"/>
+    <w>aquí</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>aquí</w>
+    <w>soy</w>
+    <w>yo</w>
+    <w>la</w>
+    <w>guardiana</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u161">
+    <g><w>adiba</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">adiba=arriba $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u162">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>te</w>
+    <w>lo</w>
+    <w>pongo</w>
+    <w>yo</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>dámelo</w>
+    <w>a</w>
+    <w>mí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u163">
+    <w>toma</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|tomar:2SIL_IMP:2S:1C_VER_300_2SIL:toma .</a>
+  </u>
+  <u who="ANC" uID="u164">
+    <w>dame</w>
+    <w>el</w>
+    <w>muñeco</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>después</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <pause symbolic-length="simple"/>
+    <w>acuérdate</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <pause symbolic-length="simple"/>
+    <w>vale</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u165">
+    <w>qué</w>
+    <w>tenemos</w>
+    <w>aquí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u166">
+    <w>un</w>
+    <w>bebé</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u167">
+    <w>y</w>
+    <w>quién</w>
+    <w>tiene</w>
+    <w>un</w>
+    <w>hermanito</w>
+    <w>pequeño</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>yo</w>
+    <w>lo</w>
+    <w>sé</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="GUI" uID="u168">
+    <w>yo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DAV" uID="u169">
+    <w>y</w>
+    <w>yo</w>
+    <w>tengo</w>
+    <g><w>un</w>
+    <w>hermatito</w><error/><k type="retracing"/></g>
+    <w>un</w>
+    <w>hermanito</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">hermatito=hermanito $PHO ;</a>
+    <a type="extension" flavor="mor">v|tener:2SIL_PRES:1S:2C_ENL3-ARG1-VER-ARG2_300_2SIL:tengo .</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u170">
+    <w>y</w>
+    <w>cómo</w>
+    <w>se</w>
+    <w>llama</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DAV" uID="u171">
+    <w>Manuel</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u172">
+    <w>Manuel</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="GUI" uID="u173">
+    <w>yo</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u174">
+    <w>si</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u175">
+    <g><w>y</w>
+    <w>yo</w><k type="retracing"/></g>
+    <w>y</w>
+    <w>yo</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <w>de</w>
+    <w>Papá</w>
+    <w>Noel</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u176">
+    <w>bueno</w>
+    <pause symbolic-length="simple"/>
+    <w>eso</w>
+    <w>en</w>
+    <w>Navidades</w>
+    <t type="p"></t>
+
+    <a type="comments">no está trancrito desde 12:56 hasta 13:20.</a>
+  </u>
+  <u who="ANC" uID="u177">
+    <w>y</w>
+    <w>ahora</w>
+    <w>qué</w>
+    <w>tenemos</w>
+    <w>aquí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u178">
+    <w>un</w>
+    <g><w>pedo</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">pedo=perro $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u179">
+    <w>y</w>
+    <w>quién</w>
+    <w>tiene</w>
+    <w>un</w>
+    <w>perro</w>
+    <w>en</w>
+    <w>casa</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u180">
+    <w>yo</w>
+    <t type="e"></t>
+
+    <a type="actions">se levanta y alza los brazos</a>
+  </u>
+  <u who="ANC" uID="u181">
+    <w>tienes</w>
+    <w>un</w>
+    <w>perro</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u182">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u183">
+    <w>Marina</w>
+    <pause symbolic-length="simple"/>
+    <w>tú</w>
+    <w>tienes</w>
+    <w>un</w>
+    <w>perro</w>
+    <w>en</w>
+    <w>casa</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u184">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>lo</w>
+    <w>tengo</w>
+    <w>yo</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|tener:2SIL_PRES:1S:2C_CLI2-VER-ARG1-INI_305_2SIL:tengo .</a>
+  </u>
+  <u who="ANC" uID="u185">
+    <w>sabéis</w>
+    <w>una</w>
+    <w>cosa</w>
+    <pause symbolic-length="simple"/>
+    <w>Pablo</w>
+    <w>no</w>
+    <w>puede</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>si</w>
+    <w>os</w>
+    <w>ponéis</w>
+    <w>así</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="GUI" uID="u186">
+    <w untranscribed="unintelligible">xxx</w>
+    <g><w>excurzión</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">excurzión=excursión $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u187">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>escucha</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="GUI" uID="u188">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u189">
+    <w>cómo</w>
+    <w>se</w>
+    <w>mueven</w>
+    <w>las</w>
+    <w>culebras</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u190">
+    <w>y</w>
+    <w>yo</w>
+    <w>tengo</w>
+    <w>una</w>
+    <g><w>turtuga</w><error/></g>
+    <g><w>que</w>
+    <w>ze</w>
+    <w type="fragment">mue</w><error/><k type="retracing with correction"/></g>
+    <w>que</w>
+    <g><w>ze</w>
+    <w>eztopeó</w><k type="best guess"/><error/></g>
+    <g><w>al</w>
+    <w>agua</w><error/></g>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">turtuga=tortuga $PHO ; ze=se $PHO ; eztopeó=estropeó $PHO ; al agua=en el agua $CON ;</a>
+    <a type="extension" flavor="mor">v|tener:2SIL_PRES:1S:2C_ENL3-ARG1-VER-ARG2_305_2SIL:tengo ; v|estropear:4SIL_PAS1:3S:1C_ARG1'REL-CLI1-VER-CIRC-INI_305_4SIL:eztopeó .</a>
+    <a type="extension" flavor="phon">$SUS ; $SUS-FRON ; $SUS-FRON $OMI</a>
+  </u>
+  <u who="ANC" uID="u191">
+    <g><w>cómo</w>
+    <w>hace</w>
+    <w>la</w>
+    <w>serpiente</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u192">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap precedes"/></g>
+    <g><w>turtuga</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">turtuga=tortuga $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="ANC" uID="u193">
+    <w>quién</w>
+    <w>sabe</w>
+    <w>cómo</w>
+    <w>hace</w>
+    <w>la</w>
+    <w>serpiente</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DAV" uID="u194">
+    <w>aquí</w>
+    <g><w>eztoy</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">eztoy=estoy $PHO ;</a>
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:1S:1C_CIRC-VER_300_2SIL:eztoy .</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u195">
+    <w>hola</w>
+    <pause symbolic-length="simple"/>
+    <w>guapísimo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DAV" uID="u196">
+    <w>no</w>
+    <w>te</w>
+    <w>quiero</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|querer:2SIL_PRES:1S:2C_NEG-CLI2-VER_300_2SIL:quiero .</a>
+  </u>
+  <u who="ANC" uID="u197">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u198">
+    <w>no</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u199">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u200">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>no</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u201">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u202">
+    <w>no</w>
+    <t type="p"></t>
+
+    <a type="comments">DAV intenta coger el juguete</a>
+  </u>
+  <u who="ANC" uID="u203">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u204">
+    <g><w>mira</w><k type="retracing"/></g>
+    <w>mira</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|mirar:2SIL_IMP:2S:1C_VER_300_2SIL:mira .</a>
+    <a type="actions">le enseña el muñeco</a>
+  </u>
+  <u who="ANC" uID="u205">
+    <w>pero</w>
+    <w>ese</w>
+    <w>no</w>
+    <w>es</w>
+    <w>el</w>
+    <w>trato</w>
+    <w>que</w>
+    <w>habíamos</w>
+    <w>hecho</w>
+    <w>tú</w>
+    <w>y</w>
+    <w>yo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u206">
+    <w>lo</w>
+    <w>vamos</w>
+    <w>a</w>
+    <w>dejar</w>
+    <g><w>ahí</w><overlap type="overlap follows"/></g>
+    <w>para</w>
+    <w>después</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="DAV" uID="u207">
+    <g><w>no</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u208">
+    <w>no</w>
+    <t type="p"></t>
+
+    <a type="comments">ANC guarda otra vez el muñeco</a>
+  </u>
+  <u who="GUI" uID="u209">
+    <w>y</w>
+    <g><w>dezpuéz</w>
+    <w>jugamoz</w>
+    <w>con</w>
+    <w>ezo</w><error/><k type="retracing"/></g>
+    <pause symbolic-length="simple"/>
+    <g><w>dezpuéz</w>
+    <w>jugamoz</w>
+    <w>con</w>
+    <w>ezo</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">dezpuéz=después $PHO; jugamoz=jugamos $PHO; ezo=eso $PHO ;</a>
+    <a type="extension" flavor="mor">v|jugar:2SIL_PRES:1P:1C_ENL3-CIRC-VER-CIRC_305_3SIL:jugamoz .</a>
+    <a type="extension" flavor="phon">$SUS-FRON $SUS-FRON ; $SUS-FRON ; $SUS-FRON</a>
+  </u>
+  <u who="DAV" uID="u210">
+    <w>y</w>
+    <w>el</w>
+    <g><w>oto</w><error/></g>
+    <w>dónde</w>
+    <g><w>eztá</w><error/></g>
+    <t type="q"></t>
+
+    <a type="extension" flavor="par">oto=otro $PHO ; eztá=está $PHO ;</a>
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:3S:1C_ENL3-ARG1-CIRC'INT-VER_300_2SIL:eztá ?</a>
+    <a type="extension" flavor="phon">$OMI ; $SUS-FRON</a>
+  </u>
+  <u who="PIL" uID="u211">
+    <w>el</w>
+    <w>otro</w>
+    <w>lo</w>
+    <w>tiraste</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u212">
+    <w>dónde</w>
+    <w>están</w>
+    <w>las</w>
+    <w>manos</w>
+    <pause symbolic-length="simple"/>
+    <w>nuestras</w>
+    <w>manos</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <w>dónde</w>
+    <w>están</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u213">
+    <w>yo</w>
+    <pause symbolic-length="simple"/>
+    <g><w>laz</w>
+    <w>manoz</w>
+    <w>zon</w>
+    <w>malaz</w><error/><k type="best guess"/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">laz=las $PHO ; manoz=manos $PHO ; zon=son $PHO ; malaz=malas $PHO ;</a>
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3P:2C_ARG1-VER-PRED_305_1SIL:zon !</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS-FRON ; $SUS-FRON ; $SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u214">
+    <w>y</w>
+    <w>esta</w>
+    <w>mano</w>
+    <pause symbolic-length="simple"/>
+    <w>por</w>
+    <w>qué</w>
+    <w>es</w>
+    <w>verde</w>
+    <w>esta</w>
+    <w>mano</w>
+    <pause symbolic-length="simple"/>
+    <w>por</w>
+    <w>qué</w>
+    <w>es</w>
+    <w>verde</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DAV" uID="u215">
+    <w>mira</w>
+    <w>dónde</w>
+    <w>estaba</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|mirar:2SIL_IMP:2S:1C_VER-ARG2_300_2SIL:mira ; v|estar:2SIL_PAS2:3S:1C_CIRC'INT-VER_300_3SIL:estaba .</a>
+    <a type="actions">le enseña a ANC el otro juguete que acaba de encontrar en el suelo</a>
+  </u>
+  <u who="GUI" uID="u216">
+    <w>porque</w>
+    <w>echó</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|echar:2SIL_PAS1:3S:1C_ENL3-VER-INI_305_2SIL:echó .</a>
+  </u>
+  <u who="ANC" uID="u217">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>porque</w>
+    <w>tiene</w>
+    <w>un</w>
+    <w>guante</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u218">
+    <w>un</w>
+    <w>guante</w>
+    <w>de</w>
+    <w>color</w>
+    <w>verde</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="GUI" uID="u219">
+    <w>y</w>
+    <w>mi</w>
+    <w>mandilón</w>
+    <g><w>de</w>
+    <w>qué</w><k type="retracing with correction"/></g>
+    <pause symbolic-length="simple"/>
+    <g><w>de</w>
+    <w>qué</w>
+    <w>color</w>
+    <w>ez</w><error/><k type="retracing with correction"/></g>
+    <pause symbolic-length="simple"/>
+    <w>mi</w>
+    <w>mandilón</w>
+    <w>de</w>
+    <w>qué</w>
+    <w>color</w>
+    <g><w>ez</w><error/></g>
+    <t type="q"></t>
+
+    <a type="extension" flavor="par">ez=es $PHO ;</a>
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_ARG1-PRED'INT-VER_305_1SIL:ez ?</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u220">
+    <w>de</w>
+    <w>qué</w>
+    <w>color</w>
+    <w>es</w>
+    <w>tu</w>
+    <w>mandilón</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="GUI" uID="u221">
+    <g><w type="fragment">roj</w><k type="retracing with correction"/></g>
+    <w>azul</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u222">
+    <w>azul</w>
+    <pause symbolic-length="simple"/>
+    <w>de</w>
+    <w>cuadros</w>
+    <t type="p"></t>
+
+    <a type="comments">no está transcrito desde 17:13 hasta 17:53.</a>
+  </u>
+  <u who="DAV" uID="u223">
+    <w>me</w>
+    <g><w>dejaz</w><error/></g>
+    <w>ver</w>
+    <t type="q"></t>
+
+    <a type="extension" flavor="par">dejaz=dejas $PHO ;</a>
+    <a type="extension" flavor="mor">v|dejar:2SIL_PRES:2S:1C_CLI3-VER-ARG2_300_2SIL:dejaz ; v|ver:1SIL_INF:2C_VER_300_1SIL:ver ?</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u224">
+    <w>sí</w>
+    <pause symbolic-length="simple"/>
+    <w>pero</w>
+    <w>siéntate</w>
+    <w>ahí</w>
+    <pause symbolic-length="simple"/>
+    <w>tú</w>
+    <w>ves</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u225">
+    <w>no</w>
+    <w>veo</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|ver:1SIL_PRES:1S:2C_NEG-VER_300_2SIL:veo .</a>
+  </u>
+  <u who="DAV" uID="u226">
+    <w>yo</w>
+    <w>no</w>
+    <w>puedo</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|poder:2SIL_PRES:1S:2C_2SIL:puedo~v|ver:1SIL_INF:2C_ARG1-NEG-PER_300_1SIL:ver .</a>
+  </u>
+  <u who="ANC" uID="u227">
+    <w>claro</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u228">
+    <w>sentados</w>
+    <pause symbolic-length="simple"/>
+    <w>todos</w>
+    <w>sentados</w>
+    <t type="p"></t>
+
+    <a type="comments">se arma mucho barullo. No está transcrito desde 18:11 hasta 19:23.</a>
+  </u>
+  <u who="GUI" uID="u229">
+    <w>a</w>
+    <w>ver</w>
+    <w>a</w>
+    <w>quién</w>
+    <g><w>dizparaz</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">dizparaz=disparas $PHO ;</a>
+    <a type="extension" flavor="mor">v|disparar:3SIL_PRES:2S:1C_ARG3'INT-VER_305_3SIL:dizparaz .</a>
+    <a type="extension" flavor="phon">$SUS-FRON $SUS-FRON</a>
+    <a type="addressee">DAV</a>
+    <a type="actions">se levanta para hablar con DAV</a>
+  </u>
+  <u who="ANC" uID="u230">
+    <w>muy</w>
+    <w>bien</w>
+    <t type="p"></t>
+
+    <a type="comments">nos despedimos diciendo los nombres. No está transcrito desde 19:38 hasta 20:03.</a>
+  </u>
+  <u who="GUI" uID="u231">
+    <w>ahora</w>
+    <w>el</w>
+    <w>de</w>
+    <g><w>loz</w>
+    <w>colorez</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">loz=los $PHO; colorez=colores $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u232">
+    <w>ahora</w>
+    <w>vamos</w>
+    <w>a</w>
+    <w>decirle</w>
+    <w>a</w>
+    <w>Pili</w>
+    <w>el</w>
+    <w>nombre</w>
+    <w>de</w>
+    <w>todos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u233">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>yo</w>
+    <w>soy</w>
+    <w>Ana</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="GUI" uID="u234">
+    <w>y</w>
+    <w>yo</w>
+    <w>Guille</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u235">
+    <w>tú</w>
+    <w>Guille</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DAV" uID="u236">
+    <w>tengo</w>
+    <w>una</w>
+    <g><w>guitara</w><error/><k type="retracing with correction"/></g>
+    <pause symbolic-length="simple"/>
+    <w>yo</w>
+    <w>tengo</w>
+    <w>una</w>
+    <g><w>guitara</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">guitara=guitarra $PHO ;</a>
+    <a type="extension" flavor="mor">v|tener:2SIL_PRES:1S:2C_VER-ARG2_300_2SIL:tengo ; v|tener:2SIL_PRES:1S:2C_ARG1-VER-ARG2_300_2SIL:tengo .</a>
+    <a type="extension" flavor="phon">$SUS</a>
+    <a type="addressee">ANC</a>
+  </u>
+  <u who="ANC" uID="u237">
+    <w>una</w>
+    <w>guitarra</w>
+    <t type="q"></t>
+
+    <a type="actions">DAV afirma con la cabeza</a>
+  </u>
+  <u who="GUI" uID="u238">
+    <w>yo</w>
+    <w>tengo</w>
+    <pause symbolic-length="simple"/>
+    <w>una</w>
+    <g><w>jitara</w><error/></g>
+    <w>que</w>
+    <w>me</w>
+    <w>la</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">jitara=guitarra $PHO ;</a>
+    <a type="extension" flavor="mor">v|tener:2SIL_PRES:1S:2C_ARG1-VER-ARG2_305_2SIL:tengo .</a>
+    <a type="extension" flavor="phon">$SUS-FRIC $SUS</a>
+  </u>
+  <u who="DAV" uID="u239">
+    <w>yo</w>
+    <w>tengo</w>
+    <g><w>doz</w>
+    <w>guitaraz</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">doz=dos $PHO ; guitaraz=guitarras $PHO ;</a>
+    <a type="extension" flavor="mor">v|tener:2SIL_PRES:1S:2C_ARG1-VER-ARG2_300_2SIL:tengo .</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS $SUS-FRON</a>
+    <a type="addressee">ANC</a>
+  </u>
+  <u who="PIL" uID="u240">
+    <w>cómo</w>
+    <w>te</w>
+    <w>llamas</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DAV" uID="u241">
+    <w>David</w>
+    <w>Motero</w>
+    <w>Fenández</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u242">
+    <w>pero</w>
+    <w>tienes</w>
+    <w>que</w>
+    <w>ponerte</w>
+    <w>allí</w>
+    <w>hombre</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>no</w>
+    <w>te</w>
+    <w>veo</w>
+    <t type="p"></t>
+
+    <a type="comments">al final se mezclan las intervenciones de los informantes y los otros niños y no se han transcrito fragmentos.</a>
+  </u>
+</CHAT>

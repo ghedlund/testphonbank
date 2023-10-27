@@ -1,0 +1,1472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="TX-16" corpus="US2014_80" version="PB1.2">
+    <header>
+        <date>2022-10-10</date>
+        <language>eng</language>
+        <media>TX-16.wav</media>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>80</name>
+            <sex>female</sex>
+            <age>P11Y2M0DT0H0M0S</age>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="ARPABET Target" grouped="true"/>
+        <userTier tierName="ARPABET Actual" grouped="true"/>
+        <userTier tierName="responseCorrect" grouped="true"/>
+        <userTier tierName="responseTotal" grouped="true"/>
+        <userTier tierName="responseAve" grouped="true"/>
+        <userTier tierName="study" grouped="true"/>
+        <userTier tierName="phase" grouped="true"/>
+        <userTier tierName="session" grouped="true"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="false" locked="false" font="default"/>
+        <tier tierName="ARPABET Target" visible="true" locked="false" font="default"/>
+        <tier tierName="ARPABET Actual" visible="false" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="responseCorrect" visible="true" locked="false" font="default"/>
+        <tier tierName="responseTotal" visible="true" locked="false" font="default"/>
+        <tier tierName="responseAve" visible="true" locked="false" font="default"/>
+        <tier tierName="study" visible="true" locked="false" font="default"/>
+        <tier tierName="phase" visible="true" locked="false" font="default"/>
+        <tier tierName="session" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <u speaker="CHI" id="297e4726-0367-460e-b5a0-74ebcea7dca4" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>car</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈkɑ͡ɚ</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2 3 4" scType="N" hiatus="true"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="2">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="110.0" duration="914.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>0.666666667</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>2</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>K</w>
+                    <w>AA1</w>
+                    <w>R</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="6253865d-1979-4f31-963e-08df094f33aa" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>core</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈkɔ͡ɚ</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2 3 4" scType="N" hiatus="true"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="2">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="1144.0" duration="820.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>1.0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>K</w>
+                    <w>AO1</w>
+                    <w>R</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="d3746edd-ef27-43ee-a3f3-d99bbf8065a0" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>deer</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈdɪ͡ɚ</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2 3 4" scType="N" hiatus="true"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="2">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="2084.0" duration="844.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>1.0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>D</w>
+                    <w>IH1</w>
+                    <w>R</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="68ae7f0f-8e93-486d-9927-618fb0234cdb" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>door</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈdɔ͡ɚ</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2 3 4" scType="N" hiatus="true"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="2">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="3048.0" duration="819.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>1.0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>D</w>
+                    <w>AO1</w>
+                    <w>R</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="2ff0eb76-3d10-4a7b-bbb3-d3e0018f4c0d" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>fear</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈfɪ͡ɚ</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2 3 4" scType="N" hiatus="true"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="2">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="3987.0" duration="1057.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>1.0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>F</w>
+                    <w>IH1</w>
+                    <w>R</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="c3e5097e-7b08-4cd4-8c9d-663d91a9f85f" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>four</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈfɔ͡ɚ</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2 3 4" scType="N" hiatus="true"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="2">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="5164.0" duration="844.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>1.0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>F</w>
+                    <w>AO1</w>
+                    <w>R</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="7c10cc2e-6020-4ab9-a6dd-cfb3b74144b7" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>friend</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈfɹɛnd</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="O"/>
+                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="4" scType="C"/>
+                        <ph indexes="5" scType="C"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="5">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="6128.0" duration="914.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>0.0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>F</w>
+                    <w>R</w>
+                    <w>EH1</w>
+                    <w>N</w>
+                    <w>D</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="ac002da4-a89b-4210-bbeb-6b10dd63b8c3" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>fries</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈfɹa͡ɪz</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="O"/>
+                        <ph indexes="3 4 5" scType="N" hiatus="true"/>
+                        <ph indexes="6" scType="C"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="4">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="7162.0" duration="1105.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>0.0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>F</w>
+                    <w>R</w>
+                    <w>AY1</w>
+                    <w>Z</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="41f826f7-be00-49a0-beb4-eabd5bbdc3aa" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>frog</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈfɹɑg</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="O"/>
+                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="4" scType="C"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="4">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="8387.0" duration="843.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>0.333333333</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>1</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>F</w>
+                    <w>R</w>
+                    <w>AA1</w>
+                    <w>G</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="b085ac96-ead8-4222-ade4-fdab49de2626" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>fruit</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈfɹut</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="O"/>
+                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="4" scType="C"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="4">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="9350.0" duration="702.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>1.0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>F</w>
+                    <w>R</w>
+                    <w>UW1</w>
+                    <w>T</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="f6db4f98-ce8f-48e5-8e6d-59f0f39bf88a" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>her</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈhɝ</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="2">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="10172.0" duration="985.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>1.0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>HH</w>
+                    <w>ER1</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="05836b6f-db18-43fd-a1e5-07d7062bade4" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>pear</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈpɛ͡ɚ</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2 3 4" scType="N" hiatus="true"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="2">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="11277.0" duration="773.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>1.0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>4</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>4</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>P</w>
+                    <w>EH1</w>
+                    <w>R</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="cacf25bf-4e3c-43fd-8a51-60dfbd51d383" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>purr</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈpɝ</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="2">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="12170.0" duration="986.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>1.0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>P</w>
+                    <w>ER1</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="bcd85ea3-5e2a-4d27-a2b7-3ef5dd51e5a2" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>rain</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈɹen</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="3" scType="C"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="3">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="13276.0" duration="819.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>0.0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>R</w>
+                    <w>EY1</w>
+                    <w>N</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="70f665bd-9162-4cad-a702-649816d559f0" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>red</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈɹɛd</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="3" scType="C"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="3">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="14215.0" duration="536.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>0.0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>R</w>
+                    <w>EH1</w>
+                    <w>D</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="9d1d3b2e-a435-48e7-a9b7-d89ef7729caf" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>rock</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈɹɑk</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="3" scType="C"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="3">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="14871.0" duration="867.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>0.0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>R</w>
+                    <w>AA1</w>
+                    <w>K</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="a2fbd1da-b6f6-4d14-bd83-b567be625928" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>root</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈɹut</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="3" scType="C"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="3">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="15858.0" duration="796.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>0.25</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>1</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>4</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>R</w>
+                    <w>UW1</w>
+                    <w>T</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="eb857184-0a4e-43a3-9fd9-08f972987d7a" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>row</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈɹo</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="2">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="16774.0" duration="725.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>0.0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>R</w>
+                    <w>OW1</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="37bfbafb-6988-4d23-9b4e-dee8cf81370b" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>shower</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈʃa͡ʊɚ</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2 3 4" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="N" hiatus="true"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="3">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="17619.0" duration="1247.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>1.0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>4</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>4</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>SH</w>
+                    <w>AW1</w>
+                    <w>ER0</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="87d66d3c-fe5a-43b4-b8f4-a48a0b494e09" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>sir</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈsɝ</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="2">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                </ag>
+            </alignment>
+            <segment startTime="18986.0" duration="962.0" unitType="ms"/>
+            <groupTier tierName="phase">
+                <tg>
+                    <w>TX</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseAve">
+                <tg>
+                    <w>1.0</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Actual">
+                <tg/>
+            </groupTier>
+            <groupTier tierName="study">
+                <tg>
+                    <w>US2014</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="session">
+                <tg>
+                    <w>16</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseCorrect">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="responseTotal">
+                <tg>
+                    <w>3</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="ARPABET Target">
+                <tg>
+                    <w>S</w>
+                    <w>ER1</w>
+                </tg>
+            </groupTier>
+        </u>
+    </transcript>
+</session>

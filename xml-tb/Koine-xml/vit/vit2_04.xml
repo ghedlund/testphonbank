@@ -1,0 +1,4167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="vit2_04" Mediatypes="audio"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/a-00009174-1"
+      Version="2.20.0"
+      Lang="spa glg"
+      Corpus="Koine"
+      Date="1998-11-20"
+      >
+  <Participants>
+    <participant
+      id="IRE"
+    name="Irene"
+      role="Target_Child"
+      language="spa glg"
+      age="P2Y02M17D"
+      sex="female"
+      group="Vite"
+
+    />
+    <participant
+      id="TAT"
+    name="Tatiana"
+      role="Target_Child"
+      language="spa glg"
+      age="P2Y03M26D"
+      sex="female"
+      group="Vite"
+
+    />
+    <participant
+      id="XAC"
+    name="Xacobo"
+      role="Target_Child"
+      language="spa glg"
+      age="P2Y05M24D"
+      sex="male"
+      group="Vite"
+
+    />
+    <participant
+      id="JOR"
+    name="Jorge"
+      role="Target_Child"
+      language="spa glg"
+      age="P2Y00M20D"
+      sex="male"
+      group="Vite"
+
+    />
+    <participant
+      id="PIL"
+    name="Pilar"
+      role="Investigator"
+      language="spa glg"
+      sex="female"
+      group="Vite"
+
+    />
+  </Participants>
+  <comment type="Generic">ISA</comment>
+  <comment type="Location">Santiago de Compostela</comment>
+  <comment type="Situation">escuela infantil</comment>
+  <comment type="Activities">comentario de cartas y dibujos</comment>
+  <comment type="Generic">2.4</comment>
+  <comment type="Generic">syllabifier: spa, tier: IPA Actual</comment>
+  <comment type="Generic">syllabifier: spa, tier: IPA Target</comment>
+  <comment type="Date">20-NOV-1998</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="PIL" uID="u0">
+    <w>en</w>
+    <w>la</w>
+    <w>piscina</w>
+    <w>te</w>
+    <w>sacaron</w>
+    <w>una</w>
+    <w>foto</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="TAT" uID="u1">
+    <w>sí</w>
+    <t type="p"></t>
+
+    <a type="comments">la respuesta es casi imperceptible</a>
+  </u>
+  <u who="PIL" uID="u2">
+    <w>y</w>
+    <w>qué</w>
+    <w>estabas</w>
+    <w>haciendo</w>
+    <w>tú</w>
+    <w>en</w>
+    <w>la</w>
+    <w>piscina</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u3">
+    <pg><w>yo</w><actual><pw><ss type="1"/><ph id="ph0">ʤ</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʤ</ph><ph id="ph1">o</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="7.500"
+      end="8.100"
+      unit="s"
+    />
+    <a type="actions">señalando su pecho con la mano</a>
+  </u>
+  <u who="PIL" uID="u4">
+    <w>quen</w>
+    <w>estaba</w>
+    <w>na</w>
+    <w>piscina</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="IRE" uID="u5">
+    <w>y</w>
+    <w>yo</w>
+    <t type="e"></t>
+
+    <a type="actions">señalando su pecho con la mano</a>
+  </u>
+  <u who="PIL" uID="u6">
+    <w>estabas</w>
+    <w>na</w>
+    <w>piscina</w>
+    <w>ti</w>
+    <w>tamén</w>
+    <t type="q"></t>
+
+    <a type="addressee">IRE</a>
+  </u>
+  <u who="PIL" uID="u7">
+    <w>que</w>
+    <w>facíades</w>
+    <w>na</w>
+    <w>piscina</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="IRE" uID="u8">
+    <g><w>a</w>
+    <w>nadá</w><k type="retracing with correction"/></g>
+    <w>fui</w>
+    <w>a</w>
+    <g><w>nada</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">nadá=nadar $PHO ;</a>
+    <a type="extension" flavor="mor">v|ir:1SIL_PAS1:1S:3C_VER-CIRC_202_1SIL:fui ; v|nadar:2SIL_INF:1C_ENL1-VER_202_2SIL:nadá .</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="PIL" uID="u9">
+    <w>a</w>
+    <w>nadar</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="IRE" uID="u10">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u11">
+    <w>e</w>
+    <w>quen</w>
+    <w>máis</w>
+    <w>nada</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>quen</w>
+    <w>máis</w>
+    <w>nada</w>
+    <w>na</w>
+    <w>auga</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="IRE" uID="u12">
+    <g><w>este</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">este=esta $AGR ;</a>
+    <a type="addressee">TAT</a>
+    <a type="actions">se gira hacia TAT y le toca el brazo</a>
+  </u>
+  <u who="PIL" uID="u13">
+    <w>Tatiana</w>
+    <w>nada</w>
+    <w>tamén</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="TAT" uID="u14">
+    <w>sí</w>
+    <t type="p"></t>
+
+    <a type="comments">la respuesta es casi imperceptible</a>
+  </u>
+  <u who="PIL" uID="u15">
+    <w>pero</w>
+    <w>quen</w>
+    <w>está</w>
+    <w>na</w>
+    <w>auga</w>
+    <w>e</w>
+    <w>nada</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u16">
+    <w>quen</w>
+    <w>vive</w>
+    <pause symbolic-length="simple"/>
+    <w>quen</w>
+    <w>vive</w>
+    <w>na</w>
+    <w>auga</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u17">
+    <w>quen</w>
+    <w>vive</w>
+    <w>na</w>
+    <w>auga</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="TAT" uID="u18">
+    <g><w>y</w>
+    <w>nos</w>
+    <w>ponemos</w>
+    <w>unos</w>
+    <w>gorros</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|poner:2SIL_PRES:1P:2C_ENL3-CLI3-VER-ARG2_203_3SIL:ponemos .</a>
+    <a type="actions">toca su cabeza con la mano y hace el gesto de ponerse y quitarse un gorro</a>
+  </u>
+  <u who="XAC" uID="u19">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+    <a type="comments">su respuesta es ininteligible porque ha puesto la mano delante de la boca</a>
+  </u>
+  <u who="JOR" uID="u20">
+    <pg><w>avión</w><actual><pw><ph id="ph0">a</ph><ss type="1"/><ph id="ph1">β</ph><ph id="ph2">j</ph><ph id="ph3">o</ph><ph id="ph4">n</ph></pw></actual><model><pw><ph id="ph0">a</ph><ss type="1"/><ph id="ph1">β</ph><ph id="ph2">j</ph><ph id="ph3">o</ph><ph id="ph4">n</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="37.750"
+      end="38.600"
+      unit="s"
+    />
+  </u>
+  <u who="PIL" uID="u21">
+    <w>quen</w>
+    <pause symbolic-length="simple"/>
+    <w>quen</w>
+    <t type="q"></t>
+
+    <a type="addressee">XAC</a>
+  </u>
+  <u who="JOR" uID="u22">
+    <pg><w>avión</w><actual><pw><ph id="ph0">a</ph><ss type="1"/><ph id="ph1">β</ph><ph id="ph2">j</ph><ph id="ph3">o</ph><ph id="ph4">n</ph></pw></actual><model><pw><ph id="ph0">a</ph><ss type="1"/><ph id="ph1">β</ph><ph id="ph2">j</ph><ph id="ph3">o</ph><ph id="ph4">n</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="38.100"
+      end="40.700"
+      unit="s"
+    />
+    <a type="comments">vuelve a repetir la respuesta anterior aunque esta vez la pregunta no va dirigida a él</a>
+  </u>
+  <u who="XAC" uID="u23">
+    <w>un</w>
+    <g><w>bexo</w><k type="best guess"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u24">
+    <w>un</w>
+    <w>peso</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u25">
+    <w>un</w>
+    <g><w>bexo</w><k type="best guess"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u26">
+    <w>un</w>
+    <w>peixe</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u27">
+    <w>no</w>
+    <pause symbolic-length="long"/>
+    <w>un</w>
+    <g><w>bexo</w><k type="best guess"/></g>
+    <t type="p"></t>
+
+    <a type="comments">sigue hablando con una mano delante de la boca</a>
+  </u>
+  <u who="PIL" uID="u28">
+    <w>un</w>
+    <w>beso</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u29">
+    <g><w>un</w>
+    <w>bexo</w><k type="best guess"/><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="TAT" uID="u30">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap precedes"/></g>
+    <w>lavando</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|lavar:2SIL_GER:1C_INI-VER-INI_203_3SIL:lavando .</a>
+  </u>
+  <u who="PIL" uID="u31">
+    <w>estás</w>
+    <w>lavando</w>
+    <t type="q"></t>
+
+    <a type="addressee">TAT</a>
+  </u>
+  <u who="PIL" uID="u32">
+    <w>que</w>
+    <w>estás</w>
+    <w>lavando</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="TAT" uID="u33">
+    <w>no</w>
+    <pause symbolic-length="long"/>
+    <w untranscribed="unintelligible">xxx</w>
+    <w>están</w>
+    <w>lavando</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:3P:1C_2SIL:están~v|lavar:2SIL_GER:1C_INI-PER-INI_203_3SIL:lavando .</a>
+    <a type="actions">al hablar se gira y con una mano indica la dirección en la que posiblemente está la piscina</a>
+    <a type="comments">habla muy bajito y con la otra mano en la boca</a>
+  </u>
+  <u who="PIL" uID="u34">
+    <w>la</w>
+    <w>están</w>
+    <w>lavando</w>
+    <w>la</w>
+    <w>piscina</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u35">
+    <w>y</w>
+    <w>dónde</w>
+    <w>está</w>
+    <w>la</w>
+    <w>piscina</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u36">
+    <pg><w>allí</w><actual><pw><ph id="ph0">a</ph><ss type="1"/><ph id="ph1">ʎ</ph><ph id="ph2">i</ph></pw></actual><model><pw><ph id="ph0">a</ph><ss type="1"/><ph id="ph1">ʎ</ph><ph id="ph2">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="57.773"
+      end="58.170"
+      unit="s"
+    />
+    <a type="actions">señala con la mano en la dirección en la que está la piscina</a>
+  </u>
+  <u who="PIL" uID="u37">
+    <w>ah</w>
+    <pause symbolic-length="long"/>
+    <w>está</w>
+    <w>por</w>
+    <w>allí</w>
+    <t type="p"></t>
+
+    <a type="actions">ella también señala en esa dirección</a>
+  </u>
+  <u who="PIL" uID="u38">
+    <w>xogamos</w>
+    <w>logo</w>
+    <w>un</w>
+    <w>pouco</w>
+    <w>a</w>
+    <w>esto</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u39">
+    <w>quen</w>
+    <w>está</w>
+    <w>de</w>
+    <w>cumpleanos</w>
+    <w>hoxe</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u40">
+    <g><w>yo</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+    <a type="actions">levantando una mano</a>
+  </u>
+  <u who="IRE" uID="u41">
+    <g><w>yo</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+    <a type="actions">señalando su pecho con la mano</a>
+  </u>
+  <u who="PIL" uID="u42">
+    <w>si</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u43">
+    <w>e</w>
+    <w>cantos</w>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="PIL" uID="u44">
+    <w>pero</w>
+    <w>temos</w>
+    <w>que</w>
+    <w>estar</w>
+    <w>alí</w>
+    <w>sentadiños</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <pause symbolic-length="simple"/>
+    <w>temos</w>
+    <w>que</w>
+    <w>estar</w>
+    <w>ben</w>
+    <w>sentadiños</w>
+    <w>na</w>
+    <w>silliña</w>
+    <pause symbolic-length="simple"/>
+    <w>senón</w>
+    <w>non</w>
+    <w>podemos</w>
+    <w>xogar</w>
+    <t type="p"></t>
+
+    <a type="addressee">IRE</a>
+    <a type="actions">la niña se ha acercado a PIL para mirar el juego</a>
+  </u>
+  <u who="PIL" uID="u45">
+    <w>e</w>
+    <w>que</w>
+    <w>facedes</w>
+    <w>no</w>
+    <w>cumpleanos</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u46">
+    <w>como</w>
+    <w>cantades</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="IRE" uID="u47">
+    <g><w>tano</w><error/></g>
+    <pause symbolic-length="simple"/>
+    <g><w>tano</w><error/></g>
+    <g><w>telí</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">tano=cumpleaños $PHO ; tano=cumpleaños $PHO ; telí=feliz $PHO ;</a>
+    <a type="extension" flavor="phon">$PML ; $PML ; $SUS $OMI</a>
+    <a type="actions">lo dice cantando y al terminar la canción sopla</a>
+  </u>
+  <u who="PIL" uID="u48">
+    <linker type="lazy overlap mark"/>
+    <w>cumplea<shortening>ños</shortening></w>
+    <t type="interruption"></t>
+
+    <a type="actions">ella también lo ha dicho cantando</a>
+  </u>
+  <u who="PIL" uID="u49">
+    <w>e</w>
+    <w>soplades</w>
+    <pause symbolic-length="long"/>
+    <w>muy</w>
+    <w>fuerte</w>
+    <pause symbolic-length="simple"/>
+    <w>muy</w>
+    <w>fuerte</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u50">
+    <w>a</w>
+    <w>ver</w>
+    <w>como</w>
+    <w>soplamos</w>
+    <w>muy</w>
+    <w>fuerte</w>
+    <t type="p"></t>
+
+    <a type="comments">IRE sopla y PIL le responde soplando más fuerte; IRE se ríe</a>
+  </u>
+  <u who="PIL" uID="u51">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>vamos</w>
+    <w>xogar</w>
+    <pause symbolic-length="long"/>
+    <w>a</w>
+    <w>ver</w>
+    <w>un</w>
+    <w>libro</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u52">
+    <w>e</w>
+    <w>despois</w>
+    <w>xogamos</w>
+    <w>ás</w>
+    <w>cartas</w>
+    <pause symbolic-length="simple"/>
+    <w>vale</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u53">
+    <w>a</w>
+    <w>ver</w>
+    <w>que</w>
+    <w>temos</w>
+    <w>por</w>
+    <w>aquí</w>
+    <t type="p"></t>
+
+    <a type="actions">está buscando una página en el libro</a>
+  </u>
+  <u who="PIL" uID="u54">
+    <w>ah</w>
+    <pause symbolic-length="long"/>
+    <w>que</w>
+    <w>é</w>
+    <w>isto</w>
+    <t type="q"></t>
+
+    <a type="comments">lo pregunta con mucho interés</a>
+  </u>
+  <u who="TAT" uID="u55">
+    <w>una</w>
+    <g><w>casa</w><k type="best guess"/></g>
+    <t type="p"></t>
+
+    <a type="comments">no ha pronunciado con claridad el sonido consonántico fricativo</a>
+  </u>
+  <u who="PIL" uID="u56">
+    <w>e</w>
+    <w>que</w>
+    <w>bota</w>
+    <w>por</w>
+    <w>aquí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u57">
+    <pg><w>quen</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph><ph id="ph2">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph><ph id="ph2">n</ph></pw></model></pg>
+    <pg><w>este</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">t</ph><ph id="ph2">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="q"></t>
+    <media
+      start="105.750"
+      end="106.875"
+      unit="s"
+    />
+    <a type="extension" flavor="par">quen=quién $PHO ; ete=es este $PHO ;</a>
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_ARG1'INT-VER-PRED_200_1SIL:e ?</a>
+    <a type="extension" flavor="phon">$OMI ; $OMI</a>
+    <a type="actions">señalando con el dedo un objeto del dibujo</a>
+    <a type="comments">pregunta por una cosa como si se tratase de una persona</a>
+  </u>
+  <u who="PIL" uID="u58">
+    <w>que</w>
+    <w>hai</w>
+    <w>aquí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u59">
+    <w>que</w>
+    <w>é</w>
+    <w>esto</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u60">
+    <w>tes</w>
+    <w>que</w>
+    <w>sentarte</w>
+    <w>ben</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <pause symbolic-length="simple"/>
+    <w>Jorge</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="TAT" uID="u61">
+    <w>una</w>
+    <w>ventana</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u62">
+    <w>unha</w>
+    <w>ventana</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u63">
+    <w>e</w>
+    <w>sabedes</w>
+    <w>quen</w>
+    <w>vive</w>
+    <w>aquí</w>
+    <w>dentro</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u64">
+    <w>un</w>
+    <w>señor</w>
+    <g><w>muy</w>
+    <w>malo</w><k type="retracing"/></g>
+    <w>muy</w>
+    <w>malo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u65">
+    <w>e</w>
+    <w>cando</w>
+    <w>lle</w>
+    <w>petas</w>
+    <w>na</w>
+    <w>porta</w>
+    <w>sae</w>
+    <w>dicindo</w>
+    <t type="quotation next line"></t>
+
+  </u>
+  <u who="PIL" uID="u66">
+    <linker type="quoted utterance next"/>
+    <w>vouche</w>
+    <w>dar</w>
+    <pause symbolic-length="long"/>
+    <w>vouche</w>
+    <w>pegar</w>
+    <t type="p"></t>
+
+    <a type="comments">habla con tono de misterio</a>
+  </u>
+  <u who="PIL" uID="u67">
+    <w>e</w>
+    <w>entonces</w>
+    <w>temos</w>
+    <w>a</w>
+    <w>porta</w>
+    <w>cerrada</w>
+    <pause symbolic-length="simple"/>
+    <w>porque</w>
+    <w>senón</w>
+    <w>sae</w>
+    <w>o</w>
+    <w>señor</w>
+    <pause symbolic-length="simple"/>
+    <w>e</w>
+    <w>menuda</w>
+    <w>a</w>
+    <w>que</w>
+    <w>nos</w>
+    <w>arma</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <pause symbolic-length="simple"/>
+    <w>madre</w>
+    <w>mía</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u68">
+    <w>e</w>
+    <w>que</w>
+    <w>fai</w>
+    <pause symbolic-length="simple"/>
+    <w>sol</w>
+    <pause symbolic-length="simple"/>
+    <w>ou</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <pause symbolic-length="simple"/>
+    <w>é</w>
+    <w>de</w>
+    <w>noite</w>
+    <pause symbolic-length="simple"/>
+    <w>ou</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>día</w>
+    <w>fai</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u69">
+    <pg><w>quién</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">n</ph></pw></model></pg>
+    <pg><w>este</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">t</ph><ph id="ph2">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="q"></t>
+    <media
+      start="138.234"
+      end="139.800"
+      unit="s"
+    />
+    <a type="extension" flavor="par">quen=quién $PHO ; ete=es este $PHO ;</a>
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_ARG1'INT-VER-PRED_200_1SIL:e ?</a>
+    <a type="extension" flavor="phon">$OMI ; $OMI</a>
+    <a type="actions">señalando con el dedo un objeto del dibujo</a>
+    <a type="comments">vuelve a cometer el error de preguntar por una cosa como si se tratase de una persona</a>
+  </u>
+  <u who="PIL" uID="u70">
+    <w>que</w>
+    <w>é</w>
+    <w>esto</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u71">
+    <w>temos</w>
+    <w>que</w>
+    <g><w>serrale</w><error/></g>
+    <g><w>la</w>
+    <w>puerta</w><overlap type="overlap follows"/></g>
+    <g><w>se</w><error/></g>
+    <w>no</w>
+    <w>sale</w>
+    <w>el</w>
+    <w>señor</w>
+    <w>malo</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">serrale=cerrarle $PHO ; se=si $PHO ;</a>
+    <a type="extension" flavor="mor">v|tener:2SIL_PRES:1P:2C_2SIL:temos~v|cerrar:2SIL_INF:1C_PER-CLI3-ARG2_205_2SIL:serra ; v|salir:2SIL_PRES:3S:3C_ENL2-NEG-VER-ARG1_205_2SIL:sale .</a>
+    <a type="extension" flavor="phon">$SUS $OMI ; $SUS</a>
+  </u>
+  <u who="IRE" uID="u72">
+    <g><w>tol</w><error/><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">tol=sol $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+    <a type="actions">señalando el sol del dibujo</a>
+  </u>
+  <u who="PIL" uID="u73">
+    <w>si</w>
+    <w>sale</w>
+    <w>el</w>
+    <w>señor</w>
+    <w>malo</w>
+    <w>a</w>
+    <w>la</w>
+    <w>puerta</w>
+    <pause symbolic-length="simple"/>
+    <w>dios</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PIL" uID="u74">
+    <w>pero</w>
+    <w>ten</w>
+    <w>a</w>
+    <w>porta</w>
+    <w>cerrada</w>
+    <pause symbolic-length="simple"/>
+    <w>entonces</w>
+    <w>non</w>
+    <w>sae</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u75">
+    <w>qué</w>
+    <w>es</w>
+    <w>esto</w>
+    <t type="q"></t>
+
+    <a type="actions">señalando un objeto del dibujo</a>
+  </u>
+  <u who="JOR" uID="u76">
+    <pg><w>sol</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">o</ph><ph id="ph2">l</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">o</ph><ph id="ph2">l</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="151.900"
+      end="152.750"
+      unit="s"
+    />
+  </u>
+  <u who="PIL" uID="u77">
+    <g><w>é</w>
+    <w>sol</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="IRE" uID="u78">
+    <g><w>tol</w><error/><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">tol=sol $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="PIL" uID="u79">
+    <w>y</w>
+    <w>hoy</w>
+    <g><w>hace</w>
+    <w>sol</w><k type="retracing"/></g>
+    <w>hace</w>
+    <w>sol</w>
+    <t type="q"></t>
+
+    <a type="actions">mira hacia la ventana</a>
+  </u>
+  <u who="TAT" uID="u80">
+    <g><w>lueve</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">lueve=llueve $PHO ;</a>
+    <a type="extension" flavor="mor">v|llover:2SIL_PRES:3S:2C_VER_203_2SIL:lueve .</a>
+    <a type="extension" flavor="phon">$SUS</a>
+    <a type="actions">ha mirado hacia la ventana antes de contestar</a>
+  </u>
+  <u who="PIL" uID="u81">
+    <w>llueve</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u82">
+    <w>hoy</w>
+    <w>no</w>
+    <w>hace</w>
+    <w>sol</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="JOR" uID="u83">
+    <pg><w>quién</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">n</ph></pw></model></pg>
+    <pg><w>este</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">t</ph><ph id="ph2">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="q"></t>
+    <media
+      start="158.650"
+      end="159.750"
+      unit="s"
+    />
+    <a type="extension" flavor="par">quen=quién $PHO ; ete=es este $PHO ;</a>
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_ARG1'INT-VER-PRED_200_1SIL:e ?</a>
+    <a type="extension" flavor="phon">$OMI ; $OMI</a>
+    <a type="actions">señalando un objeto del dibujo</a>
+    <a type="comments">sigue preguntando por una cosa como si se tratase de una persona</a>
+  </u>
+  <u who="XAC" uID="u84">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>me</w>
+    <w>mojó</w>
+    <w>las</w>
+    <g><w>pelnas</w><error/></g>
+    <pause symbolic-length="long"/>
+    <w>y</w>
+    <w>ahora</w>
+    <w>tengo</w>
+    <w>que</w>
+    <w>ir</w>
+    <w>con</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">pelnas=pernas $PHO ;</a>
+    <a type="extension" flavor="mor">v|mojar:2SIL_PAS1:3S:1C_INI-CLI3-VER-ARG2_205_2SIL:mojó ; v|tener:2SIL_PRES:1S:2C_2SIL:tengo~v|ir:1SIL_INF:3C_ENL2-CIRC-PER-CIRC_205_1SIL:ir .</a>
+    <a type="extension" flavor="phon">$SUS</a>
+    <a type="actions">al hablar levanta una pierna y la señala con la mano</a>
+  </u>
+  <u who="PIL" uID="u85">
+    <w>mollaches</w>
+    <w>as</w>
+    <w>pernas</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u86">
+    <w>sí</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>ahora</w>
+    <w>tengo</w>
+    <w>que</w>
+    <w>ir</w>
+    <w>con</w>
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|tener:2SIL_PRES:1S:2C_2SIL:tengo~v|ir:1SIL_INF:3C_ENL3-CIRC-PER-CIRC_205_1SIL:ir .</a>
+  </u>
+  <u who="JOR" uID="u87">
+    <pg><w>el</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">l</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">l</ph></pw></model></pg>
+    <pg><w>señor</w><actual><pw><ph id="ph0">s</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">ɲ</ph><ph id="ph3">o</ph><ph id="ph4">ɾ</ph></pw></actual><model><pw><ph id="ph0">s</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">ɲ</ph><ph id="ph3">o</ph><ph id="ph4">ɾ</ph></pw></model></pg>
+    <pg><w>malo</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">l</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">l</ph><ph id="ph3">o</ph></pw></model></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual><model><pw><ph id="ph0">*</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="171.700"
+      end="175.830"
+      unit="s"
+    />
+  </u>
+  <u who="IRE" uID="u88">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="actions">se levanta y con las manos se toca la cabeza y señala hacia delante</a>
+  </u>
+  <u who="PIL" uID="u89">
+    <w>dios</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PIL" uID="u90">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>esto</w>
+    <w>que</w>
+    <w>é</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u91">
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>bus</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">u</ph><ph id="ph2">s</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">u</ph><ph id="ph2">s</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="181.555"
+      end="183.100"
+      unit="s"
+    />
+  </u>
+  <u who="PIL" uID="u92">
+    <w>un</w>
+    <w>autobús</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PIL" uID="u93">
+    <w>quen</w>
+    <w>vai</w>
+    <w>no</w>
+    <w>autobús</w>
+    <w>ó</w>
+    <w>cole</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="IRE" uID="u94">
+    <g><w>adió</w><error/></g>
+    <g><w>bu</w><error/></g>
+    <pause symbolic-length="simple"/>
+    <w untranscribed="unintelligible">xxx</w>
+    <pause symbolic-length="simple"/>
+    <g><w>adió</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">adió=adiós $PHO ; bu=bus $PHO ; adió=adiós $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI ; $OMI ; $OMI</a>
+    <a type="actions">saluda con la mano imitando a una persona que se despide de otra que se va en autobús</a>
+  </u>
+  <u who="PIL" uID="u95">
+    <w>adiós</w>
+    <pause symbolic-length="simple"/>
+    <w>adiós</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>nos</w>
+    <w>vamos</w>
+    <w>en</w>
+    <w>autobús</w>
+    <t type="p"></t>
+
+    <a type="actions">ella también saluda con la mano</a>
+  </u>
+  <u who="PIL" uID="u96">
+    <w>a</w>
+    <w>dónde</w>
+    <w>vamos</w>
+    <w>en</w>
+    <w>autobús</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u97">
+    <pg><w>yo</w><actual><pw><ss type="1"/><ph id="ph0">ʤ</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʤ</ph><ph id="ph1">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="192.350"
+      end="193.200"
+      unit="s"
+    />
+    <a type="actions">señala su pecho con la mano</a>
+  </u>
+  <u who="PIL" uID="u98">
+    <w>en</w>
+    <w>que</w>
+    <t type="q"></t>
+
+    <a type="addressee">JOR</a>
+  </u>
+  <u who="JOR" uID="u99">
+    <pg><w>yo</w><actual><pw><ss type="1"/><ph id="ph0">ʤ</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʤ</ph><ph id="ph1">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="194.000"
+      end="195.055"
+      unit="s"
+    />
+  </u>
+  <u who="PIL" uID="u100">
+    <w>a</w>
+    <w>dónde</w>
+    <w>vas</w>
+    <t type="q"></t>
+
+    <a type="addressee">JOR</a>
+  </u>
+  <u who="JOR" uID="u101">
+    <pg><w>auto</w><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">w</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">w</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="195.921"
+      end="198.500"
+      unit="s"
+    />
+    <a type="extension" flavor="par">autobú=autobús $PHO;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="PIL" uID="u102">
+    <w>pero</w>
+    <w>no</w>
+    <w>autobús</w>
+    <w>a</w>
+    <w>onde</w>
+    <w>vades</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>onde</w>
+    <w>vades</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u103">
+    <w>tendes</w>
+    <w>que</w>
+    <w>ir</w>
+    <w>a</w>
+    <w>algunha</w>
+    <w>parte</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u104">
+    <w>séntate</w>
+    <w>ben</w>
+    <w>Jorge</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u105">
+    <w>séntate</w>
+    <w>ben</w>
+    <t type="p"></t>
+
+    <a type="addressee">JOR</a>
+    <a type="actions">se levanta para ayudar a sentar a JOR bien en su silla</a>
+  </u>
+  <u who="JOR" uID="u106">
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual><model><pw><ph id="ph0">*</ph></pw></model></pg>
+    <pg><w>puerta</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">ɾ</ph><ph id="ph4">t</ph><ph id="ph5">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">ɾ</ph><ph id="ph4">t</ph><ph id="ph5">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="206.200"
+      end="209.600"
+      unit="s"
+    />
+  </u>
+  <u who="JOR" uID="u107">
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual><model><pw><ph id="ph0">*</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="210.300"
+      end="212.325"
+      unit="s"
+    />
+  </u>
+  <u who="PIL" uID="u108">
+    <g><w>eu</w>
+    <w>vou</w>
+    <w>ó</w>
+    <w>colegio</w>
+    <w>en</w>
+    <w>autobús</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u109">
+    <w>vosoutros</w>
+    <w>en</w>
+    <w>que</w>
+    <w>vades</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="IRE" uID="u110">
+    <w>dando</w>
+    <w>vueltas</w>
+    <pause symbolic-length="long"/>
+    <w formType="onomatopoeia">pum</w>
+    <w formType="onomatopoeia">pum</w>
+    <w formType="onomatopoeia">pum</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|dar:1SIL_GER:1C_VER-ARG2_202_2SIL:dando .</a>
+    <a type="actions">acompaña las onomatopeyas de golpes en el aire con la mano; al terminar de hablar se ríe</a>
+  </u>
+  <u who="PIL" uID="u111">
+    <w>pum</w>
+    <w>pum</w>
+    <w>pum</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u112">
+    <w>de</w>
+    <w>que</w>
+    <w>color</w>
+    <w>é</w>
+    <w>este</w>
+    <w>autobús</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u113">
+    <pg><w>es</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>verde</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">e</ph><ph id="ph2">ð</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">e</ph><ph id="ph2">ɾ</ph><ph id="ph3">ð</ph><ph id="ph4">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="218.320"
+      end="219.720"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_VER-PRED_200_1SIL:é .</a>
+  </u>
+  <u who="PIL" uID="u114">
+    <w>verde</w>
+    <pause symbolic-length="long"/>
+    <w>no</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PIL" uID="u115">
+    <w>de</w>
+    <w>que</w>
+    <w>color</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u116">
+    <pg><w>aquí</w><actual><pw><ph id="ph0">a</ph><ss type="1"/><ph id="ph1">k</ph><ph id="ph2">i</ph></pw></actual><model><pw><ph id="ph0">a</ph><ss type="1"/><ph id="ph1">k</ph><ph id="ph2">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="223.300"
+      end="224.400"
+      unit="s"
+    />
+    <a type="actions">señala un objeto del dibujo</a>
+  </u>
+  <u who="PIL" uID="u117">
+    <w>ro</w>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="JOR" uID="u118">
+    <linker type="other completion"/>
+    <pg><w>jo</w><actual><pw><ss type="1"/><ph id="ph0">x</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">x</ph><ph id="ph1">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="225.800"
+      end="226.970"
+      unit="s"
+    />
+  </u>
+  <u who="PIL" uID="u119">
+    <w>muy</w>
+    <w>bien</w>
+    <t type="e"></t>
+
+    <a type="comments">al ver que la respuesta es correcta IRE aplaude</a>
+  </u>
+  <u who="PIL" uID="u120">
+    <w>oh</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>é</w>
+    <w>esto</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u121">
+    <w>coches</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u122">
+    <w>unhos</w>
+    <w>coches</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u123">
+    <w>este</w>
+    <w>de</w>
+    <w>quen</w>
+    <w>é</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u124">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>mío</w>
+    <t type="p"></t>
+
+    <a type="actions">señala su pecho con la mano</a>
+  </u>
+  <u who="PIL" uID="u125">
+    <w>ese</w>
+    <w>é</w>
+    <w>teu</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u126">
+    <w>e</w>
+    <w>este</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="IRE" uID="u127">
+    <w>mío</w>
+    <t type="e"></t>
+
+    <a type="actions">también señala su pecho con la mano</a>
+  </u>
+  <u who="PIL" uID="u128">
+    <w>e</w>
+    <w>este</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="TAT" uID="u129">
+    <w>mío</w>
+    <t type="p"></t>
+
+    <a type="comments">su respuesta es casi imperceptible</a>
+  </u>
+  <u who="PIL" uID="u130">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="XAC" uID="u131">
+    <linker type="lazy overlap mark"/>
+    <g><w>iaparino</w><k type="best guess"/><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">iaparino=amarillo $PHO ;</a>
+    <a type="extension" flavor="phon">$PML</a>
+    <a type="comments">ha dicho de que color es el coche que PIL estaba señalando</a>
+  </u>
+  <u who="PIL" uID="u132">
+    <w>este</w>
+    <w>de</w>
+    <w>que</w>
+    <w>color</w>
+    <w>é</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u133">
+    <w>verde</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u134">
+    <w>i</w>
+    <w>este</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="IRE" uID="u135">
+    <g><w>mío</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+    <a type="actions">señala su pecho con la mano</a>
+  </u>
+  <u who="XAC" uID="u136">
+    <g><w>rojo</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u137">
+    <w>i</w>
+    <w>este</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u138">
+    <g><w>iaparino</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">iaparino=amarillo $PHO ;</a>
+    <a type="extension" flavor="phon">$PML</a>
+  </u>
+  <u who="PIL" uID="u139">
+    <w>bueno</w>
+    <pause symbolic-length="simple"/>
+    <w>casi</w>
+    <w>parecido</w>
+    <pause symbolic-length="simple"/>
+    <w>casi</w>
+    <w>parecido</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u140">
+    <w>cambiamos</w>
+    <w>de</w>
+    <w>libro</w>
+    <pause symbolic-length="long"/>
+    <w>si</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u141">
+    <w>vemos</w>
+    <w>outro</w>
+    <w>libro</w>
+    <pause symbolic-length="long"/>
+    <w>si</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u142">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>vamos</w>
+    <w>xogar</w>
+    <w>as</w>
+    <w>cartas</w>
+    <pause symbolic-length="simple"/>
+    <w>mellor</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u143">
+    <w>vamos</w>
+    <w>hacer</w>
+    <w>un</w>
+    <w>juego</w>
+    <w>sorpresa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u144">
+    <w>ay</w>
+    <pause symbolic-length="simple"/>
+    <w>non</w>
+    <w>se</w>
+    <w>poden</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>non</w>
+    <w>se</w>
+    <w>poden</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u145">
+    <w>esto</w>
+    <w>ten</w>
+    <w>que</w>
+    <w>ser</w>
+    <w>así</w>
+    <pause symbolic-length="simple"/>
+    <w>escondido</w>
+    <pause symbolic-length="simple"/>
+    <w>escondido</w>
+    <t type="p"></t>
+
+    <a type="actions">PIL está seleccionando las cartas</a>
+  </u>
+  <u who="JOR" uID="u146">
+    <pg><w>juego</w><actual><pw><ss type="1"/><ph id="ph0">x</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">ɣ</ph><ph id="ph4">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">x</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">ɣ</ph><ph id="ph4">o</ph></pw></model></pg>
+    <pg><w>juego</w><actual><pw><ss type="1"/><ph id="ph0">x</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">ɣ</ph><ph id="ph4">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">x</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">ɣ</ph><ph id="ph4">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="273.650"
+      end="275.800"
+      unit="s"
+    />
+  </u>
+  <u who="PIL" uID="u147">
+    <w>ay</w>
+    <pause symbolic-length="simple"/>
+    <w>pero</w>
+    <w>espera</w>
+    <w>un</w>
+    <w>poquito</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>hay</w>
+    <w>que</w>
+    <w>esperar</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="IRE" uID="u148">
+    <w>a</w>
+    <w>ver</w>
+    <t type="q"></t>
+
+    <a type="addressee">PIL</a>
+    <a type="actions">IRE se ha levantado y se acerca a PIL para ver el juego</a>
+  </u>
+  <u who="PIL" uID="u149">
+    <w>tienes</w>
+    <w>que</w>
+    <w>estar</w>
+    <w>sentada</w>
+    <w>allí</w>
+    <pause symbolic-length="simple"/>
+    <w>sino</w>
+    <w>nada</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <t type="p"></t>
+
+    <a type="addressee">IRE</a>
+  </u>
+  <u who="PIL" uID="u150">
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u151">
+    <w>tes</w>
+    <w>que</w>
+    <w>sentarte</w>
+    <w>alí</w>
+    <t type="p"></t>
+
+    <a type="actions">IRE corre a sentarse</a>
+  </u>
+  <u who="PIL" uID="u152">
+    <w>como</w>
+    <w>se</w>
+    <w>chamaba</w>
+    <w>esta</w>
+    <w>nena</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>non</w>
+    <w>me</w>
+    <w>acordo</w>
+    <w>eu</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="TAT" uID="u153">
+    <g><w>Tatiana</w><k type="best guess"/></g>
+    <t type="p"></t>
+
+    <a type="comments">habla con un tono muy bajo lo que hace que sus respuestas sean casi imperceptibles</a>
+  </u>
+  <u who="PIL" uID="u154">
+    <w>non</w>
+    <pause symbolic-length="simple"/>
+    <w>ela</w>
+    <pause symbolic-length="simple"/>
+    <w>ela</w>
+    <t type="p"></t>
+
+    <a type="actions">señala a IRE</a>
+  </u>
+  <u who="TAT" uID="u155">
+    <g><w>Irene</w><k type="best guess"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u156">
+    <w>Irene</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u157">
+    <w>e</w>
+    <w>ti</w>
+    <t type="q"></t>
+
+    <a type="addressee">TAT</a>
+  </u>
+  <u who="TAT" uID="u158">
+    <g><w>Tatiana</w><k type="best guess"/></g>
+    <t type="p"></t>
+
+    <a type="comments">habla con un tono cada vez más bajo</a>
+  </u>
+  <u who="PIL" uID="u159">
+    <w>e</w>
+    <w>sabedes</w>
+    <w>como</w>
+    <w>se</w>
+    <w>chama</w>
+    <w>este</w>
+    <w>neno</w>
+    <t type="q"></t>
+
+    <a type="addressee">XAC</a>
+  </u>
+  <u who="XAC" uID="u160">
+    <g><w>Sacobo</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">Sacobo=Xacobo $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="PIL" uID="u161">
+    <w>Xacobo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u162">
+    <w>e</w>
+    <w>como</w>
+    <w>se</w>
+    <w>chama</w>
+    <w>este</w>
+    <t type="q"></t>
+
+    <a type="addressee">JOR</a>
+    <a type="actions">lo acaricia tocándole la barbilla</a>
+  </u>
+  <u who="JOR" uID="u163">
+    <pg><w>Jorge</w><actual><pw><ss type="1"/><ph id="ph0">x</ph><ph id="ph1">o</ph><ph id="ph2">x</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">x</ph><ph id="ph1">o</ph><ph id="ph2">ɾ</ph><ph id="ph3">x</ph><ph id="ph4">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="307.400"
+      end="308.545"
+      unit="s"
+    />
+  </u>
+  <u who="PIL" uID="u164">
+    <w>muy</w>
+    <w>bien</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u165">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">PIL da instrucciones sobre el juego: indica que va a repartir una carta a cada niño; ellos la mirarán, dirán qué hay en ella y después se la enseñarán a sus compañeros</a>
+  </u>
+  <u who="PIL" uID="u166">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>empeza</w>
+    <w>Xacobo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u167">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>tela</w>
+    <w>que</w>
+    <w>mirar</w>
+    <w>tu</w>
+    <w>sin</w>
+    <w>que</w>
+    <w>cha</w>
+    <w>veixa</w>
+    <w>naide</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <t type="p"></t>
+
+    <a type="actions">le entrega una carta a XAC</a>
+  </u>
+  <u who="PIL" uID="u168">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>levanta</w>
+    <w>a</w>
+    <w>carta</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u169">
+    <w>pero</w>
+    <w>sin</w>
+    <w>que</w>
+    <w>cha</w>
+    <w>veixa</w>
+    <w>naide</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u170">
+    <w>a</w>
+    <w>ver</w>
+    <w>qué</w>
+    <w>é</w>
+    <t type="p"></t>
+
+    <a type="actions">XAC está levantando a carta</a>
+  </u>
+  <u who="PIL" uID="u171">
+    <w>a</w>
+    <w>ver</w>
+    <w>si</w>
+    <w>sabes</w>
+    <w>o</w>
+    <w>qué</w>
+    <w>é</w>
+    <t type="p"></t>
+
+    <a type="actions">XAC ya miró la carta</a>
+  </u>
+  <u who="PIL" uID="u172">
+    <w>ala</w>
+    <pause symbolic-length="simple"/>
+    <w>agora</w>
+    <w>enseñánola</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u173">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>é</w>
+    <t type="q"></t>
+
+    <a type="actions">XAC le entrega la carta a PIL sin enseñársela a sus compañeros</a>
+  </u>
+  <u who="PIL" uID="u174">
+    <w>que</w>
+    <w>é</w>
+    <w>isto</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u175">
+    <w>una</w>
+    <w>gallina</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u176">
+    <w>una</w>
+    <w>gallina</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u177">
+    <w>muy</w>
+    <w>bien</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PIL" uID="u178">
+    <w>ganaste</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PIL" uID="u179">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="comments">las palabras de PIL no se entienden porque JOR ha tosido muy fuerte</a>
+  </u>
+  <u who="PIL" uID="u180">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>ahora</w>
+    <w>tócalle</w>
+    <pause symbolic-length="long"/>
+    <w>a</w>
+    <pause symbolic-length="simple"/>
+    <w>Irene</w>
+    <t type="p"></t>
+
+    <a type="actions">le entrega la carta a IRE</a>
+  </u>
+  <u who="PIL" uID="u181">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>tela</w>
+    <w>que</w>
+    <w>mirar</w>
+    <w>tu</w>
+    <pause symbolic-length="simple"/>
+    <w>primeiro</w>
+    <t type="p"></t>
+
+    <a type="actions">IRE mira la carta</a>
+  </u>
+  <u who="IRE" uID="u182">
+    <g><w>u</w><error/></g>
+    <g><w>yiyi</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">u=un $PHO ; yiyi=tigre $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI ; $PML</a>
+  </u>
+  <u who="PIL" uID="u183">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="IRE" uID="u184">
+    <g><w>u</w><error/></g>
+    <g><w>yiyi</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">u= un $PHO ; yiyi=tigre $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI ; $PML</a>
+  </u>
+  <u who="PIL" uID="u185">
+    <linker type="lazy overlap mark"/>
+    <w>enseñá<shortening>nola</shortening></w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="IRE" uID="u186">
+    <g><w>u</w><error/></g>
+    <g><w>yiyi</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">u=un $PHO ; yiyi=tigre $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI ; $PML</a>
+    <a type="actions">ha levantado la carta, pero no la gira hacia sus compañeros</a>
+  </u>
+  <u who="PIL" uID="u187">
+    <w>enseñánola</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="IRE" uID="u188">
+    <g><w>u</w><error/></g>
+    <g><w>yiyi</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">u=un $PHO ; yiyi=tigre $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI ; $PML</a>
+  </u>
+  <u who="PIL" uID="u189">
+    <w>pero</w>
+    <w>tésnola</w>
+    <w>que</w>
+    <w>enseñar</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u190">
+    <w>eu</w>
+    <w>non</w>
+    <w>a</w>
+    <w>vexo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="IRE" uID="u191">
+    <w>un</w>
+    <g><w>yiyi</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">yiyi=tigre $PHO ;</a>
+    <a type="extension" flavor="phon">$PML</a>
+    <a type="actions">se la ha enseñado a TAT, la compañera que está a su lado</a>
+  </u>
+  <u who="TAT" uID="u192">
+    <g><w>u</w>
+    <w>tigue</w><k type="retracing"/></g>
+    <g><w>u</w><error/></g>
+    <g><w>tigue</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">u=un $PHO ; tigue=tigre $PHO ; u=un $PHO ; tigue=tigre $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI ; $OMI</a>
+    <a type="actions">PIL le coge la carta y la mira</a>
+  </u>
+  <u who="PIL" uID="u193">
+    <w>un</w>
+    <w>tigre</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u194">
+    <w>oh</w>
+    <t type="e"></t>
+
+    <a type="actions">IRE aplaude</a>
+  </u>
+  <u who="PIL" uID="u195">
+    <w>muy</w>
+    <w>bien</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PIL" uID="u196">
+    <w>a</w>
+    <w>ver</w>
+    <w>ahora</w>
+    <w>que</w>
+    <w>lle</w>
+    <w>toca</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>lle</w>
+    <w>toca</w>
+    <w>a</w>
+    <pause symbolic-length="long"/>
+    <w>Jorge</w>
+    <t type="p"></t>
+
+    <a type="actions">le entrega una carta a JOR</a>
+  </u>
+  <u who="PIL" uID="u197">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="long"/>
+    <w>que</w>
+    <w>sorpresa</w>
+    <t type="p"></t>
+
+    <a type="actions">JOR mira la carta</a>
+    <a type="comments">lo dice muy bajito</a>
+  </u>
+  <u who="PIL" uID="u198">
+    <w>oh</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>é</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u199">
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>serpiente</w><actual><pw><ph id="ph0">ʧ</ph><ph id="ph1">i</ph><ph id="ph2">m</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph><ph id="ph7">t</ph><ph id="ph8">e</ph></pw></actual><model><pw><ph id="ph0">s</ph><ph id="ph1">e</ph><ph id="ph2">ɾ</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph><ph id="ph7">t</ph><ph id="ph8">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="377.700"
+      end="380.300"
+      unit="s"
+    />
+    <a type="extension" flavor="par">un=una $AGR ; chimpiente=serpiente $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI ; $PML</a>
+  </u>
+  <u who="PIL" uID="u200">
+    <w>un</w>
+    <w>que</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u201">
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>serpiente</w><actual><pw><ph id="ph0">ʧ</ph><ph id="ph1">i</ph><ph id="ph2">m</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph><ph id="ph7">t</ph><ph id="ph8">e</ph></pw></actual><model><pw><ph id="ph0">s</ph><ph id="ph1">e</ph><ph id="ph2">ɾ</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph><ph id="ph7">t</ph><ph id="ph8">e</ph></pw></model></pg>
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>serpiente</w><actual><pw><ph id="ph0">ʧ</ph><ph id="ph1">i</ph><ph id="ph2">m</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph><ph id="ph7">t</ph><ph id="ph8">e</ph></pw></actual><model><pw><ph id="ph0">s</ph><ph id="ph1">e</ph><ph id="ph2">ɾ</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph><ph id="ph7">t</ph><ph id="ph8">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="380.950"
+      end="384.340"
+      unit="s"
+    />
+    <a type="extension" flavor="par">un=una $AGR ; chimpiente=serpiente $PHO ; un=una $AGR ; chimpiente=serpiente $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI ; $PML</a>
+    <a type="actions">señala con su dedo el dibujo de la carta</a>
+  </u>
+  <u who="PIL" uID="u202">
+    <w>que</w>
+    <w>é</w>
+    <w>eso</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u203">
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>serpiente</w><actual><pw><ph id="ph0">ʧ</ph><ph id="ph1">i</ph><ph id="ph2">m</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph><ph id="ph7">t</ph><ph id="ph8">e</ph></pw></actual><model><pw><ph id="ph0">s</ph><ph id="ph1">e</ph><ph id="ph2">ɾ</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph><ph id="ph7">t</ph><ph id="ph8">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="384.620"
+      end="386.200"
+      unit="s"
+    />
+    <a type="extension" flavor="par">un=una $AGR ; chimpiente=serpiente $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI ; $PML</a>
+  </u>
+  <u who="PIL" uID="u204">
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+    <a type="actions">le coge la carta para mirarla</a>
+  </u>
+  <u who="PIL" uID="u205">
+    <w>tes</w>
+    <w>que</w>
+    <w>sentarte</w>
+    <w>alí</w>
+    <pause symbolic-length="simple"/>
+    <w>Irene</w>
+    <pause symbolic-length="long"/>
+    <w>senón</w>
+    <w>non</w>
+    <w>ves</w>
+    <w>a</w>
+    <w>carta</w>
+    <t type="p"></t>
+
+    <a type="addressee">IRE</a>
+    <a type="actions">IRE se ha levantado y se ha puesto de pie al lado de PIL</a>
+  </u>
+  <u who="PIL" uID="u206">
+    <w>séntate</w>
+    <w>alí</w>
+    <w>no</w>
+    <w>teu</w>
+    <w>sitiño</w>
+    <pause symbolic-length="simple"/>
+    <w>anda</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u207">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>Tatiana</w>
+    <pause symbolic-length="simple"/>
+    <w>ti</w>
+    <w>sabes</w>
+    <w>o</w>
+    <w>que</w>
+    <w>é</w>
+    <t type="q"></t>
+
+    <a type="actions">le enseña la carta a TAT</a>
+  </u>
+  <u who="IRE" uID="u208">
+    <g><w>tero</w>
+    <w>uno</w><k type="retracing"/></g>
+    <g><w>tero</w><error/></g>
+    <g><w>uno</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">tero=quiero $PHO ; uno=una $AGR ; tero=quiero $PHO ; uno=una $AGR ;</a>
+    <a type="extension" flavor="mor">v|querer:2SIL_PRES:1S:2C_VER-ARG2_202_2SIL:tero .</a>
+    <a type="extension" flavor="phon">$SUS $OMI</a>
+    <a type="comments">IRE está fuera de cámara</a>
+  </u>
+  <u who="PIL" uID="u209">
+    <w>espera</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>xa</w>
+    <w>che</w>
+    <w>tocou</w>
+    <w>a</w>
+    <w>túa</w>
+    <t type="p"></t>
+
+    <a type="addressee">IRE</a>
+  </u>
+  <u who="PIL" uID="u210">
+    <g><w>agora</w>
+    <w>tócalle</w>
+    <w>a</w>
+    <w>Tatia<shortening>na</shortening></w><overlap type="overlap follows"/></g>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="TAT" uID="u211">
+    <g><w>una</w>
+    <w>tortuga</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u212">
+    <w>unha</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="TAT" uID="u213">
+    <w>tortuga</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u214">
+    <w>una</w>
+    <w>tortuga</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u215">
+    <w>no</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u216">
+    <w>Xacobo</w>
+    <pause symbolic-length="long"/>
+    <w>que</w>
+    <w>é</w>
+    <t type="q"></t>
+
+    <a type="actions">mantiene la carta en alto</a>
+  </u>
+  <u who="JOR" uID="u217">
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>elefante</w><actual><pw><ph id="ph0">l</ph><ph id="ph1">i</ph><ss type="1"/><ph id="ph2">f</ph><ph id="ph3">a</ph><ph id="ph4">n</ph><ph id="ph5">t</ph><ph id="ph6">e</ph></pw></actual><model><pw><ph id="ph0">e</ph><ph id="ph1">l</ph><ph id="ph2">e</ph><ss type="1"/><ph id="ph3">f</ph><ph id="ph4">a</ph><ph id="ph5">n</ph><ph id="ph6">t</ph><ph id="ph7">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="403.965"
+      end="406.466"
+      unit="s"
+    />
+    <a type="extension" flavor="par">ilifante=elefante $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS $SUS</a>
+    <a type="comments">ha contestado JOR aunque la pregunta iba dirigida a XAC</a>
+  </u>
+  <u who="PIL" uID="u218">
+    <w>un</w>
+    <w>elefante</w>
+    <pause symbolic-length="simple"/>
+    <w>tampouco</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u219">
+    <w>que</w>
+    <w>é</w>
+    <t type="q"></t>
+
+    <a type="actions">se gira y le enseña la carta a IRE que permanece fuera de cámara</a>
+  </u>
+  <u who="IRE" uID="u220">
+    <g><w>u</w><error/></g>
+    <g><w>yiyo</w><k type="best guess"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">u=un $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="PIL" uID="u221">
+    <w>unha</w>
+    <w>rana</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="IRE" uID="u222">
+    <w>una</w>
+    <w>rana</w>
+    <pause symbolic-length="simple"/>
+    <w>bien</w>
+    <t type="e"></t>
+
+    <a type="actions">IRE aplaude</a>
+  </u>
+  <u who="PIL" uID="u223">
+    <w>como</w>
+    <w>fan</w>
+    <w>as</w>
+    <w>ranas</w>
+    <pause symbolic-length="simple"/>
+    <w>como</w>
+    <w>fan</w>
+    <w>as</w>
+    <w>ranas</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="TAT" uID="u224">
+    <g><w formType="onomatopoeia">cucu</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="XAC" uID="u225">
+    <g><w formType="onomatopoeia">crua</w>
+    <w formType="onomatopoeia">crua</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="PIL" uID="u226">
+    <w>crua</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PIL" uID="u227">
+    <w>a</w>
+    <w>ver</w>
+    <w>que</w>
+    <w>ahora</w>
+    <w>lle</w>
+    <w>toca</w>
+    <g><w>a</w>
+    <w>Tatiana</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="IRE" uID="u228">
+    <g><w formType="onomatopoeia">crua</w>
+    <w formType="onomatopoeia">crua</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u229">
+    <w>vaite</w>
+    <w>sentar</w>
+    <w>alí</w>
+    <w>a</w>
+    <w>ver</w>
+    <w>que</w>
+    <w>lle</w>
+    <w>toca</w>
+    <w>a</w>
+    <w>Tatiana</w>
+    <t type="p"></t>
+
+    <a type="addressee">IRE</a>
+  </u>
+  <u who="PIL" uID="u230">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+    <a type="actions">le entrega una carta a TAT; XAC la intenta coger</a>
+  </u>
+  <u who="PIL" uID="u231">
+    <w>é</w>
+    <w>para</w>
+    <w>Tatiana</w>
+    <t type="p"></t>
+
+    <a type="addressee">XAC</a>
+  </u>
+  <u who="JOR" uID="u232">
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual><model><pw><ph id="ph0">*</ph></pw></model></pg>
+    <pg><w>uno</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph><ph id="ph2">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph><ph id="ph2">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="424.390"
+      end="425.800"
+      unit="s"
+    />
+  </u>
+  <u who="PIL" uID="u233">
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u234">
+    <w>que</w>
+    <w>é</w>
+    <t type="q"></t>
+
+    <a type="actions">TAT mira la carta y después la muestra a sus compañeros y a PIL</a>
+  </u>
+  <u who="PIL" uID="u235">
+    <w>ponte</w>
+    <w>alí</w>
+    <t type="p"></t>
+
+    <a type="addressee">IRE</a>
+  </u>
+  <u who="IRE" uID="u236">
+    <g><w>qu<shortening>i</shortening>ero</w><error/></g>
+    <g><w>uno</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">qu(i)ero=quiero $PHO ; uno=una $AGR ;</a>
+    <a type="extension" flavor="mor">v|querer:2SIL_PRES:1S:2C_VER-ARG2_202_2SIL:qu(i)ero .</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="PIL" uID="u237">
+    <w>despois</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u238">
+    <w>senta</w>
+    <w>alí</w>
+    <t type="p"></t>
+
+    <a type="comments">IRE corre a sentarse</a>
+  </u>
+  <u who="PIL" uID="u239">
+    <w>que</w>
+    <w>é</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u240">
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>pez</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">e</ph><ph id="ph2">θ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">e</ph><ph id="ph2">θ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="436.380"
+      end="438.180"
+      unit="s"
+    />
+    <a type="comments">el ruido de la silla de IRE al sentarse impide escuchar con claridad la respuesta</a>
+  </u>
+  <u who="TAT" uID="u241">
+    <w>un</w>
+    <w>pez</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u242">
+    <w>un</w>
+    <g><w>pez</w><k type="best guess"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u243">
+    <w>e</w>
+    <w>por</w>
+    <w>onde</w>
+    <w>andan</w>
+    <w>os</w>
+    <w>peces</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="TAT" uID="u244">
+    <w>por</w>
+    <w>el</w>
+    <w>agua</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u245">
+    <w>e</w>
+    <w>como</w>
+    <w>fan</w>
+    <w>os</w>
+    <w>peixes</w>
+    <t type="q"></t>
+
+    <a type="actions">PIL infla sus mejillas e imita a un pez</a>
+  </u>
+  <u who="PIL" uID="u246">
+    <w>fan</w>
+    <w>así</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="XAC" uID="u247">
+    <w>no</w>
+    <t type="p"></t>
+
+    <a type="comments">tan sólo IRE imita los gestos de PIL</a>
+  </u>
+  <u who="PIL" uID="u248">
+    <w>si</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u249">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>como</w>
+    <w>fan</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u250">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>repartimos</w>
+    <w>outra</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u251">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u252">
+    <w>si</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u253">
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+    <a type="actions">está seleccionando las cartas</a>
+  </u>
+  <u who="PIL" uID="u254">
+    <w>primeiro</w>
+    <w>vounas</w>
+    <w>escoller</w>
+    <w>e</w>
+    <w>despois</w>
+    <w>reparti<shortening>mos</shortening></w>
+    <t type="self interruption"></t>
+
+    <a type="actions">JOR mira las cartas e intenta coger una</a>
+  </u>
+  <u who="PIL" uID="u255">
+    <w>ay</w>
+    <pause symbolic-length="simple"/>
+    <w>non</w>
+    <w>se</w>
+    <w>poden</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>non</w>
+    <w>se</w>
+    <w>poden</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>son</w>
+    <w>unha</w>
+    <w>sorpresa</w>
+    <t type="p"></t>
+
+    <a type="actions">PIL continúa seleccionando las cartas</a>
+  </u>
+  <u who="JOR" uID="u256">
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual><model><pw><ph id="ph0">*</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="466.100"
+      end="470.441"
+      unit="s"
+    />
+    <a type="actions">TAT golpea la mesa con las dos manos</a>
+  </u>
+  <u who="JOR" uID="u257">
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual><model><pw><ph id="ph0">*</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="470.842"
+      end="475.100"
+      unit="s"
+    />
+  </u>
+  <u who="IRE" uID="u258">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+    <a type="comments">PIL manda callar</a>
+  </u>
+  <u who="PIL" uID="u259">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>estas</w>
+    <w>guárdoas</w>
+    <w>aquí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="JOR" uID="u260">
+    <pg><w>a</w><actual><pw><ph id="ph0">a</ph></pw></actual><model><pw><ph id="ph0">a</ph></pw></model></pg>
+    <pg><w>sorpresa</w><actual><pw><ph id="ph0">s</ph><ph id="ph1">o</ph><ph id="ph2">ɾ</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">ɾ</ph><ph id="ph5">e</ph><ph id="ph6">s</ph><ph id="ph7">a</ph></pw></actual><model><pw><ph id="ph0">s</ph><ph id="ph1">o</ph><ph id="ph2">ɾ</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">ɾ</ph><ph id="ph5">e</ph><ph id="ph6">s</ph><ph id="ph7">a</ph></pw></model></pg>
+    <pg><w>a</w><actual><pw><ph id="ph0">a</ph></pw></actual><model><pw><ph id="ph0">a</ph></pw></model></pg>
+    <pg><w>sorpresa</w><actual><pw><ph id="ph0">s</ph><ph id="ph1">o</ph><ph id="ph2">ɾ</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">ɾ</ph><ph id="ph5">e</ph><ph id="ph6">s</ph><ph id="ph7">a</ph></pw></actual><model><pw><ph id="ph0">s</ph><ph id="ph1">o</ph><ph id="ph2">ɾ</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">ɾ</ph><ph id="ph5">e</ph><ph id="ph6">s</ph><ph id="ph7">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="483.100"
+      end="486.800"
+      unit="s"
+    />
+    <a type="extension" flavor="par">xopesa=sorpresa $PHO ; xopesa=sorpresa $PHO ;</a>
+    <a type="extension" flavor="phon">$PML</a>
+  </u>
+  <u who="PIL" uID="u261">
+    <w>a</w>
+    <w>ver</w>
+    <w>a</w>
+    <w>sorpresa</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <w>a</w>
+    <w>sorpresa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u262">
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u263">
+    <w>primeiro</w>
+    <pause symbolic-length="long"/>
+    <w>Tatiana</w>
+    <t type="p"></t>
+
+    <a type="actions">le entrega una carta a TAT</a>
+  </u>
+  <u who="PIL" uID="u264">
+    <w>a</w>
+    <w>ver</w>
+    <w>qué</w>
+    <w>lle</w>
+    <w>tocou</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u265">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>será</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>será</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u266">
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="TAT" uID="u267">
+    <w>un</w>
+    <w>elefante</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u268">
+    <w>un</w>
+    <w>elefante</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u269">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <w>que</w>
+    <w>elefante</w>
+    <w>máis</w>
+    <w>chuli</w>
+    <t type="p"></t>
+
+    <a type="actions">TAT le enseña la carta a PIL</a>
+  </u>
+  <u who="PIL" uID="u270">
+    <w>que</w>
+    <w>elefante</w>
+    <w>máis</w>
+    <w>chuli</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PIL" uID="u271">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>poñémolo</w>
+    <w>aquí</w>
+    <w>logo</w>
+    <t type="p"></t>
+
+    <a type="actions">le coge la carta y la guarda</a>
+  </u>
+  <u who="PIL" uID="u272">
+    <w>a</w>
+    <w>ver</w>
+    <w>a</w>
+    <w>quen</w>
+    <w>lle</w>
+    <w>toca</w>
+    <w>agora</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="XAC" uID="u273">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="IRE" uID="u274">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u275">
+    <w>ahora</w>
+    <w>tócalle</w>
+    <w>a</w>
+    <w>Xacobo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u276">
+    <w>a</w>
+    <w>ver</w>
+    <w>que</w>
+    <w>lle</w>
+    <w>toca</w>
+    <w>a</w>
+    <w>Xacobo</w>
+    <t type="p"></t>
+
+    <a type="actions">le entrega una carta a XAC</a>
+  </u>
+  <u who="PIL" uID="u277">
+    <w>oh</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>é</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u278">
+    <w>un</w>
+    <w>perro</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="XAC" uID="u279">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>una</w>
+    <w>vaca</w>
+    <t type="p"></t>
+
+    <a type="actions">le enseña la carta a PIL</a>
+  </u>
+  <u who="PIL" uID="u280">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>é</w>
+    <w>un</w>
+    <w>can</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="TAT" uID="u281">
+    <w>un</w>
+    <w>can</w>
+    <t type="p"></t>
+
+    <a type="speech act">$IMIT</a>
+  </u>
+  <u who="PIL" uID="u282">
+    <w>o</w>
+    <w>que</w>
+    <w>pasa</w>
+    <w>é</w>
+    <w>que</w>
+    <w>é</w>
+    <w>un</w>
+    <w>can</w>
+    <w>mui</w>
+    <w>grande</w>
+    <pause symbolic-length="simple"/>
+    <w>mui</w>
+    <w>grande</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u283">
+    <w>casi</w>
+    <w>parece</w>
+    <w>unha</w>
+    <w>vaca</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="JOR" uID="u284">
+    <pg><w>no</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></model></pg>
+    <pg><w>una</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph><ph id="ph2">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph><ph id="ph2">a</ph></pw></model></pg>
+    <pg><w>vaca</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">a</ph><ph id="ph2">k</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">a</ph><ph id="ph2">k</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="520.500"
+      end="522.038"
+      unit="s"
+    />
+  </u>
+  <u who="PIL" uID="u285">
+    <w>como</w>
+    <w>fan</w>
+    <w>os</w>
+    <w>cas</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="IRE" uID="u286">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="XAC" uID="u287">
+    <g><w formType="onomatopoeia">guau</w>
+    <w formType="onomatopoeia">guau</w>
+    <w formType="onomatopoeia">guau</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u288">
+    <w>guau</w>
+    <w>guau</w>
+    <w>guau</w>
+    <t type="p"></t>
+
+    <a type="comments">IRE sopla e imita a una vaca; se ha vuelto a levantar de su asiento</a>
+  </u>
+  <u who="IRE" uID="u289">
+    <g><w formType="onomatopoeia">muuuu</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u290">
+    <g><w>a</w>
+    <w>ver</w>
+    <w>que</w>
+    <w>lle</w>
+    <w>toca</w>
+    <w>a</w><overlap type="overlap precedes"/></g>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="XAC" uID="u291">
+    <w>a</w>
+    <w>mí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u292">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ti</w>
+    <w>xa</w>
+    <w>che</w>
+    <w>acaba</w>
+    <w>de</w>
+    <w>tocar</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u293">
+    <w>ahora</w>
+    <w>tócalle</w>
+    <w>a</w>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="PIL" uID="u294">
+    <w>a</w>
+    <w>quen</w>
+    <w>lle</w>
+    <w>toca</w>
+    <t type="q"></t>
+
+    <a type="actions">mirando a IRE</a>
+  </u>
+  <u who="IRE" uID="u295">
+    <w>yo</w>
+    <t type="e"></t>
+
+    <a type="actions">toca su pecho con la mano</a>
+  </u>
+  <u who="PIL" uID="u296">
+    <w>a</w>
+    <w>ti</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u297">
+    <w>pero</w>
+    <w>tes</w>
+    <w>que</w>
+    <w>estar</w>
+    <w>sentadiña</w>
+    <pause symbolic-length="simple"/>
+    <w>senón</w>
+    <w>non</w>
+    <w>cha</w>
+    <w>dou</w>
+    <t type="p"></t>
+
+    <a type="actions">IRE se sienta</a>
+  </u>
+  <u who="PIL" uID="u298">
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+    <a type="actions">le ha entregado una carta</a>
+  </u>
+  <u who="PIL" uID="u299">
+    <w>que</w>
+    <w>lle</w>
+    <w>tocou</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u300">
+    <w>ai</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="IRE" uID="u301">
+    <w>un</w>
+    <g><w>yiyo</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">yiyo=cerdo $PHO ;</a>
+    <a type="extension" flavor="phon">$PML</a>
+    <a type="actions">después de mirarla, sostiene la carta en alto</a>
+  </u>
+  <u who="PIL" uID="u302">
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="IRE" uID="u303">
+    <w>un</w>
+    <g><w>yiyito</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">yiyito=cerdito $PHO ;</a>
+    <a type="extension" flavor="phon">$PML</a>
+  </u>
+  <u who="PIL" uID="u304">
+    <w>pero</w>
+    <w>non</w>
+    <w>o</w>
+    <w>vexo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u305">
+    <w>enséñamo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="TAT" uID="u306">
+    <g><w>celdo</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">celdo=cerdo $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="IRE" uID="u307">
+    <w>un</w>
+    <g><w>yiyito</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">yiyito=cerdito $PHO ;</a>
+    <a type="extension" flavor="phon">$PML</a>
+    <a type="actions">mostrándole la carta</a>
+  </u>
+  <u who="PIL" uID="u308">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>e</w>
+    <w>como</w>
+    <w>fan</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="IRE" uID="u309">
+    <w formType="onomatopoeia">oj</w>
+    <w formType="onomatopoeia">oj</w>
+    <w formType="onomatopoeia">oj</w>
+    <t type="p"></t>
+
+    <a type="comments">IRE está imitando el ruido de los cerdos</a>
+  </u>
+  <u who="PIL" uID="u310">
+    <w>oj</w>
+    <w>oj</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u311">
+    <w>e</w>
+    <w>sabedes</w>
+    <w>os</w>
+    <w>contos</w>
+    <pause symbolic-length="simple"/>
+    <w>o</w>
+    <w>conto</w>
+    <w>dos</w>
+    <w>tres</w>
+    <w>cerditos</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="TAT" uID="u312">
+    <w>sí</w>
+    <t type="p"></t>
+
+    <a type="actions">asiente con la cabeza</a>
+  </u>
+  <u who="PIL" uID="u313">
+    <w>si</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u314">
+    <w>sabedes</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u315">
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual><model><pw><ph id="ph0">*</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="566.429"
+      end="568.129"
+      unit="s"
+    />
+    <a type="extension" flavor="par">yiyito=cerdito $PHO ;</a>
+    <a type="extension" flavor="phon">$PML</a>
+  </u>
+  <u who="PIL" uID="u316">
+    <w>si</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="IRE" uID="u317">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u318">
+    <w>a</w>
+    <w>ver</w>
+    <g><w>que</w>
+    <w>lle</w>
+    <w>toca</w><overlap type="overlap precedes"/></g>
+    <w>a</w>
+    <w>Jorge</w>
+    <t type="p"></t>
+
+    <a type="actions">le entrega una carta a JOR</a>
+  </u>
+  <u who="PIL" uID="u319">
+    <w>ah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u320">
+    <w>ai</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>será</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="IRE" uID="u321">
+    <g><w>y</w>
+    <w>el</w>
+    <w>yiyito</w><error/><overlap type="overlap precedes"/></g>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="JOR" uID="u322">
+    <pg><w>es</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>serpiente</w><actual><pw><ph id="ph0">ʧ</ph><ph id="ph1">i</ph><ph id="ph2">m</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph><ph id="ph7">t</ph><ph id="ph8">e</ph></pw></actual><model><pw><ph id="ph0">s</ph><ph id="ph1">e</ph><ph id="ph2">ɾ</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph><ph id="ph7">t</ph><ph id="ph8">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="576.500"
+      end="578.200"
+      unit="s"
+    />
+    <a type="extension" flavor="par">e=es $PHO ; un=una $AGR ; chimpiente=serpiente $PHO ;</a>
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_VER-PRED_200_1SIL:e .</a>
+    <a type="extension" flavor="phon">$OMI ; $PML</a>
+    <a type="comments">ha contestado antes de levantar la carta</a>
+  </u>
+  <u who="JOR" uID="u323">
+    <pg><w>ah</w><actual><pw><ss type="1"/><ph id="ph0">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="579.100"
+      end="579.954"
+      unit="s"
+    />
+  </u>
+  <u who="JOR" uID="u324">
+    <pg><w>mono</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="580.645"
+      end="581.652"
+      unit="s"
+    />
+  </u>
+  <u who="PIL" uID="u325">
+    <w>un</w>
+    <w>mono</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PIL" uID="u326">
+    <w>e</w>
+    <w>que</w>
+    <w>está</w>
+    <w>comendo</w>
+    <w>o</w>
+    <w>mono</w>
+    <t type="q"></t>
+
+    <a type="comments">IRE comienza un aplauso que ella misma interrumpe</a>
+  </u>
+  <u who="PIL" uID="u327">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>enséñalle</w>
+    <w>aí</w>
+    <t type="p"></t>
+
+    <a type="actions">le coge la carta para enseñársela a los otros niños</a>
+  </u>
+  <u who="JOR" uID="u328">
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>plátano</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">j</ph><ph id="ph2">a</ph><ph id="ph3">t</ph><ph id="ph4">a</ph><ph id="ph5">n</ph><ph id="ph6">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">l</ph><ph id="ph2">a</ph><ph id="ph3">t</ph><ph id="ph4">a</ph><ph id="ph5">n</ph><ph id="ph6">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="584.957"
+      end="586.460"
+      unit="s"
+    />
+    <a type="extension" flavor="par">piátano=plátano $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="PIL" uID="u329">
+    <w>que</w>
+    <w>está</w>
+    <w>comendo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u330">
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>plátano</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">j</ph><ph id="ph2">a</ph><ph id="ph3">t</ph><ph id="ph4">a</ph><ph id="ph5">n</ph><ph id="ph6">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">l</ph><ph id="ph2">a</ph><ph id="ph3">t</ph><ph id="ph4">a</ph><ph id="ph5">n</ph><ph id="ph6">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="587.450"
+      end="588.600"
+      unit="s"
+    />
+    <a type="extension" flavor="par">piátano=plátano $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="PIL" uID="u331">
+    <w>un</w>
+    <w>plátano</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u332">
+    <w>e</w>
+    <w>a</w>
+    <w>ver</w>
+    <w>que</w>
+    <w>me</w>
+    <w>tocou</w>
+    <w>a</w>
+    <w>min</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>me</w>
+    <w>tocou</w>
+    <w>a</w>
+    <w>min</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u333">
+    <w>senta</w>
+    <w>alí</w>
+    <w>Irene</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u334">
+    <w>senta</w>
+    <w>alí</w>
+    <t type="p"></t>
+
+    <a type="actions">se gira hacia IRE, que se ha vuelto a levantar</a>
+  </u>
+  <u who="JOR" uID="u335">
+    <pg><w>yo</w><actual><pw><ss type="1"/><ph id="ph0">ʤ</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʤ</ph><ph id="ph1">o</ph></pw></model></pg>
+    <pg><w>quiero</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">ɾ</ph><ph id="ph4">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">ɾ</ph><ph id="ph4">o</ph></pw></model></pg>
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>mono</w>
+    <pause symbolic-length="simple"/><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">o</ph></pw><pw><ph id="ph4">(</ph><ph id="ph5">.</ph><ph id="ph6">)</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">o</ph></pw><pw><ph id="ph4">(</ph><ph id="ph5">.</ph><ph id="ph6">)</ph></pw></model></pg>
+    <pg><w>yo</w><actual><pw><ss type="1"/><ph id="ph0">ʤ</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʤ</ph><ph id="ph1">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="594.850"
+      end="596.750"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|querer:2SIL_PRES:1S:2C_ARG1-VER-ARG2_200_2SIL:quiero .</a>
+  </u>
+  <u who="PIL" uID="u336">
+    <w>ah</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u337">
+    <w>sabedes</w>
+    <w>o</w>
+    <w>que</w>
+    <w>é</w>
+    <t type="q"></t>
+
+    <a type="actions">les enseña la carta a los niños</a>
+  </u>
+  <u who="PIL" uID="u338">
+    <w>senta</w>
+    <w>alí</w>
+    <pause symbolic-length="simple"/>
+    <w>senón</w>
+    <w>non</w>
+    <w>a</w>
+    <w>ves</w>
+    <t type="q"></t>
+
+    <a type="addressee">IRE</a>
+  </u>
+  <u who="IRE" uID="u339">
+    <g><w>tero</w><error/></g>
+    <g><w>uno</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">tero=quiero $PHO ; uno=una $AGR ;</a>
+    <a type="extension" flavor="mor">v|querer:2SIL_PRES:1S:2C_VER-ARG2_202_2SIL:tero .</a>
+    <a type="extension" flavor="phon">$SUS $OMI</a>
+  </u>
+  <u who="PIL" uID="u340">
+    <w>pero</w>
+    <w>xa</w>
+    <w>tiveches</w>
+    <w>a</w>
+    <w>túa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="IRE" uID="u341">
+    <g><w>tero</w><error/></g>
+    <g><w>uno</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">tero=quiero $PHO ; uno=una $AGR ;</a>
+    <a type="extension" flavor="mor">v|querer:2SIL_PRES:1S:2C_VER-ARG2_202_2SIL:tero .</a>
+    <a type="extension" flavor="phon">$SUS $OMI</a>
+  </u>
+  <u who="TAT" uID="u342">
+    <linker type="lazy overlap mark"/>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u343">
+    <w>un</w>
+    <w>pulpo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="TAT" uID="u344">
+    <w>pulpo</w>
+    <t type="p"></t>
+
+    <a type="speech act">$IMIT</a>
+  </u>
+  <u who="PIL" uID="u345">
+    <w>quen</w>
+    <w>comeu</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="TAT" uID="u346">
+    <w>que</w>
+    <w>se</w>
+    <w>come</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|comer:2SIL_PRES:3S:2C_ENL3-CLI1-VER_203_2SIL:come .</a>
+  </u>
+  <u who="PIL" uID="u347">
+    <w>que</w>
+    <w>se</w>
+    <w>come</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u348">
+    <w>quen</w>
+    <w>comeu</w>
+    <w>pulpo</w>
+    <w>algunha</w>
+    <w>vez</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="TAT" uID="u349">
+    <w>yo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="IRE" uID="u350">
+    <g><w>yo</w><k type="retracing"/></g>
+    <w>yo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAC" uID="u351">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="TAT" uID="u352">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap precedes"/></g>
+    <w>también</w>
+    <s type="colon"/>
+    <t type="p"></t>
+
+  </u>
+  <u who="TAT" uID="u353">
+    <w untranscribed="unintelligible">xxx</w>
+    <g><w>también</w>
+    <pause symbolic-length="simple"/>
+    <w>sabes</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+    <a type="extension" flavor="mor">v|saber:2SIL_PRES:2S:2C_VER_203_2SIL:sabes ?</a>
+  </u>
+  <u who="JOR" uID="u354">
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual><model><pw><ph id="ph0">*</ph></pw></model></pg>
+    <pg><w>yo</w><actual><pw><ss type="1"/><ph id="ph0">ʤ</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʤ</ph><ph id="ph1">o</ph></pw></model></pg>
+    <pg><w>quiero</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">ɾ</ph><ph id="ph4">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">ɾ</ph><ph id="ph4">o</ph></pw></model></pg>
+    <pg><w>más</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">s</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="620.900"
+      end="622.445"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|querer:2SIL_PRES:1S:2C_INI-ARG1-VER-CIRC_200_2SIL:quiero .</a>
+  </u>
+  <u who="PIL" uID="u355">
+    <w>quieres</w>
+    <w>más</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u356">
+    <w>ahora</w>
+    <w>xogamos</w>
+    <w>a</w>
+    <w>outra</w>
+    <w>cousa</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="IRE" uID="u357">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u358">
+    <w>xogamos</w>
+    <w>a</w>
+    <w>outra</w>
+    <w>cousa</w>
+    <pause symbolic-length="simple"/>
+    <w>ahora</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="IRE" uID="u359">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u360">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>que</w>
+    <w>xogamos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u361">
+    <w>vamos</w>
+    <w>a</w>
+    <w>xogar</w>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="PIL" uID="u362">
+    <w>pero</w>
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>non</w>
+    <w>podemos</w>
+    <w>xogar</w>
+    <w>mentras</w>
+    <w>Irene</w>
+    <w>non</w>
+    <w>estea</w>
+    <w>sentada</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u363">
+    <w>se</w>
+    <w>Irene</w>
+    <w>non</w>
+    <w>se</w>
+    <w>senta</w>
+    <w>non</w>
+    <w>podemos</w>
+    <w>xogar</w>
+    <t type="p"></t>
+
+    <a type="actions">oculta los juegos bajo una carpeta</a>
+  </u>
+  <u who="IRE" uID="u364">
+    <g><w>adí</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">adí=aquí $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+    <a type="actions">señala la silla que está al lado de PIL</a>
+  </u>
+  <u who="PIL" uID="u365">
+    <w>a</w>
+    <w>ver</w>
+    <w>cómo</w>
+    <w>lle</w>
+    <w>dicimos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u366">
+    <w>Irene</w>
+    <w>tes</w>
+    <w>que</w>
+    <w>estar</w>
+    <w>sentada</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="IRE" uID="u367">
+    <g><w>adí</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">adí=aquí $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+    <a type="actions">IRE ya se ha sentado en la silla</a>
+  </u>
+  <u who="PIL" uID="u368">
+    <w>pois</w>
+    <w>séntate</w>
+    <w>aquí</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u369">
+    <w>levanta</w>
+    <pause symbolic-length="simple"/>
+    <w>levanta</w>
+    <w>un</w>
+    <w>momento</w>
+    <t type="p"></t>
+
+    <a type="actions">PIL intenta acercar la silla a la mesa</a>
+  </u>
+  <u who="PIL" uID="u370">
+    <w>levántate</w>
+    <pause symbolic-length="simple"/>
+    <w>levántate</w>
+    <w>un</w>
+    <w>momento</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u371">
+    <w>déixame</w>
+    <w>mover</w>
+    <w>a</w>
+    <w>silla</w>
+    <t type="p"></t>
+
+    <a type="actions">mueve la silla</a>
+  </u>
+  <u who="PIL" uID="u372">
+    <w>cuidado</w>
+    <pause symbolic-length="simple"/>
+    <w>cuidado</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u373">
+    <w>aquí</w>
+    <w>ó</w>
+    <w>meu</w>
+    <w>lado</w>
+    <pause symbolic-length="simple"/>
+    <w>veña</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u374">
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+    <a type="actions">descubre los juegos</a>
+  </u>
+  <u who="PIL" uID="u375">
+    <w>vamos</w>
+    <w>a</w>
+    <w>ver</w>
+    <w>unha</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <w>moi</w>
+    <w>chuli</w>
+    <pause symbolic-length="simple"/>
+    <w>moi</w>
+    <w>chuli</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u376">
+    <w>a</w>
+    <w>ver</w>
+    <w>quen</w>
+    <w>adiviña</w>
+    <w>o</w>
+    <w>que</w>
+    <w>son</w>
+    <t type="p"></t>
+
+    <a type="actions">selecciona las láminas</a>
+  </u>
+  <u who="PIL" uID="u377">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u378">
+    <w>que</w>
+    <w>é</w>
+    <w>esto</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="TAT" uID="u379">
+    <w>un</w>
+    <w>pie</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="IRE" uID="u380">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u381">
+    <g><w>un</w>
+    <w>pie</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u382">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>donde</w>
+    <w>tendes</w>
+    <w>os</w>
+    <w>pés</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u383">
+    <w>aquí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u384">
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+    <a type="actions">los niños señalan y levantan un pie</a>
+  </u>
+  <u who="XAC" uID="u385">
+    <w>aquí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u386">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>tes</w>
+    <w>tu</w>
+    <w>aquí</w>
+    <w>posto</w>
+    <t type="q"></t>
+
+    <a type="addressee">JOR</a>
+  </u>
+  <u who="PIL" uID="u387">
+    <w>que</w>
+    <w>son</w>
+    <w>estos</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u388">
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual><model><pw><ph id="ph0">*</ph></pw></model></pg>
+    <pg><w>botas</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">t</ph><ph id="ph3">a</ph><ph id="ph4">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">t</ph><ph id="ph3">a</ph><ph id="ph4">s</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="690.005"
+      end="691.900"
+      unit="s"
+    />
+  </u>
+  <u who="PIL" uID="u389">
+    <w>son</w>
+    <w>unhas</w>
+    <w>botas</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u390">
+    <w>e</w>
+    <w>Tatiana</w>
+    <w>que</w>
+    <w>ten</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="TAT" uID="u391">
+    <w>tenis</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u392">
+    <w>tes</w>
+    <w>uns</w>
+    <w>tenis</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u393">
+    <w>para</w>
+    <w>correr</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u394">
+    <w>e</w>
+    <w>Xacobo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u395">
+    <w>i</w>
+    <w>a</w>
+    <w>ver</w>
+    <w>que</w>
+    <w>ten</w>
+    <w>Xacobo</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>ten</w>
+    <w>Xacobo</w>
+    <t type="p"></t>
+
+    <a type="actions">XAC vuelve a estar de pie</a>
+  </u>
+  <u who="XAC" uID="u396">
+    <w>tenis</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u397">
+    <w>uns</w>
+    <w>tenis</w>
+    <w>non</w>
+    <w>son</w>
+    <t type="p"></t>
+
+    <a type="actions">PIL y TAT niegan con la cabeza</a>
+  </u>
+  <u who="PIL" uID="u398">
+    <w>que</w>
+    <w>son</w>
+    <w>eso</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u399">
+    <w>tenis</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u400">
+    <w>non</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="TAT" uID="u401">
+    <w>no</w>
+    <t type="p"></t>
+
+    <a type="actions">refuerza la negación moviendo la cabeza</a>
+  </u>
+  <u who="PIL" uID="u402">
+    <w>que</w>
+    <w>son</w>
+    <w>Tatiana</w>
+    <t type="q"></t>
+
+    <a type="actions">TAT mira el calzado de su compañero</a>
+  </u>
+  <u who="PIL" uID="u403">
+    <w>que</w>
+    <w>é</w>
+    <w>o</w>
+    <w>que</w>
+    <w>ten</w>
+    <w>Xacobo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u404">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>enséñalle</w>
+    <w>a</w>
+    <w>Tatiana</w>
+    <t type="p"></t>
+
+    <a type="addressee">XAC</a>
+    <a type="actions">levanta otra vez un pie</a>
+  </u>
+  <u who="XAC" uID="u405">
+    <w>caca</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u406">
+    <w>que</w>
+    <w>son</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u407">
+    <w>son</w>
+    <w>unhas</w>
+    <w>botas</w>
+    <w>para</w>
+    <w>auga</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u408">
+    <w>e</w>
+    <w>que</w>
+    <w>ten</w>
+    <w>aquí</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>ten</w>
+    <w>aquí</w>
+    <w>Irene</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="IRE" uID="u409">
+    <g><w>teni</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">teni=tenis $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="PIL" uID="u410">
+    <w>ai</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>botas</w>
+    <w>rojas</w>
+    <w>máis</w>
+    <w>chulis</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PIL" uID="u411">
+    <w>que</w>
+    <w>bonitas</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PIL" uID="u412">
+    <w>e</w>
+    <w>sabedes</w>
+    <w>o</w>
+    <w>que</w>
+    <w>teño</w>
+    <w>eu</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u413">
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>pie</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">j</ph><ph id="ph2">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">j</ph><ph id="ph2">e</ph></pw></model></pg>
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>pie</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">j</ph><ph id="ph2">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">j</ph><ph id="ph2">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="734.600"
+      end="736.145"
+      unit="s"
+    />
+    <a type="actions">señala la lámina en la que está dibujado el pie</a>
+  </u>
+  <u who="PIL" uID="u414">
+    <w>un</w>
+    <w>pie</w>
+    <pause symbolic-length="simple"/>
+    <w>un</w>
+    <w>pie</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u415">
+    <w>a</w>
+    <w>ver</w>
+    <w>qué</w>
+    <w>máis</w>
+    <w>temos</w>
+    <w>por</w>
+    <w>aquí</w>
+    <t type="p"></t>
+
+    <a type="actions">selecciona otra lámina</a>
+  </u>
+  <u who="PIL" uID="u416">
+    <w>esto</w>
+    <w>que</w>
+    <w>é</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u417">
+    <w>una</w>
+    <w>tijera</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u418">
+    <w>una</w>
+    <w>tijera</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u419">
+    <w>para</w>
+    <w>cortar</w>
+    <w>qué</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u420">
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>pie</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">j</ph><ph id="ph2">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">j</ph><ph id="ph2">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="747.390"
+      end="748.490"
+      unit="s"
+    />
+  </u>
+  <u who="PIL" uID="u421">
+    <w>para</w>
+    <w>cortarle</w>
+    <w>la</w>
+    <w>nariz</w>
+    <w>a</w>
+    <w>Jorge</w>
+    <pause symbolic-length="simple"/>
+    <w>luego</w>
+    <w>a</w>
+    <w>Jacobo</w>
+    <pause symbolic-length="simple"/>
+    <w>luego</w>
+    <w>a</w>
+    <w>Tatiana</w>
+    <w>y</w>
+    <w>después</w>
+    <w>a</w>
+    <w>Irene</w>
+    <t type="p"></t>
+
+    <a type="actions">con la mano ha hecho el gesto de cortarles la nariz</a>
+  </u>
+  <u who="PIL" uID="u422">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>os</w>
+    <w>corté</w>
+    <w>la</w>
+    <w>nariz</w>
+    <t type="p"></t>
+
+    <a type="actions">IRE comienza un aplauso</a>
+  </u>
+  <u who="PIL" uID="u423">
+    <w>con</w>
+    <w>la</w>
+    <w>tijera</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="TAT" uID="u424">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="JOR" uID="u425">
+    <pg><w>es</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>tonto</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">t</ph><ph id="ph4">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">t</ph><ph id="ph4">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="758.150"
+      end="759.300"
+      unit="s"
+    />
+    <a type="actions">señala otro dibujo de la lámina</a>
+  </u>
+  <u who="PIL" uID="u426">
+    <w>qué</w>
+    <w>es</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u427">
+    <pg><w>tijeras</w><actual><pw><ph id="ph0">t</ph><ph id="ph1">i</ph><ss type="1"/><ph id="ph2">x</ph><ph id="ph3">e</ph><ph id="ph4">ɾ</ph><ph id="ph5">a</ph><ph id="ph6">s</ph></pw></actual><model><pw><ph id="ph0">t</ph><ph id="ph1">i</ph><ss type="1"/><ph id="ph2">x</ph><ph id="ph3">e</ph><ph id="ph4">ɾ</ph><ph id="ph5">a</ph><ph id="ph6">s</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="760.640"
+      end="762.150"
+      unit="s"
+    />
+    <a type="comments">su respuesta es casi imperceptible</a>
+  </u>
+  <u who="TAT" uID="u428">
+    <g><w>e</w><error/></g>
+    <w>para</w>
+    <w>cortar</w>
+    <g><w>eztos</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">e=es $PHO ; eztos=estos $PHO ;</a>
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_VER-CIRC_203_1SIL:e ; v|cortar:2SIL_INF:1C_ENL1-VER-ARG2_203_2SIL:cortar .</a>
+    <a type="extension" flavor="phon">$OMI ; $SUS-FRON</a>
+    <a type="actions">señala las uñas de las manos</a>
+  </u>
+  <u who="PIL" uID="u429">
+    <w>para</w>
+    <w>cortar</w>
+    <w>las</w>
+    <w>uñas</w>
+    <pause symbolic-length="long"/>
+    <w>de</w>
+    <w>las</w>
+    <w>manos</w>
+    <pause symbolic-length="simple"/>
+    <w>verdad</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u430">
+    <w>y</w>
+    <w>los</w>
+    <w>pies</w>
+    <t type="p"></t>
+
+    <a type="actions">levanta un pie</a>
+  </u>
+  <u who="PIL" uID="u431">
+    <w>quien</w>
+    <w>cuerta</w>
+    <pause symbolic-length="simple"/>
+    <w>corta</w>
+    <w>las</w>
+    <w>uñas</w>
+    <w>de</w>
+    <w>las</w>
+    <w>manos</w>
+    <w>y</w>
+    <w>de</w>
+    <w>los</w>
+    <w>pies</w>
+    <w>con</w>
+    <w>la</w>
+    <w>tijera</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u432">
+    <w>mamá</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>mí</w>
+    <w>y</w>
+    <w>a</w>
+    <w>Casandra</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="IRE" uID="u433">
+    <w>y</w>
+    <w>yo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u434">
+    <w>quién</w>
+    <w>es</w>
+    <w>Casandra</w>
+    <t type="q"></t>
+
+    <a type="addressee">XAC</a>
+  </u>
+  <u who="IRE" uID="u435">
+    <w>y</w>
+    <w>yo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u436">
+    <w>quién</w>
+    <w>es</w>
+    <w>casandra</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u437">
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual><model><pw><ph id="ph0">*</ph></pw></model></pg>
+    <pg><w>no</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></model></pg>
+    <pg><w>sé</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="785.000"
+      end="788.929"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|saber:2SIL_PRES:1S:2C_INI-NEG-VER_200_1SIL:sé .</a>
+    <a type="actions">señala otro de los dibujos de la lámina</a>
+  </u>
+  <u who="PIL" uID="u438">
+    <w>no</w>
+    <w>sabes</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u439">
+    <w>esto</w>
+    <w>que</w>
+    <w>é</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAC" uID="u440">
+    <w>un</w>
+    <w>martillo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u441">
+    <w>e</w>
+    <w>quen</w>
+    <pause symbolic-length="simple"/>
+    <w>quen</w>
+    <w>utiliza</w>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="XAC" uID="u442">
+    <g><w>pa</w><error/></g>
+    <w>comer</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">pa=para $PHO ;</a>
+    <a type="extension" flavor="mor">v|comer:2SIL_INF:2C_ENL1-VER_205_2SIL:comer .</a>
+    <a type="extension" flavor="phon">$OMI $OMI</a>
+  </u>
+  <u who="PIL" uID="u443">
+    <w>pa</w>
+    <w>comer</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u444">
+    <w>os</w>
+    <w>martillos</w>
+    <w>non</w>
+    <w>se</w>
+    <w>comen</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u445">
+    <w>verdad</w>
+    <w>que</w>
+    <w>non</w>
+    <t type="q"></t>
+
+    <a type="actions">TAT niega con la cabeza</a>
+  </u>
+  <u who="PIL" uID="u446">
+    <w>quen</w>
+    <w>utiliza</w>
+    <w>o</w>
+    <w>martillo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JOR" uID="u447">
+    <pg><w>tonto</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">t</ph><ph id="ph4">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">t</ph><ph id="ph4">o</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="802.800"
+      end="803.700"
+      unit="s"
+    />
+  </u>
+  <u who="PIL" uID="u448">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>e</w>
+    <w>esto</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>é</w>
+    <t type="q"></t>
+
+    <a type="actions">señala otro dibujo de la misma lámina</a>
+  </u>
+  <u who="XAC" uID="u449">
+    <w>jugamos</w>
+    <w>a</w>
+    <w>las</w>
+    <t type="self interruption"></t>
+
+    <a type="extension" flavor="mor">v|jugar:2SIL_PRES:1P:1C_VER-CIRC_205_2SIL:jugamos +//.</a>
+  </u>
+  <u who="PIL" uID="u450">
+    <w>a</w>
+    <w>las</w>
+    <w>qué</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u451">
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+    <a type="actions">les enseña otra lámina</a>
+  </u>
+  <u who="PIL" uID="u452">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>é</w>
+    <w>esto</w>
+    <t type="q"></t>
+
+    <a type="actions">señala otro dibujo de la nueva lámina</a>
+  </u>
+  <u who="PIL" uID="u453">
+    <w>que</w>
+    <w>é</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="IRE" uID="u454">
+    <g><w>yato</w><k type="best guess"/></g>
+    <s type="colon"/>
+    <t type="e"></t>
+
+  </u>
+  <u who="IRE" uID="u455">
+    <g><w>tato</w><k type="best guess"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u456">
+    <w>esto</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="IRE" uID="u457">
+    <g><w>tato</w><k type="best guess"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u458">
+    <w>esto</w>
+    <w>é</w>
+    <w>unha</w>
+    <w>plan<shortening>cha</shortening></w>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="IRE" uID="u459">
+    <linker type="other completion"/>
+    <w><shortening>plan</shortening>ta</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u460">
+    <w>unha</w>
+    <w>plancha</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u461">
+    <w>e</w>
+    <w>quen</w>
+    <w>plancha</w>
+    <w>na</w>
+    <w>casa</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="TAT" uID="u462">
+    <w>yo</w>
+    <t type="p"></t>
+
+    <a type="actions">mueve la mano como si estuviera planchando</a>
+  </u>
+  <u who="PIL" uID="u463">
+    <w>ti</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PIL" uID="u464">
+    <w>ti</w>
+    <w>non</w>
+    <w>planchas</w>
+    <w>na</w>
+    <w>casa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PIL" uID="u465">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">PIL propone finalizar el juego con una canción; los niños no se muestran participativos y la escuchan en silencio</a>
+  </u>
+</CHAT>

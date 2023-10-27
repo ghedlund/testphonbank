@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011930-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1975-04-30"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Sean"
+      role="Target_Child"
+      language="eng"
+      age="P3Y02M07D"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">30-APR-1975</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>did</w>
+    <w>that</w>
+    <w>sprinkler</w>
+    <t type="q"></t>
+
+    <a type="extension" flavor="pho">dɪ dæt splɪŋklɚ</a>
+    <a type="extension" flavor="mod">ˈdɪd ˈðæt ˈspɹɪŋkləɹ</a>
+    <a type="extension" flavor="uttnum">4365</a>
+    <a type="extension" flavor="sesdat">1975-04-30</a>
+    <a type="extension" flavor="age">3;2.7</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <w>from</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">foɚm</a>
+    <a type="extension" flavor="mod">ˈfɹʌm</a>
+    <a type="extension" flavor="uttnum">4366</a>
+    <a type="extension" flavor="sesdat">1975-04-30</a>
+    <a type="extension" flavor="age">3;2.7</a>
+    <a type="comments">I pulled away from you</a>
+  </u>
+  <u who="CHI" uID="u2">
+    <w>napkin</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">mækɪn</a>
+    <a type="extension" flavor="mod">ˈnæpkɪn</a>
+    <a type="extension" flavor="uttnum">4367</a>
+    <a type="extension" flavor="sesdat">1975-04-30</a>
+    <a type="extension" flavor="age">3;2.7</a>
+    <a type="comments">I don't need a napkin</a>
+  </u>
+</CHAT>

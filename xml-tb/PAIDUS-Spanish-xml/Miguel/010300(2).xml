@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="010300" Mediatypes="audio"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00045226-1"
+      Version="2.20.0"
+      Lang="spa"
+      Corpus="PAIDUS-Spanish"
+      Date="1993-11-13"
+      >
+  <Participants>
+    <participant
+      id="ALM"
+    name="Almudena"
+      role="Adult"
+      language="spa"
+      age="P35Y"
+      sex="female"
+
+    />
+    <participant
+      id="CHI"
+    name="Miguel"
+      role="Target_Child"
+      language="spa"
+      age="P1Y03M00D"
+      sex="male"
+
+      birthday="1992-08-13"
+
+    />
+    <participant
+      id="FAM"
+    name="Vater_von_María"
+      role="Friend"
+      language="spa"
+      age="P35Y"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Situation">Schritte</comment>
+  <comment type="Date">13-NOV-1993</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="ALM" uID="u0">
+    <w>Mira</w>
+    <t type="p"></t>
+    <media
+      start="2.001"
+      end="9.500"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">Se oye lloriquear a Miguel; Int y Moth hablan.</comment>
+  <u who="ALM" uID="u1">
+    <w>Hm</w>
+    <t type="p"></t>
+    <media
+      start="17.000"
+      end="18.201"
+      unit="s"
+    />
+  </u>
+  <u who="ALM" uID="u2">
+    <w>La</w>
+    <w>pelota</w>
+    <w>el</w>
+    <w>teléfono</w>
+    <t type="p"></t>
+    <media
+      start="18.201"
+      end="23.005"
+      unit="s"
+    />
+  </u>
+  <u who="ALM" uID="u3">
+    <w>A</w>
+    <w>ver</w>
+    <w>me</w>
+    <w>vas</w>
+    <w>a</w>
+    <w>enseñar</w>
+    <w>al</w>
+    <w>nene</w>
+    <w>ese</w>
+    <w>que</w>
+    <w>te</w>
+    <w>gustaba</w>
+    <t type="p"></t>
+    <media
+      start="23.005"
+      end="37.418"
+      unit="s"
+    />
+  </u>
+  <u who="ALM" uID="u4">
+    <w>Venga</w>
+    <w>búscale</w>
+    <w>corre</w>
+    <t type="p"></t>
+    <media
+      start="37.418"
+      end="41.021"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u5">
+    <w type="omission">El</w>
+    <pg><w>nene</w><actual><pw><ph id="ph0">n</ph><ph id="ph1">ɛ</ph><ph id="ph2">ŋ</ph><ss type="1"/><ph id="ph3">n</ph><ph id="ph4">ɪ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="41.021"
+      end="43.509"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVC.CV</a>
+    <a type="extension" flavor="type">imitation</a>
+  </u>
+  <comment type="Situation">Se oye caer algo.</comment>
+  <u who="CHI" uID="u6">
+    <pg><w>Nene</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">ɪ</ph><ph id="ph2">.</ph><ph id="ph3">v</ph><ph id="ph4">ɪ</ph><ph id="ph5">.</ph><ph id="ph6">ʝ</ph><ph id="ph7">e</ph><ph id="ph8">̞</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="43.509"
+      end="44.622"
+      unit="s"
+    />
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="ALM" uID="u7">
+    <w>Ay</w>
+    <w>el</w>
+    <w>nene</w>
+    <t type="p"></t>
+    <media
+      start="44.622"
+      end="47.962"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">Mig e Int suspiran.</comment>
+  <u who="ALM" uID="u8">
+    <w>A</w>
+    <w>ver</w>
+    <t type="p"></t>
+    <media
+      start="49.075"
+      end="51.301"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u9">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+    <media
+      start="51.301"
+      end="52.036"
+      unit="s"
+    />
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <comment type="Situation">Mig canta.</comment>
+  <u who="FAM" uID="u10">
+    <w>Es</w>
+    <w>que</w>
+    <w>yo</w>
+    <w>no</w>
+    <w>sé</w>
+    <w>si</w>
+    <w>está</w>
+    <t type="p"></t>
+    <media
+      start="52.036"
+      end="57.182"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u11">
+    <w untranscribed="unintelligible-with-pho">yyy</w>
+    <t type="p"></t>
+    <media
+      start="57.182"
+      end="58.801"
+      unit="s"
+    />
+  </u>
+  <u who="FAM" uID="u12">
+    <w>Yo</w>
+    <w>creo</w>
+    <w>que</w>
+    <w>ese</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <w>no</w>
+    <w>se</w>
+    <w>entera</w>
+    <w>eh</w>
+    <t type="p"></t>
+    <media
+      start="58.801"
+      end="61.004"
+      unit="s"
+    />
+  </u>
+  <u who="FAM" uID="u13">
+    <w>me</w>
+    <w>parece</w>
+    <w>a</w>
+    <w>mí</w>
+    <w>que</w>
+    <w>lo</w>
+    <w>ha</w>
+    <w>dicho</w>
+    <t type="p"></t>
+    <media
+      start="61.004"
+      end="62.963"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u14">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+    <media
+      start="62.963"
+      end="64.410"
+      unit="s"
+    />
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <comment type="Situation">Se oye cerrar una puerta.</comment>
+  <u who="FAM" uID="u15">
+    <w>Mírame</w>
+    <w>a</w>
+    <w>mí</w>
+    <t type="p"></t>
+    <media
+      start="64.410"
+      end="68.751"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">Überschneidung.</comment>
+  <u who="CHI" uID="u16">
+    <pg><w>Nene</w><actual><pw><ph id="ph0">n</ph><ph id="ph1">ɛ</ph><ph id="ph2">.</ph><ph id="ph3">n</ph><ph id="ph4">ɛ</ph><ph id="ph5">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="68.751"
+      end="70.945"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u17">
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual></pg>
+    <pg><w>Mamá</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">.</ph><ph id="ph3">m</ph><ph id="ph4">a</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="70.945"
+      end="197.516"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="ALM" uID="u18">
+    <w>no</w>
+    <w>hay</w>
+    <w>nada</w>
+    <t type="p"></t>
+    <media
+      start="197.516"
+      end="570.513"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u19">
+    <pg><w>Ah</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">ɐ</ph></pw></actual></pg>
+    <pg><w>no</w><actual><pw><ph id="ph0">l</ph><ph id="ph1">o</ph><ph id="ph2">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="570.513"
+      end="574.070"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="ALM" uID="u20">
+    <w>No</w>
+    <w>el</w>
+    <w>amarillo</w>
+    <t type="p"></t>
+    <media
+      start="574.070"
+      end="579.406"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u21">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">ʊ</ph></pw></actual></pg>
+    <pg><w>No</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">u</ph><ph id="ph2">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="579.406"
+      end="596.704"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CVːCV.CVː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u22">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">d</ph><ph id="ph1">ʊ</ph><ss type="1"/><ph id="ph2">n</ph><ph id="ph3">u</ph><ph id="ph4">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="596.704"
+      end="605.354"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CVːCV.CVː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="ALM" uID="u23">
+    <w>Lo</w>
+    <w>abro</w>
+    <w>yo</w>
+    <t type="p"></t>
+    <media
+      start="605.354"
+      end="631.301"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u24">
+    <pg><w>Mira</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">ɪ</ph><ph id="ph4">n</ph><ph id="ph5">.</ph><ph id="ph6">l</ph><ph id="ph7">a</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="631.301"
+      end="654.424"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CVC.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="ALM" uID="u25">
+    <w>Mira</w>
+    <t type="p"></t>
+    <media
+      start="654.424"
+      end="677.547"
+      unit="s"
+    />
+  </u>
+  <u who="FAM" uID="u26">
+    <w>Mira</w>
+    <t type="p"></t>
+    <media
+      start="677.547"
+      end="700.670"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u27">
+    <pg><w>Venga</w><actual><pw><ph id="ph0">v</ph><ph id="ph1">ɛ</ph><ph id="ph2">ŋ</ph><ph id="ph3">.</ph><ph id="ph4">g</ph><ph id="ph5">a</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="700.670"
+      end="707.087"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVC.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="FAM" uID="u28">
+    <w>venga</w>
+    <t type="p"></t>
+    <media
+      start="707.087"
+      end="713.503"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u29">
+    <pg><w>Nada</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">ɛ</ph><ph id="ph2">.</ph><ph id="ph3">n</ph><ph id="ph4">a</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="713.503"
+      end="715.293"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u30">
+    <pg><w>Nada</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">ː</ph><ph id="ph2">ɱ</ph><ph id="ph3">a</ph><ph id="ph4">.</ph><ph id="ph5">n</ph><ph id="ph6">a</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="717.082"
+      end="721.592"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CːCV.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u31">
+    <pg><w>Hay</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">a</ph><ph id="ph2">ɪ</ph><ph id="ph3">̯</ph></pw></actual></pg>
+    <pg><w>Nene</w><actual><pw><ph id="ph0">n</ph><ph id="ph1">ə</ph><ph id="ph2">.</ph><ph id="ph3">n</ph><ph id="ph4">ɛ</ph><ph id="ph5">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="726.102"
+      end="728.015"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVG.CV.CVː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="ALM" uID="u32">
+    <w>Aver</w>
+    <w>el</w>
+    <w>nene</w>
+    <w>no</w>
+    <w>sale</w>
+    <t type="p"></t>
+    <media
+      start="728.015"
+      end="732.795"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u33">
+    <pg><w>El</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">ɛ</ph><ph id="ph2">l</ph></pw></actual></pg>
+    <pg><w>nene</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">ɛ</ph><ph id="ph2">.</ph><ph id="ph3">v</ph><ph id="ph4">e</ph><ph id="ph5">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="732.795"
+      end="738.103"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVC.CV.CVː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u34">
+    <pg><w>Nene</w><actual><pw><ph id="ph0">n</ph><ph id="ph1">œ</ph><ph id="ph2">.</ph><ph id="ph3">n</ph><ph id="ph4">ø</ph><ph id="ph5">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="740.758"
+      end="745.102"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CVː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="ALM" uID="u35">
+    <w>No</w>
+    <w>está</w>
+    <t type="p"></t>
+    <media
+      start="745.102"
+      end="753.790"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u36">
+    <pg><w>No</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">œ</ph></pw></actual></pg>
+    <pg><w>no</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">œ</ph></pw></actual></pg>
+    <pg><w>no</w><actual><pw><ph id="ph0">n</ph><ph id="ph1">œ</ph><ph id="ph2">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="753.790"
+      end="813.738"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV.CVː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="ALM" uID="u37">
+    <w>No</w>
+    <t type="p"></t>
+    <media
+      start="813.738"
+      end="833.720"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">Miguel nimmta das Telefon und wählt eine Nummern.</comment>
+  <u who="ALM" uID="u38">
+    <w>un</w>
+    <w>ojo</w>
+    <t type="p"></t>
+    <media
+      start="853.703"
+      end="893.668"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u39">
+    <w>mira</w>
+    <t type="p"></t>
+    <media
+      start="893.668"
+      end="911.014"
+      unit="s"
+    />
+  </u>
+  <u who="ALM" uID="u40">
+    <w>Que</w>
+    <w>es</w>
+    <w>esto</w>
+    <t type="p"></t>
+    <media
+      start="911.014"
+      end="963.052"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u41">
+    <pg><w>Reloj</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">œ</ph><ph id="ph2">.</ph><ph id="ph3">l</ph><ph id="ph4">ɔ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="963.052"
+      end="968.905"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u42">
+    <pg><w>Tic-tac</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">ʲ</ph><ph id="ph2">ɪ</ph><ph id="ph3">.</ph><ph id="ph4">t</ph><ph id="ph5">ʲ</ph><ph id="ph6">ɪ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="974.758"
+      end="991.317"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="ALM" uID="u43">
+    <w>Está</w>
+    <w>Miguel</w>
+    <w>siß</w>
+    <w>Aver</w>
+    <w>Miguel</w>
+    <w untranscribed="untranscribed">www</w>
+    <w>Hola</w>
+    <w>Miguel</w>
+    <t type="p"></t>
+    <media
+      start="991.317"
+      end="1057.555"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u44">
+    <pg><w>Hola</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">a</ph><ph id="ph2">.</ph><ph id="ph3">j</ph><ph id="ph4">ɛ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1057.555"
+      end="1062.895"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV</a>
+    <a type="extension" flavor="type">imitation</a>
+  </u>
+  <u who="ALM" uID="u45">
+    <w>Hay</w>
+    <w>si</w>
+    <w>yo</w>
+    <w>tengo</w>
+    <w>una</w>
+    <w>casa</w>
+    <t type="p"></t>
+    <media
+      start="1062.895"
+      end="1094.936"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u46">
+    <w type="omission">Y</w>
+    <pg><w>ya</w><actual><pw><ph id="ph0">j</ph><ph id="ph1">ɛ</ph><ph id="ph2">̯</ph><ph id="ph3">a</ph><ph id="ph4">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1094.936"
+      end="1095.908"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CGVː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u47">
+    <pg><w>Ya</w><actual><pw><ph id="ph0">j</ph><ph id="ph1">a</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1096.394"
+      end="1100.062"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u48">
+    <pg><w>Ya</w><actual><pw><ph id="ph0">j</ph><ph id="ph1">a</ph><ph id="ph2">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1103.729"
+      end="1104.854"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u49">
+    <pg><w>Y</w><actual><pw><ph id="ph0">ɪ</ph></pw></actual></pg>
+    <pg><w>ya</w><actual><pw><ph id="ph0">j</ph><ph id="ph1">ɐ</ph><ph id="ph2">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1105.978"
+      end="1108.226"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">V CVː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u50">
+    <pg><w>Y</w><actual><pw><ph id="ph0">ɪ</ph><ph id="ph1">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1109.350"
+      end="1139.871"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">Vː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="ALM" uID="u51">
+    <w>preparados</w>
+    <w>listos</w>
+    <w>y</w>
+    <w>Algodón</w>
+    <t type="p"></t>
+    <media
+      start="1139.871"
+      end="1261.957"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u52">
+    <pg><w>Ya</w><actual><pw><ph id="ph0">j</ph><ph id="ph1">a</ph><ph id="ph2">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1261.957"
+      end="1275.863"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u53">
+    <pg><w>Mamá</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">.</ph><ph id="ph3">m</ph><ph id="ph4">a</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1289.768"
+      end="1298.746"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <comment type="Situation">Man hört eine Plastiktüte</comment>
+  <comment type="Situation">es hört sich ein Flugzeug im Hintergrund</comment>
+  <u who="ALM" uID="u54">
+    <w>el</w>
+    <w>avión</w>
+    <w>se</w>
+    <w>ha</w>
+    <w>ido</w>
+    <w>por</w>
+    <w>la</w>
+    <w>ventana</w>
+    <t type="p"></t>
+    <media
+      start="1316.703"
+      end="1388.531"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u55">
+    <pg><w>Allí</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">ɐ</ph><ph id="ph2">.</ph><ph id="ph3">j</ph><ph id="ph4">ɛ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1388.531"
+      end="1390.504"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="ALM" uID="u56">
+    <w>Y</w>
+    <w>Dónde</w>
+    <w>está</w>
+    <w>las</w>
+    <w>bolsa</w>
+    <w>de</w>
+    <w>las</w>
+    <w>bolas</w>
+    <t type="p"></t>
+    <media
+      start="1390.504"
+      end="1406.284"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u57">
+    <w type="omission">y</w>
+    <pg><w>yay</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">a</ph></pw></actual></pg>
+    <pg><w>ya</w><actual><pw><ph id="ph0">l</ph><ph id="ph1">ː</ph><ph id="ph2">ɐ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1406.284"
+      end="1409.613"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CːV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="ALM" uID="u58">
+    <w>y</w>
+    <w>ya</w>
+    <t type="p"></t>
+    <media
+      start="1409.613"
+      end="1411.314"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u59">
+    <pg><w>Canasta</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">ʰ</ph><ph id="ph2">a</ph><ph id="ph3">.</ph><ph id="ph4">n</ph><ph id="ph5">a</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1411.314"
+      end="1435.692"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u60">
+    <pg><w>Pies</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">a</ph><ph id="ph2">ɪ</ph><ph id="ph3">̯</ph><ph id="ph4">z</ph><ph id="ph5">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1460.070"
+      end="1481.768"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVGCː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="FAM" uID="u61">
+    <w>guardalas</w>
+    <t type="p"></t>
+    <media
+      start="1481.768"
+      end="1503.466"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u62">
+    <pg><w>Mamá</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">e</ph><ph id="ph2">.</ph><ph id="ph3">m</ph><ph id="ph4">ɐ</ph><ph id="ph5">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1503.466"
+      end="1506.950"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CVː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u63">
+    <pg><w>Nene</w><actual><pw><ph id="ph0">n</ph><ph id="ph1">e</ph><ph id="ph2">.</ph><ph id="ph3">n</ph><ph id="ph4">ɛ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1510.434"
+      end="1517.742"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u64">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">e</ph></pw></actual></pg>
+    <pg><w>Nene</w><actual><pw><ph id="ph0">v</ph><ph id="ph1">e</ph><ph id="ph2">.</ph><ph id="ph3">v</ph><ph id="ph4">e</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1525.050"
+      end="1526.192"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV CV.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="ALM" uID="u65">
+    <w>mira</w>
+    <w>que</w>
+    <w>juego</w>
+    <w>más</w>
+    <w>bonito</w>
+    <t type="p"></t>
+    <media
+      start="1526.192"
+      end="1531.904"
+      unit="s"
+    />
+  </u>
+  <u who="ALM" uID="u66">
+    <w>eso</w>
+    <w>que</w>
+    <w>es</w>
+    <w>una</w>
+    <w>vaca</w>
+    <t type="p"></t>
+    <media
+      start="1531.904"
+      end="1537.617"
+      unit="s"
+    />
+  </u>
+  <u who="ALM" uID="u67">
+    <w>Como</w>
+    <w>hace</w>
+    <w>la</w>
+    <w>vaca</w>
+    <t type="p"></t>
+    <media
+      start="1537.617"
+      end="1542.186"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u68">
+    <w type="omission">mu</w>
+    <pg><g><w>Be</w><ga type="paralinguistics">sonido de ovejita</ga></g><actual><pw><ph id="ph0">b</ph><ph id="ph1">e</ph><ph id="ph2">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1542.186"
+      end="1617.886"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVː</a>
+    <a type="extension" flavor="type">spontaneousimitation</a>
+  </u>
+  <u who="CHI" uID="u69">
+    <pg><w>Ay</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">ɑ</ph><ph id="ph2">ɪ</ph><ph id="ph3">̯</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1624.328"
+      end="1668.312"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVG</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <comment type="Situation">die Aufnahme ist sehr leiser, man muss genau hinhören</comment>
+  <u who="CHI" uID="u70">
+    <pg><w>Nene</w><actual><pw><ph id="ph0">n</ph><ph id="ph1">e</ph><ph id="ph2">.</ph><ph id="ph3">n</ph><ph id="ph4">e</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1712.297"
+      end="1719.229"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u71">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">i</ph><ph id="ph2">̯</ph><ph id="ph3">ɛ</ph><ph id="ph4">n</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ɛ</ph><ph id="ph1">s</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ɛ</ph><ph id="ph1">s</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1726.162"
+      end="1733.094"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CGVC VC.VC</a>
+    <a type="extension" flavor="type">imitation</a>
+  </u>
+  <u who="ALM" uID="u72">
+    <w>ese</w>
+    <w>quien</w>
+    <w>es</w>
+    <t type="p"></t>
+    <media
+      start="1733.094"
+      end="1753.891"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u73">
+    <pg><w>Vaca</w><actual><pw><ph id="ph0">v</ph><ph id="ph1">a</ph><ph id="ph2">.</ph><ph id="ph3">v</ph><ph id="ph4">a</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1753.891"
+      end="1757.755"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u74">
+    <pg><w>Vaca</w><actual><pw><ph id="ph0">v</ph><ph id="ph1">ɐ</ph><ph id="ph2">.</ph><ph id="ph3">g</ph><ph id="ph4">ɐ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1761.618"
+      end="1765.481"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV</a>
+    <a type="extension" flavor="type">imitation</a>
+  </u>
+  <u who="CHI" uID="u75">
+    <pg><g><w>Be</w><ga type="paralinguistics">sonido de ovejita</ga></g><actual><pw><ph id="ph0">v</ph><ph id="ph1">e</ph><ph id="ph2">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1769.345"
+      end="1774.337"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u76">
+    <pg><w>Nene</w><actual><pw><ph id="ph0">n</ph><ph id="ph1">ə</ph><ph id="ph2">.</ph><ph id="ph3">n</ph><ph id="ph4">e</ph><ph id="ph5">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1775.585"
+      end="1891.056"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CVː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+</CHAT>

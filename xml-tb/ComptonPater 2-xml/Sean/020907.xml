@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011853-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1974-11-30"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Sean"
+      role="Target_Child"
+      language="eng"
+      age="P2Y09M07D"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">30-NOV-1974</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>spread</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">spɹɛd</a>
+    <a type="extension" flavor="mod">ˈspɹɛd</a>
+    <a type="extension" flavor="uttnum">3279</a>
+    <a type="extension" flavor="sesdat">1974-11-30</a>
+    <a type="extension" flavor="age">2;9.7</a>
+    <a type="comments">spread(m)</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <w>where's</w>
+    <w>a</w>
+    <w>sharp</w>
+    <w>edge</w>
+    <t type="q"></t>
+
+    <a type="extension" flavor="pho">wɛɹz ʌ ʃɔɹp ɛʤ</a>
+    <a type="extension" flavor="mod">ˈwɛɹz ə ˈʃɑɹp ˈɛʤ</a>
+    <a type="extension" flavor="uttnum">3280</a>
+    <a type="extension" flavor="sesdat">1974-11-30</a>
+    <a type="extension" flavor="age">2;9.7</a>
+  </u>
+</CHAT>

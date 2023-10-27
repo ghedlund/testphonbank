@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011209-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1973-03-07"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Julia"
+      role="Target_Child"
+      language="eng"
+      age="P1Y02M20D"
+      sex="female"
+
+    />
+  </Participants>
+  <comment type="Date">07-MAR-1973</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>rock</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>rock</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>rock</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">waːwaːwaː</a>
+    <a type="extension" flavor="mod">ˈɹɑk ˈɹɑk ˈɹɑk</a>
+    <a type="extension" flavor="uttnum">1</a>
+    <a type="extension" flavor="sesdat">1973-03-07</a>
+    <a type="extension" flavor="age">1;2.18</a>
+    <a type="comments">(in rocking chair)</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <w type="omission">what's</w>
+    <w>that</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">ðæ.</a>
+    <a type="extension" flavor="mod">ˈðæt</a>
+    <a type="extension" flavor="uttnum">2</a>
+    <a type="extension" flavor="sesdat">1973-03-07</a>
+    <a type="extension" flavor="age">1;2.18</a>
+  </u>
+</CHAT>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00021988-1"
+      Version="2.20.0"
+      Lang="nld"
+      Corpus="CLPF"
+      Date="1989-10-30"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Tom"
+      role="Target_Child"
+      language="nld"
+      age="P1Y00M24D"
+      sex="male"
+
+      birthday="1988-10-06"
+
+    />
+  </Participants>
+  <comment type="Date">30-OCT-1989</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <pg><w>aai</w><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">ː</ph><ph id="ph2">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">i</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">stroke</a>
+    <a type="extension" flavor="morphc">[N]</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <pg><w>aai</w><actual><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">͡</ph><ph id="ph2">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">i</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">stroke</a>
+    <a type="extension" flavor="morphc">[N]</a>
+  </u>
+  <u who="CHI" uID="u2">
+    <pg><w>aai</w><actual><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">͡</ph><ph id="ph2">a</ph><ph id="ph3">u</ph><ph id="ph4">w</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">i</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">stroke</a>
+    <a type="extension" flavor="morphc">[N]</a>
+  </u>
+</CHAT>

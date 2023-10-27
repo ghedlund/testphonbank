@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011803-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1974-08-02"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Sean"
+      role="Target_Child"
+      language="eng"
+      age="P2Y05M09D"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">02-AUG-1974</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>I</w>
+    <w>am</w>
+    <w>be<shortening>ing</shortening></w>
+    <w>gentle</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">ai æm bi ʤɛnto</a>
+    <a type="extension" flavor="mod">ˈaɪ ˈæm ˈbiː ˈʤɛntəl</a>
+    <a type="extension" flavor="uttnum">*2594</a>
+    <a type="extension" flavor="sesdat">1974-08-02</a>
+    <a type="extension" flavor="age">2;5.10</a>
+    <a type="comments">(imitation for gentle)</a>
+  </u>
+</CHAT>

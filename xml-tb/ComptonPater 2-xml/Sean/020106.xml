@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011756-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1974-03-29"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Sean"
+      role="Target_Child"
+      language="eng"
+      age="P2Y01M06D"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">29-MAR-1974</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>I</w>
+    <w>like</w>
+    <w>it</w>
+    <w>mommy</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">ai waik ɪt mami</a>
+    <a type="extension" flavor="mod">ˈaɪ ˈlaɪk ˈɪt ˈmɑmiː</a>
+    <a type="extension" flavor="uttnum">1898</a>
+    <a type="extension" flavor="sesdat">1974-03-29</a>
+    <a type="extension" flavor="age">2;1.6</a>
+    <a type="comments">(eating eggs)</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <w>fork</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">fɔɹk</a>
+    <a type="extension" flavor="mod">ˈfɔɹk</a>
+    <a type="extension" flavor="uttnum">1899</a>
+    <a type="extension" flavor="sesdat">1974-03-29</a>
+    <a type="extension" flavor="age">2;1.6</a>
+  </u>
+</CHAT>

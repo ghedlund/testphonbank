@@ -1,0 +1,5817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00042288-1"
+      Version="2.20.0"
+      Lang="spa glg"
+      Corpus="Koine"
+      Date="1999-12-15"
+      >
+  <Participants>
+    <participant
+      id="DIA"
+    name="Claudia"
+      role="Target_Child"
+      language="spa glg"
+      age="P3Y"
+      sex="female"
+      group="Breogán"
+
+    />
+    <participant
+      id="PAU"
+    name="Paula"
+      role="Target_Child"
+      language="spa glg"
+      age="P3Y03M14D"
+      sex="female"
+      group="Breogán"
+
+    />
+    <participant
+      id="ELI"
+    name="Elia"
+      role="Target_Child"
+      language="spa glg"
+      age="P3Y01M09D"
+      sex="female"
+      group="Breogán"
+
+    />
+    <participant
+      id="JUA"
+    name="Juan"
+      role="Target_Child"
+      language="spa glg"
+      age="P3Y05M06D"
+      sex="male"
+      group="Breogán"
+
+    />
+    <participant
+      id="XAQ"
+    name="Xaquin"
+      role="Target_Child"
+      language="spa glg"
+      age="P3Y02M22D"
+      sex="male"
+      group="Breogán"
+
+    />
+    <participant
+      id="ANC"
+    name="AnaCodesido"
+      role="Investigator"
+      language="spa glg"
+      sex="female"
+      group="Breogán"
+
+    />
+    <participant
+      id="CHE"
+    name="Cheché"
+      role="Investigator"
+      language="spa glg"
+      sex="female"
+      group="Breogán"
+
+    />
+  </Participants>
+  <comment type="Transcriber">SIL</comment>
+  <comment type="Location">Santiago de Compostela</comment>
+  <comment type="Situation">escuela infantil de Breogán</comment>
+  <comment type="Activities">juego simbólico y denominación</comment>
+  <comment type="Tape Location">bre6_4</comment>
+  <comment type="Date">15-DEC-1999</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="DIA" uID="u0">
+    <w>y</w>
+    <g><w>yo</w><k type="retracing"/></g>
+    <w>y</w>
+    <w>yo</w>
+    <w>a</w>
+    <w>Fontiñas</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u1">
+    <w>guau</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>excursión</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u2">
+    <w>sí</w>
+    <w>le</w>
+    <w>llevé</w>
+    <w>yo</w>
+    <w>a</w>
+    <w>mi</w>
+    <w>casa</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|llevar:2SIL_PAS1:1S:1C_MOD-CLI3-VER-ARG1-CIRC_303_2SIL:llevé .</a>
+  </u>
+  <u who="ANC" uID="u3">
+    <w>a</w>
+    <w>tu</w>
+    <w>casa</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u4">
+    <g><w>sí</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u5">
+    <g><w>pobre</w><overlap type="overlap precedes"/></g>
+    <w>Claudia</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u6">
+    <w>pero</w>
+    <w>ahora</w>
+    <w>voy</w>
+    <w>a</w>
+    <w>ir</w>
+    <w>a</w>
+    <w>la</w>
+    <w>casa</w>
+    <w>de</w>
+    <w>Paula</w>
+    <w>también</w>
+    <t type="e"></t>
+
+    <a type="extension" flavor="mor">v|ir:1SIL_PRES:1S:3C_1SIL:voy~v|ir:1SIL_INF:3C_ENL3-CIRC-PER-CIRC-MOD_300_1SL:ir !</a>
+    <a type="comments">última palabra en voz muy baja</a>
+  </u>
+  <u who="ANC" uID="u7">
+    <w>también</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u8">
+    <w>pero</w>
+    <w>a</w>
+    <w>qué</w>
+    <w>fuiste</w>
+    <w>a</w>
+    <w>casa</w>
+    <w>de</w>
+    <g><w>Paula</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="DIA" uID="u9">
+    <g><w>pero</w><overlap type="overlap precedes"/></g>
+    <w>quiero</w>
+    <w>dormir</w>
+    <g><w>a</w>
+    <w>con</w>
+    <w>Pau<shortening>la</shortening></w><k type="best guess"/><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|querer:2SIL_PRES:1S:2C_ENL3-VER-ARG2_300_2SIL:quiero ; v|dormir:2SIL_INF:3C_VER-CIRC_300_2SIL:dormir .</a>
+    <a type="actions">juguetea con el mantel de la mesa</a>
+  </u>
+  <u who="ANC" uID="u10">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <g><w>deja<shortening>mos</shortening></w><k type="retracing"/></g>
+    <g><w>dejamos</w>
+    <w>el</w>
+    <w>mantel</w><overlap type="overlap precedes"/></g>
+    <w>porque</w>
+    <w>si</w>
+    <w>no</w>
+    <w>no</w>
+    <w>te</w>
+    <w>va</w>
+    <w>a</w>
+    <w>ver</w>
+    <w>Cheché</w>
+    <w>la</w>
+    <w>carita</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u11">
+    <w>eh</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u12">
+    <w>así</w>
+    <t type="p"></t>
+
+    <a type="actions">deja de juguetear con el mantel</a>
+  </u>
+  <u who="ANC" uID="u13">
+    <w>mira</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>a</w>
+    <w>qué</w>
+    <w>fuiste</w>
+    <w>a</w>
+    <w>casa</w>
+    <w>de</w>
+    <w>Paula</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u14">
+    <w>jugar</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|jugar:2SIL_INF:1C_VER_303_2SIL:jugar .</a>
+  </u>
+  <u who="ANC" uID="u15">
+    <w>a</w>
+    <w>jugar</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u16">
+    <w>fue</w>
+    <w>a</w>
+    <w>tu</w>
+    <w>casa</w>
+    <w>a</w>
+    <w>jugar</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u17">
+    <w>sí</w>
+    <t type="q"></t>
+
+    <a type="actions">PAU responde ligeramente que sí con la cabeza</a>
+  </u>
+  <u who="ANC" uID="u18">
+    <w>a</w>
+    <w>qué</w>
+    <w>jugastes</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ELI" uID="u19">
+    <w>yo</w>
+    <w>no</w>
+    <g><w>fumé</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">fumé=jugué $PHO ;</a>
+    <a type="extension" flavor="mor">v|fumar:2SIL_PAS1:1S:1C_ARG1-VER_301_2SIL:fumé .</a>
+    <a type="extension" flavor="phon">$SUS-FRON $SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u20">
+    <w>tú</w>
+    <w>no</w>
+    <w>jugaste</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u21">
+    <w>y</w>
+    <w>por</w>
+    <w>qué</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ELI" uID="u22">
+    <g><w>mañana</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PAU" uID="u23">
+    <w>mañana</w>
+    <w>te</w>
+    <w>voy</w>
+    <w>a</w>
+    <w>llevar</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>vale</w>
+    <t type="q"></t>
+
+    <a type="extension" flavor="mor">v|ir:1SIL_PRES:1S:3C_1SIL:voy~v|llevar:2SIL_INF:1C_CIRC-CLI3-PER_303_2SIL:llevar ; v|valer:2SIL_PRES:3S:2C_VER_303_2SIL:vale ?</a>
+    <a type="addressee">ELI</a>
+  </u>
+  <u who="ELI" uID="u24">
+    <w>mañana</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="XAQ" uID="u25">
+    <w>y</w>
+    <w>a</w>
+    <w>mí</w>
+    <w>cuándo</w>
+    <w>me</w>
+    <w>llevas</w>
+    <t type="q"></t>
+
+    <a type="extension" flavor="mor">v|llevar:2SIL_PRES:2S:1C_ENL3-ARG3-CIRC'INT-CLI3-VER_302_2SIL:llevas ?</a>
+    <a type="addressee">PAU</a>
+  </u>
+  <u who="PAU" uID="u26">
+    <g><w>pues</w><k type="retracing"/></g>
+    <w>pues</w>
+    <g><w>de</w><error/></g>
+    <w>mañana</w>
+    <w>te</w>
+    <w>llevo</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>vale</w>
+    <t type="q"></t>
+
+    <a type="extension" flavor="par">de mañana=mañana $CON ;</a>
+    <a type="extension" flavor="mor">v|llevar:2SIL_PRES:1S:1C_ENL3-CIRC-CLI3-VER_303_2SIL:llevo ; v|valer:2SIL_PRES:3S:2C_VER_303_2SIL:vale ?</a>
+  </u>
+  <u who="XAQ" uID="u27">
+    <w>vale</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u28">
+    <w>y</w>
+    <w>a</w>
+    <g><w>ti</w><overlap type="overlap follows"/></g>
+    <t type="self interruption"></t>
+
+    <a type="addressee">JUA</a>
+  </u>
+  <u who="ANC" uID="u29">
+    <w>y</w>
+    <w>a</w>
+    <g><w>mí</w><overlap type="overlap precedes"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u30">
+    <w>mañana</w>
+    <w>te</w>
+    <w>llevo</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|llevar:2SIL_PRES:1S:1C_CIRC-CLI3-VER_303_2SIL:llevo .</a>
+    <a type="addressee">JUA</a>
+  </u>
+  <u who="DIA" uID="u31">
+    <w>y</w>
+    <w>a</w>
+    <w>mí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u32">
+    <w>a</w>
+    <w>ti</w>
+    <w>te</w>
+    <w>voy</w>
+    <w>a</w>
+    <w>llevar</w>
+    <w>después</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|ir:1SIL_PRES:1S:3C_1SIL:voy~v|llevar:2SIL_INF:1C_ARG3-CLI3-PER-CIRC_303_2SIL:llevar .</a>
+  </u>
+  <u who="DIA" uID="u33">
+    <w>mañana</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u34">
+    <w>por</w>
+    <w>la</w>
+    <w>tarde</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u35">
+    <w>mira</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>y</w>
+    <w>a</w>
+    <w>qué</w>
+    <w>jugáis</w>
+    <w>en</w>
+    <w>tu</w>
+    <w>casa</w>
+    <w>Paula</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u36">
+    <w>a</w>
+    <w>colondrín</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u37">
+    <w>a</w>
+    <w>qué</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u38">
+    <w>a</w>
+    <w>colondín</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u39">
+    <w>y</w>
+    <w>eso</w>
+    <w>qué</w>
+    <w>es</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u40">
+    <w>juego</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u41">
+    <w>un</w>
+    <w>juego</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u42">
+    <w>y</w>
+    <w>cómo</w>
+    <w>se</w>
+    <w>juega</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ELI" uID="u43">
+    <w>colorín</w>
+    <w>colorín</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u44">
+    <w>colorín</w>
+    <w>colorado</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u45">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>colondrín</w>
+    <w>colondrero</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u46">
+    <w>colondrín</w>
+    <w>colondrero</w>
+    <pause symbolic-length="simple"/>
+    <w>yo</w>
+    <w>no</w>
+    <w>tengo</w>
+    <w>ni</w>
+    <w>idea</w>
+    <w>de</w>
+    <w>ese</w>
+    <w>juego</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u47">
+    <w>que</w>
+    <w>hay</w>
+    <w>que</w>
+    <w>hacer</w>
+    <g><w>en</w>
+    <w>ese</w>
+    <w>juego</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u48">
+    <g><w>ze</w><error/></g>
+    <w>pone</w>
+    <w>aquí</w>
+    <w>un</w>
+    <w>niño</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <w>colondrín</w>
+    <g><w>colondrero</w><overlap type="overlap precedes"/><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">ze=se $PHO ;</a>
+    <a type="extension" flavor="mor">v|poner:2SIL_PRES:3S:2C_CLI1-VER-CIRC-ARG1-INI_305_2SIL:pone .</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="DIA" uID="u49">
+    <w>hay</w>
+    <g><w>que</w><k type="retracing"/></g>
+    <w>hay</w>
+    <w>que</w>
+    <w>hacer</w>
+    <w>así</w>
+    <w>y</w>
+    <g><w>despuéz</w><overlap type="overlap precedes"/><overlap type="overlap follows"/></g>
+    <t type="self interruption"></t>
+
+    <a type="extension" flavor="par">despuéz=después $PHO ;</a>
+    <a type="extension" flavor="mor">v|haber:2SIL_PRES:3S:2C_1SIL:hay~v|hacer:2SIL_INF:2C_PER-CIRC-ENL2-CIRC-INC_300_2SIL:hacer +//.</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+    <a type="actions">apoya la cabeza en la mesa tapándose los ojos con las manos</a>
+  </u>
+  <u who="ELI" uID="u50">
+    <w>te</w>
+    <g><w>niño</w><k type="best guess"/><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u51">
+    <w>hay</w>
+    <w>que</w>
+    <w>ir</w>
+    <w>a</w>
+    <g><w>laz</w>
+    <w untranscribed="unintelligible">xxx</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|haber:2SIL_PRES:3S:2C_1SIL:hay~v|ir:1SIL_INF:3C_PER-INI_300_1SIL:ir .</a>
+  </u>
+  <u who="ANC" uID="u52">
+    <w>a</w>
+    <g><w>ver</w><overlap type="overlap precedes"/></g>
+    <w>nos</w>
+    <w>lo</w>
+    <w>cuenta</w>
+    <w>Paula</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>qué</w>
+    <w>hay</w>
+    <w>que</w>
+    <w>hacer</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DIA" uID="u53">
+    <w>hay</w>
+    <w>que</w>
+    <w>decir</w>
+    <w>colondrín</w>
+    <w>colondrero</w>
+    <pause symbolic-length="simple"/>
+    <g><w>el</w>
+    <w>que</w>
+    <w>no</w>
+    <w>sepa</w>
+    <w>jugar</w><overlap type="overlap follows"/></g>
+    <g><w>ansa</w><k type="best guess"/></g>
+    <w>la</w>
+    <w>mano</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <w>sin</w>
+    <w>hablar</w>
+    <w>y</w>
+    <w>ahí</w>
+    <g><w>quedaz</w><k type="best guess"/></g>
+    <w>tú</w>
+    <w>y</w>
+    <w>un</w>
+    <g><w>pellesquito</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">quedaz=quedas $PHO ; pellesquito=pellizquito $PHO ;</a>
+    <a type="extension" flavor="mor">v|haber:2SIL_PRES:3S:2C_1SIL:hay~v|decir:1SIL_INF:3C_PER-ARG2_300_2SIL:decir ; v|saber:2SIL_PRES:3S:2C_ARG1'REL-VER-ARG2_300_2SIL:sepa ; v|jugar:2SIL_INF:1C_VER_300_2SIL:jugar ; v|hablar:2SIL_INF:1C_ENL1-VER_300_2SIL:hablar ; v|quedar:2SIL_PRES:2S:1C_ENL2-CIRC-VER-ARG1_300_2SIL:quedaz .</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS $SUS-FRON</a>
+  </u>
+  <u who="JUA" uID="u54">
+    <w>y</w>
+    <w>te</w>
+    <w>tapa</w>
+    <pause symbolic-length="simple"/>
+    <g><w>así</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|tapar:2SIL_INF:3S:1C_ENL3-CLI2-VER-CIRC_305_2SIL:tapa .</a>
+    <a type="actions">se cubre los ojos con las manos</a>
+  </u>
+  <u who="ANC" uID="u55">
+    <w>hay</w>
+    <w>que</w>
+    <w>decir</w>
+    <w>tú</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>y</w>
+    <t type="self interruption question"></t>
+
+  </u>
+  <u who="JUA" uID="u56">
+    <linker type="other completion"/>
+    <w>y</w>
+    <w>un</w>
+    <w>pellizquito</w>
+    <w>y</w>
+    <w>ze</w>
+    <w>pone</w>
+    <w>él</w>
+    <w>azí</w>
+    <g><w>taparito</w><error/></g>
+    <g><w>y</w><k type="retracing"/></g>
+    <g><w>y</w><k type="retracing"/></g>
+    <w>y</w>
+    <g><w>dije</w><k type="retracing with correction"/></g>
+    <w>y</w>
+    <w>dijo</w>
+    <pause symbolic-length="simple"/>
+    <w>Alejandro</w>
+    <s type="colon"/>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">ze=se $PHO ; azí $PHO ; taparito=tapadito $PHO ;</a>
+    <a type="extension" flavor="mor">v|poner:2SIL_PRES:3S:2C_ENL3-CLI1-VER-ARG1-CIRC-PRED_305_2SIL:pone ; v|decir:2SIL_PRES:3S:3C_ENL2-VER-ARG2_305_2SIL:dijo !</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS-FRON ; $SUS</a>
+  </u>
+  <u who="JUA" uID="u57">
+    <g><w>y</w><overlap type="overlap follows"/></g>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="ANC" uID="u58">
+    <g><w>y</w><overlap type="overlap precedes"/></g>
+    <w>Alejandro</w>
+    <w>qué</w>
+    <w>tiene</w>
+    <w>que</w>
+    <w>ver</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u59">
+    <w>un</w>
+    <g><w>pellezquito</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">pellezquito=pellizquito $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="ANC" uID="u60">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>jugamos</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u61">
+    <w>sí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u62">
+    <w>queréis</w>
+    <w>jugar</w>
+    <w>un</w>
+    <w>poco</w>
+    <t type="q"></t>
+
+    <a type="actions">JUA responde que sí con la cabeza</a>
+  </u>
+  <u who="ANC" uID="u63">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u64">
+    <w>pues</w>
+    <w>a</w>
+    <w>ver</w>
+    <w>venga</w>
+    <w>yo</w>
+    <w>tengo</w>
+    <w>que</w>
+    <w>aprender</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>jugar</w>
+    <w>a</w>
+    <w>esto</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u65">
+    <w>a</w>
+    <w>ver</w>
+    <w>venga</w>
+    <w>empieza</w>
+    <w>Xaquín</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sabes</w>
+    <w>jugar</w>
+    <w>Xaquín</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u66">
+    <w>pues</w>
+    <w>venga</w>
+    <w>va</w>
+    <w>empieza</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>qué</w>
+    <w>hay</w>
+    <w>que</w>
+    <w>hacer</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u67">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>colondrín</w>
+    <w>colondrero</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u68">
+    <w>es</w>
+    <w>así</w>
+    <t type="q"></t>
+
+    <a type="actions">los niños responden que sí con la cabeza</a>
+  </u>
+  <u who="DIA" uID="u69">
+    <w>es</w>
+    <w>que</w>
+    <w>queremos</w>
+    <w>jugar</w>
+    <w>ahora</w>
+    <w>a</w>
+    <w>golondrín</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_VER-PRED_300_1SIL:es ; v|querer:2SIL_PRES:1P:2C_ENL2-VER-ARG2_300_3SIL:queremos ; v|jugar:2SIL_INF:1C_VER-CIRC-SUPL_300_2SIL:jugar .</a>
+    <a type="addressee">ANC</a>
+  </u>
+  <u who="ANC" uID="u70">
+    <w>queréis</w>
+    <w>jugar</w>
+    <w>a</w>
+    <w>eso</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u71">
+    <w>pues</w>
+    <w>venga</w>
+    <w>jugamos</w>
+    <pause symbolic-length="simple"/>
+    <g><w>pero</w><overlap type="overlap follows"/></g>
+    <w>así</w>
+    <w>sentados</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u72">
+    <g><w>pero</w><overlap type="overlap precedes"/></g>
+    <w>no</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>allí</w>
+    <t type="e"></t>
+
+    <a type="actions">señala hacia atrás</a>
+  </u>
+  <u who="ANC" uID="u73">
+    <w>ah</w>
+    <w>allí</w>
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>bueno</w>
+    <w>pues</w>
+    <w>después</w>
+    <pause symbolic-length="simple"/>
+    <w>entonces</w>
+    <w>jugamos</w>
+    <w>a</w>
+    <w>otra</w>
+    <w>cosa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u74">
+    <w>sí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u75">
+    <w>a</w>
+    <w>las</w>
+    <w>cartas</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u76">
+    <w>a</w>
+    <w>las</w>
+    <w>cartas</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u77">
+    <w>jugamos</w>
+    <w>a</w>
+    <w>las</w>
+    <w>cartas</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u78">
+    <g><w>sí</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u79">
+    <g><w>sí</w><overlap type="overlap precedes"/><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u80">
+    <g><w>sí</w><overlap type="overlap precedes"/><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u81">
+    <g><w>sí</w><overlap type="overlap precedes"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="DIA" uID="u82">
+    <w>ahora</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u83">
+    <w>sí</w>
+    <w>pero</w>
+    <w>te</w>
+    <w>sientas</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>verdad</w>
+    <w>Claudia</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DIA" uID="u84">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u85">
+    <w>porque</w>
+    <w>si</w>
+    <w>no</w>
+    <w>te</w>
+    <w>vas</w>
+    <w>a</w>
+    <w>escapar</w>
+    <w>de</w>
+    <w>la</w>
+    <w>foto</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u86">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>las</w>
+    <w>cartas</w>
+    <w>de</w>
+    <w>animales</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>nos</w>
+    <w>valen</w>
+    <t type="q"></t>
+
+    <a type="actions">extrae de la carpeta la baraja</a>
+  </u>
+  <u who="XAQ" uID="u87">
+    <g><w>zí</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">zí=sí $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u88">
+    <w>sí</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>valen</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u89">
+    <g><w>sí</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u90">
+    <w>una</w>
+    <w>para</w>
+    <w>Elia</w>
+    <pause symbolic-length="simple"/>
+    <w>otra</w>
+    <w>para</w>
+    <w>Paula</w>
+    <pause symbolic-length="simple"/>
+    <w>otra</w>
+    <w>para</w>
+    <w>Juan</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>otra</w>
+    <w>para</w>
+    <w>Xaquín</w>
+    <w>y</w>
+    <w>otra</w>
+    <g><w>para</w>
+    <w>mí</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+    <a type="actions">señala por orden a cada uno de los niños</a>
+  </u>
+  <u who="ELI" uID="u91">
+    <w>hay</w>
+    <g><w>una</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="mor">v|haber:2SIL_PRES:3S:2C_VER-INC_301_1SIL:hay !</a>
+    <a type="actions">mira y señala la carpeta</a>
+  </u>
+  <u who="ANC" uID="u92">
+    <w>sí</w>
+    <t type="p"></t>
+
+    <a type="addressee">ELI</a>
+  </u>
+  <u who="ELI" uID="u93">
+    <w>cuanta</w>
+    <g><w>tena</w><k type="best guess"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u94">
+    <w>estas</w>
+    <w>son</w>
+    <w>otras</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u95">
+    <w>pero</w>
+    <w>con</w>
+    <w>estas</w>
+    <w>jugamos</w>
+    <w>después</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ELI" uID="u96">
+    <w>nuestra</w>
+    <g><w>cera</w><k type="best guess"/><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u97">
+    <w>a</w>
+    <g><w>verlas</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u98">
+    <w>a</w>
+    <w>verlas</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u99">
+    <w>uy</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>se</w>
+    <w>me</w>
+    <w>escapan</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u100">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="comments">parece imitar lo que ANC dice</a>
+  </u>
+  <u who="ANC" uID="u101">
+    <w>voy</w>
+    <w>a</w>
+    <w>escoger</w>
+    <pause symbolic-length="simple"/>
+    <w>las</w>
+    <w>más</w>
+    <w>bonitas</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u102">
+    <w>cuántos</w>
+    <w>somos</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u103">
+    <w>cuántas</w>
+    <w>tendría</w>
+    <w>que</w>
+    <w>coger</w>
+    <w>yo</w>
+    <w>a</w>
+    <w>ver</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u104">
+    <w>cuántas</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DIA" uID="u105">
+    <w>una</w>
+    <g><w>dos</w>
+    <w>tres</w>
+    <w>y</w>
+    <w>cuatro</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PAU" uID="u106">
+    <w>dos</w>
+    <w>tres</w>
+    <w>y</w>
+    <g><w>cuatro</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u107">
+    <w>cuatro</w>
+    <w>y</w>
+    <w>me</w>
+    <w>falta</w>
+    <w>una</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PAU" uID="u108">
+    <w>cinco</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u109">
+    <w>cinco</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u110">
+    <w>sois</w>
+    <w>cinco</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u111">
+    <w>uno</w>
+    <w>dos</w>
+    <w>tres</w>
+    <w>cuatro</w>
+    <w>y</w>
+    <w>cinco</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u112">
+    <w>sí</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>y</w>
+    <w>para</w>
+    <w>mí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DIA" uID="u113">
+    <w>no</w>
+    <t type="p"></t>
+
+    <a type="comments">pronunciación de la vocal o próxima a e</a>
+  </u>
+  <u who="PAU" uID="u114">
+    <w>no</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u115">
+    <w>para</w>
+    <w>mí</w>
+    <w>no</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DIA" uID="u116">
+    <w>no</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u117">
+    <w>no</w>
+    <w>no</w>
+    <w>no</w>
+    <w>no</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>seguro</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DIA" uID="u118">
+    <g><w>no</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ELI" uID="u119">
+    <g><w>sí</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u120">
+    <w>Elia</w>
+    <w>dice</w>
+    <w>que</w>
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u121">
+    <w>no</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u122">
+    <w>no</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u123">
+    <w>nadie</w>
+    <w>dice</w>
+    <w>que</w>
+    <w>no</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u124">
+    <g><w>a</w>
+    <w>ver</w><overlap type="overlap follows"/></g>
+    <w>quién</w>
+    <g><w>más</w><k type="retracing"/></g>
+    <w>quién</w>
+    <w>más</w>
+    <w>dice</w>
+    <w>que</w>
+    <w>sí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ELI" uID="u125">
+    <w>yo</w>
+    <g><w>sí</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="XAQ" uID="u126">
+    <g><w>sí</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u127">
+    <g><w>no</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u128">
+    <g><w>sí</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u129">
+    <g><w>Xaquín</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PAU" uID="u130">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u131">
+    <w>no</w>
+    <w>no</w>
+    <w>no</w>
+    <g><w>no</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ELI" uID="u132">
+    <w>sí</w>
+    <w>sí</w>
+    <g><w>sí</w><overlap type="overlap precedes"/><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u133">
+    <w>sí</w>
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>pues</w>
+    <w>tres</w>
+    <w>contra</w>
+    <w>dos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u134">
+    <w>la</w>
+    <pause symbolic-length="simple"/>
+    <w>para</w>
+    <w>mí</w>
+    <w>también</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u135">
+    <w>seis</w>
+    <t type="p"></t>
+
+    <a type="actions">toma seis cartas de la baraja</a>
+  </u>
+  <u who="ELI" uID="u136">
+    <w>deja</w>
+    <w>para</w>
+    <w>juego</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|dejar:2SIL_IMP:2S:1C_VER-CIRC_301_2SIL:deja .</a>
+  </u>
+  <u who="ANC" uID="u137">
+    <w>a</w>
+    <w>ver</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>vamos</w>
+    <w>a</w>
+    <w>hacer</w>
+    <w>como</w>
+    <w>siempre</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u138">
+    <w>escogemos</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u139">
+    <g><w>sí</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u140">
+    <g><w>sí</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+    <a type="comments">en voz baja</a>
+  </u>
+  <u who="ANC" uID="u141">
+    <w>cada</w>
+    <w>uno</w>
+    <w>escoge</w>
+    <w>la</w>
+    <w>suya</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u142">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u143">
+    <w>vale</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u144">
+    <w>pues</w>
+    <w>empezamos</w>
+    <w>por</w>
+    <w>aquí</w>
+    <w>ya</w>
+    <w>por</w>
+    <w>este</w>
+    <w>lado</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u145">
+    <w>escoge</w>
+    <w>una</w>
+    <w>Elia</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ELI" uID="u146">
+    <w>ésta</w>
+    <t type="p"></t>
+
+    <a type="comments">en voz baja</a>
+  </u>
+  <u who="ANC" uID="u147">
+    <w>cógela</w>
+    <t type="e"></t>
+
+    <a type="actions">ELI coge una carta</a>
+  </u>
+  <u who="ANC" uID="u148">
+    <w>y</w>
+    <w>ahora</w>
+    <w>nos</w>
+    <w>tienes</w>
+    <g><w>que</w><k type="retracing with correction"/></g>
+    <w>se</w>
+    <w>la</w>
+    <w>enseñas</w>
+    <w>a</w>
+    <w>Cheché</w>
+    <w>así</w>
+    <pause symbolic-length="simple"/>
+    <w>le</w>
+    <w>dices</w>
+    <w>mira</w>
+    <w>mira</w>
+    <w>que</w>
+    <w>me</w>
+    <w>tocó</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u149">
+    <w>y</w>
+    <w>nos</w>
+    <w>cuentas</w>
+    <w>lo</w>
+    <w>que</w>
+    <w>es</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ELI" uID="u150">
+    <w>un</w>
+    <w>patito</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u151">
+    <w>un</w>
+    <w>patito</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ELI" uID="u152">
+    <w>sí</w>
+    <t type="p"></t>
+
+    <a type="comments">susurrando</a>
+  </u>
+  <u who="ANC" uID="u153">
+    <w>es</w>
+    <w>un</w>
+    <w>patito</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u154">
+    <w>lo</w>
+    <w>ponemos</w>
+    <w>aquí</w>
+    <t type="q"></t>
+
+    <a type="actions">coge la carta de ELI y la coloca en el centro de la mesa</a>
+  </u>
+  <u who="ANC" uID="u155">
+    <w>ahora</w>
+    <w>Paula</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u156">
+    <w>uy</w>
+    <t type="e"></t>
+
+    <a type="actions">se le cae una carta de la baraja</a>
+  </u>
+  <u who="ELI" uID="u157">
+    <w>lo</w>
+    <w>pone</w>
+    <w>mu</w>
+    <g><w>mal</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">pone=pones $PHO ; mu=muy $PHO ;</a>
+    <a type="extension" flavor="mor">v|poner:2SIL_PRES:3S:2C_CLI2-VER-CIRC_301_2SIL:pone !</a>
+    <a type="extension" flavor="phon">$OMI ; $OMI</a>
+    <a type="actions">ANC acerca el abanico de cartas a PAU</a>
+  </u>
+  <u who="XAQ" uID="u158">
+    <w>yo</w>
+    <w>quiero</w>
+    <g><w>velo</w><error/><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">velo=verlo $PHO ;</a>
+    <a type="extension" flavor="mor">v|querer:2SIL_PRES:1S:2C_ARG1-VER-ARG2_302_2SIL:quiero ; v|ver:1SIL_INF:2C_VER-ARG2_302_1SIL:ve !</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="PAU" uID="u159">
+    <w>un</w>
+    <g><w>león</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+    <a type="actions">lo enseña a las entrevistadoras</a>
+  </u>
+  <u who="ANC" uID="u160">
+    <w>un</w>
+    <w>león</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u161">
+    <w>a</w>
+    <w>ve</w>
+    <g><w>león</w><overlap type="overlap follows"/><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">ve=ver $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="ANC" uID="u162">
+    <g><w>a</w>
+    <w>ver</w>
+    <w>Xaquín</w>
+    <w>é</w>
+    <w>un</w>
+    <w>león</w><overlap type="overlap precedes"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAQ" uID="u163">
+    <w>a</w>
+    <g><w>ve</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">ve=ver $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="ELI" uID="u164">
+    <w>como</w>
+    <w>yo</w>
+    <s type="colon"/>
+    <t type="e"></t>
+
+  </u>
+  <u who="ELI" uID="u165">
+    <w>así</w>
+    <t type="e"></t>
+
+    <a type="actions">PAU enseña la carta a XAQ</a>
+  </u>
+  <u who="DIA" uID="u166">
+    <w>pon</w>
+    <w>uno</w>
+    <w>a</w>
+    <t type="self interruption"></t>
+
+    <a type="extension" flavor="mor">v|poner:2SIL_IMP:2S:2C_VER-ARG2-INC_300_1SIL:pon +//.</a>
+  </u>
+  <u who="ANC" uID="u167">
+    <w>ahí</w>
+    <t type="e"></t>
+
+    <a type="actions">coloca la carta al lado de la primera</a>
+  </u>
+  <u who="ANC" uID="u168">
+    <w>ahora</w>
+    <w>Juan</w>
+    <t type="p"></t>
+
+    <a type="actions">acerca el abanico al niño</a>
+  </u>
+  <u who="ANC" uID="u169">
+    <w>Juan</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ELI" uID="u170">
+    <w>un</w>
+    <w>patito</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u171">
+    <w>sh</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <w>se</w>
+    <w>puede</w>
+    <w>decir</w>
+    <t type="e"></t>
+
+    <a type="addressee">ELI</a>
+    <a type="comments">susurrando</a>
+  </u>
+  <u who="JUA" uID="u172">
+    <w>un</w>
+    <w>delfín</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u173">
+    <w>sí</w>
+    <w>toma</w>
+    <t type="e"></t>
+
+    <a type="extension" flavor="mor">v|tomar:2SIL_IMP:2S:1C_MOD-VER_302_2SIL:toma !</a>
+    <a type="actions">XAQ mira la carta de JUA y se la da a ANC, que la coloca junto a las demás</a>
+    <a type="comments">susurrando</a>
+  </u>
+  <u who="ANC" uID="u174">
+    <w>ahora</w>
+    <w>Xaquín</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="XAQ" uID="u175">
+    <g><w>éta</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">éta=ésta $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="ANC" uID="u176">
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+    <a type="actions">XAQ coge una carta del abanico</a>
+  </u>
+  <u who="XAQ" uID="u177">
+    <w>una</w>
+    <w>galiña</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u178">
+    <w>una</w>
+    <w>galiña</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u179">
+    <w>cómo</w>
+    <w>fan</w>
+    <w>as</w>
+    <w>galiñas</w>
+    <w>Xaquín</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ELI" uID="u180">
+    <w formType="onomatopoeia">kiriquí</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u181">
+    <w formType="onomatopoeia">kiriquí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u182">
+    <w>kiquiriquí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u183">
+    <w>esos</w>
+    <w>son</w>
+    <w>os</w>
+    <w>galos</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u184">
+    <w>no</w>
+    <w>los</w>
+    <s type="colon"/>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="XAQ" uID="u185">
+    <w>no</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u186">
+    <w formType="onomatopoeia">cocorocó</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u187">
+    <w>ésas</w>
+    <w>son</w>
+    <w>as</w>
+    <w>galiñas</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>verdá</w>
+    <t type="q"></t>
+
+    <a type="actions">JUA afirma con la cabeza</a>
+  </u>
+  <u who="ANC" uID="u188">
+    <w>cocococo</w>
+    <pause symbolic-length="simple"/>
+    <w>fan</w>
+    <w>así</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u189">
+    <w>vale</w>
+    <pause symbolic-length="simple"/>
+    <w>ahora</w>
+    <w>Claudia</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u190">
+    <w>poñémola</w>
+    <w>aquí</w>
+    <w>Xaquín</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="XAQ" uID="u191">
+    <w>sí</w>
+    <s type="colon"/>
+    <t type="p"></t>
+
+    <a type="comments">susurrando</a>
+  </u>
+  <u who="XAQ" uID="u192">
+    <w>al</w>
+    <w>lado</w>
+    <w>del</w>
+    <w>delfín</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u193">
+    <w>vale</w>
+    <t type="e"></t>
+
+    <a type="actions">DIA coge una carta</a>
+  </u>
+  <u who="DIA" uID="u194">
+    <w>unha</w>
+    <g><w>avella</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">avella=ovella $LEX ;</a>
+  </u>
+  <u who="JUA" uID="u195">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>me</w>
+    <w>toca</w>
+    <w>a</w>
+    <g><w>mí</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|tocar:2SIL_PRES:3S:1C_INI-CLI3-VER-ARG3_305_2SIL:toca .</a>
+  </u>
+  <u who="ANC" uID="u196">
+    <w>unha</w>
+    <g><w>ovella</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u197">
+    <w>ahí</w>
+    <t type="p"></t>
+
+    <a type="actions">coloca la carta al lado de las otras</a>
+  </u>
+  <u who="ANC" uID="u198">
+    <w>espera</w>
+    <w>un</w>
+    <w>momento</w>
+    <w>Cheché</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>qué</w>
+    <w>é</w>
+    <w>esto</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u199">
+    <w>qué</w>
+    <w>es</w>
+    <w>esto</w>
+    <w>Paula</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u200">
+    <w>una</w>
+    <w>ovella</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u201">
+    <w>y</w>
+    <w>Juan</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u202">
+    <w>una</w>
+    <g><w>boya</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">boya=ovella $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI $SUS</a>
+  </u>
+  <u who="ANC" uID="u203">
+    <w>una</w>
+    <w>que</w>
+    <t type="self interruption question"></t>
+
+  </u>
+  <u who="JUA" uID="u204">
+    <linker type="other completion"/>
+    <w>una</w>
+    <w>ovella</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u205">
+    <w>unha</w>
+    <w>ovella</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u206">
+    <w>a</w>
+    <w>ver</w>
+    <w>se</w>
+    <w>hay</w>
+    <w>algún</w>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="ANC" uID="u207">
+    <w>Elia</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ELI" uID="u208">
+    <w>unha</w>
+    <w>ovella</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="XAQ" uID="u209">
+    <w>una</w>
+    <g><w>avella</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">avella=ovella $LEX ;</a>
+  </u>
+  <u who="DIA" uID="u210">
+    <w>ezto</w>
+    <w>también</w>
+    <pause symbolic-length="simple"/>
+    <g><w>azí</w><error/></g>
+    <s type="colon"/>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">ezto=esto $PHO ; azí=así $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS-FRON</a>
+  </u>
+  <u who="DIA" uID="u211">
+    <w>ezto</w>
+    <w>ez</w>
+    <w>azí</w>
+    <g><w>también</w><error/><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">ezto=esto $PHO ; ez=es $PHO ; azí=así $PHO ;</a>
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_ARG1-VER-CIRC-MOD_300_1SIL:ez .</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS-FRON ; $SUS-FRON</a>
+    <a type="actions">se abalanza sobre las cartas de la mesa para colocarlas bien</a>
+  </u>
+  <u who="ANC" uID="u212">
+    <w>vale</w>
+    <w>y</w>
+    <w>ahora</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <w>le</w>
+    <w>tocoó</w>
+    <w>a</w>
+    <w>Ana</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <w>qué</w>
+    <w>me</w>
+    <w>tocó</w>
+    <w>a</w>
+    <w>mí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u213">
+    <w>es</w>
+    <w>un</w>
+    <w>poco</w>
+    <w>difícil</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u214">
+    <w>a</w>
+    <w>ver</w>
+    <t type="p"></t>
+
+    <a type="actions">muestra su carta a los demás</a>
+  </u>
+  <u who="PAU" uID="u215">
+    <w>un</w>
+    <g><w>pato</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u216">
+    <g><w>ay</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u217">
+    <w>un</w>
+    <w>pato</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ELI" uID="u218">
+    <w>un</w>
+    <w>pato</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u219">
+    <w>un</w>
+    <w>pato</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u220">
+    <w>un</w>
+    <w>pato</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u221">
+    <w>pero</w>
+    <w>hay</w>
+    <g><w>una</w><k type="retracing with correction"/></g>
+    <w>mirad</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u222">
+    <w>aquí</w>
+    <w>tenemos</w>
+    <w>un</w>
+    <w>pato</w>
+    <w>y</w>
+    <w>aquí</w>
+    <w>otro</w>
+    <w>pato</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>son</w>
+    <w>iguales</w>
+    <t type="q"></t>
+
+    <a type="actions">levanta las dos cartas, la primera y la última; JUA responde afirmativamente con la cabeza</a>
+  </u>
+  <u who="XAQ" uID="u223">
+    <w type="fragment">eh</w>
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>éze</w>
+    <w>ez</w>
+    <w>el</w>
+    <w>papá</w>
+    <g><w>y</w><k type="retracing"/></g>
+    <w>y</w>
+    <w>éze</w>
+    <w>la</w>
+    <g><w>mamá</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">éze=ése $PHO ; ez=es $PHO ;</a>
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_ARG1-VER-PRED-ENL2-ARG1-PRED_302_1SIL:ez .</a>
+    <a type="extension" flavor="phon">%SUS-FRON ; $SUS-FRON</a>
+    <a type="actions">señala cada carta</a>
+  </u>
+  <u who="ANC" uID="u224">
+    <w>vale</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>y</w>
+    <w>la</w>
+    <w>mamá</w>
+    <w>de</w>
+    <w>qué</w>
+    <w>color</w>
+    <w>es</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u225">
+    <g><w>blanca</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u226">
+    <g><w>blanca</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u227">
+    <w>blanca</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>y</w>
+    <w>el</w>
+    <w>papá</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u228">
+    <w>ma</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u229">
+    <w>marrón</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u230">
+    <g><w>marrón</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u231">
+    <g><w>marrón</w><overlap type="overlap precedes"/><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u232">
+    <g><w>marrón</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+    <a type="speech act">$IMIT</a>
+  </u>
+  <u who="ANC" uID="u233">
+    <w>y</w>
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>otra</w>
+    <w>diferencia</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u234">
+    <w>el</w>
+    <w>cuello</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>quién</w>
+    <w>tiene</w>
+    <w>el</w>
+    <w>cuello</w>
+    <w>más</w>
+    <w>largo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DIA" uID="u235">
+    <w>la</w>
+    <w>mamá</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u236">
+    <w>la</w>
+    <g><w>mamá</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u237">
+    <w>la</w>
+    <g><w>mamá</w><overlap type="overlap precedes"/><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u238">
+    <w>la</w>
+    <g><w>mamá</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+    <a type="speech act">$IMIT</a>
+  </u>
+  <u who="ANC" uID="u239">
+    <w>y</w>
+    <w>sabéis</w>
+    <w>cómo</w>
+    <w>se</w>
+    <w>llaman</w>
+    <w>los</w>
+    <w>patos</w>
+    <w>con</w>
+    <w>el</w>
+    <w>cuello</w>
+    <w>muy</w>
+    <w>largo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u240">
+    <g><w>cómo</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u241">
+    <g><w>cómo</w><overlap type="overlap precedes"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u242">
+    <w>cisnes</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u243">
+    <w>cisnes</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u244">
+    <w>cisnes</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u245">
+    <w>como</w>
+    <w>los</w>
+    <w>que</w>
+    <w>hay</w>
+    <w>en</w>
+    <w>la</w>
+    <w>Alameda</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u246">
+    <g><w>sí</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAQ" uID="u247">
+    <g><w>pue</w><overlap type="overlap precedes"/><k type="retracing"/></g>
+    <w>pue</w>
+    <w>yo</w>
+    <w>fui</w>
+    <w>a</w>
+    <w>un</w>
+    <w>cine</w>
+    <w>que</w>
+    <w>había</w>
+    <g><w>cineis</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">pue=pues $PHO ; cineis=cisnes $PHO ;</a>
+    <a type="extension" flavor="mor">v|ir:1SIL_PAS1:1S:3C_ENL3-ARG1-VER-CIRC_302_1SIL:fui ; v|haber:2SIL_PAS2:3S:2C_ENL2'REL-VER-ARG2_300_3SIL:había .</a>
+    <a type="extension" flavor="phon">$OMI ; $OMI $ADI</a>
+  </u>
+  <u who="ANC" uID="u248">
+    <w>fuiste</w>
+    <w>a</w>
+    <w>un</w>
+    <w>cine</w>
+    <w>que</w>
+    <g><w>había</w><k type="retracing with correction"/></g>
+    <w>en</w>
+    <w>el</w>
+    <w>que</w>
+    <w>había</w>
+    <w>cisnes</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u249">
+    <w>pero</w>
+    <w>yo</w>
+    <w>fui</w>
+    <g><w>a</w><k type="retracing"/></g>
+    <g><w>a</w><k type="retracing"/></g>
+    <w>yo</w>
+    <w>tengo</w>
+    <w>la</w>
+    <w>película</w>
+    <w>de</w>
+    <w>una</w>
+    <w>prinsesa</w>
+    <w>que</w>
+    <w>se</w>
+    <w>convierte</w>
+    <w>en</w>
+    <w>un</w>
+    <g><w>cirne</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">prinsesa=princesa $PHO ; cirne=cisne $PHO ;</a>
+    <a type="extension" flavor="mor">v|ir:1SIL_PAS1:1S:3C_ENL3-ARG1-VER-INC_305_1SIL:fui ; v|tener:2SIL_PRES:1S:2C_ARG1-VER-ARG2_305_2SIL:tengo ; v|convertir:3SIL_PRES:3S:3C_ARG1'REL-CLI1-VER-SUPL_305_3SIL:convierte !</a>
+    <a type="extension" flavor="phon">$SUS ; $SUS</a>
+  </u>
+  <u who="ANC" uID="u250">
+    <w>sí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u251">
+    <w>y</w>
+    <w>nos</w>
+    <w>la</w>
+    <g><w>cuentas</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u252">
+    <w>sabes</w>
+    <g><w>que</w><overlap type="overlap precedes"/></g>
+    <s type="colon"/>
+    <t type="q"></t>
+
+    <a type="extension" flavor="mor">v|saber:2SIL_PRES:2S:2C_VER-ARG2'INT_303_2SIL:sabes ?</a>
+  </u>
+  <u who="PAU" uID="u253">
+    <w>que</w>
+    <w>yo</w>
+    <w>fui</w>
+    <w>a</w>
+    <w>un</w>
+    <w>acuario</w>
+    <w>y</w>
+    <w>una</w>
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|ir:1SIL_PAS1:1S:3C_ENL3-ARG1-VER-CIRC_303_1SIL:fui .</a>
+  </u>
+  <u who="JUA" uID="u254">
+    <w>y</w>
+    <w>había</w>
+    <w>un</w>
+    <g><w>malo</w><overlap type="overlap precedes"/><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|haber:2SIL_PAS2:3S:2C_ENL3-VER-ARG2_305_3SIL:había .</a>
+  </u>
+  <u who="ANC" uID="u255">
+    <w>a</w>
+    <g><w>ver</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u256">
+    <w>no</w>
+    <g><w>empero</w><k type="best guess"/></g>
+    <w>por</w>
+    <w>aquí</w>
+    <t type="e"></t>
+
+    <a type="actions">señala un lugar de la mesa</a>
+  </u>
+  <u who="JUA" uID="u257">
+    <w>y</w>
+    <w>había</w>
+    <w>un</w>
+    <w>malo</w>
+    <g><w>Ana</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="mor">v|haber:2SIL_PAS2:3S:2C_ENL3-VER-ARG2-VOC_305_3SIL:había !</a>
+  </u>
+  <u who="ELI" uID="u258">
+    <g><w>no</w><overlap type="overlap precedes"/></g>
+    <pause symbolic-length="simple"/>
+    <w>por</w>
+    <g><w>aquí</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+    <a type="actions">señala otro lugar</a>
+  </u>
+  <u who="ANC" uID="u259">
+    <g><w>sh</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u260">
+    <w>a</w>
+    <g><w>ver</w><k type="retracing"/></g>
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>estaba</w>
+    <w>hablando</w>
+    <w>Juan</w>
+    <pause symbolic-length="simple"/>
+    <w>vamos</w>
+    <w>a</w>
+    <w>escuchar</w>
+    <w>a</w>
+    <g><w>Juan</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u261">
+    <w>y</w>
+    <w>había</w>
+    <g><w>un</w><k type="retracing"/></g>
+    <w>y</w>
+    <w>había</w>
+    <w>un</w>
+    <w>malo</w>
+    <g><w>en</w><k type="retracing"/></g>
+    <w>con</w>
+    <w>la</w>
+    <w>princesa</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|haber:2SIL_PAS2:3S:2C_ENL3-VER-ARG2-CIRC_305_3SIL:había .</a>
+  </u>
+  <u who="ANC" uID="u262">
+    <w>era</w>
+    <w>malo</w>
+    <w>con</w>
+    <w>la</w>
+    <w>princesa</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u263">
+    <g><w>sí</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u264">
+    <g><w>y</w><overlap type="overlap precedes"/></g>
+    <w>que</w>
+    <w>le</w>
+    <w>hacía</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u265">
+    <w>at</w>
+    <g><w>era</w><k type="best guess"/></g>
+    <w>un</w>
+    <w>baile</w>
+    <g><w>y</w><k type="retracing"/></g>
+    <g><w>y</w><k type="retracing"/></g>
+    <g><w>y</w><k type="retracing"/></g>
+    <w>y</w>
+    <w>le</w>
+    <g><w>hicía</w><error/></g>
+    <w>bailar</w>
+    <w>con</w>
+    <w>el</w>
+    <g><w>prín<shortening>cipe</shortening></w><k type="retracing with correction"/></g>
+    <w>con</w>
+    <w>el</w>
+    <w>malo</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">hicía=hacía $PHO ;</a>
+    <a type="extension" flavor="mor">v|ser:1SIL_PAS2:3S:2C_VER-PRED_305_2SIL:era ; v|hacer:2SIL_PAS2:3S:2C_ENL3-CLI3-VER-ARG2_305_3SIL:hicía ; v|bailar:2SIL_INF:1C_VER-CIRC_305_2SIL:bailar .</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="ANC" uID="u266">
+    <w>guau</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u267">
+    <w>y</w>
+    <w>el</w>
+    <w>malo</w>
+    <w>era</w>
+    <w>guapo</w>
+    <w>o</w>
+    <w>feo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u268">
+    <w>feo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u269">
+    <w>feo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u270">
+    <g><w>y</w><k type="retracing"/></g>
+    <w>y</w>
+    <g><w>la</w><k type="retracing with correction"/></g>
+    <w>y</w>
+    <g><w>ella</w><k type="retracing with correction"/></g>
+    <g><w>la</w>
+    <w>princesa</w><overlap type="overlap follows"/></g>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="DIA" uID="u271">
+    <w>hay</w>
+    <g><w>máz</w><overlap type="overlap precedes"/></g>
+    <g><w>cartaz</w><error/><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+    <a type="extension" flavor="par">máz=más $PHO ; cartaz=cartas $PHO ;</a>
+    <a type="extension" flavor="mor">v|haber:2SIL_PRES:3S:2C_VER-ARG2_300_1SIL:hay ?</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u272">
+    <g><w>ahora</w><overlap type="overlap precedes"/></g>
+    <w>ahora</w>
+    <t type="p"></t>
+
+    <a type="addressee">DIA</a>
+  </u>
+  <u who="ANC" uID="u273">
+    <w>la</w>
+    <w>princesa</w>
+    <w>era</w>
+    <w>guapa</w>
+    <t type="q"></t>
+
+    <a type="addressee">JUA</a>
+  </u>
+  <u who="JUA" uID="u274">
+    <w>la</w>
+    <w>princesa</w>
+    <w>era</w>
+    <w>guapa</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|ser:1SIL_PAS2:3S:2C_ARG1-VER-PRED_305_2SIL:era .</a>
+  </u>
+  <u who="ANC" uID="u275">
+    <w>y</w>
+    <w>al</w>
+    <w>final</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>qué</w>
+    <w>pasó</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u276">
+    <g><w>que</w><k type="retracing"/></g>
+    <g><w>que</w><k type="retracing"/></g>
+    <g><w>que</w><k type="retracing"/></g>
+    <g><w>que</w><k type="retracing"/></g>
+    <g><w>que</w><k type="retracing"/></g>
+    <w>que</w>
+    <w>le</w>
+    <w>convirtió</w>
+    <w>en</w>
+    <w>un</w>
+    <w>cisne</w>
+    <w>y</w>
+    <w>y</w>
+    <w>dezpuéz</w>
+    <w>había</w>
+    <w>un</w>
+    <w>gran</w>
+    <w>príncipe</w>
+    <g><w>y</w><k type="retracing"/></g>
+    <w>y</w>
+    <g><w>entonces</w><error/></g>
+    <t type="interruption"></t>
+
+    <a type="extension" flavor="par">dezpuéz=después $PHO ;</a>
+    <a type="extension" flavor="mor">v|convertir:3SIL_PAS1:3S:3C_ARG1'REL-CLI3-VER-PRED_305_3SIL:convirtió ;v|haber:2SIL_PAS2:3S:2C_ENL3-CIRC-VER-ARG2-ENL2-CIRC-INC_305_3SIL:había +/.</a>
+    <a type="extension" flavor="phon">$SUS-FRON $SUS-FRON</a>
+    <a type="actions">los demás niños se ríen y alborotan</a>
+  </u>
+  <u who="ANC" uID="u277">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>sh</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u278">
+    <w>vino</w>
+    <w>un</w>
+    <w>príncipe</w>
+    <t type="self interruption question"></t>
+
+  </u>
+  <u who="JUA" uID="u279">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="actions">los demás niños comienzan a chillar al unísono mientras JUA sigue contando la historia</a>
+  </u>
+  <u who="ANC" uID="u280">
+    <w>eso</w>
+    <w>no</w>
+    <w>vale</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u281">
+    <w>en</w>
+    <w>un</w>
+    <g><w>príncipe</w><k type="retracing"/></g>
+    <w>en</w>
+    <w>un</w>
+    <w>príncipe</w>
+    <t type="interruption"></t>
+
+    <a type="comments">los demás niños comienzan a chillar de nuevo</a>
+  </u>
+  <u who="ANC" uID="u282">
+    <w>a</w>
+    <g><w>ver</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u283">
+    <w>y</w>
+    <w>en</w>
+    <w>un</w>
+    <g><w>cizne</w><k type="retracing"/></g>
+    <w>y</w>
+    <w>en</w>
+    <w>un</w>
+    <g><w>cizne</w><error/><overlap type="overlap precedes"/></g>
+    <t type="interruption"></t>
+
+    <a type="extension" flavor="par">cizne=cisne $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+    <a type="actions">los demás niños chillan todavía más</a>
+  </u>
+  <u who="ANC" uID="u284">
+    <g><w>espera</w><k type="retracing"/></g>
+    <w>espera</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <w>Claudia</w>
+    <t type="interruption"></t>
+
+    <a type="comments">ANC se dirige a la instigadora del alboroto; se produce un corte en la grabación</a>
+  </u>
+  <u who="ANC" uID="u285">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>decir</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DIA" uID="u286">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>quiero</w>
+    <w>que</w>
+    <w>venga</w>
+    <w>mamá</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|querer:1SIL_PRES:1S:2C_VER-ARG2_300_2SIL:quiero ; v|venir:2SIL_PRES:3S:3C_ENL2-VER-ARG1_300_2SIL:venga .</a>
+  </u>
+  <u who="ANC" uID="u287">
+    <w>mamá</w>
+    <w>viene</w>
+    <w>ahora</w>
+    <pause symbolic-length="simple"/>
+    <w>pero</w>
+    <w>a</w>
+    <w>ver</w>
+    <w>tenemos</w>
+    <w>que</w>
+    <w>chillar</w>
+    <w>tanto</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u288">
+    <w>que</w>
+    <w>nos</w>
+    <w>va</w>
+    <w>a</w>
+    <w>oír</w>
+    <w>Inés</w>
+    <w>arriba</w>
+    <w>y</w>
+    <w>va</w>
+    <w>a</w>
+    <w>bajar</w>
+    <w>y</w>
+    <w>se</w>
+    <w>va</w>
+    <w>a</w>
+    <w>enfadar</w>
+    <w>conmigo</w>
+    <w>y</w>
+    <w>con</w>
+    <w>nosotros</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u289">
+    <w>no</w>
+    <w>podemos</w>
+    <w>chillar</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u290">
+    <w>y</w>
+    <w>además</w>
+    <w>está</w>
+    <w>Juan</w>
+    <w>hablando</w>
+    <w>y</w>
+    <w>tenemos</w>
+    <w>que</w>
+    <w>escucharlo</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>nos</w>
+    <w>está</w>
+    <w>contando</w>
+    <w>un</w>
+    <w>cuento</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ELI" uID="u291">
+    <w>no</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u292">
+    <g><w>no</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u293">
+    <w>cómo</w>
+    <w>que</w>
+    <g><w>no</w><overlap type="overlap precedes"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u294">
+    <w>ez</w>
+    <w>una</w>
+    <g><w>película</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">ez=es $PHO ;</a>
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_VER-PRED_305_1SIL:ez !</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u295">
+    <w>una</w>
+    <w>película</w>
+    <pause symbolic-length="simple"/>
+    <w>bueno</w>
+    <pause symbolic-length="simple"/>
+    <w>vale</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>sí</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u296">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u297">
+    <w>vale</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u298">
+    <w>puez</w>
+    <w>yo</w>
+    <w>quería</w>
+    <w>esaz</w>
+    <g><w>cartaz</w><overlap type="overlap follows"/><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">puez=pues $PHO ; esaz=esas $PHO ; cartaz=cartas $PHO ;</a>
+    <a type="extension" flavor="mor">v|querer:2SIL_PAS2:1S:2C_ENL3-ARG1-VER-ARG2_300_3SIL:quería !</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS-FRON ; $SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u299">
+    <g><w>ahora</w><overlap type="overlap precedes"/><k type="retracing"/></g>
+    <w>ahora</w>
+    <w>van</w>
+    <w>esas</w>
+    <w>cartas</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u300">
+    <g><w>y</w><k type="retracing"/></g>
+    <w>y</w>
+    <w>entoncez</w>
+    <w>pues</w>
+    <w>lo</w>
+    <w>convirtió</w>
+    <w>en</w>
+    <w>un</w>
+    <g><w>cizne</w><overlap type="overlap follows"/><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">entoncez=entonces $PHO ; cizne=cisne $PHO ;</a>
+    <a type="extension" flavor="mor">v|convertir:3SIL_PAS1:3S:3C_ENL3-CIRC-ENL3-CLI2-VER-SUPL_305_3SIL:convirtió !</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS-FRON</a>
+  </u>
+  <u who="DIA" uID="u301">
+    <w>y</w>
+    <w>ahora</w>
+    <g><w>este</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u302">
+    <w>y</w>
+    <w>en</w>
+    <w>un</w>
+    <g><w>cizne</w><k type="retracing"/></g>
+    <w>y</w>
+    <w>en</w>
+    <w>un</w>
+    <g><w>cizne</w><k type="retracing"/></g>
+    <w>y</w>
+    <g><w>en</w>
+    <w>un</w>
+    <w>cizne</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">cizne=cisne $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u303">
+    <g><w>vale</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u304">
+    <w>y</w>
+    <g><w>ze</w>
+    <w>acabó</w>
+    <w>la</w>
+    <w>película</w><error/><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">ze=se $PHO ;</a>
+    <a type="extension" flavor="mor">v|acabar:3SIL_PAS2:3S:1C_ENL3-CLI1-VER-ARG1_305_3SIL:acabó !</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u305">
+    <w>y</w>
+    <w>se</w>
+    <g><w>acabó</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+    <a type="actions">risas</a>
+  </u>
+  <u who="ANC" uID="u306">
+    <w>bien</w>
+    <pause symbolic-length="simple"/>
+    <w>vale</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u307">
+    <w>Claudia</w>
+    <w>te</w>
+    <w>sientas</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sí</w>
+    <t type="q"></t>
+
+    <a type="actions">DIA, que estaba recostada sobre la mesa, se sienta en su sitio</a>
+  </u>
+  <u who="ANC" uID="u308">
+    <w>cogemos</w>
+    <w>otra</w>
+    <w>carta</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>venga</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u309">
+    <w>a</w>
+    <w>ver</w>
+    <w>qué</w>
+    <w>hay</w>
+    <w>por</w>
+    <w>aquí</w>
+    <t type="e"></t>
+
+    <a type="actions">mira las cartas</a>
+  </u>
+  <u who="ELI" uID="u310">
+    <w>poquitas</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u311">
+    <w>laz</w>
+    <w>que</w>
+    <w>no</w>
+    <w>son</w>
+    <w>y</w>
+    <w>laz</w>
+    <w>que</w>
+    <w>zon</w>
+    <w>feas</w>
+    <w>y</w>
+    <w>laz</w>
+    <w>que</w>
+    <w>no</w>
+    <w>zon</w>
+    <g><w>feas</w><error/></g>
+    <t type="self interruption"></t>
+
+    <a type="extension" flavor="par">laz=las $PHO ; zon=son $PHO ;</a>
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3P:2C_ARG1'REL-VER_300_1SIL:son ; v|ser:1SIL_PRES:3P:2C_ENL2-ARG1'REL-VER-PRED_300_1SIL:zon ; v|ser:1SIL_PRES:3P:2C_ENL2-ARG1'REL-VER-PRED_305_1SIL:zon +//.</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u312">
+    <w>yo</w>
+    <w>escojo</w>
+    <w>las</w>
+    <w>más</w>
+    <pause symbolic-length="simple"/>
+    <w>bonitas</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u313">
+    <w>ahora</w>
+    <w>empezamos</w>
+    <w>por</w>
+    <w>Claudia</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>venga</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ELI" uID="u314">
+    <w>y</w>
+    <w>yo</w>
+    <w>no</w>
+    <g><w>corté</w><k type="best guess"/></g>
+    <w>a</w>
+    <w>mí</w>
+    <t type="e"></t>
+
+    <a type="extension" flavor="mor">v|cortar:2SIL_PAS1:1S:1C_ENL3-ARG1-VER-ARG3_301_2SIL:corté !</a>
+  </u>
+  <u who="ANC" uID="u315">
+    <w>después</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u316">
+    <w>un</w>
+    <w>caballo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u317">
+    <w>un</w>
+    <w>caballo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u318">
+    <w>venga</w>
+    <pause symbolic-length="simple"/>
+    <w>ahí</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u319">
+    <g><w>Xaquín</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u320">
+    <w>un</w>
+    <g><w>potro</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+    <a type="actions">mirando la carta de DIA</a>
+  </u>
+  <u who="DIA" uID="u321">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>un</w>
+    <w>caballo</w>
+    <t type="e"></t>
+
+    <a type="actions">ANC ofrece el abanico de cartas a XAQ y éste coge una</a>
+  </u>
+  <u who="XAQ" uID="u322">
+    <g><w>éta</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">éta=ésta $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="ANC" uID="u323">
+    <w>ésa</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u324">
+    <w>uy</w>
+    <pause symbolic-length="simple"/>
+    <w>es</w>
+    <w>un</w>
+    <w>poco</w>
+    <w>complicada</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ELI" uID="u325">
+    <w>un</w>
+    <w>pulpo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u326">
+    <w>un</w>
+    <w>pulpo</w>
+    <t type="e"></t>
+
+    <a type="speech act">$IMIT</a>
+  </u>
+  <u who="XAQ" uID="u327">
+    <w>un</w>
+    <g><w>cala<shortening>mar</shortening></w><k type="retracing with correction"/></g>
+    <w>un</w>
+    <w>pulpo</w>
+    <w>ah</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u328">
+    <w>un</w>
+    <w>pulpo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u329">
+    <g><w>y</w><k type="retracing"/></g>
+    <w>y</w>
+    <w>también</w>
+    <w>ze</w>
+    <w>dice</w>
+    <w>un</w>
+    <g><w>calamar</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">ze=se $PHO ;</a>
+    <a type="extension" flavor="mor">v|decir:2SIL_PRES:3S:3C_ENL3-MOD-CLI1-VER-ARG2_305_2SIL:dice !</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u330">
+    <w>un</w>
+    <w>calamar</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u331">
+    <w>bueno</w>
+    <w>un</w>
+    <w>calmar</w>
+    <w>tiene</w>
+    <w>menos</w>
+    <w>patas</w>
+    <w>que</w>
+    <g><w>un</w>
+    <w>pulpo</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u332">
+    <g><w>zí</w><error/><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">zí=si $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u333">
+    <w>sí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u334">
+    <w>vale</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u335">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>ahora</w>
+    <w>le</w>
+    <w>toca</w>
+    <w>a</w>
+    <g><w>Juan</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u336">
+    <w>oye</w>
+    <pause symbolic-length="simple"/>
+    <w>ahora</w>
+    <g><w>eu</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|oir:2SIL_IMP:2S:3C_VER_300_2SIL:oye .</a>
+  </u>
+  <u who="ANC" uID="u337">
+    <w>Juan</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u338">
+    <w>pero</w>
+    <w>Claudia</w>
+    <w>sentadiña</w>
+    <pause symbolic-length="simple"/>
+    <w>porque</w>
+    <w>se</w>
+    <w>non</w>
+    <w>non</w>
+    <w>vas</w>
+    <w>salir</w>
+    <w>alí</w>
+    <w>na</w>
+    <w>foto</w>
+    <w>e</w>
+    <w>tapas</w>
+    <w>a</w>
+    <w>Xaquín</w>
+    <w>e</w>
+    <w>tapas</w>
+    <w>a</w>
+    <w>Juan</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u339">
+    <w>vale</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u340">
+    <w>veña</w>
+    <pause symbolic-length="simple"/>
+    <w>sentadiña</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u341">
+    <w>yo</w>
+    <w>no</w>
+    <w>quiero</w>
+    <w>eztar</w>
+    <g><w>azí</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">eztar=estar $PHO ; azí=así $PHO ;</a>
+    <a type="extension" flavor="mor">v|querer:2SIL_PRES:1S:2C_ARG1-VER-ARG2_300_2SIL:quiero ; v|estar:2SIL_INF:1C_VER-CIRC_300_2SIL:eztar .</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u342">
+    <w>bueno</w>
+    <w>pues</w>
+    <w>sentada</w>
+    <pause symbolic-length="simple"/>
+    <w>está</w>
+    <w>sentada</w>
+    <w>como</w>
+    <w>están</w>
+    <w>ellas</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>mira</w>
+    <w>cómo</w>
+    <w>están</w>
+    <w>ellas</w>
+    <w>sentadas</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u343">
+    <w>o</w>
+    <w>si</w>
+    <w>no</w>
+    <w>no</w>
+    <w>veo</w>
+    <w>yo</w>
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|ver:1SIL_PRES:1S:1C_VER-ARG1-INI_302_2SIL:veo .</a>
+    <a type="actions">JUA coge una carta</a>
+  </u>
+  <u who="JUA" uID="u344">
+    <w>un</w>
+    <g><w>ozo</w><error/><overlap type="overlap precedes"/><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">ozo=oso $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ELI" uID="u345">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u346">
+    <w>están</w>
+    <w>aquí</w>
+    <w>las</w>
+    <w>véis</w>
+    <t type="e"></t>
+
+    <a type="actions">señala las cartas colocadas sobre la mesa</a>
+  </u>
+  <u who="JUA" uID="u347">
+    <w>un</w>
+    <g><w>ozo</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">ozo=oso $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u348">
+    <w>un</w>
+    <w>oso</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u349">
+    <w>yo</w>
+    <w>veo</w>
+    <w>oso</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|ver:1SIL_PRES:1S:1C_ARG1-VER-ARG2_300_2SIL:veo .</a>
+  </u>
+  <u who="ANC" uID="u350">
+    <w>a</w>
+    <w>ver</w>
+    <w>ahora</w>
+    <t type="interruption"></t>
+
+    <a type="actions">ofrece el abanico de cartas a PAU</a>
+  </u>
+  <u who="ELI" uID="u351">
+    <w>y</w>
+    <w>ahora</w>
+    <w>a</w>
+    <w>mí</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u352">
+    <g><w>un<shortening>a</shortening></w><k type="retracing"/></g>
+    <w>una</w>
+    <w>vaca</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u353">
+    <w>una</w>
+    <w>vaca</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u354">
+    <w>a</w>
+    <w>ver</w>
+    <s type="colon"/>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u355">
+    <w>una</w>
+    <w>vaca</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ELI" uID="u356">
+    <w>a</w>
+    <w>ver</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u357">
+    <w>es</w>
+    <w>una</w>
+    <w>vaca</w>
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="ELI" uID="u358">
+    <w>sí</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u359">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>una</w>
+    <w>mamá</w>
+    <w>y</w>
+    <w>al</w>
+    <g><w>papá</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+    <a type="comments">hay un corte en la grabación</a>
+  </u>
+  <u who="ANC" uID="u360">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>Juan</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u361">
+    <w>la</w>
+    <w>mamá</w>
+    <w>cabrita</w>
+    <w>y</w>
+    <w>el</w>
+    <w>papá</w>
+    <g><w>cabro</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">cabro=cabra $NOU ;</a>
+  </u>
+  <u who="ANC" uID="u362">
+    <w>sí</w>
+    <w>pero</w>
+    <g><w>ésto</w><k type="retracing with correction"/></g>
+    <w>éste</w>
+    <w>qué</w>
+    <w>é</w>
+    <t type="q"></t>
+
+    <a type="actions">muestra en alto la carta a JUA</a>
+  </u>
+  <u who="JUA" uID="u363">
+    <g><w>u<shortening>na</shortening></w><k type="retracing"/></g>
+    <w>una</w>
+    <w>vaca</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u364">
+    <w>claro</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u365">
+    <w>no</w>
+    <w>tenemos</w>
+    <w>la</w>
+    <w>cabra</w>
+    <w>ni</w>
+    <w>el</w>
+    <w>cabro</w>
+    <pause symbolic-length="simple"/>
+    <w>ninguno</w>
+    <w>de</w>
+    <w>los</w>
+    <w>dos</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u366">
+    <w>no</w>
+    <w>ezte</w>
+    <g><w>aquí</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">ezte=este $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u367">
+    <w>a</w>
+    <w>ver</w>
+    <t type="e"></t>
+
+    <a type="actions">ANC se levanta de su sitio</a>
+    <a type="comments">hay un segundo corte en la grabación</a>
+  </u>
+  <u who="JUA" uID="u368">
+    <w>laz</w>
+    <w>vacaz</w>
+    <w>no</w>
+    <w>tienen</w>
+    <g><w>cuertoz</w><error/><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">laz=las $PHO ; vacaz=vacas $PHO ; cuertoz=cuernos $PHO ;</a>
+    <a type="extension" flavor="mor">v|tener:2SIL_PRES:3P:2C_ARG1-VER-ARG2_305_2SIL:tienen .</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS-FRON ; $SUS-FRON $SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u369">
+    <w>las</w>
+    <g><w>vacas</w><overlap type="overlap precedes"/></g>
+    <w>tienen</w>
+    <g><w>cuernos</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u370">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap precedes"/><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u371">
+    <g><w>no</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u372">
+    <w>las</w>
+    <w>vacas</w>
+    <w>no</w>
+    <w>tienen</w>
+    <w>cuernos</w>
+    <w>Claudia</w>
+    <t type="q"></t>
+
+    <a type="actions">responde que sí con la cabeza</a>
+  </u>
+  <u who="ANC" uID="u373">
+    <g><w>síí</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u374">
+    <g><w>no</w><overlap type="overlap precedes"/></g>
+    <s type="colon"/>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u375">
+    <g><w>no</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u376">
+    <g><w>pero</w><overlap type="overlap precedes"/></g>
+    <w>yo</w>
+    <w>no</w>
+    <w>estoy</w>
+    <w>como</w>
+    <w>tú</w>
+    <pause symbolic-length="simple"/>
+    <w>yo</w>
+    <w>estoy</w>
+    <w>así</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:1S:1C_ARG1-VER-CIRC_302_2SIL:estoy ; v|ver:1SIL_PRES:1S:1C_ARG1-VER-CIRC_302_2SIL:estoy .</a>
+    <a type="addressee">DIA</a>
+  </u>
+  <u who="JUA" uID="u377">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>verdá</w>
+    <w>que</w>
+    <w>no</w>
+    <w>tienen</w>
+    <w>cuernoz</w>
+    <w>laz</w>
+    <g><w>vacaz</w><error/></g>
+    <t type="q"></t>
+
+    <a type="extension" flavor="par">verdá=verdad $PHO ; cuernoz =cuernos $PHO ; laz=las $PHO ; vacaz=vacas $PHO ;</a>
+    <a type="extension" flavor="mor">v|tener:2SIL_PRES:3P:2C_VER-ARG2-ARG1_305_2SIL:tienen ?</a>
+    <a type="extension" flavor="phon">$OMI ; $SUS-FRON ; $SUS-FRON ; $SUS-FRON</a>
+  </u>
+  <u who="XAQ" uID="u378">
+    <w>no</w>
+    <s type="colon"/>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u379">
+    <w>la</w>
+    <w>vaca</w>
+    <w>tiene</w>
+    <w>lo</w>
+    <w>cuenos</w>
+    <g><w>aquí</w><error/><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">lo=los $PHO ; cuenos=cuernos $PHO ;</a>
+    <a type="extension" flavor="mor">v|tener:2SIL_PRES:3S:2C_ARG1-VER-ARG2-CIRC_302_2SIL:tiene !</a>
+    <a type="extension" flavor="phon">$OMI ; $OMI</a>
+    <a type="actions">se toca el estómago</a>
+  </u>
+  <u who="DIA" uID="u380">
+    <w>yo</w>
+    <w>no</w>
+    <w>estoy</w>
+    <w>como</w>
+    <w>tú</w>
+    <pause symbolic-length="simple"/>
+    <w>estoy</w>
+    <g><w>así</w><overlap type="overlap precedes"/></g>
+    <s type="colon"/>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:1S:1C_ARG1-VER-CIRC_300_2SIL:estoy ; v|ver:1SIL_PRES:1S:1C_VER-CIRC_300_2SIL:estoy .</a>
+    <a type="addressee">XAQ</a>
+  </u>
+  <u who="DIA" uID="u381">
+    <w>yo</w>
+    <w>no</w>
+    <w>estoy</w>
+    <w>como</w>
+    <w>tú</w>
+    <pause symbolic-length="simple"/>
+    <w>estoy</w>
+    <g><w>así</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:1S:1C_ARG1-VER-CIRC_300_2SIL:estoy ; v|ver:1SIL_PRES:1S:1C_VER-CIRC_300_2SIL:estoy .</a>
+    <a type="addressee">XAQ</a>
+  </u>
+  <u who="ANC" uID="u382">
+    <w>sí</w>
+    <g><w>hombre</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+    <a type="addressee">XAQ</a>
+  </u>
+  <u who="ANC" uID="u383">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>ahora</w>
+    <w>le</w>
+    <w>toca</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>a</w>
+    <w>quién</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u384">
+    <w>a</w>
+    <w>Elia</w>
+    <t type="p"></t>
+
+    <a type="actions">ofrece un reducido abanico de cartas a ELI</a>
+  </u>
+  <u who="ANC" uID="u385">
+    <w>venga</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Elia</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u386">
+    <w>todos</w>
+    <w>atentos</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u387">
+    <w>que</w>
+    <w>como</w>
+    <w>no</w>
+    <w>la</w>
+    <w>sepa</w>
+    <w>ella</w>
+    <pause symbolic-length="simple"/>
+    <w>los</w>
+    <w>demás</w>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="ANC" uID="u388">
+    <w>atentos</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u389">
+    <w>uy</w>
+    <pause symbolic-length="simple"/>
+    <w>es</w>
+    <w>difícil</w>
+    <w>Elia</w>
+    <t type="q"></t>
+
+    <a type="actions">ELI niega con la cabeza</a>
+  </u>
+  <u who="JUA" uID="u390">
+    <w>un</w>
+    <w>calamar</w>
+    <t type="p"></t>
+
+    <a type="actions">está mirando una de las cartas ya colocada sobre la mesa</a>
+  </u>
+  <u who="ANC" uID="u391">
+    <w>una</w>
+    <t type="self interruption question"></t>
+
+  </u>
+  <u who="ELI" uID="u392">
+    <linker type="other completion"/>
+    <g><w>nala</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">nala=rana $PHO ;</a>
+    <a type="extension" flavor="phon">$PML</a>
+  </u>
+  <u who="ANC" uID="u393">
+    <w>no</w>
+    <w>oigo</w>
+    <w>nada</w>
+    <pause symbolic-length="simple"/>
+    <w>pero</w>
+    <w>nada</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ELI" uID="u394">
+    <g><w>lana</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">lana=rana $PHO ;</a>
+    <a type="extension" flavor="phon">$PML</a>
+    <a type="actions">susurrando más bajo</a>
+  </u>
+  <u who="ANC" uID="u395">
+    <w>así</w>
+    <w>menos</w>
+    <w>todavía</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u396">
+    <w>te</w>
+    <w>tiene</w>
+    <w>que</w>
+    <w>oír</w>
+    <w>allí</w>
+    <w>Cheché</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ELI" uID="u397">
+    <w>una</w>
+    <g><w>lana</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">lana=rana $PHO ;</a>
+    <a type="extension" flavor="phon">$PML</a>
+  </u>
+  <u who="ANC" uID="u398">
+    <w>una</w>
+    <w>rana</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u399">
+    <w>y</w>
+    <w>de</w>
+    <w>qué</w>
+    <w>color</w>
+    <w>es</w>
+    <w>la</w>
+    <w>rana</w>
+    <w>de</w>
+    <w>Elia</w>
+    <t type="q"></t>
+
+    <a type="actions">cogiendo la carta</a>
+  </u>
+  <u who="XAQ" uID="u400">
+    <w>verde</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u401">
+    <g><w>verde</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u402">
+    <g><w>verde</w><overlap type="overlap precedes"/></g>
+    <w>verde</w>
+    <t type="e"></t>
+
+    <a type="speech act">$IMIT</a>
+  </u>
+  <u who="ANC" uID="u403">
+    <w>muy</w>
+    <w>bien</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u404">
+    <w>y</w>
+    <w>ahora</w>
+    <w>la</w>
+    <w>mía</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ELI" uID="u405">
+    <w>yo</w>
+    <w>tengo</w>
+    <w>una</w>
+    <w>rana</w>
+    <t type="e"></t>
+
+    <a type="extension" flavor="mor">v|tener:2SIL_PRES:1S:2C_ARG1-VER-ARG2_301_2SIL:tengo !</a>
+  </u>
+  <u who="ANC" uID="u406">
+    <w>la</w>
+    <w>mía</w>
+    <w>es</w>
+    <w>una</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>le</w>
+    <w>cantamos</w>
+    <w>una</w>
+    <w>canción</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u407">
+    <w>a</w>
+    <w>ver</w>
+    <w>si</w>
+    <w>la</w>
+    <w>sabemos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u408">
+    <w>que</w>
+    <w>le</w>
+    <w>salen</w>
+    <w>unos</w>
+    <w>cuernos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u409">
+    <w>y</w>
+    <w>tiene</w>
+    <w>una</w>
+    <w>concha</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u410">
+    <w>y</w>
+    <w>anda</w>
+    <g><w>despacito</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u411">
+    <w>a</w>
+    <g><w>ver</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u412">
+    <w>cómo</w>
+    <w>se</w>
+    <w>llama</w>
+    <w>ese</w>
+    <w>animal</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u413">
+    <w>a</w>
+    <w>ver</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u414">
+    <w>que</w>
+    <w>anda</w>
+    <w>despacito</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u415">
+    <w>a</w>
+    <w>ver</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u416">
+    <w>tortuga</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u417">
+    <w>tiene</w>
+    <w>cuernos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u418">
+    <w>tirabel</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u419">
+    <w>y</w>
+    <w>los</w>
+    <w>saca</w>
+    <w>cuando</w>
+    <w>sale</w>
+    <g><w>el</w>
+    <w>sol</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ELI" uID="u420">
+    <g><w>araña</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u421">
+    <w>sh</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ELI" uID="u422">
+    <w>araña</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u423">
+    <w>no</w>
+    <w>es</w>
+    <w>la</w>
+    <w>araña</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ELI" uID="u424">
+    <w>araña</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u425">
+    <w>un</w>
+    <w>caracol</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u426">
+    <w>un</w>
+    <w>caracol</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u427">
+    <w>un</w>
+    <g><w>caracol</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u428">
+    <w>un</w>
+    <g><w>caracol</w><overlap type="overlap precedes"/><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u429">
+    <w>un</w>
+    <g><w>caracol</w><overlap type="overlap precedes"/><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u430">
+    <w>muy</w>
+    <g><w>bien</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u431">
+    <w>un</w>
+    <w>caracol</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u432">
+    <w>uy</w>
+    <w>qué</w>
+    <w>idea</w>
+    <w>se</w>
+    <w>me</w>
+    <w>acaba</w>
+    <w>de</w>
+    <w>ocurrir</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u433">
+    <w>ahora</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>vamos</w>
+    <w>a</w>
+    <w>hacer</w>
+    <w>otra</w>
+    <w>adivinanza</w>
+    <t type="p"></t>
+
+    <a type="actions">ELI se ríe y alborota</a>
+  </u>
+  <u who="ANC" uID="u434">
+    <w>sí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u435">
+    <w>otra</w>
+    <w>adivinanza</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <w>quién</w>
+    <w>gana</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ELI" uID="u436">
+    <w>no</w>
+    <w>hay</w>
+    <w>nada</w>
+    <s type="colon"/>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|haber:2SIL_PRES:3S:2C_VER-ARG2_301_1SIL:hay .</a>
+    <a type="actions">inspecciona la caja vacía de la baraja de cartas</a>
+  </u>
+  <u who="ELI" uID="u437">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>no</w>
+    <w>hay</w>
+    <w>nada</w>
+    <t type="e"></t>
+
+    <a type="extension" flavor="mor">v|haber:2SIL_PRES:3S:2C_INI-VER-ARG2_301_1SIL:hay !</a>
+  </u>
+  <u who="ANC" uID="u438">
+    <w>pero</w>
+    <w>no</w>
+    <w>sé</w>
+    <w>si</w>
+    <w>tendré</w>
+    <w>yo</w>
+    <t type="self interruption"></t>
+
+    <a type="actions">busca la carta apropiada</a>
+  </u>
+  <u who="ANC" uID="u439">
+    <w>a</w>
+    <w>ver</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u440">
+    <w>sí</w>
+    <w>sí</w>
+    <w>sí</w>
+    <w>sí</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ELI" uID="u441">
+    <w>hay</w>
+    <w>un</w>
+    <g><w>pupo</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">pupo=pulpo $PHO ;</a>
+    <a type="extension" flavor="mor">v|haber:2SIL_PRES:3S:2C_VER-ARG2_301_1SIL:hay !</a>
+    <a type="extension" flavor="phon">$OMI</a>
+    <a type="actions">mirando a ANC y señalando la caja</a>
+  </u>
+  <u who="ANC" uID="u442">
+    <w>un</w>
+    <w>pulpo</w>
+    <t type="q"></t>
+
+    <a type="actions">coge la caja y la coloca junto a las cartas retiradas del juego</a>
+  </u>
+  <u who="ANC" uID="u443">
+    <w>a</w>
+    <w>ver</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u444">
+    <w>este</w>
+    <w>es</w>
+    <w>un</w>
+    <w>animal</w>
+    <pause symbolic-length="simple"/>
+    <w>un</w>
+    <w>animal</w>
+    <w>grande</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>vive</w>
+    <w>en</w>
+    <w>la</w>
+    <w>selva</w>
+    <w>y</w>
+    <w>que</w>
+    <w>come</w>
+    <w>plátanos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u445">
+    <w>mono</w>
+    <t type="e"></t>
+
+    <a type="comments">los demás niños corean al unísono la respuesta de JUA</a>
+  </u>
+  <u who="DIA" uID="u446">
+    <g><w>mono</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u447">
+    <g><w>mono</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u448">
+    <w>quién</w>
+    <g><w>fu<shortening>e</shortening></w><k type="retracing with correction"/></g>
+    <g><w>ahora</w><k type="retracing"/></g>
+    <w>ahora</w>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="ANC" uID="u449">
+    <w>este</w>
+    <w>es</w>
+    <w>un</w>
+    <w>animal</w>
+    <w>que</w>
+    <w>vive</w>
+    <w>en</w>
+    <w>la</w>
+    <w>selva</w>
+    <w>y</w>
+    <w>tiene</w>
+    <w>un</w>
+    <w>cuello</w>
+    <w>muy</w>
+    <g><w>largo</w><k type="retracing"/></g>
+    <w>muy</w>
+    <w>largo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u450">
+    <w>qué</w>
+    <w>e</w>
+    <t type="q"></t>
+
+    <a type="comments">se produce otro corte en la grabación</a>
+  </u>
+  <u who="ANC" uID="u451">
+    <w>mira</w>
+    <pause symbolic-length="simple"/>
+    <w>una</w>
+    <g><w>animal</w><k type="retracing"/></g>
+    <w>un</w>
+    <g><w>animal</w><overlap type="overlap follows"/></g>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="ELI" uID="u452">
+    <w>una</w>
+    <w>oveja</w>
+    <pause symbolic-length="simple"/>
+    <g><w>Chaquín</w><error/><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">Chaquín=Xaquín $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="ANC" uID="u453">
+    <w>que</w>
+    <w>ten</w>
+    <w>un</w>
+    <w>cuello</w>
+    <w>muy</w>
+    <g><w>largo</w><k type="retracing"/></g>
+    <w>mu</w>
+    <g><w>largo</w><k type="retracing"/></g>
+    <w>muy</w>
+    <w>largo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u454">
+    <w>que</w>
+    <w>vive</w>
+    <w>na</w>
+    <w>selva</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u455">
+    <w>que</w>
+    <w>é</w>
+    <w>de</w>
+    <w>color</w>
+    <w>amarillo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u456">
+    <w>a</w>
+    <w>ver</w>
+    <w>quén</w>
+    <w>o</w>
+    <w>sabe</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ELI" uID="u457">
+    <g><w>Chaquín</w><error/><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">Chaquín=Xaquín $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="ANC" uID="u458">
+    <g><w>una</w><overlap type="overlap precedes"/></g>
+    <w>ji</w>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="JUA" uID="u459">
+    <linker type="other completion"/>
+    <g><w>jirafa</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u460">
+    <g><w>jirafa</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u461">
+    <w>una</w>
+    <w>jirafa</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u462">
+    <w>una</w>
+    <w>jirafa</w>
+    <t type="p"></t>
+
+    <a type="comments">casi imperceptible</a>
+  </u>
+  <u who="ELI" uID="u463">
+    <w>a</w>
+    <w>ver</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u464">
+    <w>y</w>
+    <w>qué</w>
+    <w>le</w>
+    <w>salió</w>
+    <w>ahí</w>
+    <g><w>al</w><k type="retracing"/></g>
+    <w>a</w>
+    <t type="self interruption"></t>
+
+    <a type="extension" flavor="mor">v|salir:2SIL_PAS1:3S:3C_ENL3-ARG1'INT-CLI1-VER-CIRC-INC_302_2SIL:salió +//.</a>
+  </u>
+  <u who="ANC" uID="u465">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>otra</w>
+    <w>adivinanza</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u466">
+    <w>un</w>
+    <g><w>pájaro</w><k type="retracing"/></g>
+    <w>un</w>
+    <w>pájaro</w>
+    <w>que</w>
+    <w>tiene</w>
+    <w>un</w>
+    <w>pico</w>
+    <w>muy</w>
+    <w>largo</w>
+    <g><w>muy</w>
+    <w>largo</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u467">
+    <g><w>no</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u468">
+    <w>a</w>
+    <g><w>ver</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u469">
+    <w>lo</w>
+    <g><w>cogieron</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="mor">v|coger:2SIL_PRES:3P:2C_ARG2-VER_300_3SIL:cogieron !</a>
+    <a type="actions">se refiere a la carta que ELI ha cogido y contempla junto a PAU</a>
+  </u>
+  <u who="ANC" uID="u470">
+    <w>bueno</w>
+    <w>es</w>
+    <w>igual</w>
+    <w>lo</w>
+    <w>estaba</w>
+    <w>mirando</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u471">
+    <w>ahora</w>
+    <w>estrozaron</w>
+    <g><w>toro</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">estrozaron=destrozaron $PHO ; toro=todo $PHO ;</a>
+    <a type="extension" flavor="mor">v|destrozar:3SIL_PRES:3P:1C_CIRC-VER-ARG2_305_4SIL:estrozaron !</a>
+    <a type="extension" flavor="phon">$OMI ; $SUS</a>
+  </u>
+  <u who="ANC" uID="u472">
+    <w>nada</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <w>pasa</w>
+    <w>nada</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u473">
+    <w>así</w>
+    <pause symbolic-length="simple"/>
+    <w>venga</w>
+    <pause symbolic-length="simple"/>
+    <w>así</w>
+    <t type="p"></t>
+
+    <a type="actions">ordena un poco las cartas que ELI y PAU han movido</a>
+  </u>
+  <u who="ELI" uID="u474">
+    <w>no</w>
+    <w>pasa</w>
+    <w>nada</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>a</w>
+    <w>que</w>
+    <w>no</w>
+    <t type="q"></t>
+
+    <a type="extension" flavor="mor">v|pasar:2SIL_PRES:3S:1C_VER-ARG2_301_2SIL:pasa ?</a>
+  </u>
+  <u who="ANC" uID="u475">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>un</w>
+    <w>pájro</w>
+    <w>que</w>
+    <w>tiene</w>
+    <w>un</w>
+    <w>pico</w>
+    <w>muy</w>
+    <g><w>largo</w><k type="retracing"/></g>
+    <w>muy</w>
+    <w>largo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u476">
+    <w>no</w>
+    <s type="colon"/>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u477">
+    <w>así</w>
+    <w>no</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u478">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>alguien</w>
+    <w>lo</w>
+    <w>sabe</w>
+    <t type="q"></t>
+
+    <a type="actions">XAQ niega con la cabeza</a>
+  </u>
+  <u who="ANC" uID="u479">
+    <w>y</w>
+    <w>si</w>
+    <w>tenemos</w>
+    <w>la</w>
+    <w>foto</w>
+    <t type="q"></t>
+
+    <a type="actions">enseña la carta a los niños</a>
+  </u>
+  <u who="JUA" uID="u480">
+    <w>una</w>
+    <w>cigüeña</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u481">
+    <w>una</w>
+    <w>cigüeña</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u482">
+    <w>una</w>
+    <g><w>cigüeña</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u483">
+    <w>una</w>
+    <g><w>cigüeña</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+    <a type="speech act">$IMIT</a>
+  </u>
+  <u who="ANC" uID="u484">
+    <w>vale</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>hacemos</w>
+    <w>repaso</w>
+    <w>de</w>
+    <w>todos</w>
+    <w>ahora</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u485">
+    <w>sí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u486">
+    <w>venga</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ELI" uID="u487">
+    <w>yo</w>
+    <w>la</w>
+    <g><w>halo</w><k type="best guess"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u488">
+    <w>un</w>
+    <w>repaso</w>
+    <w>rápido</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u489">
+    <w>quién</w>
+    <w>era</w>
+    <w>éste</w>
+    <t type="q"></t>
+
+    <a type="actions">a cada niño le va mostrando una carta</a>
+  </u>
+  <u who="JUA" uID="u490">
+    <w>un</w>
+    <g><w>calacol</w><error/><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">calacol=caracol $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="PAU" uID="u491">
+    <w>un</w>
+    <g><w>caracol</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u492">
+    <w>caracol</w>
+    <t type="p"></t>
+
+    <a type="comments">en voz baja</a>
+  </u>
+  <u who="XAQ" uID="u493">
+    <g><w>caracol</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u494">
+    <g><w>vale</w><overlap type="overlap precedes"/></g>
+    <pause symbolic-length="simple"/>
+    <w>vamos</w>
+    <w>a</w>
+    <w>hacer</w>
+    <w>una</w>
+    <w>cosa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u495">
+    <w>para</w>
+    <w>oír</w>
+    <w>mejor</w>
+    <w>cada</w>
+    <w>uno</w>
+    <w>me</w>
+    <w>dice</w>
+    <w>una</w>
+    <w>cosa</w>
+    <pause symbolic-length="simple"/>
+    <w>vale</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u496">
+    <w>sí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u497">
+    <w>empezamos</w>
+    <w>por</w>
+    <w>Xaquín</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u498">
+    <w>quién</w>
+    <w>era</w>
+    <w>éste</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAQ" uID="u499">
+    <w>el</w>
+    <g><w>coracol</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">coracol=caracol $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="ANC" uID="u500">
+    <w>el</w>
+    <w>caracol</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u501">
+    <w>Claudia</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>quién</w>
+    <w>era</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DIA" uID="u502">
+    <w>la</w>
+    <w>jirafa</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u503">
+    <w>Juan</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u504">
+    <w>la</w>
+    <g><w>arana</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">arana=araña $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u505">
+    <w>Paula</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u506">
+    <w>a</w>
+    <w>cigüeña</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u507">
+    <w>rápido</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u508">
+    <w>Elia</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ELI" uID="u509">
+    <w>a</w>
+    <w>vaca</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u510">
+    <w>la</w>
+    <w>vaca</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u511">
+    <g><w>Juan</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="ELI" uID="u512">
+    <w>eé</w>
+    <w>a</w>
+    <w>vaca</w>
+    <pause symbolic-length="simple"/>
+    <g><w type="fragment">eh</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u513">
+    <w>sh</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u514">
+    <w>Juan</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u515">
+    <w>el</w>
+    <w>mono</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u516">
+    <w>Claudia</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DIA" uID="u517">
+    <w>el</w>
+    <w>cangrejo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u518">
+    <w>uy</w>
+    <pause symbolic-length="simple"/>
+    <w>un</w>
+    <w>fallo</w>
+    <pause symbolic-length="simple"/>
+    <w>despois</w>
+    <w>volvemos</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u519">
+    <w>Paula</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ELI" uID="u520">
+    <w>un</w>
+    <w>conejo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u521">
+    <w>sh</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u522">
+    <w>Paula</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u523">
+    <w>un</w>
+    <g><w>conejo</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u524">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <w>es</w>
+    <w>un</w>
+    <g><w>conejo</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_VER-PRED_300_1SIL:es .</a>
+  </u>
+  <u who="ANC" uID="u525">
+    <w>Paula</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u526">
+    <w>conejo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u527">
+    <w>quién</w>
+    <w>era</w>
+    <w>éste</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u528">
+    <w>un</w>
+    <w>mono</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u529">
+    <w>mono</w>
+    <t type="q"></t>
+
+    <a type="actions">muestra la carta a los demás</a>
+  </u>
+  <u who="DIA" uID="u530">
+    <w>un</w>
+    <w>oso</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u531">
+    <w>un</w>
+    <w>oso</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u532">
+    <w>Xaquín</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u533">
+    <w>un</w>
+    <w>caballo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u534">
+    <w>Claudia</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="DIA" uID="u535">
+    <w>un</w>
+    <w>delfín</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u536">
+    <w>Elia</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ELI" uID="u537">
+    <w>un</w>
+    <g><w>pupo</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">pupo=pulpo $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="ANC" uID="u538">
+    <g><w>Juan</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="ELI" uID="u539">
+    <w>é</w>
+    <w>un</w>
+    <g><w>pulpo</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_VER-PRED_301_1SIL:é .</a>
+  </u>
+  <u who="JUA" uID="u540">
+    <g><w>u</w><k type="retracing"/></g>
+    <g><w>u</w><k type="retracing"/></g>
+    <w>una</w>
+    <g><w>vaca</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ELI" uID="u541">
+    <g><w>oveja</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u542">
+    <w>una</w>
+    <t type="self interruption question"></t>
+
+  </u>
+  <u who="JUA" uID="u543">
+    <linker type="other completion"/>
+    <w>vaca</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u544">
+    <w>cht</w>
+    <w>cht</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u545">
+    <w>cómo</w>
+    <w>que</w>
+    <w>una</w>
+    <w>vaca</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ELI" uID="u546">
+    <w>una</w>
+    <g><w>oveja</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u547">
+    <w>una</w>
+    <g><w>oveja</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u548">
+    <w>una</w>
+    <w>oveja</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u549">
+    <g><w>Paula</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ELI" uID="u550">
+    <w>una</w>
+    <g><w>oveja</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="PAU" uID="u551">
+    <w>un</w>
+    <w>pato</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u552">
+    <w>Xaquín</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="XAQ" uID="u553">
+    <w>un</w>
+    <w>león</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u554">
+    <w>Claudia</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u555">
+    <w>un</w>
+    <g><w>sisne</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">sisne=cisne $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="ANC" uID="u556">
+    <w>un</w>
+    <w>cisne</w>
+    <pause symbolic-length="simple"/>
+    <w>muy</w>
+    <w>bien</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u557">
+    <w>y</w>
+    <w>Elia</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ELI" uID="u558">
+    <w>una</w>
+    <w>galiña</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u559">
+    <w>una</w>
+    <w>gallina</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u560">
+    <w>muy</w>
+    <w>bien</w>
+    <t type="e"></t>
+
+    <a type="actions">aplaude</a>
+  </u>
+  <u who="ANC" uID="u561">
+    <w>muy</w>
+    <w>bien</w>
+    <w>campeones</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ELI" uID="u562">
+    <w>y</w>
+    <w>ahora</w>
+    <g><w>ésas</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u563">
+    <w>y</w>
+    <w>ahora</w>
+    <g><w>aquellas</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u564">
+    <w>ahora</w>
+    <t type="self interruption question"></t>
+
+  </u>
+  <u who="DIA" uID="u565">
+    <w>aquellas</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u566">
+    <w>aquellas</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u567">
+    <w>ostras</w>
+    <w>son</w>
+    <w>un</w>
+    <w>montón</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u568">
+    <w>ahora</w>
+    <w>hacemos</w>
+    <w>otro</w>
+    <w>juego</w>
+    <w>que</w>
+    <w>tengo</w>
+    <w>yo</w>
+    <w>aquí</w>
+    <w>preparado</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u569">
+    <w>y</w>
+    <w>dos</w>
+    <w>minutos</w>
+    <w>más</w>
+    <w>y</w>
+    <w>nos</w>
+    <w>vamos</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>vale</w>
+    <t type="q"></t>
+
+    <a type="addressee">CHE</a>
+  </u>
+  <u who="ELI" uID="u570">
+    <w>oto</w>
+    <g><w>más</w><error/></g>
+    <t type="q"></t>
+
+    <a type="extension" flavor="par">oto=otro $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="ANC" uID="u571">
+    <w>un</w>
+    <w>juego</w>
+    <t type="interruption"></t>
+
+    <a type="comments">hay un corte en la grabación</a>
+  </u>
+  <u who="ELI" uID="u572">
+    <w>éste</w>
+    <pause symbolic-length="simple"/>
+    <w>ahora</w>
+    <w>éste</w>
+    <t type="e"></t>
+
+    <a type="actions">coge el estuche de una de las barajas</a>
+  </u>
+  <u who="ANC" uID="u573">
+    <w>ay</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>listísima</w>
+    <w>me</w>
+    <w>eres</w>
+    <w>Elia</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u574">
+    <w>sí</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u575">
+    <w>es</w>
+    <w>como</w>
+    <w>un</w>
+    <w>allo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u576">
+    <w>eres</w>
+    <w>como</w>
+    <w>un</w>
+    <w>gallo</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:2S:2C_VER-PRED_305_2SIL:eres .</a>
+    <a type="speech act">$IMIT</a>
+  </u>
+  <u who="ANC" uID="u577">
+    <w>un</w>
+    <w>gallo</w>
+    <w>non</w>
+    <pause symbolic-length="simple"/>
+    <w>un</w>
+    <w>allo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u578">
+    <w>sabes</w>
+    <w>o</w>
+    <w>que</w>
+    <w>é</w>
+    <w>un</w>
+    <w>allo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u579">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u580">
+    <w>qué</w>
+    <w>é</w>
+    <w>un</w>
+    <w>allo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u581">
+    <w>un</w>
+    <w>gallito</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u582">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>eso</w>
+    <w>é</w>
+    <w>un</w>
+    <w>gallo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u583">
+    <w>un</w>
+    <g><w>gallito</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u584">
+    <w>pero</w>
+    <w>un</w>
+    <g><w>allo</w><overlap type="overlap precedes"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="XAQ" uID="u585">
+    <w>un</w>
+    <w>allo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u586">
+    <w>un</w>
+    <w>allo</w>
+    <w>es</w>
+    <w>lo</w>
+    <w>mismo</w>
+    <w>que</w>
+    <w>un</w>
+    <w>ajo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u587">
+    <w>oy</w>
+    <pause symbolic-length="simple"/>
+    <w>cataplof</w>
+    <t type="e"></t>
+
+    <a type="actions">XAQ se cae de la silla</a>
+    <a type="comments">hay otro corte en la grabación</a>
+  </u>
+  <u who="ANC" uID="u588">
+    <w>atentos</w>
+    <w>a</w>
+    <w>esta</w>
+    <w>de</w>
+    <w>aquí</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <pause symbolic-length="simple"/>
+    <w>vale</w>
+    <t type="q"></t>
+
+    <a type="actions">señala un bloc de dibujos</a>
+  </u>
+  <u who="ANC" uID="u589">
+    <w>sólo</w>
+    <w>se</w>
+    <w>puede</w>
+    <w>mirar</w>
+    <w>para</w>
+    <w>ésta</w>
+    <w>de</w>
+    <w>aquí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u590">
+    <w>qué</w>
+    <w>color</w>
+    <w>tenemos</w>
+    <w>aquí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAU" uID="u591">
+    <w>rojo</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u592">
+    <w>rojo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u593">
+    <w>aquí</w>
+    <t type="q"></t>
+
+    <a type="actions">pasa una lámina del bloc y enseña otro dibujo</a>
+  </u>
+  <u who="PAU" uID="u594">
+    <w>amarillo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u595">
+    <w>pero</w>
+    <w>yo</w>
+    <w>quiero</w>
+    <w>oír</w>
+    <w>a</w>
+    <w>todos</w>
+    <t type="e"></t>
+
+    <a type="actions">pasa a otro dibujo</a>
+  </u>
+  <u who="DIA" uID="u596">
+    <w>negro</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u597">
+    <g><w>banco</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">banco=blanco $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="JUA" uID="u598">
+    <w>negro</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u599">
+    <g><w>nego</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">nego=negro $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="XAQ" uID="u600">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="actions">ANC pasa otra lámina</a>
+    <a type="comments">rápida sucesión de voces sin respetar los silencios entre turnos de conversación, casi solapamiento</a>
+  </u>
+  <u who="JUA" uID="u601">
+    <w>do</w>
+    <pause symbolic-length="simple"/>
+    <g><w>dosa</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">dosa=rosa $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="DIA" uID="u602">
+    <g><w>rosa</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u603">
+    <g><w>rosa</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+    <a type="actions">pasa otra lámina</a>
+  </u>
+  <u who="DIA" uID="u604">
+    <g><w>aful</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">aful=azul $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="JUA" uID="u605">
+    <w>azul</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u606">
+    <w>azul</w>
+    <t type="p"></t>
+
+    <a type="actions">ANC pasa otra lámina</a>
+  </u>
+  <u who="JUA" uID="u607">
+    <g><w>verde</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u608">
+    <g><w>verde</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u609">
+    <w>verde</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u610">
+    <w>uy</w>
+    <pause symbolic-length="simple"/>
+    <w>hai</w>
+    <w>que</w>
+    <w>dicilo</w>
+    <w>bien</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u611">
+    <w>así</w>
+    <w>parece</w>
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u612">
+    <w>verde</w>
+    <w>amarillo</w>
+    <w>rosa</w>
+    <t type="p"></t>
+
+    <a type="comments">todas las vibrantes son simples en su pronunciación</a>
+  </u>
+  <u who="ANC" uID="u613">
+    <g><w>vale</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u614">
+    <g><w>amarillo</w><overlap type="overlap precedes"/></g>
+    <w>rosa</w>
+    <w>y</w>
+    <w>verde</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u615">
+    <w>muy</w>
+    <w>bien</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u616">
+    <w>amarillo</w>
+    <w>rosa</w>
+    <w>y</w>
+    <w>verde</w>
+    <t type="p"></t>
+
+    <a type="actions">ANC ennseña otra lámina</a>
+    <a type="comments">sigue pronunciando vibrantes simples en posición inicial</a>
+  </u>
+  <u who="DIA" uID="u617">
+    <w>marrón</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u618">
+    <g><w>marón</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">marón=marrón $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="DIA" uID="u619">
+    <g><w>azul</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u620">
+    <g><w>azul</w><overlap type="overlap precedes"/></g>
+    <s type="colon"/>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u621">
+    <g><w>y</w><k type="retracing"/></g>
+    <w>y</w>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="DIA" uID="u622">
+    <w>verde</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u623">
+    <w>y</w>
+    <g><w>verde</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u624">
+    <g><w>verde</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u625">
+    <w>muy</w>
+    <w>bien</w>
+    <t type="e"></t>
+
+    <a type="actions">sigue pasando láminas del bloc de dibujo</a>
+  </u>
+  <u who="PAU" uID="u626">
+    <g><w>banco</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">banco=blanco $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="DIA" uID="u627">
+    <w>marrón</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u628">
+    <g><w>marón</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">marón=marrón $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+    <a type="actions">otra lámina</a>
+  </u>
+  <u who="DIA" uID="u629">
+    <w>naraja</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u630">
+    <g><w>naranja</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u631">
+    <g><w>naranja</w><overlap type="overlap precedes"/></g>
+    <s type="colon"/>
+    <t type="e"></t>
+
+    <a type="actions">siguiente lámina</a>
+  </u>
+  <u who="PAU" uID="u632">
+    <g><w>violeta</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u633">
+    <g><w>lila</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u634">
+    <w>lila</w>
+    <t type="p"></t>
+
+    <a type="actions">la entrevistadora prosigue en su ojear de láminas</a>
+  </u>
+  <u who="DIA" uID="u635">
+    <w>verde</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u636">
+    <w>verde</w>
+    <s type="colon"/>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u637">
+    <w>no</w>
+    <t type="e"></t>
+
+    <a type="actions">niega también con la cabeza</a>
+  </u>
+  <u who="ANC" uID="u638">
+    <w>qué</w>
+    <g><w>color</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u639">
+    <g><w>griz</w><error/><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">griz=gris $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="PAU" uID="u640">
+    <w>gris</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u641">
+    <w>gris</w>
+    <t type="p"></t>
+
+    <a type="speech act">$IMIT</a>
+  </u>
+  <u who="ANC" uID="u642">
+    <w>se</w>
+    <w>acabó</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u643">
+    <w>y</w>
+    <w>ahora</w>
+    <w>hacemos</w>
+    <w>el</w>
+    <w>del</w>
+    <w>medio</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>vale</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u644">
+    <w>venga</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u645">
+    <w>qué</w>
+    <w>era</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u646">
+    <w>una</w>
+    <g><w>muñeca</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u647">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u648">
+    <w>pero</w>
+    <w>el</w>
+    <w>color</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u649">
+    <w>una</w>
+    <w>muñeca</w>
+    <t type="p"></t>
+
+    <a type="speech act">$IMIT</a>
+  </u>
+  <u who="ANC" uID="u650">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>el</w>
+    <w>color</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u651">
+    <w>marrón</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u652">
+    <w>marrón</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u653">
+    <g><w>marón</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">marón=marrón $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+    <a type="actions">pasa la lámina la entrevistadora</a>
+  </u>
+  <u who="DIA" uID="u654">
+    <w>naranja</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u655">
+    <g><w>naranja</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u656">
+    <g><w>naranja</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+    <a type="actions">vuelve a pasar la lámina la entrevistadora</a>
+  </u>
+  <u who="JUA" uID="u657">
+    <w>roja</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u658">
+    <w>colorada</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u659">
+    <w>vale</w>
+    <t type="e"></t>
+
+    <a type="actions">pasa a la siguiente lámina</a>
+  </u>
+  <u who="DIA" uID="u660">
+    <w>verde</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u661">
+    <w>verde</w>
+    <w>y</w>
+    <g><w>marón</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">marón=marrón $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="ANC" uID="u662">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>sí</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u663">
+    <w>verde</w>
+    <w>y</w>
+    <w>marrón</w>
+    <pause symbolic-length="simple"/>
+    <w>es</w>
+    <w>verdad</w>
+    <t type="e"></t>
+
+    <a type="actions">mira el dibujo y pasa al siguiente</a>
+  </u>
+  <u who="DIA" uID="u664">
+    <g><w>lila</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u665">
+    <g><w>lila</w><overlap type="overlap precedes"/></g>
+    <s type="colon"/>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u666">
+    <w type="fragment">eh</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u667">
+    <w>amarillo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u668">
+    <g><w>amarillo</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u669">
+    <g><w>amarillo</w><overlap type="overlap precedes"/><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u670">
+    <g><w>amarillo</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u671">
+    <w>y</w>
+    <w>rosa</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u672">
+    <w>y</w>
+    <g><w>rosa</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u673">
+    <w>y</w>
+    <g><w>roxa</w><overlap type="overlap precedes"/><k type="retracing"/></g>
+    <w>y</w>
+    <g><w>roxa</w><k type="retracing"/></g>
+    <w>y</w>
+    <w>roxa</w>
+    <g><w>y</w><error/></g>
+    <t type="self interruption"></t>
+
+    <a type="extension" flavor="par">roxa=rrosa $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS $SUS</a>
+    <a type="comments">pronuncia la vibrante inicial como simple</a>
+  </u>
+  <u who="ELI" uID="u674">
+    <w>y</w>
+    <g><w>asul</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">asul=azul $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="ANC" uID="u675">
+    <w>azul</w>
+    <w>o</w>
+    <w>verde</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u676">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>verde</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u677">
+    <w>vale</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u678">
+    <w>qué</w>
+    <w>más</w>
+    <t type="q"></t>
+
+    <a type="actions">muestra otro dibujo</a>
+  </u>
+  <u who="PAU" uID="u679">
+    <w>amarillo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u680">
+    <w>amarillo</w>
+    <w>y</w>
+    <w>amarillo</w>
+    <s type="colon"/>
+    <t type="p"></t>
+
+  </u>
+  <u who="JUA" uID="u681">
+    <g><w>tade</w><k type="best guess"/><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u682">
+    <g><w>Xaquín</w><overlap type="overlap precedes"/></g>
+    <w>Xaquín</w>
+    <pause symbolic-length="simple"/>
+    <w>non</w>
+    <w>oio</w>
+    <w>a</w>
+    <w>Xaquín</w>
+    <t type="p"></t>
+
+    <a type="actions">otro dibujo</a>
+  </u>
+  <u who="PAU" uID="u683">
+    <g><w>banco</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">banco=blanco $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="JUA" uID="u684">
+    <g><w>banco</w><error/></g>
+    <s type="colon"/>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">banco=blanco $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+    <a type="speech act">$IMIT</a>
+  </u>
+  <u who="JUA" uID="u685">
+    <w>no</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u686">
+    <w>gris</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="JUA" uID="u687">
+    <g><w>griz</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">griz=gris $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u688">
+    <w>o</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANC" uID="u689">
+    <w>más</w>
+    <w>oscuro</w>
+    <w>que</w>
+    <w>el</w>
+    <w>gris</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="JUA" uID="u690">
+    <w>griz</w>
+    <g><w>a</w><k type="retracing"/></g>
+    <g><w>a</w><k type="retracing with correction"/></g>
+    <g><w type="fragment">oz</w><k type="retracing with correction"/></g>
+    <w>muy</w>
+    <g><w>ozcuro</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">griz=gris $PHO ; ozcuro=oscuro $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON ; $SUS-FRON</a>
+  </u>
+  <u who="ANC" uID="u691">
+    <w>o</w>
+    <w>negro</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u692">
+    <w>negro</w>
+    <w>también</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="DIA" uID="u693">
+    <w>azul</w>
+    <t type="e"></t>
+
+    <a type="actions">señala el siguiente dibujo</a>
+  </u>
+  <u who="JUA" uID="u694">
+    <g><w>azul</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u695">
+    <g><w>azul</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u696">
+    <w>azul</w>
+    <t type="p"></t>
+
+    <a type="actions">pasa al siguiente dibujo</a>
+  </u>
+  <u who="JUA" uID="u697">
+    <g><w>negro</w><overlap type="overlap follows"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="PAU" uID="u698">
+    <g><w>gris</w><overlap type="overlap precedes"/></g>
+    <t type="e"></t>
+
+  </u>
+  <u who="DIA" uID="u699">
+    <g><w>gris</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u700">
+    <g><w>gris</w><overlap type="overlap precedes"/></g>
+    <pause symbolic-length="simple"/>
+    <w>éste</w>
+    <w>sí</w>
+    <w>que</w>
+    <w>es</w>
+    <w>el</w>
+    <w>gris</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANC" uID="u701">
+    <w>véis</w>
+    <w>la</w>
+    <w>diferencia</w>
+    <t type="q"></t>
+
+    <a type="actions">busca otra lámina con el color negro para compararlos</a>
+  </u>
+  <u who="ANC" uID="u702">
+    <w>a</w>
+    <w>ver</w>
+    <w>si</w>
+    <w>aprendemos</w>
+    <w>unha</w>
+    <w>cousiña</w>
+    <t type="e"></t>
+
+    <a type="comments">busca otra lámina</a>
+  </u>
+  <u who="ANC" uID="u703">
+    <w>uy</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <w>me</w>
+    <w>sale</w>
+    <w>el</w>
+    <w>negro</w>
+    <w>ahora</w>
+    <pause symbolic-length="long"/>
+    <w>no</w>
+    <w>hay</w>
+    <w>negro</w>
+    <w>aquí</w>
+    <t type="p"></t>
+
+    <a type="comments">busca una lámina en la que aparece el color negro</a>
+  </u>
+  <u who="ANC" uID="u704">
+    <w>este</w>
+    <w>es</w>
+    <w>el</w>
+    <w>negro</w>
+    <w>y</w>
+    <w>este</w>
+    <w>es</w>
+    <w>el</w>
+    <w>gris</w>
+    <pause symbolic-length="simple"/>
+    <w>si</w>
+    <t type="q"></t>
+
+    <a type="actions">asienten con la cabeza</a>
+  </u>
+  <u who="ANC" uID="u705">
+    <w>y</w>
+    <w>aquí</w>
+    <t type="q"></t>
+
+    <a type="actions">enseña otra lámina</a>
+  </u>
+  <u who="JUA" uID="u706">
+    <w>ro<shortening>sa</shortening></w>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="PAU" uID="u707">
+    <w>rosa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u708">
+    <w>rosa</w>
+    <pause symbolic-length="simple"/>
+    <w>muy</w>
+    <w>bien</w>
+    <pause symbolic-length="simple"/>
+    <w>subimos</w>
+    <w>a</w>
+    <w>jugar</w>
+    <w>a</w>
+    <w>clase</w>
+    <t type="q"></t>
+
+    <a type="actions">dicen todos que sí</a>
+  </u>
+</CHAT>

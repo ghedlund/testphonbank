@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="010225" corpus="ComptonPater" version="PB1.2">
+    <header>
+        <date>1973-05-18</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Sean</name>
+            <sex>male</sex>
+            <age>P1Y2M25DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="uttnum" grouped="false"/>
+        <userTier tierName="sesdat" grouped="false"/>
+        <userTier tierName="age" grouped="false"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="uttnum" visible="true" locked="false" font="default"/>
+        <tier tierName="sesdat" visible="true" locked="false" font="default"/>
+        <tier tierName="age" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Code">pid 11312/c-00011605-1</comment>
+        <comment type="Date">18-MAY-1973</comment>
+        <u speaker="CHI" id="fddebe8d-77e7-45a5-916c-cc539893db9b" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>apple</w>
+                    <w>juice</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈæpəl</w>
+                    <w>ˈʤuːs</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                        <ph indexes="4" scType="UK"/>
+                        <ph indexes="5" scType="WB"/>
+                        <ph indexes="6" scType="SS"/>
+                        <ph indexes="7" scType="UK"/>
+                        <ph indexes="8 9" scType="UK"/>
+                        <ph indexes="10" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>apudɛ</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                        <ph indexes="4" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <notes tierName="Notes">(in high chair) apple juice</notes>
+            <flatTier tierName="uttnum">127</flatTier>
+            <flatTier tierName="sesdat">1973-05-18</flatTier>
+            <flatTier tierName="age">1;2.25</flatTier>
+        </u>
+        <u speaker="CHI" id="330fb7a0-c615-416a-9edb-30ce9b282aa4" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>yyy@b</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>*</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>o</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <notes tierName="Notes">babbling</notes>
+            <flatTier tierName="uttnum">128</flatTier>
+            <flatTier tierName="sesdat">1973-05-18</flatTier>
+            <flatTier tierName="age">1;2.25</flatTier>
+        </u>
+        <u speaker="CHI" id="b9012a40-bece-4a21-9643-e9b7c3664b3f" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>yyy@b</w>
+                    <w>yyy@b</w>
+                    <w>yyy@b</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>*</w>
+                    <w>*</w>
+                    <w>*</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="WB"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="WB"/>
+                        <ph indexes="4" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>apu</w>
+                    <w>apu</w>
+                    <w>apu</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="WB"/>
+                        <ph indexes="4" scType="UK"/>
+                        <ph indexes="5" scType="UK"/>
+                        <ph indexes="6" scType="UK"/>
+                        <ph indexes="7" scType="WB"/>
+                        <ph indexes="8" scType="UK"/>
+                        <ph indexes="9" scType="UK"/>
+                        <ph indexes="10" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <notes tierName="Notes">babbling</notes>
+            <flatTier tierName="uttnum">129</flatTier>
+            <flatTier tierName="sesdat">1973-05-18</flatTier>
+            <flatTier tierName="age">1;2.25</flatTier>
+        </u>
+        <u speaker="CHI" id="042b93a3-19b9-4409-92c1-38a5ea099a84" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>apple</w>
+                    <w>juice</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈæpəl</w>
+                    <w>ˈʤuːs</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                        <ph indexes="4" scType="UK"/>
+                        <ph indexes="5" scType="WB"/>
+                        <ph indexes="6" scType="SS"/>
+                        <ph indexes="7" scType="UK"/>
+                        <ph indexes="8 9" scType="UK"/>
+                        <ph indexes="10" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>apu</w>
+                    <w>du</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="WB"/>
+                        <ph indexes="4" scType="UK"/>
+                        <ph indexes="5" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <flatTier tierName="uttnum">130</flatTier>
+            <flatTier tierName="sesdat">1973-05-18</flatTier>
+            <flatTier tierName="age">1;2.25</flatTier>
+        </u>
+    </transcript>
+</session>

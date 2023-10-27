@@ -1,0 +1,1905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="mil2_04" Mediatypes="audio"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/a-00009149-1"
+      Version="2.20.0"
+      Lang="spa glg"
+      Corpus="Koine"
+      Date="2000-02-16"
+      >
+  <Participants>
+    <participant
+      id="MON"
+    name="Montserrat"
+      role="Investigator"
+      language="spa glg"
+      sex="female"
+      group="Milagrosa"
+
+    />
+    <participant
+      id="NER"
+    name="Nerea"
+      role="Target_Child"
+      language="spa glg"
+      age="P3Y03M16D"
+      sex="female"
+      group="Milagrosa"
+
+    />
+  </Participants>
+  <comment type="Generic">MON</comment>
+  <comment type="Location">Lugo</comment>
+  <comment type="Situation">en la escuela infantil</comment>
+  <comment type="Activities">juguetes variados y libros</comment>
+  <comment type="Generic">2.4</comment>
+  <comment type="Date">16-FEB-2000</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="MON" uID="u0">
+    <w>hola</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="NER" uID="u1">
+    <pg><w>hola</w><actual><pw><ss type="1"/><ph id="ph0">o</ph><ph id="ph1">l</ph><ph id="ph2">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">o</ph><ph id="ph1">l</ph><ph id="ph2">a</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="2.000"
+      end="2.700"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u2">
+    <w>hoy</w>
+    <w>es</w>
+    <w>día</w>
+    <w>dieciséis</w>
+    <w>de</w>
+    <w>febrero</w>
+    <w>y</w>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="MON" uID="u3">
+    <linker type="self completion"/>
+    <w>cómo</w>
+    <w>se</w>
+    <w>llama</w>
+    <w>tu</w>
+    <w>hermano</w>
+    <pause symbolic-length="simple"/>
+    <w>César</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="NER" uID="u4">
+    <pg><w>César</w><actual><pw><ss type="1"/><ph id="ph0">θ</ph><ph id="ph1">e</ph><ph id="ph2">s</ph><ph id="ph3">a</ph><ph id="ph4">ɾ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">θ</ph><ph id="ph1">e</ph><ph id="ph2">s</ph><ph id="ph3">a</ph><ph id="ph4">ɾ</ph></pw></model></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual><model><pw><ph id="ph0">*</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="12.000"
+      end="14.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u5">
+    <w>César</w>
+    <w>qué</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="NER" uID="u6">
+    <pg><w>César</w><actual><pw><ss type="1"/><ph id="ph0">θ</ph><ph id="ph1">e</ph><ph id="ph2">s</ph><ph id="ph3">a</ph><ph id="ph4">ɾ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">θ</ph><ph id="ph1">e</ph><ph id="ph2">s</ph><ph id="ph3">a</ph><ph id="ph4">ɾ</ph></pw></model></pg>
+    <pg><w>de</w><actual><pw><ph id="ph0">d</ph><ph id="ph1">e</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">e</ph></pw></model></pg>
+    <pg><w>la</w><actual><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></model></pg>
+    <pg><w>Cruz</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɾ</ph><ph id="ph2">u</ph><ph id="ph3">θ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɾ</ph><ph id="ph2">u</ph><ph id="ph3">θ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="15.300"
+      end="18.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u7">
+    <w>César</w>
+    <w>de</w>
+    <w>la</w>
+    <w>Cruz</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u8">
+    <w>tu</w>
+    <w>hermano</w>
+    <w>César</w>
+    <w>dónde</w>
+    <w>está</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u9">
+    <w>era</w>
+    <w>lo</w>
+    <w>que</w>
+    <w>yo</w>
+    <w>quería</w>
+    <w>decir</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u10">
+    <pg><w>mi</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>hermano</w><actual><pw><ph id="ph0">e</ph><ph id="ph1">ɾ</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">a</ph><ph id="ph4">n</ph><ph id="ph5">o</ph></pw></actual><model><pw><ph id="ph0">e</ph><ph id="ph1">ɾ</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">a</ph><ph id="ph4">n</ph><ph id="ph5">o</ph></pw></model></pg>
+    <pg><w>está</w><actual><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></actual><model><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></model></pg>
+    <pg><w>malito</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">l</ph><ph id="ph3">i</ph><ph id="ph4">t</ph><ph id="ph5">o</ph></pw></actual><model><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">l</ph><ph id="ph3">i</ph><ph id="ph4">t</ph><ph id="ph5">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="26.500"
+      end="28.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:3S:1C_ARG1-VER-PRED_303_2SIL:está .</a>
+  </u>
+  <u who="MON" uID="u11">
+    <w>está</w>
+    <w>malito</w>
+    <pause symbolic-length="simple"/>
+    <w>por</w>
+    <w>eso</w>
+    <w>solamente</w>
+    <w>está</w>
+    <w>hoy</w>
+    <w>Nerea</w>
+    <pause symbolic-length="simple"/>
+    <w>vale</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="NER" uID="u12">
+    <pg><w>sí</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="32.000"
+      end="32.600"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u13">
+    <w>y</w>
+    <w>vamos</w>
+    <w>a</w>
+    <w>jugar</w>
+    <w>a</w>
+    <w>cocinar</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u14">
+    <w>vamos</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="NER" uID="u15">
+    <pg><w>y</w><actual><pw><ss type="1"/><ph id="ph0">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">i</ph></pw></model></pg>
+    <pg><w>quién</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">n</ph></pw></model></pg>
+    <pg><w>es</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>el</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">l</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">l</ph></pw></model></pg>
+    <pg><w>bebé</w><actual><pw><ph id="ph0">b</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">β</ph><ph id="ph3">e</ph></pw></actual><model><pw><ph id="ph0">b</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">β</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="q"></t>
+    <media
+      start="37.000"
+      end="38.500"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_ENL3-PRED'INT-VER-ARG1_303_1SIL:es ?</a>
+  </u>
+  <u who="MON" uID="u16">
+    <w>sí</w>
+    <pause symbolic-length="simple"/>
+    <w>yo</w>
+    <w>soy</w>
+    <w>el</w>
+    <w>bebé</w>
+    <pause symbolic-length="simple"/>
+    <w>pero</w>
+    <w>dónde</w>
+    <w>está</w>
+    <w>mi</w>
+    <w>huevo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u17">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>está</w>
+    <w>en</w>
+    <w>el</w>
+    <w>horno</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="NER" uID="u18">
+    <pg><w>los</w><actual><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">o</ph><ph id="ph2">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">o</ph><ph id="ph2">s</ph></pw></model></pg>
+    <pg><w>dos</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">o</ph><ph id="ph2">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">o</ph><ph id="ph2">s</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="44.300"
+      end="44.900"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u19">
+    <w>los</w>
+    <w>dos</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u20">
+    <w>tú</w>
+    <w>qué</w>
+    <w>vas</w>
+    <w>a</w>
+    <w>comer</w>
+    <pause symbolic-length="simple"/>
+    <w>el</w>
+    <w>otro</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u21">
+    <w>vale</w>
+    <pause symbolic-length="simple"/>
+    <w>muy</w>
+    <w>bien</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u22">
+    <pg><w>y</w><actual><pw><ss type="1"/><ph id="ph0">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">i</ph></pw></model></pg>
+    <pg><w>ahora</w><actual><pw><ph id="ph0">a</ph><ss type="1"/><ph id="ph1">o</ph><ph id="ph2">ɾ</ph><ph id="ph3">a</ph></pw></actual><model><pw><ph id="ph0">a</ph><ss type="1"/><ph id="ph1">o</ph><ph id="ph2">ɾ</ph><ph id="ph3">a</ph></pw></model></pg>
+    <pg><w>te</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">e</ph></pw></model></pg>
+    <pg><w>voy</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">j</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">j</ph></pw></model></pg>
+    <pg><w>a</w><actual><pw><ss type="1"/><ph id="ph0">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph></pw></model></pg>
+    <pg><w>echar</w><actual><pw><ph id="ph0">e</ph><ss type="1"/><ph id="ph1">ʧ</ph><ph id="ph2">a</ph><ph id="ph3">ɾ</ph></pw></actual><model><pw><ph id="ph0">e</ph><ss type="1"/><ph id="ph1">ʧ</ph><ph id="ph2">a</ph><ph id="ph3">ɾ</ph></pw></model></pg>
+    <t type="self interruption"></t>
+    <media
+      start="51.000"
+      end="53.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|ir:1SIL_PRES:1S:3C_1SIL:voy~v|echar:2SIL_INF:1C_ENL3-CIRC-CLI2-PER_303_2SIL:echar +//.</a>
+  </u>
+  <u who="MON" uID="u23">
+    <w>qué</w>
+    <w>me</w>
+    <w>vas</w>
+    <w>a</w>
+    <w>echar</w>
+    <t type="q"></t>
+
+    <a type="actions">NER señala la leche</a>
+  </u>
+  <u who="MON" uID="u24">
+    <w>eso</w>
+    <w>es</w>
+    <w>la</w>
+    <w>leche</w>
+    <t type="p"></t>
+
+    <a type="comments">NER asiente</a>
+  </u>
+  <u who="MON" uID="u25">
+    <w>quieres</w>
+    <w>que</w>
+    <w>te</w>
+    <w>limpie</w>
+    <w>el</w>
+    <w>moquito</w>
+    <pause symbolic-length="simple"/>
+    <w>sí</w>
+    <t type="q"></t>
+
+    <a type="comments">NER disiente</a>
+  </u>
+  <u who="MON" uID="u26">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>lo</w>
+    <w>limpias</w>
+    <w>tú</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u27">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>tonta</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <w>traje</w>
+    <w>el</w>
+    <w>bolso</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MON" uID="u28">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>pero</w>
+    <w>hay</w>
+    <w>aquí</w>
+    <w>papel</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u29">
+    <w>es</w>
+    <w>que</w>
+    <w>tú</w>
+    <w>tienes</w>
+    <w>un</w>
+    <w>catarro</w>
+    <pause symbolic-length="simple"/>
+    <w>toma</w>
+    <t type="e"></t>
+
+    <a type="actions">MON le da papel higiénico</a>
+  </u>
+  <u who="MON" uID="u30">
+    <w>sí</w>
+    <pause symbolic-length="simple"/>
+    <w>lo</w>
+    <w>limpias</w>
+    <w>tú</w>
+    <t type="q"></t>
+
+    <a type="actions">NER se limpia</a>
+  </u>
+  <u who="MON" uID="u31">
+    <w>muy</w>
+    <w>bien</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>chica</w>
+    <w>más</w>
+    <w>grande</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>ya</w>
+    <w>se</w>
+    <w>limpia</w>
+    <pause symbolic-length="simple"/>
+    <w>limpita</w>
+    <pause symbolic-length="simple"/>
+    <w>limpita</w>
+    <t type="e"></t>
+
+    <a type="actions">devuelve el papel a MON</a>
+  </u>
+  <u who="MON" uID="u32">
+    <w>bonita</w>
+    <pause symbolic-length="simple"/>
+    <w>guapa</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="NER" uID="u33">
+    <pg><w>ya</w><actual><pw><ss type="1"/><ph id="ph0">ʤ</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʤ</ph><ph id="ph1">a</ph></pw></model></pg>
+    <pg><w>está</w><actual><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></actual><model><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="104.000"
+      end="106.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:3S:1C_CIRC-VER_303_2SIL:está !</a>
+  </u>
+  <u who="MON" uID="u34">
+    <w>ya</w>
+    <w>está</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>bien</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="NER" uID="u35">
+    <pg><w>ahora</w><actual><pw><ph id="ph0">a</ph><ss type="1"/><ph id="ph1">o</ph><ph id="ph2">ɾ</ph><ph id="ph3">a</ph></pw></actual><model><pw><ph id="ph0">a</ph><ss type="1"/><ph id="ph1">o</ph><ph id="ph2">ɾ</ph><ph id="ph3">a</ph></pw></model></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual><model><pw><ph id="ph0">*</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="109.000"
+      end="111.000"
+      unit="s"
+    />
+    <a type="actions">está sacando comida del horno</a>
+  </u>
+  <u who="MON" uID="u36">
+    <w>ahora</w>
+    <w>quema</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="NER" uID="u37">
+    <pg><w>no</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="113.300"
+      end="113.700"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u38">
+    <w>no</w>
+    <w>quema</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u39">
+    <w>venga</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>comer</w>
+    <pause symbolic-length="simple"/>
+    <w>yo</w>
+    <w>voy</w>
+    <w>a</w>
+    <w>comer</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u40">
+    <pg><w formType="interjection">ay</w>
+    <pause symbolic-length="simple"/><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">j</ph></pw><pw><ph id="ph2">(</ph><ph id="ph3">.</ph><ph id="ph4">)</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">j</ph></pw><pw><ph id="ph2">(</ph><ph id="ph3">.</ph><ph id="ph4">)</ph></pw></model></pg>
+    <pg><w>que</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph></pw></model></pg>
+    <pg><w>va</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">a</ph></pw></model></pg>
+    <pg><w>caer</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">e</ph><ph id="ph3">ɾ</ph></pw></actual><model><pw><ph id="ph0">k</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">e</ph><ph id="ph3">ɾ</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="118.000"
+      end="119.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|caer:2SIL_PRES:3S:2C_ENL2-CLI3-PRED_303_2SIL:cae !</a>
+    <a type="explanation">se refiere a la comida</a>
+  </u>
+  <u who="MON" uID="u41">
+    <w>lo</w>
+    <w>ponemos</w>
+    <w>aquí</w>
+    <w>en</w>
+    <w>la</w>
+    <w>mesa</w>
+    <w>de</w>
+    <w>la</w>
+    <w>cocina</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="NER" uID="u42">
+    <pg><w>no</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></model></pg>
+    <pg><w>trajiste</w><actual><pw><ph id="ph0">t</ph><ph id="ph1">ɾ</ph><ph id="ph2">a</ph><ss type="1"/><ph id="ph3">x</ph><ph id="ph4">i</ph><ph id="ph5">s</ph><ph id="ph6">t</ph><ph id="ph7">e</ph><ph id="ph8">s</ph></pw></actual><model><pw><ph id="ph0">t</ph><ph id="ph1">ɾ</ph><ph id="ph2">a</ph><ss type="1"/><ph id="ph3">x</ph><ph id="ph4">i</ph><ph id="ph5">s</ph><ph id="ph6">t</ph><ph id="ph7">e</ph></pw></model></pg>
+    <pg><w>libros</w><actual><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">i</ph><ph id="ph2">β</ph><ph id="ph3">ɾ</ph><ph id="ph4">o</ph><ph id="ph5">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">i</ph><ph id="ph2">β</ph><ph id="ph3">ɾ</ph><ph id="ph4">o</ph><ph id="ph5">s</ph></pw></model></pg>
+    <t type="q"></t>
+    <media
+      start="124.000"
+      end="128.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">trajistes=trajiste $VER ;</a>
+    <a type="extension" flavor="mor">v|traer:2SIL_PAS1:2P:2C_NEG-VER-ARG2_303_3SIL:trajistes ?</a>
+  </u>
+  <u who="MON" uID="u43">
+    <w>hoy</w>
+    <w>no</w>
+    <w>sabes</w>
+    <w>lo</w>
+    <w>que</w>
+    <w>traje</w>
+    <pause symbolic-length="long"/>
+    <w>animales</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MON" uID="u44">
+    <w>quieres</w>
+    <w>verlos</w>
+    <t type="q"></t>
+
+    <a type="comments">NER asiente</a>
+  </u>
+  <u who="MON" uID="u45">
+    <w>vale</w>
+    <t type="p"></t>
+
+    <a type="actions">MON va a buscarlos</a>
+  </u>
+  <u who="MON" uID="u46">
+    <w>animales</w>
+    <pause symbolic-length="simple"/>
+    <w>dónde</w>
+    <w>están</w>
+    <w>mis</w>
+    <w>animales</w>
+    <t type="q"></t>
+
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:3P:1C_CIRC'INT-VER-ARG1_303_2SIL:están ?</a>
+  </u>
+  <u who="NER" uID="u47">
+    <pg><w>están</w><actual><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph><ph id="ph4">n</ph></pw></actual><model><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph><ph id="ph4">n</ph></pw></model></pg>
+    <pg><w>ahí</w><actual><pw><ph id="ph0">a</ph><ss type="1"/><ph id="ph1">i</ph></pw></actual><model><pw><ph id="ph0">a</ph><ss type="1"/><ph id="ph1">i</ph></pw></model></pg>
+    <t type="q"></t>
+    <media
+      start="144.000"
+      end="146.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:3P:1C_VER-CIRC_303_2SIL:están ?</a>
+  </u>
+  <u who="MON" uID="u48">
+    <w>sí</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MON" uID="u49">
+    <w>bueno</w>
+    <pause symbolic-length="simple"/>
+    <w>cómete</w>
+    <w>esto</w>
+    <w>rápido</w>
+    <t type="p"></t>
+
+    <a type="explanation">MON se refiere a la comida del horno</a>
+    <a type="comments">ambas hacen que comen</a>
+  </u>
+  <u who="NER" uID="u50">
+    <pg><w>comido</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">i</ph><ph id="ph4">ð</ph><ph id="ph5">o</ph></pw></actual><model><pw><ph id="ph0">k</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">i</ph><ph id="ph4">ð</ph><ph id="ph5">o</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="153.000"
+      end="155.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|comer:2SIL_PART:2C_VER_303_3SIL:comido !</a>
+  </u>
+  <u who="MON" uID="u51">
+    <w>y</w>
+    <w>ahora</w>
+    <w>vamos</w>
+    <w>a</w>
+    <w>jugar</w>
+    <w>a</w>
+    <w>los</w>
+    <w>animales</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u52">
+    <pg><w>no</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></model></pg>
+    <pg><w>se</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></model></pg>
+    <pg><w>pone</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">e</ph></pw></model></pg>
+    <pg><w>quieto</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">t</ph><ph id="ph4">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">t</ph><ph id="ph4">o</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="167.000"
+      end="169.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|poner:2SIL_PRES:3S:2C_NEG-CLI1-VER-PRED_303_2SIL:pone !</a>
+    <a type="explanation">la vaca no se queda de pie</a>
+  </u>
+  <u who="MON" uID="u53">
+    <w>porque</w>
+    <w>es</w>
+    <w>muy</w>
+    <w>delgadita</w>
+    <pause symbolic-length="simple"/>
+    <w>está</w>
+    <w>un</w>
+    <w>poco</w>
+    <w>enferma</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u54">
+    <w>qué</w>
+    <w>es</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="NER" uID="u55">
+    <pg><w>una</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph><ph id="ph2">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph><ph id="ph2">a</ph></pw></model></pg>
+    <pg><w>vaca</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">a</ph><ph id="ph2">k</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">a</ph><ph id="ph2">k</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="175.000"
+      end="176.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u56">
+    <w>una</w>
+    <w>vaca</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u57">
+    <w>y</w>
+    <w>esto</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="NER" uID="u58">
+    <pg><w>eso</w>
+    <pause symbolic-length="simple"/><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">o</ph></pw><pw><ph id="ph3">(</ph><ph id="ph4">.</ph><ph id="ph5">)</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">o</ph></pw><pw><ph id="ph3">(</ph><ph id="ph4">.</ph><ph id="ph5">)</ph></pw></model></pg>
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>conejo</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">n</ph><ph id="ph3">e</ph><ph id="ph4">x</ph><ph id="ph5">o</ph></pw></actual><model><pw><ph id="ph0">k</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">n</ph><ph id="ph3">e</ph><ph id="ph4">x</ph><ph id="ph5">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="180.000"
+      end="182.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u59">
+    <w>un</w>
+    <w>conejo</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>bien</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="NER" uID="u60">
+    <pg><w>muchos</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">u</ph><ph id="ph2">ʧ</ph><ph id="ph3">o</ph><ph id="ph4">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">u</ph><ph id="ph2">ʧ</ph><ph id="ph3">o</ph><ph id="ph4">s</ph></pw></model></pg>
+    <pg><w>árboles</w><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">ɾ</ph><ph id="ph2">β</ph><ph id="ph3">o</ph><ph id="ph4">l</ph><ph id="ph5">e</ph><ph id="ph6">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">ɾ</ph><ph id="ph2">β</ph><ph id="ph3">o</ph><ph id="ph4">l</ph><ph id="ph5">e</ph><ph id="ph6">s</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="187.000"
+      end="189.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u61">
+    <w>um</w>
+    <pause symbolic-length="simple"/>
+    <w>tú</w>
+    <w>ve</w>
+    <w>preparando</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>eso</w>
+    <w>es</w>
+    <w>una</w>
+    <w>granja</w>
+    <pause symbolic-length="simple"/>
+    <w>ves</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u62">
+    <w>aquí</w>
+    <w>dice</w>
+    <w>granja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u63">
+    <pg><w>esto</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></model></pg>
+    <pg><w>no</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></model></pg>
+    <pg><w>se</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></model></pg>
+    <pg><w>puede</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">ð</ph><ph id="ph4">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">ð</ph><ph id="ph4">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="194.000"
+      end="196.670"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|poder:2SIL_PRES:3S:2C_ARG1-NEG-CLI1-VER_303_2SIL:puede .</a>
+  </u>
+  <u who="NER" uID="u64">
+    <pg><w formType="interjection">hala</w><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">l</ph><ph id="ph2">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">l</ph><ph id="ph2">a</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="196.670"
+      end="197.670"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u65">
+    <w>está</w>
+    <w>todo</w>
+    <w>un</w>
+    <w>poco</w>
+    <w>espachurrado</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u66">
+    <w>esto</w>
+    <w>es</w>
+    <w>para</w>
+    <w>que</w>
+    <w>la</w>
+    <w>vaca</w>
+    <w>no</w>
+    <w>se</w>
+    <w>escape</w>
+    <pause symbolic-length="simple"/>
+    <w>hay</w>
+    <w>que</w>
+    <w>cerrar</w>
+    <w>la</w>
+    <w>vaca</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u67">
+    <w>porque</w>
+    <w>las</w>
+    <w>vacas</w>
+    <w>si</w>
+    <w>se</w>
+    <w>escapan</w>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="MON" uID="u68">
+    <linker type="self completion"/>
+    <w>luego</w>
+    <w>no</w>
+    <w>vuelven</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u69">
+    <w>este</w>
+    <w>árbol</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>le</w>
+    <w>pasa</w>
+    <pause symbolic-length="simple"/>
+    <w>está</w>
+    <w>borracho</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="NER" uID="u70">
+    <pg><w>sí</w>
+    <pause symbolic-length="simple"/><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw><pw><ph id="ph2">(</ph><ph id="ph3">.</ph><ph id="ph4">)</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw><pw><ph id="ph2">(</ph><ph id="ph3">.</ph><ph id="ph4">)</ph></pw></model></pg>
+    <pg><w>está</w><actual><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></actual><model><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></model></pg>
+    <pg><w>borracho</w><actual><pw><ph id="ph0">b</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">r</ph><ph id="ph3">a</ph><ph id="ph4">ʧ</ph><ph id="ph5">o</ph></pw></actual><model><pw><ph id="ph0">b</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">r</ph><ph id="ph3">a</ph><ph id="ph4">ʧ</ph><ph id="ph5">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="221.000"
+      end="223.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:3S:1C_MOD-VER-PRED_303_2SIL:está .</a>
+  </u>
+  <u who="MON" uID="u71">
+    <w>está</w>
+    <w>borracho</w>
+    <w>el</w>
+    <w>árbol</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u72">
+    <pg><w>no</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></model></pg>
+    <pg><w>se</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></model></pg>
+    <pg><w>puede</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">ð</ph><ph id="ph4">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">ð</ph><ph id="ph4">e</ph></pw></model></pg>
+    <pg><w>escapar</w><actual><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">k</ph><ph id="ph3">a</ph><ss type="1"/><ph id="ph4">p</ph><ph id="ph5">a</ph><ph id="ph6">ɾ</ph></pw></actual><model><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">k</ph><ph id="ph3">a</ph><ss type="1"/><ph id="ph4">p</ph><ph id="ph5">a</ph><ph id="ph6">ɾ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="226.000"
+      end="228.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|poder:2SIL_PRES:3S:2C_2SIL:puede~v|escapar:3SIL_INF:1C_NEG-CLI1-PER_303_3SIL:escapar .</a>
+  </u>
+  <u who="MON" uID="u73">
+    <w>por</w>
+    <w>ningún</w>
+    <w>lado</w>
+    <pause symbolic-length="simple"/>
+    <w>ala</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u74">
+    <pg><w>está</w><actual><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></actual><model><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></model></pg>
+    <pg><w>cerrada</w><actual><pw><ph id="ph0">θ</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">r</ph><ph id="ph3">a</ph><ph id="ph4">ð</ph><ph id="ph5">a</ph></pw></actual><model><pw><ph id="ph0">θ</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">r</ph><ph id="ph3">a</ph><ph id="ph4">ð</ph><ph id="ph5">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="230.000"
+      end="231.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:3S:1C_VER-PRED_303_2SIL:está .</a>
+  </u>
+  <u who="MON" uID="u75">
+    <w>sí</w>
+    <pause symbolic-length="simple"/>
+    <w>está</w>
+    <w>cerrada</w>
+    <pause symbolic-length="long"/>
+    <w>otro</w>
+    <w>árbol</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u76">
+    <w>lo</w>
+    <w>que</w>
+    <w>pasa</w>
+    <w>es</w>
+    <w>que</w>
+    <w>aquí</w>
+    <w>tenemos</w>
+    <w>muy</w>
+    <w>poco</w>
+    <w>espacio</w>
+    <w>para</w>
+    <w>todo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u77">
+    <pg><w>este</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">e</ph></pw></model></pg>
+    <pg><w>es</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>pequeño</w><actual><pw><ph id="ph0">p</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">k</ph><ph id="ph3">e</ph><ph id="ph4">ɲ</ph><ph id="ph5">o</ph></pw></actual><model><pw><ph id="ph0">p</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">k</ph><ph id="ph3">e</ph><ph id="ph4">ɲ</ph><ph id="ph5">o</ph></pw></model></pg>
+    <pg><w>y</w><actual><pw><ss type="1"/><ph id="ph0">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">i</ph></pw></model></pg>
+    <pg><w>ese</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">e</ph></pw></model></pg>
+    <pg><w>es</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>grande</w><actual><pw><ss type="1"/><ph id="ph0">ɡ</ph><ph id="ph1">ɾ</ph><ph id="ph2">a</ph><ph id="ph3">n</ph><ph id="ph4">d</ph><ph id="ph5">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɡ</ph><ph id="ph1">ɾ</ph><ph id="ph2">a</ph><ph id="ph3">n</ph><ph id="ph4">d</ph><ph id="ph5">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="243.000"
+      end="246.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_ARG1-VER-PRED_303_1SIL:es v|ser:1SIL_PRES:3S:2C_ENL2-ARG1-VER-PRED_303_1SIL:es .</a>
+    <a type="explanation">compara los árboles</a>
+  </u>
+  <u who="MON" uID="u78">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u79">
+    <w>y</w>
+    <w>esto</w>
+    <w>qué</w>
+    <w>es</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="NER" uID="u80">
+    <pg><w>aquí</w><actual><pw><ph id="ph0">a</ph><ss type="1"/><ph id="ph1">k</ph><ph id="ph2">i</ph></pw></actual><model><pw><ph id="ph0">a</ph><ss type="1"/><ph id="ph1">k</ph><ph id="ph2">i</ph></pw></model></pg>
+    <t type="q"></t>
+    <media
+      start="247.600"
+      end="248.600"
+      unit="s"
+    />
+    <a type="explanation">le pregunta a MON dónde la pone</a>
+  </u>
+  <u who="MON" uID="u81">
+    <w>sí</w>
+    <w>ahí</w>
+    <pause symbolic-length="simple"/>
+    <w>pero</w>
+    <w>qué</w>
+    <w>es</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="NER" uID="u82">
+    <pg><w>una</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph><ph id="ph2">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph><ph id="ph2">a</ph></pw></model></pg>
+    <pg><w>oveja</w><actual><pw><ph id="ph0">o</ph><ss type="1"/><ph id="ph1">β</ph><ph id="ph2">e</ph><ph id="ph3">x</ph><ph id="ph4">a</ph></pw></actual><model><pw><ph id="ph0">o</ph><ss type="1"/><ph id="ph1">β</ph><ph id="ph2">e</ph><ph id="ph3">x</ph><ph id="ph4">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="250.000"
+      end="251.400"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u83">
+    <w>una</w>
+    <w>oveja</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MON" uID="u84">
+    <g><w>esto</w>
+    <w>es</w>
+    <w>muy</w>
+    <w>fácil</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u85">
+    <pg><w formType="interjection">hala</w>
+    <pause symbolic-length="simple"/><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">l</ph><ph id="ph2">a</ph></pw><pw><ph id="ph3">(</ph><ph id="ph4">.</ph><ph id="ph5">)</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">l</ph><ph id="ph2">a</ph></pw><pw><ph id="ph3">(</ph><ph id="ph4">.</ph><ph id="ph5">)</ph></pw></model></pg>
+    <pg><w>se</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></model></pg>
+    <pg><g><w>cayeron</w><overlap type="overlap precedes"/></g><actual><pw><ph id="ph0">k</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">ʤ</ph><ph id="ph3">e</ph><ph id="ph4">ɾ</ph><ph id="ph5">o</ph><ph id="ph6">n</ph></pw></actual><model><pw><ph id="ph0">k</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">ʤ</ph><ph id="ph3">e</ph><ph id="ph4">ɾ</ph><ph id="ph5">o</ph><ph id="ph6">n</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="254.000"
+      end="256.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|caer:2SIL_PAS1:3P:2C_CLI1-VER_303_3SIL:cayeron !</a>
+  </u>
+  <u who="MON" uID="u86">
+    <w>están</w>
+    <w>durmiendo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u87">
+    <pg><w untranscribed="untranscribed">www</w><actual><pw><ph id="ph0">*</ph></pw></actual><model><pw><ph id="ph0">*</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="259.000"
+      end="260.000"
+      unit="s"
+    />
+    <a type="explanation">cuchichea porque están durmiendo</a>
+  </u>
+  <u who="NER" uID="u88">
+    <pg><w>y</w><actual><pw><ss type="1"/><ph id="ph0">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">i</ph></pw></model></pg>
+    <pg><w>esta</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></model></pg>
+    <pg><w>gallina</w><actual><pw><ph id="ph0">ɡ</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">ʎ</ph><ph id="ph3">i</ph><ph id="ph4">n</ph><ph id="ph5">a</ph></pw></actual><model><pw><ph id="ph0">ɡ</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">ʎ</ph><ph id="ph3">i</ph><ph id="ph4">n</ph><ph id="ph5">a</ph></pw></model></pg>
+    <t type="q"></t>
+    <media
+      start="265.000"
+      end="267.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u89">
+    <w>esa</w>
+    <w>gallina</w>
+    <w>con</w>
+    <w>los</w>
+    <w>conejos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u90">
+    <pg><w>y</w><actual><pw><ss type="1"/><ph id="ph0">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">i</ph></pw></model></pg>
+    <pg><w>no</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></model></pg>
+    <pg><w>tienes</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">n</ph><ph id="ph4">e</ph><ph id="ph5">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">n</ph><ph id="ph4">e</ph><ph id="ph5">s</ph></pw></model></pg>
+    <pg><w>más</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">s</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="277.000"
+      end="279.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|tener:2SIL_PRES:2S:2C_ENL3-NEG-VER-CIRC_303_2SIL:tienes !</a>
+  </u>
+  <u who="MON" uID="u91">
+    <w>sí</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="NER" uID="u92">
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>cerdo</w><actual><pw><ss type="1"/><ph id="ph0">θ</ph><ph id="ph1">e</ph><ph id="ph2">ɾ</ph><ph id="ph3">ð</ph><ph id="ph4">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">θ</ph><ph id="ph1">e</ph><ph id="ph2">ɾ</ph><ph id="ph3">ð</ph><ph id="ph4">o</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="286.000"
+      end="287.600"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u93">
+    <w>un</w>
+    <w>cerdo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u94">
+    <w>qué</w>
+    <w>mal</w>
+    <w>huele</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MON" uID="u95">
+    <w>qué</w>
+    <w>es</w>
+    <w>eso</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="NER" uID="u96">
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>caballo</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">β</ph><ph id="ph3">a</ph><ph id="ph4">ʎ</ph><ph id="ph5">o</ph></pw></actual><model><pw><ph id="ph0">k</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">β</ph><ph id="ph3">a</ph><ph id="ph4">ʎ</ph><ph id="ph5">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="296.000"
+      end="298.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u97">
+    <w>y</w>
+    <w>este</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="NER" uID="u98">
+    <pg><w>una</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph><ph id="ph2">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph><ph id="ph2">a</ph></pw></model></pg>
+    <pg><w>gallina</w>
+    <pause symbolic-length="simple"/><actual><pw><ph id="ph0">ɡ</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">ʎ</ph><ph id="ph3">i</ph><ph id="ph4">n</ph><ph id="ph5">a</ph></pw><pw><ph id="ph6">(</ph><ph id="ph7">.</ph><ph id="ph8">)</ph></pw></actual><model><pw><ph id="ph0">ɡ</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">ʎ</ph><ph id="ph3">i</ph><ph id="ph4">n</ph><ph id="ph5">a</ph></pw><pw><ph id="ph6">(</ph><ph id="ph7">.</ph><ph id="ph8">)</ph></pw></model></pg>
+    <pg><w>como</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">m</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">m</ph><ph id="ph3">o</ph></pw></model></pg>
+    <pg><w>la</w><actual><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></model></pg>
+    <pg><w>otra</w><actual><pw><ss type="1"/><ph id="ph0">o</ph><ph id="ph1">t</ph><ph id="ph2">ɾ</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">o</ph><ph id="ph1">t</ph><ph id="ph2">ɾ</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="304.000"
+      end="306.500"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u99">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <w>es</w>
+    <w>igual</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u100">
+    <pg><w>este</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">e</ph></pw></model></pg>
+    <pg><w>es</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>pequeñito</w><actual><pw><ph id="ph0">p</ph><ph id="ph1">e</ph><ph id="ph2">k</ph><ph id="ph3">e</ph><ss type="1"/><ph id="ph4">ɲ</ph><ph id="ph5">i</ph><ph id="ph6">t</ph><ph id="ph7">o</ph></pw></actual><model><pw><ph id="ph0">p</ph><ph id="ph1">e</ph><ph id="ph2">k</ph><ph id="ph3">e</ph><ss type="1"/><ph id="ph4">ɲ</ph><ph id="ph5">i</ph><ph id="ph6">t</ph><ph id="ph7">o</ph></pw></model></pg>
+    <pg><w>y</w><actual><pw><ss type="1"/><ph id="ph0">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">i</ph></pw></model></pg>
+    <pg><w>esta</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></model></pg>
+    <pg><w>es</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>la</w><actual><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></model></pg>
+    <pg><w>mamá</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></actual><model><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="318.000"
+      end="322.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_ARG1-VER-PRED_303_1SIL:es v|ser:1SIL_PRES:3S:2C_ENL2-ARG1-VER-PRED_303_1SIL:es.</a>
+  </u>
+  <u who="MON" uID="u101">
+    <w>este</w>
+    <w>es</w>
+    <w>el</w>
+    <w>hombre</w>
+    <w>y</w>
+    <w>esta</w>
+    <w>es</w>
+    <w>la</w>
+    <w>mujer</w>
+    <pause symbolic-length="simple"/>
+    <w>el</w>
+    <w>gallo</w>
+    <w>y</w>
+    <w>la</w>
+    <w>gallina</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u102">
+    <pg><w>tienes</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">n</ph><ph id="ph4">e</ph><ph id="ph5">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">n</ph><ph id="ph4">e</ph><ph id="ph5">s</ph></pw></model></pg>
+    <pg><w>más</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">s</ph></pw></model></pg>
+    <t type="q"></t>
+    <media
+      start="325.000"
+      end="330.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|tener:2SIL_PRES:2S:2C_VER-CIRC_303_1SIL:es ?</a>
+  </u>
+  <u who="MON" uID="u103">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u104">
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>pato</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">a</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">a</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="334.000"
+      end="334.700"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u105">
+    <w>un</w>
+    <w>pato</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u106">
+    <w>ah</w>
+    <w>el</w>
+    <w>molino</w>
+    <pause symbolic-length="simple"/>
+    <w>el</w>
+    <w>molino</w>
+    <w>hay</w>
+    <w>que</w>
+    <w>montarlo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u107">
+    <pg><w>móntalo</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">t</ph><ph id="ph4">a</ph><ph id="ph5">l</ph><ph id="ph6">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">t</ph><ph id="ph4">a</ph><ph id="ph5">l</ph><ph id="ph6">o</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="345.000"
+      end="346.500"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|montar:2SIL_IMP:2S:1C_VER-CLI2_303_2SIL:monta !</a>
+  </u>
+  <u who="MON" uID="u108">
+    <w>no</w>
+    <w>sé</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u109">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>este</w>
+    <w>es</w>
+    <w>el</w>
+    <w>campo</w>
+    <pause symbolic-length="simple"/>
+    <w>pero</w>
+    <w>es</w>
+    <w>igual</w>
+    <pause symbolic-length="simple"/>
+    <w>ya</w>
+    <w>no</w>
+    <w>lo</w>
+    <w>ponemos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u110">
+    <w>es</w>
+    <w>que</w>
+    <w>es</w>
+    <w>para</w>
+    <w>jugar</w>
+    <w>así</w>
+    <pause symbolic-length="simple"/>
+    <w>jugamos</w>
+    <w>en</w>
+    <w>el</w>
+    <w>suelo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="NER" uID="u111">
+    <pg><w>vale</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">a</ph><ph id="ph2">l</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">a</ph><ph id="ph2">l</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="355.000"
+      end="356.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u112">
+    <w>nos</w>
+    <w>ponemos</w>
+    <w>en</w>
+    <w>el</w>
+    <w>suelo</w>
+    <pause symbolic-length="simple"/>
+    <w>venga</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u113">
+    <pg><w>y</w><actual><pw><ss type="1"/><ph id="ph0">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">i</ph></pw></model></pg>
+    <pg><w>no</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></model></pg>
+    <pg><w>tienes</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">n</ph><ph id="ph4">e</ph><ph id="ph5">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">n</ph><ph id="ph4">e</ph><ph id="ph5">s</ph></pw></model></pg>
+    <pg><w>más</w>
+    <pause symbolic-length="simple"/><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">s</ph></pw><pw><ph id="ph3">(</ph><ph id="ph4">.</ph><ph id="ph5">)</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">s</ph></pw><pw><ph id="ph3">(</ph><ph id="ph4">.</ph><ph id="ph5">)</ph></pw></model></pg>
+    <pg><w formType="interjection">eh</w><actual><pw><ss type="1"/><ph id="ph0">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="358.000"
+      end="359.500"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|tener:2SIL_PRES:2S:2C_ENL3-NEG-VER-CIRC_303_2SIL:tienes !</a>
+  </u>
+  <u who="MON" uID="u114">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>ahora</w>
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>son</w>
+    <w>poquitos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u115">
+    <pg><w>se</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></model></pg>
+    <pg><w>durmieron</w><actual><pw><ph id="ph0">d</ph><ph id="ph1">u</ph><ph id="ph2">ɾ</ph><ss type="1"/><ph id="ph3">m</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">ɾ</ph><ph id="ph7">o</ph><ph id="ph8">n</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">u</ph><ph id="ph2">ɾ</ph><ss type="1"/><ph id="ph3">m</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">ɾ</ph><ph id="ph7">o</ph><ph id="ph8">n</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="364.500"
+      end="367.200"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|dormir:2SIL_PAS1:3P:3C_CLI1-VER_303_3SIL:durmieron !</a>
+    <a type="explanation">quiere decir que se han vuelto a caer</a>
+  </u>
+  <u who="MON" uID="u116">
+    <w>se</w>
+    <w>durmieron</w>
+    <w>todos</w>
+    <pause symbolic-length="simple"/>
+    <w>pues</w>
+    <w>ahora</w>
+    <w>despiértalos</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="NER" uID="u117">
+    <pg><w>mira</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">i</ph><ph id="ph2">ɾ</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">i</ph><ph id="ph2">ɾ</ph><ph id="ph3">a</ph></pw></model></pg>
+    <pg><w>se</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></model></pg>
+    <t type="self interruption"></t>
+    <media
+      start="372.000"
+      end="373.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|mirar:2SIL_IMP:2P:1C_VER_303_2SIL:mira .</a>
+  </u>
+  <u who="NER" uID="u118">
+    <pg><w>venga</w>
+    <pause symbolic-length="simple"/><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">e</ph><ph id="ph2">ŋ</ph><ph id="ph3">ɡ</ph><ph id="ph4">a</ph></pw><pw><ph id="ph5">(</ph><ph id="ph6">.</ph><ph id="ph7">)</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">e</ph><ph id="ph2">ŋ</ph><ph id="ph3">ɡ</ph><ph id="ph4">a</ph></pw><pw><ph id="ph5">(</ph><ph id="ph6">.</ph><ph id="ph7">)</ph></pw></model></pg>
+    <pg><w>despiertos</w><actual><pw><ph id="ph0">d</ph><ph id="ph1">e</ph><ph id="ph2">s</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">ɾ</ph><ph id="ph7">t</ph><ph id="ph8">o</ph><ph id="ph9">s</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">e</ph><ph id="ph2">s</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">ɾ</ph><ph id="ph7">t</ph><ph id="ph8">o</ph><ph id="ph9">s</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="376.000"
+      end="379.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u119">
+    <w>ala</w>
+    <pause symbolic-length="simple"/>
+    <w>despiértalos</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>los</w>
+    <w>vamos</w>
+    <w>a</w>
+    <w>poner</w>
+    <w>en</w>
+    <w>el</w>
+    <w>campo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u120">
+    <pg><w formType="interjection">hala</w>
+    <pause symbolic-length="simple"/><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">l</ph><ph id="ph2">a</ph></pw><pw><ph id="ph3">(</ph><ph id="ph4">.</ph><ph id="ph5">)</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">l</ph><ph id="ph2">a</ph></pw><pw><ph id="ph3">(</ph><ph id="ph4">.</ph><ph id="ph5">)</ph></pw></model></pg>
+    <pg><w>ya</w><actual><pw><ss type="1"/><ph id="ph0">ʤ</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʤ</ph><ph id="ph1">a</ph></pw></model></pg>
+    <pg><w>está</w><actual><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></actual><model><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></model></pg>
+    <pg><w>despierto</w><actual><pw><ph id="ph0">d</ph><ph id="ph1">e</ph><ph id="ph2">s</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">ɾ</ph><ph id="ph7">t</ph><ph id="ph8">o</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">e</ph><ph id="ph2">s</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">ɾ</ph><ph id="ph7">t</ph><ph id="ph8">o</ph></pw></model></pg>
+    <pg><w>este</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="385.000"
+      end="387.500"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:3S:1C_CIRC-VER-PRED-ARG1_303_2SIL:está .</a>
+  </u>
+  <u who="NER" uID="u121">
+    <pg><w>y</w><actual><pw><ss type="1"/><ph id="ph0">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">i</ph></pw></model></pg>
+    <pg><w>tú</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">u</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">u</ph></pw></model></pg>
+    <pg><w>también</w><actual><pw><ph id="ph0">t</ph><ph id="ph1">a</ph><ph id="ph2">m</ph><ss type="1"/><ph id="ph3">b</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph></pw></actual><model><pw><ph id="ph0">t</ph><ph id="ph1">a</ph><ph id="ph2">m</ph><ss type="1"/><ph id="ph3">b</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph></pw></model></pg>
+    <pg><w>despierto</w>
+    <pause symbolic-length="simple"/><actual><pw><ph id="ph0">d</ph><ph id="ph1">e</ph><ph id="ph2">s</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">ɾ</ph><ph id="ph7">t</ph><ph id="ph8">o</ph></pw><pw><ph id="ph9">(</ph><ph id="ph10">.</ph><ph id="ph11">)</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">e</ph><ph id="ph2">s</ph><ss type="1"/><ph id="ph3">p</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">ɾ</ph><ph id="ph7">t</ph><ph id="ph8">o</ph></pw><pw><ph id="ph9">(</ph><ph id="ph10">.</ph><ph id="ph11">)</ph></pw></model></pg>
+    <pg><w>y</w><actual><pw><ss type="1"/><ph id="ph0">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">i</ph></pw></model></pg>
+    <pg><w>tú</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">u</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">u</ph></pw></model></pg>
+    <pg><w>también</w><actual><pw><ph id="ph0">t</ph><ph id="ph1">a</ph><ph id="ph2">m</ph><ss type="1"/><ph id="ph3">b</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph></pw></actual><model><pw><ph id="ph0">t</ph><ph id="ph1">a</ph><ph id="ph2">m</ph><ss type="1"/><ph id="ph3">b</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="387.500"
+      end="392.000"
+      unit="s"
+    />
+    <a type="explanation">se dirige a un muñeco</a>
+  </u>
+  <u who="MON" uID="u122">
+    <w>esto</w>
+    <w>está</w>
+    <w>limpio</w>
+    <pause symbolic-length="simple"/>
+    <w>verdad</w>
+    <t type="q"></t>
+
+    <a type="explanation">MON se refiere al suelo, para sentarse en él</a>
+  </u>
+  <u who="NER" uID="u123">
+    <pg><w>esto</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></model></pg>
+    <pg><w>se</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></model></pg>
+    <pg><w>cae</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="395.000"
+      end="396.500"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|caer:2SIL_PRES:3S:2C_ARG1-CLI1-VER_303_2SIL:cae .</a>
+    <a type="explanation">los muñecos</a>
+  </u>
+  <u who="MON" uID="u124">
+    <w>uy</w>
+    <pause symbolic-length="simple"/>
+    <w>lo</w>
+    <w>que</w>
+    <w>pasa</w>
+    <w>es</w>
+    <w>que</w>
+    <w>la</w>
+    <w>banda</w>
+    <w>está</w>
+    <w>borracha</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u125">
+    <pg><w>está</w><actual><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></actual><model><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></model></pg>
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>poco</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">k</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">k</ph><ph id="ph3">o</ph></pw></model></pg>
+    <pg><w>borracha</w><actual><pw><ph id="ph0">b</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">r</ph><ph id="ph3">a</ph><ph id="ph4">ʧ</ph><ph id="ph5">a</ph></pw></actual><model><pw><ph id="ph0">b</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">r</ph><ph id="ph3">a</ph><ph id="ph4">ʧ</ph><ph id="ph5">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="402.000"
+      end="404.600"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:3S:1C_VER-CIRC-PRED_303_2SIL:está .</a>
+    <a type="speech act">$IMIT</a>
+  </u>
+  <u who="MON" uID="u126">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>es</w>
+    <w>que</w>
+    <w>hay</w>
+    <w>que</w>
+    <w>ponerle</w>
+    <w>las</w>
+    <w>patas</w>
+    <w>derechas</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u127">
+    <w>doña</w>
+    <w>vaca</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>me</w>
+    <w>está</w>
+    <w>usted</w>
+    <w>cansando</w>
+    <pause symbolic-length="simple"/>
+    <w>doña</w>
+    <w>vaca</w>
+    <t type="p"></t>
+
+    <a type="explanation">MON se cansa de que la vaca se caiga</a>
+  </u>
+  <u who="MON" uID="u128">
+    <w>dile</w>
+    <w>así</w>
+    <pause symbolic-length="simple"/>
+    <w>ves</w>
+    <t type="e"></t>
+
+    <a type="addressee">NER</a>
+  </u>
+  <u who="MON" uID="u129">
+    <w>la</w>
+    <w>vaca</w>
+    <w>está</w>
+    <w>un</w>
+    <w>poco</w>
+    <w>delgada</w>
+    <pause symbolic-length="simple"/>
+    <w>creo</w>
+    <w>que</w>
+    <w>no</w>
+    <w>come</w>
+    <w>nada</w>
+    <w>la</w>
+    <w>vaca</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u130">
+    <w>yo</w>
+    <w>voy</w>
+    <w>a</w>
+    <w>montar</w>
+    <w>el</w>
+    <w>molino</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u131">
+    <w>a</w>
+    <w>ver</w>
+    <w>si</w>
+    <w>sé</w>
+    <w>montar</w>
+    <w>el</w>
+    <w>molino</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u132">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>ya</w>
+    <w>sé</w>
+    <w>lo</w>
+    <w>que</w>
+    <w>hay</w>
+    <w>que</w>
+    <w>hacer</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u133">
+    <w>guau</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>molino</w>
+    <w>tan</w>
+    <w>bonito</w>
+    <pause symbolic-length="simple"/>
+    <w>mira</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="NER" uID="u134">
+    <pg><w formType="interjection">ay</w>
+    <pause symbolic-length="simple"/><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">j</ph></pw><pw><ph id="ph2">(</ph><ph id="ph3">.</ph><ph id="ph4">)</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">j</ph></pw><pw><ph id="ph2">(</ph><ph id="ph3">.</ph><ph id="ph4">)</ph></pw></model></pg>
+    <pg><w>mira</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">i</ph><ph id="ph2">ɾ</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">i</ph><ph id="ph2">ɾ</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="462.000"
+      end="464.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|mirar:2SIL_IMP:2S:1C_VER_303_2SIL:mira !</a>
+  </u>
+  <u who="MON" uID="u135">
+    <w>qué</w>
+    <w>pasó</w>
+    <pause symbolic-length="simple"/>
+    <w>todos</w>
+    <w>ahí</w>
+    <w>dentro</w>
+    <t type="q"></t>
+
+    <a type="explanation">NER metió todos los animales dentro de las vallas</a>
+  </u>
+  <u who="NER" uID="u136">
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual><model><pw><ph id="ph0">*</ph></pw></model></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual><model><pw><ph id="ph0">*</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="466.000"
+      end="468.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|meter:2SIL_PRES:1S:2C_CLI2-VER_303_2SIL:meto .</a>
+  </u>
+  <u who="MON" uID="u137">
+    <w>qué</w>
+    <w>bien</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MON" uID="u138">
+    <w>pues</w>
+    <w>venga</w>
+    <pause symbolic-length="simple"/>
+    <w>vamos</w>
+    <w>a</w>
+    <w>hacer</w>
+    <w>una</w>
+    <w>historia</w>
+    <w>de</w>
+    <w>animales</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u139">
+    <w>vale</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="NER" uID="u140">
+    <pg><w>sí</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="474.500"
+      end="475.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u141">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>siéntate</w>
+    <w>ahí</w>
+    <w>para</w>
+    <w>que</w>
+    <w>te</w>
+    <w>vea</w>
+    <w>la</w>
+    <w>cámara</w>
+    <pause symbolic-length="simple"/>
+    <w>así</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u142">
+    <pg><w>esto</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></model></pg>
+    <pg><w>cómo</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">m</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">m</ph><ph id="ph3">o</ph></pw></model></pg>
+    <t type="q"></t>
+    <media
+      start="489.000"
+      end="492.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_ARG1-PRED'INT-VER_303_1SIL:es ?</a>
+  </u>
+  <u who="MON" uID="u143">
+    <w>así</w>
+    <pause symbolic-length="simple"/>
+    <w>venga</w>
+    <t type="p"></t>
+
+    <a type="comments">MON no responde a su pregunta</a>
+  </u>
+  <u who="MON" uID="u144">
+    <w>vamos</w>
+    <w>a</w>
+    <w>hacer</w>
+    <w>un</w>
+    <w>día</w>
+    <w>en</w>
+    <w>la</w>
+    <w>granja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u145">
+    <pg><w>está</w><actual><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></actual><model><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph></pw></model></pg>
+    <pg><w>durmiendo</w><actual><pw><ph id="ph0">d</ph><ph id="ph1">u</ph><ph id="ph2">ɾ</ph><ss type="1"/><ph id="ph3">m</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph><ph id="ph7">d</ph><ph id="ph8">o</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">u</ph><ph id="ph2">ɾ</ph><ss type="1"/><ph id="ph3">m</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph><ph id="ph7">d</ph><ph id="ph8">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="501.000"
+      end="502.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:3S:1C_2SIL:está~v|dormir:2SIL_GER:3C_PER_303_3SIL:durmiendo .</a>
+    <a type="explanation">se refiere al tractor</a>
+  </u>
+  <u who="MON" uID="u146">
+    <w>el</w>
+    <w>tractor</w>
+    <w>no</w>
+    <w>duerme</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>no</w>
+    <w>es</w>
+    <w>un</w>
+    <w>animal</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u147">
+    <w>quiquiriquí</w>
+    <pause symbolic-length="simple"/>
+    <w>dice</w>
+    <w>el</w>
+    <w>gallo</w>
+    <pause symbolic-length="simple"/>
+    <w>quiquiriquí</w>
+    <pause symbolic-length="simple"/>
+    <w>buenos</w>
+    <w>días</w>
+    <pause symbolic-length="simple"/>
+    <w>empieza</w>
+    <w>la</w>
+    <w>mañana</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u148">
+    <w>mira</w>
+    <w>cómo</w>
+    <w>sale</w>
+    <w>el</w>
+    <w>sol</w>
+    <pause symbolic-length="simple"/>
+    <w>sale</w>
+    <w>el</w>
+    <w>sol</w>
+    <w>por</w>
+    <w>el</w>
+    <w>este</w>
+    <pause symbolic-length="simple"/>
+    <w>es</w>
+    <w>de</w>
+    <w>día</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u149">
+    <g><w>levántense</w>
+    <w>todos</w><k type="retracing unclear"/></g>
+    <w>levántense</w>
+    <w>todos</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MON" uID="u150">
+    <w>venga</w>
+    <pause symbolic-length="simple"/>
+    <w>despertad</w>
+    <pause symbolic-length="simple"/>
+    <w>dormilones</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MON" uID="u151">
+    <w>el</w>
+    <w>gallo</w>
+    <w>es</w>
+    <w>el</w>
+    <w>primero</w>
+    <w>siempre</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u152">
+    <pg><w>están</w><actual><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph><ph id="ph4">n</ph></pw></actual><model><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">a</ph><ph id="ph4">n</ph></pw></model></pg>
+    <pg><w>durmiendo</w><actual><pw><ph id="ph0">d</ph><ph id="ph1">u</ph><ph id="ph2">ɾ</ph><ss type="1"/><ph id="ph3">m</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph><ph id="ph7">d</ph><ph id="ph8">o</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">u</ph><ph id="ph2">ɾ</ph><ss type="1"/><ph id="ph3">m</ph><ph id="ph4">j</ph><ph id="ph5">e</ph><ph id="ph6">n</ph><ph id="ph7">d</ph><ph id="ph8">o</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="533.000"
+      end="536.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|estar:2SIL_PRES:3P:1C_2SIL:está~v|dormir:2SIL_GER:3C_PER_303_3SIL:durmiendo !</a>
+  </u>
+  <u who="MON" uID="u153">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>porque</w>
+    <w>los</w>
+    <w>despierta</w>
+    <w>el</w>
+    <w>gallo</w>
+    <w>ahora</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u154">
+    <g><w>venga</w><k type="retracing unclear"/></g>
+    <w>venga</w>
+    <pause symbolic-length="simple"/>
+    <g><w>arriba</w><k type="retracing unclear"/></g>
+    <w>arriba</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>hay</w>
+    <w>mucho</w>
+    <w>que</w>
+    <w>hacer</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u155">
+    <w>y</w>
+    <w>se</w>
+    <w>sube</w>
+    <w>al</w>
+    <w>sitio</w>
+    <w>más</w>
+    <w>alto</w>
+    <pause symbolic-length="simple"/>
+    <w>quiquiriquí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u156">
+    <pg><w>el</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">l</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">l</ph></pw></model></pg>
+    <pg><w>de</w><actual><pw><ph id="ph0">d</ph><ph id="ph1">e</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">e</ph></pw></model></pg>
+    <pg><w>la</w><actual><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></model></pg>
+    <pg><w>granja</w><actual><pw><ss type="1"/><ph id="ph0">ɡ</ph><ph id="ph1">ɾ</ph><ph id="ph2">a</ph><ph id="ph3">ŋ</ph><ph id="ph4">x</ph><ph id="ph5">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɡ</ph><ph id="ph1">ɾ</ph><ph id="ph2">a</ph><ph id="ph3">ŋ</ph><ph id="ph4">x</ph><ph id="ph5">a</ph></pw></model></pg>
+    <t type="q"></t>
+    <media
+      start="549.000"
+      end="551.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u157">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u158">
+    <pg><w>y</w><actual><pw><ss type="1"/><ph id="ph0">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">i</ph></pw></model></pg>
+    <pg><w>por</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">ɾ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">ɾ</ph></pw></model></pg>
+    <pg><w>qué</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph></pw></model></pg>
+    <t type="q"></t>
+    <media
+      start="552.000"
+      end="553.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u159">
+    <w>y</w>
+    <w>entonces</w>
+    <w>se</w>
+    <w>levanta</w>
+    <w>se</w>
+    <w>levanta</w>
+    <w>su</w>
+    <w>mujer</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u160">
+    <linker type="quoted utterance next"/>
+    <w>ay</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>sueño</w>
+    <w>tengo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u161">
+    <pg><w>pues</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">s</ph></pw></model></pg>
+    <pg><w>duerme</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">ɾ</ph><ph id="ph4">m</ph><ph id="ph5">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">ɾ</ph><ph id="ph4">m</ph><ph id="ph5">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="560.000"
+      end="562.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|dormir:2SIL_IMP:2S:3C_ENL3-VER_303_2SIL:duerme .</a>
+  </u>
+  <u who="MON" uID="u162">
+    <linker type="quoted utterance next"/>
+    <w>qué</w>
+    <w>sueño</w>
+    <w>tengo</w>
+    <pause symbolic-length="simple"/>
+    <w>pero</w>
+    <w>tengo</w>
+    <w>que</w>
+    <w>preparar</w>
+    <w>el</w>
+    <w>desayuno</w>
+    <pause symbolic-length="simple"/>
+    <w>voy</w>
+    <w>a</w>
+    <w>tomar</w>
+    <w>maíz</w>
+    <t type="p"></t>
+
+    <a type="comments">NER se ríe</a>
+  </u>
+  <u who="MON" uID="u163">
+    <w>desayuna</w>
+    <w>maíz</w>
+    <w>la</w>
+    <w>gallina</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="NER" uID="u164">
+    <pg><w>y</w><actual><pw><ss type="1"/><ph id="ph0">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">i</ph></pw></model></pg>
+    <pg><w>la</w><actual><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></model></pg>
+    <pg><w>otra</w><actual><pw><ss type="1"/><ph id="ph0">o</ph><ph id="ph1">t</ph><ph id="ph2">ɾ</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">o</ph><ph id="ph1">t</ph><ph id="ph2">ɾ</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="q"></t>
+    <media
+      start="574.000"
+      end="575.400"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u165">
+    <w>también</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u166">
+    <linker type="quoted utterance next"/>
+    <w>yo</w>
+    <w>también</w>
+    <w>quiero</w>
+    <w>maíz</w>
+    <pause symbolic-length="simple"/>
+    <w>yo</w>
+    <w>también</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u167">
+    <w>qué</w>
+    <w>rico</w>
+    <w>está</w>
+    <w>el</w>
+    <w>maíz</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MON" uID="u168">
+    <w>qué</w>
+    <w>dice</w>
+    <w>el</w>
+    <w>pato</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u169">
+    <w>coge</w>
+    <w>el</w>
+    <w>pato</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MON" uID="u170">
+    <linker type="quoted utterance next"/>
+    <g><w>yo</w>
+    <w>también</w>
+    <w>quiero</w><k type="retracing"/></g>
+    <w>yo</w>
+    <w>también</w>
+    <w>quiero</w>
+    <t type="p"></t>
+
+  </u>
+</CHAT>

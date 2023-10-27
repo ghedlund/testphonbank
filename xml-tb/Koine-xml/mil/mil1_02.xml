@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="mil1_02" Mediatypes="audio"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/a-00009140-1"
+      Version="2.20.0"
+      Lang="spa glg"
+      Corpus="Koine"
+      Date="1999-02-24"
+      >
+  <Participants>
+    <participant
+      id="CES"
+    name="César"
+      role="Target_Child"
+      language="spa glg"
+      age="P2Y03M24D"
+      sex="male"
+      group="Milagrosa"
+
+      birthday="1996-10-31"
+
+    />
+    <participant
+      id="LAU"
+    name="Laura"
+      role="Target_Child"
+      language="spa glg"
+      age="P2Y09M17D"
+      sex="female"
+      group="Milagrosa"
+
+      birthday="1996-05-07"
+
+    />
+    <participant
+      id="MAE"
+    name="Maestra"
+      role="Teacher"
+      language="spa glg"
+      sex="female"
+      group="Milagrosa"
+
+    />
+    <participant
+      id="MON"
+    name="Montserrat"
+      role="Investigator"
+      language="spa glg"
+      sex="female"
+      group="Milagrosa"
+
+    />
+    <participant
+      id="NER"
+    name="Nerea"
+      role="Target_Child"
+      language="spa glg"
+      age="P2Y03M24D"
+      sex="female"
+      group="Milagrosa"
+
+      birthday="1996-10-31"
+
+    />
+    <participant
+      id="SER"
+    name="Sergio"
+      role="Target_Child"
+      language="spa glg"
+      age="P2Y11M03D"
+      sex="male"
+      group="Milagrosa"
+
+      birthday="1996-03-21"
+
+    />
+  </Participants>
+  <comment type="Date">24-FEB-1999</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="MON" uID="u0">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">MON prepara a los niños; la grabación se desarrolla en clase; los solapamientos y las interrupciones son frecuentes</a>
+  </u>
+  <u who="MON" uID="u1">
+    <w>hola</w>
+    <pause symbolic-length="simple"/>
+    <w>Yoel</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u2">
+    <w>hola</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="SER" uID="u3">
+    <w>hola</w>
+    <t type="p"></t>
+
+    <a type="actions">se levanta y se acerca a la cámara</a>
+  </u>
+  <u who="MON" uID="u4">
+    <w>cómo</w>
+    <w>se</w>
+    <w>dice</w>
+    <w>tu</w>
+    <w>nombre</w>
+    <g><w>Yoel</w>
+    <w>o</w>
+    <w>Joel</w>
+    <pause symbolic-length="simple"/>
+    <w untranscribed="unintelligible">xxx</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="SER" uID="u5">
+    <linker type="lazy overlap mark"/>
+    <w>yo</w>
+    <w>me</w>
+    <w>llamo</w>
+    <g><w>Gegio</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">Gegio=Sergio $PHO ;</a>
+    <a type="extension" flavor="mor">v|llamar:2SIL_PRES:1S:1C_ARG1-CLI1-VER-PRED_211_2SIL:llamo .</a>
+    <a type="extension" flavor="phon">$SUS $OMI</a>
+    <a type="addressee">MON</a>
+  </u>
+  <u who="MAE" uID="u6">
+    <w>Yoel</w>
+    <pause symbolic-length="simple"/>
+    <w>me</w>
+    <w>parece</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u7">
+    <w>hola</w>
+    <pause symbolic-length="simple"/>
+    <w>Yoel</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="SER" uID="u8">
+    <w>yo</w>
+    <w>me</w>
+    <w>llamo</w>
+    <g><w>Gegio</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">Gegio=Sergio $PHO ;</a>
+    <a type="extension" flavor="mor">v|llamar:2SIL_PRES:1S:1C_ARG1-CLI1-VER-PRED_211_2SIL:llamo .</a>
+    <a type="extension" flavor="phon">$SUS $OMI</a>
+  </u>
+  <u who="MON" uID="u9">
+    <w>tú</w>
+    <w>te</w>
+    <w>llamas</w>
+    <w>Sergio</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u10">
+    <w>Sergio</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>más</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="SER" uID="u11">
+    <w untranscribed="unintelligible">xxx</w>
+    <pause symbolic-length="simple"/>
+    <w>Nerea</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u12">
+    <w>Sergio</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="SER" uID="u13">
+    <g><w>éta</w><error/></g>
+    <g><w>e</w><error/></g>
+    <w>Nerea</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">éta=ésta $PHO ; e=es $PHO ;</a>
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_ARG1-VER-PRED_211_1SIL:e .</a>
+    <a type="extension" flavor="phon">$OMI ; $OMI</a>
+  </u>
+  <u who="MON" uID="u14">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">no es posible identificar las voces</a>
+  </u>
+  <u who="MON" uID="u15">
+    <w>me</w>
+    <w>lo</w>
+    <w>das</w>
+    <w>o</w>
+    <w>me</w>
+    <w>voy</w>
+    <t type="q"></t>
+
+    <a type="addressee">LAU</a>
+    <a type="comments">se refiere al libro que ha traído</a>
+  </u>
+  <u who="MON" uID="u16">
+    <w>dámelo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MAE" uID="u17">
+    <g><w>Laura</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="LAU" uID="u18">
+    <pg><w>es</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">ʃ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>de</w><actual><pw><ph id="ph0">d</ph><ph id="ph1">e</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">e</ph></pw></model></pg>
+    <pg><w>mi</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>clase</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">l</ph><ph id="ph2">a</ph><ph id="ph3">s</ph><ph id="ph4">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">l</ph><ph id="ph2">a</ph><ph id="ph3">s</ph><ph id="ph4">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="467.800"
+      end="469.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">ex=es $PHO ;</a>
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_VER-PRED_209_1SIL:ex .</a>
+    <a type="extension" flavor="phon">$SUS</a>
+    <a type="actions">agarra el libro</a>
+  </u>
+  <u who="MON" uID="u19">
+    <g><w>no</w>
+    <pause symbolic-length="simple"/>
+    <w untranscribed="unintelligible">xxx</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MAE" uID="u20">
+    <g><w>Laura</w>
+    <pause symbolic-length="simple"/>
+    <w>dale</w>
+    <w>el</w>
+    <w>libro</w>
+    <w untranscribed="unintelligible">xxx</w><overlap type="overlap precedes"/></g>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>no</w>
+    <w>es</w>
+    <w>tuyo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MAE" uID="u21">
+    <w>tu</w>
+    <w>no</w>
+    <w>puedes</w>
+    <w>coger</w>
+    <w>lo</w>
+    <w>que</w>
+    <w>no</w>
+    <w>es</w>
+    <w>tuyo</w>
+    <t type="p"></t>
+
+    <a type="addressee">LAU</a>
+  </u>
+  <u who="SER" uID="u22">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>Monse</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u23">
+    <w>verdad</w>
+    <w>que</w>
+    <w>no</w>
+    <w>es</w>
+    <w>de</w>
+    <w>tu</w>
+    <w>clase</w>
+    <t type="q"></t>
+
+    <a type="addressee">SER</a>
+  </u>
+  <u who="SER" uID="u24">
+    <w>no</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u25">
+    <w>es</w>
+    <w>mío</w>
+    <pause symbolic-length="simple"/>
+    <w>es</w>
+    <w>de</w>
+    <w>mi</w>
+    <w>casa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u26">
+    <w>me</w>
+    <w>lo</w>
+    <w>das</w>
+    <t type="q"></t>
+
+    <a type="addressee">LAU</a>
+  </u>
+  <u who="LAU" uID="u27">
+    <pg><w>no</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></model></pg>
+    <pg><w>es</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">ʃ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>es</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">ʃ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>de</w><actual><pw><ph id="ph0">d</ph><ph id="ph1">e</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">e</ph></pw></model></pg>
+    <pg><w>mi</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>casa</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">ʃ</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="483.000"
+      end="486.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">ex=es $PHO ; ex=es $PHO ;</a>
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_VER-PRED_209_1SIL:ex .</a>
+    <a type="extension" flavor="phon">$SUS ; $SUS</a>
+  </u>
+  <u who="MON" uID="u28">
+    <w>es</w>
+    <w>tuyo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u29">
+    <w>quién</w>
+    <w>te</w>
+    <w>lo</w>
+    <w>compró</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="LAU" uID="u30">
+    <pg><w>sí</w><actual><pw><ss type="1"/><ph id="ph0">ʃ</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>es</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">ʃ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>es</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">ʃ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>de</w><actual><pw><ph id="ph0">d</ph><ph id="ph1">e</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">e</ph></pw></model></pg>
+    <pg><w>mi</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>colegio</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">l</ph><ph id="ph3">e</ph><ph id="ph4">x</ph><ph id="ph5">j</ph><ph id="ph6">o</ph></pw></actual><model><pw><ph id="ph0">k</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">l</ph><ph id="ph3">e</ph><ph id="ph4">x</ph><ph id="ph5">j</ph><ph id="ph6">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="488.000"
+      end="492.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">xí=sí $PHO ; ex=es $PHO ; ex=es $PHO ;</a>
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_VER-PRED_209_1SIL:ex .</a>
+    <a type="extension" flavor="phon">$SUS ; $SUS ; $SUS</a>
+  </u>
+  <u who="MON" uID="u31">
+    <w>oh</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="SER" uID="u32">
+    <w>mira</w>
+    <pause symbolic-length="simple"/>
+    <w>lo</w>
+    <w>voy</w>
+    <w>a</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|mirar:2SIL_IMP:2S:1C_VER_211_2SIL:mira ; v|ir:1SIL_PRES:1S:3C_1SIL:voy~v|INI .</a>
+    <a type="actions">habla mirando a la cámara</a>
+  </u>
+  <u who="MON" uID="u33">
+    <w>no</w>
+    <w>es</w>
+    <w>de</w>
+    <w>tu</w>
+    <w>colegio</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u34">
+    <w>venga</w>
+    <w>enseñáselo</w>
+    <w>tú</w>
+    <w>a</w>
+    <w>tus</w>
+    <w>amiguitos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u35">
+    <w>dile</w>
+    <w>lo</w>
+    <w>que</w>
+    <w>hay</w>
+    <w>ahí</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>se</w>
+    <w>ve</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>se</w>
+    <w>ve</w>
+    <w>ahí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u36">
+    <w>qué</w>
+    <w>está</w>
+    <w>haciendo</w>
+    <w>Teo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u37">
+    <w>se</w>
+    <w>está</w>
+    <w>levantando</w>
+    <w>de</w>
+    <w>la</w>
+    <w>camita</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u38">
+    <w>sí</w>
+    <t type="q"></t>
+
+    <a type="addressee">LAU mira el libro pero no contesta</a>
+  </u>
+  <u who="MON" uID="u39">
+    <w>y</w>
+    <w>aquí</w>
+    <w>qué</w>
+    <w>hace</w>
+    <t type="q"></t>
+
+    <a type="addressee">señala el libro</a>
+  </u>
+  <u who="MAE" uID="u40">
+    <w>Sergio</w>
+    <pause symbolic-length="simple"/>
+    <w>sácate</w>
+    <w>de</w>
+    <w>ahí</w>
+    <w>Sergio</w>
+    <t type="p"></t>
+
+    <a type="actions">SER se ha acercado a la cámara</a>
+  </u>
+  <u who="MON" uID="u41">
+    <w>aquí</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>hace</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u42">
+    <w>se</w>
+    <w>está</w>
+    <w>duchando</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u43">
+    <w>verdad</w>
+    <w>que</w>
+    <w>se</w>
+    <w>está</w>
+    <w>duchando</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="SER" uID="u44">
+    <w>la</w>
+    <w>foto</w>
+    <t type="p"></t>
+
+    <a type="addressee">MON</a>
+  </u>
+  <u who="MON" uID="u45">
+    <w>y</w>
+    <w>después</w>
+    <w>de</w>
+    <w>ducharse</w>
+    <t type="p"></t>
+
+    <a type="addressee">LAU</a>
+  </u>
+  <u who="SER" uID="u46">
+    <g><w>la</w>
+    <w>foto</w><k type="retracing"/></g>
+    <w>la</w>
+    <w>foto</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u47">
+    <w>aún</w>
+    <w>no</w>
+    <w>se</w>
+    <w>acabó</w>
+    <w>la</w>
+    <w>foto</w>
+    <pause symbolic-length="simple"/>
+    <w untranscribed="unintelligible">xxx</w>
+    <w>se</w>
+    <w>va</w>
+    <w>a</w>
+    <w>acabar</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u48">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">no es posible identificar las voces; la grabación se interrumpe momentaneamente</a>
+  </u>
+  <u who="CES" uID="u49">
+    <g><w>mía</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">mía=mira $PHO ;</a>
+    <a type="extension" flavor="mor">v|mirar:2SIL_IMP:2S:1C_VER_203_2SIL:mía .</a>
+    <a type="extension" flavor="phon">$OMI</a>
+    <a type="addressee">señala el libro</a>
+  </u>
+  <u who="MON" uID="u50">
+    <w>qué</w>
+    <w>es</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u51">
+    <w>qué</w>
+    <w>es</w>
+    <w>eso</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CES" uID="u52">
+    <g><w>baán</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">baán=tobogán $PHO ;</a>
+  </u>
+  <u who="MON" uID="u53">
+    <w>un</w>
+    <w>tobogán</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="CES" uID="u54">
+    <g><w>xí</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">xí=sí $PHO ;</a>
+  </u>
+  <u who="MON" uID="u55">
+    <w>vosotros</w>
+    <w>tenéis</w>
+    <w>un</w>
+    <w>tobogán</w>
+    <w>en</w>
+    <w>la</w>
+    <w>clase</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u56">
+    <w>tenéis</w>
+    <w>un</w>
+    <w>tobogán</w>
+    <w>en</w>
+    <w>la</w>
+    <w>clase</w>
+    <pause symbolic-length="simple"/>
+    <w>César</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CES" uID="u57">
+    <w>no</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u58">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">las conversaciones se solapan</a>
+  </u>
+  <u who="MON" uID="u59">
+    <w>los</w>
+    <w>papás</w>
+    <w>fueron</w>
+    <w>a</w>
+    <w>comprar</w>
+    <w>a</w>
+    <w>dónde</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u60">
+    <w>dónde</w>
+    <w>fueron</w>
+    <w>a</w>
+    <w>comprar</w>
+    <w>los</w>
+    <w>papás</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CES" uID="u61">
+    <w>aquí</w>
+    <t type="p"></t>
+
+    <a type="actions">señala el dibujo del libro</a>
+  </u>
+  <u who="MON" uID="u62">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">no se escuchan las palabras de CES; las conversaciones se solapan</a>
+  </u>
+  <u who="MAE" uID="u63">
+    <w>y</w>
+    <w>qué</w>
+    <w>es</w>
+    <w>esto</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CES" uID="u64">
+    <g><w>baán</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">baán=tobogán $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI $OMI $OMI $OMI $SUS</a>
+  </u>
+  <u who="MAE" uID="u65">
+    <w>eh</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CES" uID="u66">
+    <g><w>baán</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">baán=tobogán $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI $OMI $OMI $OMI $SUS</a>
+  </u>
+  <u who="MAE" uID="u67">
+    <w>un</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CES" uID="u68">
+    <g><w>baán</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">baán=tobogán $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI $OMI $OMI $OMI $SUS</a>
+  </u>
+  <u who="MAE" uID="u69">
+    <w>un</w>
+    <w>tobogán</w>
+    <pause symbolic-length="simple"/>
+    <w>un</w>
+    <w>tobogán</w>
+    <pause symbolic-length="simple"/>
+    <w>un</w>
+    <w>tobogán</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MAE" uID="u70">
+    <w>un</w>
+    <w>tobogán</w>
+    <pause symbolic-length="simple"/>
+    <w>verdad</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MAE" uID="u71">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">las voces de los niños no se escuchan con claridad</a>
+  </u>
+  <u who="MAE" uID="u72">
+    <w>qué</w>
+    <w>es</w>
+    <w>esto</w>
+    <pause symbolic-length="simple"/>
+    <w>Nerea</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="NER" uID="u73">
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>libro</w><actual><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">i</ph><ph id="ph2">β</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">i</ph><ph id="ph2">β</ph><ph id="ph3">ɾ</ph><ph id="ph4">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="813.830"
+      end="814.410"
+      unit="s"
+    />
+    <a type="extension" flavor="par">u=un $PHO ; libo=libro $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI ; $OMI</a>
+  </u>
+  <u who="MAE" uID="u74">
+    <w>un</w>
+    <w>libro</w>
+    <pause symbolic-length="simple"/>
+    <w>un</w>
+    <w>libro</w>
+    <pause symbolic-length="simple"/>
+    <w>muy</w>
+    <w>bien</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MAE" uID="u75">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">las conversaciones se solapan; no es posible identificar las voces</a>
+  </u>
+  <u who="MAE" uID="u76">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>es</w>
+    <w>esto</w>
+    <pause symbolic-length="simple"/>
+    <w>Nerea</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="NER" uID="u77">
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>bebé</w><actual><pw><ph id="ph0">b</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">β</ph><ph id="ph3">e</ph></pw></actual><model><pw><ph id="ph0">b</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">β</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="954.473"
+      end="955.360"
+      unit="s"
+    />
+  </u>
+  <u who="MAE" uID="u78">
+    <w>una</w>
+    <w>muñeca</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u79">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">las conversaciones se solapan; MON decide finalizar la grabación</a>
+  </u>
+</CHAT>

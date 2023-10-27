@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011619-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1973-06-08"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Sean"
+      role="Target_Child"
+      language="eng"
+      age="P1Y03M15D"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">08-JUN-1973</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>apple</w>
+    <w>apple</w>
+    <w>apple</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">apuːapuːapu</a>
+    <a type="extension" flavor="mod">ˈæpəl ˈæpəl ˈæpəl</a>
+    <a type="extension" flavor="uttnum">216</a>
+    <a type="extension" flavor="sesdat">1973-06-08</a>
+    <a type="extension" flavor="age">1;3.16</a>
+    <a type="comments">food</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <w>cereal</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">sʌdʌθʌ</a>
+    <a type="extension" flavor="mod">ˈsɪɹiːəl</a>
+    <a type="extension" flavor="uttnum">217</a>
+    <a type="extension" flavor="sesdat">1973-06-08</a>
+    <a type="extension" flavor="age">1;3.16</a>
+    <a type="comments">(imitation)</a>
+  </u>
+  <u who="CHI" uID="u2">
+    <w untranscribed="unintelligible-with-pho">yyy</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">apu</a>
+    <a type="extension" flavor="mod">*</a>
+    <a type="extension" flavor="uttnum">218</a>
+    <a type="extension" flavor="sesdat">1973-06-08</a>
+    <a type="extension" flavor="age">1;3.16</a>
+    <a type="comments">Meaning: food</a>
+  </u>
+  <u who="CHI" uID="u3">
+    <w>cheese</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">du</a>
+    <a type="extension" flavor="mod">ˈʧiːz</a>
+    <a type="extension" flavor="uttnum">219</a>
+    <a type="extension" flavor="sesdat">1973-06-08</a>
+    <a type="extension" flavor="age">1;3.16</a>
+    <a type="comments">(imitation)</a>
+  </u>
+  <u who="CHI" uID="u4">
+    <w>cookie</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">dʊdu</a>
+    <a type="extension" flavor="mod">ˈkʊkiː</a>
+    <a type="extension" flavor="uttnum">220</a>
+    <a type="extension" flavor="sesdat">1973-06-08</a>
+    <a type="extension" flavor="age">1;3.16</a>
+  </u>
+</CHAT>

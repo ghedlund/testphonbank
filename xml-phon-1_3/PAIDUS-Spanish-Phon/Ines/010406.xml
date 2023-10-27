@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="010406" corpus="Ines" version="PB1.2">
+    <header>
+        <date>1992-06-29</date>
+        <language>spa</language>
+        <media>010406.wav</media>
+    </header>
+    <participants>
+        <participant id="MOT">
+            <role>Mother</role>
+            <name>Mutter von Ines</name>
+            <sex>female</sex>
+            <age>P35Y0M0DT0H0M0S</age>
+            <language>spa</language>
+        </participant>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Ines</name>
+            <sex>female</sex>
+            <birthday>1991-02-23</birthday>
+            <age>P1Y4M6DT0H0M0S</age>
+            <language>spa</language>
+        </participant>
+        <participant id="IN6">
+            <role>Investigator</role>
+            <name>Interviewer</name>
+            <sex>female</sex>
+            <language>spa</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Code">pid 11312/c-00045110-1</comment>
+        <comment type="Date">29-JUN-1992</comment>
+        <u speaker="MOT" id="c078e51b-0cd4-4057-878c-dae8b529f176" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>xxx</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="2300.0" unitType="ms"/>
+        </u>
+        <u speaker="IN6" id="05c5178d-14f4-4156-9aaa-47147824e688" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>Qué</w>
+                </g>
+                <g>
+                    <w>pasa</w>
+                    <p type="QUESTION">?</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="2300.0" duration="1893745.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

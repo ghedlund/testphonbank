@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011871-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1975-01-08"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Sean"
+      role="Target_Child"
+      language="eng"
+      age="P2Y10M15D"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">08-JAN-1975</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>we</w>
+    <w>have</w>
+    <w>a</w>
+    <w>temperature</w>
+    <s type="semicolon"/>
+    <w>we</w>
+    <w>don't</w>
+    <w>have</w>
+    <w>two</w>
+    <w>temperatures</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">wi hæv ʌ tɛmpʌʧɝ wi dont hæv tu tɛmpʌʧɝz</a>
+    <a type="extension" flavor="mod">ˈwiː ˈhæv ə ˈtɛmpɹəʧəɹ ˈwiː ˈdoʊnt ˈhæv ˈtuː ˈtɛmpɹəʧəɹz</a>
+    <a type="extension" flavor="uttnum">3497</a>
+    <a type="extension" flavor="sesdat">1975-01-08</a>
+    <a type="extension" flavor="age">2;10.16</a>
+    <a type="comments">Alternate IPA Actual for “temperatures”: [tɛmpʌʧɝs]</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <w>thermometer</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">famamɝ</a>
+    <a type="extension" flavor="mod">θəɹˈmɑmətəɹ</a>
+    <a type="extension" flavor="uttnum">3498</a>
+    <a type="extension" flavor="sesdat">1975-01-08</a>
+    <a type="extension" flavor="age">2;10.16</a>
+    <a type="comments">(m)</a>
+  </u>
+</CHAT>

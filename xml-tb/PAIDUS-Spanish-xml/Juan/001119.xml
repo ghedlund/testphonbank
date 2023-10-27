@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="001119" Mediatypes="audio"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00045164-1"
+      Version="2.20.0"
+      Lang="spa"
+      Corpus="PAIDUS-Spanish"
+      Date="1991-12-20"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Juan"
+      role="Target_Child"
+      language="spa"
+      age="P0Y11M19D"
+      sex="male"
+
+      birthday="1990-12-31"
+
+    />
+    <participant
+      id="MOT"
+    name="Mutter_von_uan"
+      role="Mother"
+      language="spa"
+      age="P35Y"
+      sex="female"
+
+    />
+    <participant
+      id="ANO"
+    name="Antonio"
+      role="Adult"
+      language="spa"
+      age="P35Y"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">20-DEC-1991</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w untranscribed="unintelligible-with-pho">yyy</w>
+    <t type="p"></t>
+    <media
+      start="16.800"
+      end="30.500"
+      unit="s"
+    />
+    <a type="extension" flavor="lang">spanish</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="ANO" uID="u1">
+    <w>Sí</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sí</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="30.500"
+      end="32.494"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u2">
+    <w>Es</w>
+    <w>que</w>
+    <pause symbolic-length="simple"/>
+    <w>me</w>
+    <w>quita</w>
+    <w>todo</w>
+    <w>los</w>
+    <w>juguetes</w>
+    <t type="p"></t>
+    <media
+      start="32.494"
+      end="36.230"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u3">
+    <w untranscribed="untranscribed">www</w>
+    <w>He</w>
+    <w>visto</w>
+    <w>que</w>
+    <w>estaba</w>
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+    <media
+      start="32.494"
+      end="1866.031"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u4">
+    <w>Entonces</w>
+    <t type="p"></t>
+    <media
+      start="36.230"
+      end="951.130"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u5">
+    <w>Nada</w>
+    <t type="p"></t>
+    <media
+      start="951.130"
+      end="1866.031"
+      unit="s"
+    />
+  </u>
+</CHAT>

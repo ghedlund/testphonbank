@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="030203" corpus="ComptonPater" version="PB1.2">
+    <header>
+        <date>1975-04-26</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Sean</name>
+            <sex>male</sex>
+            <age>P3Y2M3DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="uttnum" grouped="false"/>
+        <userTier tierName="sesdat" grouped="false"/>
+        <userTier tierName="age" grouped="false"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="uttnum" visible="true" locked="false" font="default"/>
+        <tier tierName="sesdat" visible="true" locked="false" font="default"/>
+        <tier tierName="age" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Code">pid 11312/c-00011926-1</comment>
+        <comment type="Date">26-APR-1975</comment>
+        <u speaker="CHI" id="9b35763f-7cea-4beb-8210-75572efe8369" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>potato</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>pəˈteɪˌtoʊ</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="3" scType="UK"/>
+                        <ph indexes="4" scType="UK"/>
+                        <ph indexes="5" scType="UK"/>
+                        <ph indexes="6" scType="SS"/>
+                        <ph indexes="7" scType="UK"/>
+                        <ph indexes="8" scType="UK"/>
+                        <ph indexes="9" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>spɚd̥edo</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3 4" scType="UK"/>
+                        <ph indexes="5" scType="UK"/>
+                        <ph indexes="6" scType="UK"/>
+                        <ph indexes="7" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <notes tierName="Notes">Mommy I want potato chips - I'm hungry</notes>
+            <flatTier tierName="uttnum">4324</flatTier>
+            <flatTier tierName="sesdat">1975-04-26</flatTier>
+            <flatTier tierName="age">3;2.3</flatTier>
+        </u>
+        <u speaker="CHI" id="775c68dd-5149-4106-a4bc-faaff83eeb81" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>smell</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈsmɛl</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                        <ph indexes="4" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>mɛːl</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1 2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <notes tierName="Notes">I wanna smell it</notes>
+            <flatTier tierName="uttnum">4325</flatTier>
+            <flatTier tierName="sesdat">1975-04-26</flatTier>
+            <flatTier tierName="age">3;2.3</flatTier>
+        </u>
+    </transcript>
+</session>

@@ -1,0 +1,2626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="elf1_02" Mediatypes="audio"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/a-00009108-1"
+      Version="2.20.0"
+      Lang="spa glg"
+      Corpus="Koine"
+      Date="1996-11-22"
+      >
+  <Participants>
+    <participant
+      id="MON"
+    name="Montserrat"
+      role="Investigator"
+      language="spa glg"
+      sex="female"
+      group="Elfos"
+
+      birthday="1996-11-22"
+
+    />
+    <participant
+      id="IAG"
+    name="Iago"
+      role="Target_Child"
+      language="spa glg"
+      age="P2Y00M08D"
+      sex="male"
+      group="Elfos"
+
+      birthday="1994-11-14"
+
+    />
+    <participant
+      id="PAB"
+    name="Pablo"
+      role="Target_Child"
+      language="spa glg"
+      age="P1Y09M21D"
+      sex="male"
+      group="Elfos"
+
+      birthday="1995-02-01"
+
+    />
+    <participant
+      id="RIC"
+    name="Ricardo"
+      role="Target_Child"
+      language="spa glg"
+      age="P1Y11M01D"
+      sex="male"
+      group="Elfos"
+
+      birthday="1994-12-21"
+
+    />
+  </Participants>
+  <comment type="Generic">MON</comment>
+  <comment type="Location">A Estrada</comment>
+  <comment type="Situation">en la escuela infantil</comment>
+  <comment type="Generic">1.2</comment>
+  <comment type="Activities">cuentos</comment>
+  <comment type="Activities">juego de construcción con animales y coches</comment>
+  <comment type="Date">22-NOV-1996</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="MON" uID="u0">
+    <w>vamos</w>
+    <w>a</w>
+    <w>leer</w>
+    <w>un</w>
+    <w>cuento</w>
+    <pause symbolic-length="simple"/>
+    <w>venga</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u1">
+    <pg><w>qué</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph></pw></model></pg>
+    <pg><w>es</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>eso</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">o</ph></pw></model></pg>
+    <t type="q"></t>
+    <media
+      start="4.000"
+      end="5.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_PRED'INT-VER-ARG1_111_1SIL:es ?</a>
+    <a type="actions">se va hacia la cámara</a>
+  </u>
+  <u who="MON" uID="u2">
+    <w>no</w>
+    <w>le</w>
+    <w>toques</w>
+    <w>que</w>
+    <w>quema</w>
+    <pause symbolic-length="simple"/>
+    <w>es</w>
+    <w>una</w>
+    <w>cámara</w>
+    <w>de</w>
+    <w>vídeo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u3">
+    <pg><w>no</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></model></pg>
+    <pg><w>quema</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="28.000"
+      end="29.500"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|quemar:2SIL_PRES:3S:1C_NEG-VER_111_2SIL:quema .</a>
+  </u>
+  <u who="MON" uID="u4">
+    <w>sí</w>
+    <w>que</w>
+    <w>quema</w>
+    <w>porque</w>
+    <w>después</w>
+    <w>se</w>
+    <w>calienta</w>
+    <pause symbolic-length="simple"/>
+    <w>ala</w>
+    <pause symbolic-length="simple"/>
+    <w>vente</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u5">
+    <pg><w>a</w><actual><pw><ph id="ph0">a</ph></pw></actual><model><pw><ph id="ph0">a</ph></pw></model></pg>
+    <pg><w>la</w><actual><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></model></pg>
+    <pg><w>calle</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">ʎ</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">ʎ</ph><ph id="ph3">e</ph></pw></model></pg>
+    <pg><w>quema</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="32.000"
+      end="35.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|quemar:2SIL_PRES:3S:1C_CIRC-VER_111_2SIL:quema .</a>
+  </u>
+  <u who="MON" uID="u6">
+    <w>tú</w>
+    <w>quieres</w>
+    <w>ir</w>
+    <w>a</w>
+    <w>la</w>
+    <w>calle</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u7">
+    <w>ven</w>
+    <w>aquí</w>
+    <w>para</w>
+    <w>que</w>
+    <w>se</w>
+    <w>te</w>
+    <w>vea</w>
+    <pause symbolic-length="simple"/>
+    <w>si</w>
+    <w>no</w>
+    <w>después</w>
+    <w>no</w>
+    <w>sales</w>
+    <w>en</w>
+    <w>la</w>
+    <w>foto</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u8">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">material no transcrito porque MON habla con la educadora</a>
+  </u>
+  <u who="RIC" uID="u9">
+    <pg><w>a</w><actual><pw><ph id="ph0">a</ph></pw></actual><model><pw><ph id="ph0">a</ph></pw></model></pg>
+    <pg><w>la</w><actual><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></model></pg>
+    <pg><w>calle</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">ʎ</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">ʎ</ph><ph id="ph3">e</ph></pw></model></pg>
+    <pg><w>quema</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="57.500"
+      end="60.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|quemar:2SIL_PRES:3S:1C_CIRC-VER_111_2SIL:quema .</a>
+  </u>
+  <u who="RIC" uID="u10">
+    <pg><w>a</w><actual><pw><ph id="ph0">a</ph></pw></actual><model><pw><ph id="ph0">a</ph></pw></model></pg>
+    <pg><w>la</w><actual><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></model></pg>
+    <pg><w>calle</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">ʎ</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">ʎ</ph><ph id="ph3">e</ph></pw></model></pg>
+    <pg><w>estufa</w><actual><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">u</ph><ph id="ph4">f</ph><ph id="ph5">a</ph></pw></actual><model><pw><ph id="ph0">e</ph><ph id="ph1">s</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">u</ph><ph id="ph4">f</ph><ph id="ph5">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="60.000"
+      end="63.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u11">
+    <g><w>y</w>
+    <w>qué</w>
+    <w>es</w>
+    <w>lo</w>
+    <w>que</w>
+    <w>quema</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u12">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>siéntate</w>
+    <w>aquí</w>
+    <w>para</w>
+    <w>que</w>
+    <w>se</w>
+    <w>te</w>
+    <w>vea</w>
+    <w>la</w>
+    <w>cara</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>eres</w>
+    <w>muy</w>
+    <w>guapo</w>
+    <t type="p"></t>
+
+    <a type="actions">RIC finalmente obedece y se sienta</a>
+  </u>
+  <u who="MON" uID="u13">
+    <w>así</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>te</w>
+    <w>sientas</w>
+    <w>ahí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="PAB" uID="u14">
+    <g><w>papá</w><k type="retracing"/></g>
+    <w>papá</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u15">
+    <w>dónde</w>
+    <w>está</w>
+    <w>papá</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="PAB" uID="u16">
+    <g><w>mamá</w><k type="retracing"/></g>
+    <w>mamá</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u17">
+    <w>viene</w>
+    <w>ahora</w>
+    <pause symbolic-length="simple"/>
+    <w>Marisa</w>
+    <w>viene</w>
+    <w>ahora</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u18">
+    <w>uy</w>
+    <w>qué</w>
+    <w>ojos</w>
+    <w>más</w>
+    <w>bonitos</w>
+    <t type="p"></t>
+
+    <a type="actions">empieza a describir el cuento</a>
+  </u>
+  <u who="PAB" uID="u19">
+    <g><w>mamá</w><k type="retracing"/></g>
+    <w>mamá</w>
+    <t type="p"></t>
+
+    <a type="comments">llorando .</a>
+  </u>
+  <u who="MON" uID="u20">
+    <w>Pablo</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <w>me</w>
+    <w>llores</w>
+    <pause symbolic-length="simple"/>
+    <w>por</w>
+    <w>favor</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <w>llores</w>
+    <pause symbolic-length="simple"/>
+    <w>vale</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u21">
+    <w>dile</w>
+    <w>a</w>
+    <w>Pablo</w>
+    <w>que</w>
+    <w>no</w>
+    <w>llore</w>
+    <t type="p"></t>
+
+    <a type="addressee">RIC</a>
+  </u>
+  <u who="RIC" uID="u22">
+    <w>no</w>
+    <w>llores</w>
+    <pause symbolic-length="simple"/>
+    <w>Pablo</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|llorar:2SIL_IMP:2S:1C_NEG-VER_111_2SIL:llores .</a>
+  </u>
+  <u who="MON" uID="u23">
+    <w>ves</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <w>llores</w>
+    <pause symbolic-length="simple"/>
+    <w>Pablo</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u24">
+    <w>mira</w>
+    <pause symbolic-length="simple"/>
+    <w>escucha</w>
+    <pause symbolic-length="simple"/>
+    <w>escucha</w>
+    <pause symbolic-length="simple"/>
+    <w>Marisa</w>
+    <w>está</w>
+    <w>cuidando</w>
+    <w>a</w>
+    <w>un</w>
+    <w>niño</w>
+    <w>pequeñito</w>
+    <w>que</w>
+    <w>llora</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u25">
+    <w>pero</w>
+    <w>vosotros</w>
+    <w>no</w>
+    <w>lloráis</w>
+    <pause symbolic-length="simple"/>
+    <w>verdad</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u26">
+    <w>ya</w>
+    <w>sois</w>
+    <w>mayores</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u27">
+    <pg><w>sí</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="113.000"
+      end="114.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u28">
+    <w>ya</w>
+    <w>sois</w>
+    <w>muy</w>
+    <w>grandes</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u29">
+    <w>cuánto</w>
+    <w>sois</w>
+    <w>de</w>
+    <w>grande</w>
+    <pause symbolic-length="simple"/>
+    <w>mucho</w>
+    <pause symbolic-length="simple"/>
+    <w>verdad</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u30">
+    <w>verdad</w>
+    <w>Iago</w>
+    <t type="q"></t>
+
+    <a type="comments">los niños asienten</a>
+  </u>
+  <u who="MON" uID="u31">
+    <w>ala</w>
+    <pause symbolic-length="simple"/>
+    <w>vamos</w>
+    <w>a</w>
+    <w>coger</w>
+    <w>un</w>
+    <w>cuento</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u32">
+    <w>cuál</w>
+    <w>cogemos</w>
+    <pause symbolic-length="simple"/>
+    <w>éste</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u33">
+    <w>queréis</w>
+    <w>ver</w>
+    <w>éste</w>
+    <pause symbolic-length="simple"/>
+    <w>lo</w>
+    <w>veis</w>
+    <w>todos</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u34">
+    <pg><w>sí</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="134.000"
+      end="135.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u35">
+    <w>esto</w>
+    <w>qué</w>
+    <w>es</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u36">
+    <pg><w>un</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>gato</w><actual><pw><ss type="1"/><ph id="ph0">ɡ</ph><ph id="ph1">a</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɡ</ph><ph id="ph1">a</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="136.000"
+      end="137.500"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u37">
+    <w>un</w>
+    <w>gato</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>se</w>
+    <w>llama</w>
+    <w>Brusi</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MON" uID="u38">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">material no transcrito porque MON hace un inciso para recolocar la cámara</a>
+  </u>
+  <u who="MON" uID="u39">
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>con</w>
+    <w>qué</w>
+    <w>cuento</w>
+    <w>estábamos</w>
+    <pause symbolic-length="simple"/>
+    <w>con</w>
+    <w>el</w>
+    <w>del</w>
+    <w>gatito</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u40">
+    <w>quién</w>
+    <w>tiene</w>
+    <w>el</w>
+    <w>del</w>
+    <w>gatito</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u41">
+    <w>Pablo</w>
+    <pause symbolic-length="simple"/>
+    <w>nos</w>
+    <w>enseñas</w>
+    <w>el</w>
+    <w>cuento</w>
+    <w>del</w>
+    <w>gatito</w>
+    <t type="q"></t>
+
+    <a type="actions">PAB le da el cuento</a>
+  </u>
+  <u who="MON" uID="u42">
+    <w>sí</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <w>qué</w>
+    <w>dice</w>
+    <w>el</w>
+    <w>gatito</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u43">
+    <w>con</w>
+    <w>quién</w>
+    <w>estaba</w>
+    <w>jugando</w>
+    <pause symbolic-length="simple"/>
+    <w>mira</w>
+    <pause symbolic-length="simple"/>
+    <g><w>Pablo</w><overlap type="overlap follows"/></g>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u44">
+    <pg><w>vaca</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">a</ph><ph id="ph2">k</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">a</ph><ph id="ph2">k</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="277.000"
+      end="278.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u45">
+    <w>jugaba</w>
+    <w>con</w>
+    <w>una</w>
+    <w>vaca</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>qué</w>
+    <w>es</w>
+    <w>esto</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u46">
+    <pg><w>conejo</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">n</ph><ph id="ph3">e</ph><ph id="ph4">x</ph><ph id="ph5">o</ph></pw></actual><model><pw><ph id="ph0">k</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">n</ph><ph id="ph3">e</ph><ph id="ph4">x</ph><ph id="ph5">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="282.000"
+      end="283.500"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u47">
+    <w>un</w>
+    <w>conejo</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>aquí</w>
+    <w>estaba</w>
+    <w>su</w>
+    <w>casita</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u48">
+    <pg><w>ardilla</w><actual><pw><ph id="ph0">a</ph><ph id="ph1">ɾ</ph><ss type="1"/><ph id="ph2">ð</ph><ph id="ph3">i</ph><ph id="ph4">ʎ</ph><ph id="ph5">a</ph></pw></actual><model><pw><ph id="ph0">a</ph><ph id="ph1">ɾ</ph><ss type="1"/><ph id="ph2">ð</ph><ph id="ph3">i</ph><ph id="ph4">ʎ</ph><ph id="ph5">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="289.000"
+      end="290.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u49">
+    <w>dónde</w>
+    <w>está</w>
+    <w>la</w>
+    <w>ardilla</w>
+    <t type="q"></t>
+
+    <a type="actions">RIC señala otro cuento</a>
+  </u>
+  <u who="MON" uID="u50">
+    <w>pero</w>
+    <w>ese</w>
+    <w>es</w>
+    <w>otro</w>
+    <w>cuento</w>
+    <pause symbolic-length="simple"/>
+    <w>vamos</w>
+    <w>a</w>
+    <w>mirar</w>
+    <w>sólo</w>
+    <w>este</w>
+    <w>cuento</w>
+    <w>y</w>
+    <w>después</w>
+    <w>ése</w>
+    <pause symbolic-length="simple"/>
+    <w>y</w>
+    <w>nos</w>
+    <w>lo</w>
+    <w>cuentas</w>
+    <w>tú</w>
+    <pause symbolic-length="simple"/>
+    <w>sí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u51">
+    <pg><w>sí</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="299.000"
+      end="299.900"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u52">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">material no transcrito porque MON habla con la educadora</a>
+  </u>
+  <u who="MON" uID="u53">
+    <w>qué</w>
+    <w>es</w>
+    <w>eso</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u54">
+    <pg><w>casa</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="333.500"
+      end="335.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u55">
+    <w>es</w>
+    <w>un</w>
+    <w>pajarito</w>
+    <w>que</w>
+    <w>está</w>
+    <w>en</w>
+    <w>la</w>
+    <w>casa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u56">
+    <pg><w>Doli</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">o</ph><ph id="ph2">l</ph><ph id="ph3">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">o</ph><ph id="ph2">l</ph><ph id="ph3">i</ph></pw></model></pg>
+    <pg><w>pinta</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">i</ph><ph id="ph2">n</ph><ph id="ph3">t</ph><ph id="ph4">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">i</ph><ph id="ph2">n</ph><ph id="ph3">t</ph><ph id="ph4">a</ph></pw></model></pg>
+    <pg><w>casa</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="342.000"
+      end="346.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|pintar:2SIL_PRES:3S:1C_ARG1-VER-ARG2_111_2SIL:pinta .</a>
+  </u>
+  <u who="MON" uID="u57">
+    <w>tú</w>
+    <w>pintaste</w>
+    <w>una</w>
+    <w>casa</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u58">
+    <pg><w>pinta</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">i</ph><ph id="ph2">n</ph><ph id="ph3">t</ph><ph id="ph4">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">i</ph><ph id="ph2">n</ph><ph id="ph3">t</ph><ph id="ph4">a</ph></pw></model></pg>
+    <pg><w>casa</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="348.000"
+      end="350.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|pintar:2SIL_PRES:3S:1C_VER-ARG2_111_2SIL:pinta .</a>
+    <a type="actions">señala las paredes</a>
+  </u>
+  <u who="MON" uID="u59">
+    <w>quién</w>
+    <w>pinta</w>
+    <w>la</w>
+    <w>casa</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>ver</w>
+    <pause symbolic-length="simple"/>
+    <w>dime</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u60">
+    <pg><w>Doli</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">o</ph><ph id="ph2">l</ph><ph id="ph3">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">o</ph><ph id="ph2">l</ph><ph id="ph3">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="352.000"
+      end="353.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u61">
+    <w>y</w>
+    <w>quién</w>
+    <w>es</w>
+    <w>Loli</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u62">
+    <pg><w>Doli</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">o</ph><ph id="ph2">l</ph><ph id="ph3">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">o</ph><ph id="ph2">l</ph><ph id="ph3">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="356.000"
+      end="357.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u63">
+    <w>y</w>
+    <w>quién</w>
+    <w>es</w>
+    <w>Doli</w>
+    <pause symbolic-length="simple"/>
+    <w>es</w>
+    <w>una</w>
+    <w>chica</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u64">
+    <pg><w>pinta</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">i</ph><ph id="ph2">n</ph><ph id="ph3">t</ph><ph id="ph4">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">i</ph><ph id="ph2">n</ph><ph id="ph3">t</ph><ph id="ph4">a</ph></pw></model></pg>
+    <pg><w>cepillo</w><actual><pw><ph id="ph0">θ</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">p</ph><ph id="ph3">i</ph><ph id="ph4">ʎ</ph><ph id="ph5">o</ph></pw></actual><model><pw><ph id="ph0">θ</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">p</ph><ph id="ph3">i</ph><ph id="ph4">ʎ</ph><ph id="ph5">o</ph></pw></model></pg>
+    <pg><w>mamá</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></actual><model><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="363.000"
+      end="366.500"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|pintar:2SIL_PRES:3S:1C_VER-ARG2-ARG1_111_2SIL:pinta .</a>
+  </u>
+  <u who="MON" uID="u65">
+    <w>sí</w>
+    <pause symbolic-length="simple"/>
+    <w>quién</w>
+    <w>pintó</w>
+    <w>estas</w>
+    <w>castañas</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u66">
+    <pg><w>pinta</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">i</ph><ph id="ph2">n</ph><ph id="ph3">t</ph><ph id="ph4">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">i</ph><ph id="ph2">n</ph><ph id="ph3">t</ph><ph id="ph4">a</ph></pw></model></pg>
+    <pg><w>castañas</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ss type="1"/><ph id="ph3">t</ph><ph id="ph4">a</ph><ph id="ph5">ɲ</ph><ph id="ph6">a</ph><ph id="ph7">s</ph></pw></actual><model><pw><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ss type="1"/><ph id="ph3">t</ph><ph id="ph4">a</ph><ph id="ph5">ɲ</ph><ph id="ph6">a</ph><ph id="ph7">s</ph></pw></model></pg>
+    <pg><w>Ricardo</w><actual><pw><ph id="ph0">r</ph><ph id="ph1">i</ph><ss type="1"/><ph id="ph2">k</ph><ph id="ph3">a</ph><ph id="ph4">ɾ</ph><ph id="ph5">o</ph></pw></actual><model><pw><ph id="ph0">r</ph><ph id="ph1">i</ph><ss type="1"/><ph id="ph2">k</ph><ph id="ph3">a</ph><ph id="ph4">ɾ</ph><ph id="ph5">ð</ph><ph id="ph6">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="376.000"
+      end="379.500"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|pintar:2SIL_PRES:3S:1C_VER-ARG2-ARG1_111_2SIL:pinta .</a>
+  </u>
+  <u who="MON" uID="u67">
+    <w>Ricardo</w>
+    <w>y</w>
+    <w>quién</w>
+    <w>más</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u68">
+    <pg><w>do</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">o</ph></pw></model></pg>
+    <pg><w>pinta</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">i</ph><ph id="ph2">n</ph><ph id="ph3">t</ph><ph id="ph4">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">i</ph><ph id="ph2">n</ph><ph id="ph3">t</ph><ph id="ph4">a</ph></pw></model></pg>
+    <pg><w>castañas</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ss type="1"/><ph id="ph3">t</ph><ph id="ph4">a</ph><ph id="ph5">ɲ</ph><ph id="ph6">a</ph></pw></actual><model><pw><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ss type="1"/><ph id="ph3">t</ph><ph id="ph4">a</ph><ph id="ph5">ɲ</ph><ph id="ph6">a</ph><ph id="ph7">s</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="384.000"
+      end="389.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">do=yo $PHO ; pinta=pinto $AGR ;</a>
+    <a type="extension" flavor="mor">v|pintar:2SIL_PRES:3S:1C_ARG1-VER-ARG2_111_2SIL:pinta .</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="MON" uID="u69">
+    <w>pero</w>
+    <w>quién</w>
+    <w>más</w>
+    <w>pintó</w>
+    <w>castañas</w>
+    <pause symbolic-length="simple"/>
+    <w>Pablo</w>
+    <w>pintó</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u70">
+    <pg><w>no</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="392.500"
+      end="393.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u71">
+    <w>y</w>
+    <w>Ana</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u72">
+    <pg><w>sí</w><actual><pw><ss type="1"/><ph id="ph0">ʃ</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="405.000"
+      end="406.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u73">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">interviene la educadora y hay interferencias visuales</a>
+  </u>
+  <u who="MON" uID="u74">
+    <w>están</w>
+    <w>muy</w>
+    <w>bien</w>
+    <w>pintadas</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u75">
+    <w>pinta</w>
+    <w>Ricardo</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|pintar:2SIL_PRES:3S:1C_VER-ARG1_111_2SIL:pinta .</a>
+  </u>
+  <u who="MON" uID="u76">
+    <w>y</w>
+    <w>de</w>
+    <w>qué</w>
+    <w>color</w>
+    <w>las</w>
+    <w>pintaste</w>
+    <pause symbolic-length="simple"/>
+    <w>Ricardo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u77">
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual><model><pw><ph id="ph0">*</ph></pw></model></pg>
+    <pg><w>Ricardo</w><actual><pw><ph id="ph0">r</ph><ph id="ph1">i</ph><ss type="1"/><ph id="ph2">k</ph><ph id="ph3">a</ph><ph id="ph4">ð</ph><ph id="ph5">o</ph></pw></actual><model><pw><ph id="ph0">r</ph><ph id="ph1">i</ph><ss type="1"/><ph id="ph2">k</ph><ph id="ph3">a</ph><ph id="ph4">ɾ</ph><ph id="ph5">ð</ph><ph id="ph6">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="428.000"
+      end="430.000"
+      unit="s"
+    />
+  </u>
+  <u who="RIC" uID="u78">
+    <pg><w>castaña</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ss type="1"/><ph id="ph3">t</ph><ph id="ph4">a</ph><ph id="ph5">ɲ</ph><ph id="ph6">a</ph></pw></actual><model><pw><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ss type="1"/><ph id="ph3">t</ph><ph id="ph4">a</ph><ph id="ph5">ɲ</ph><ph id="ph6">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="433.000"
+      end="434.500"
+      unit="s"
+    />
+    <a type="extension" flavor="par">castaña=color castaña $ELL ;</a>
+  </u>
+  <u who="MON" uID="u79">
+    <w>color</w>
+    <w>castaño</w>
+    <pause symbolic-length="simple"/>
+    <w>muy</w>
+    <w>bien</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MON" uID="u80">
+    <w>seguimos</w>
+    <w>con</w>
+    <w>el</w>
+    <w>cuento</w>
+    <w>o</w>
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>os</w>
+    <w>gusta</w>
+    <w>este</w>
+    <w>cuento</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u81">
+    <pg><w>sí</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="441.500"
+      end="442.500"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u82">
+    <w>claro</w>
+    <pause symbolic-length="simple"/>
+    <w>porque</w>
+    <w>aquí</w>
+    <w>el</w>
+    <w>pajarito</w>
+    <w>tenía</w>
+    <w>bebés</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u83">
+    <w>verdad</w>
+    <w>que</w>
+    <w>tenía</w>
+    <w>pajaritos</w>
+    <w>pequeñitos</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u84">
+    <pg><w>sí</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="454.000"
+      end="455.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u85">
+    <w>te</w>
+    <w>gusta</w>
+    <pause symbolic-length="simple"/>
+    <w>Ana</w>
+    <pause symbolic-length="simple"/>
+    <w>te</w>
+    <w>gusta</w>
+    <w>el</w>
+    <w>cuento</w>
+    <t type="q"></t>
+
+    <a type="comments">Ana, niña que no habla en esta grabación, no contesta de ningún modo</a>
+  </u>
+  <u who="RIC" uID="u86">
+    <pg><w>se</w><actual><pw><ss type="1"/><ph id="ph0">ʃ</ph><ph id="ph1">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></model></pg>
+    <pg><w>acabó</w><actual><pw><ph id="ph0">a</ph><ph id="ph1">k</ph><ph id="ph2">a</ph><ss type="1"/><ph id="ph3">β</ph><ph id="ph4">o</ph></pw></actual><model><pw><ph id="ph0">a</ph><ph id="ph1">k</ph><ph id="ph2">a</ph><ss type="1"/><ph id="ph3">β</ph><ph id="ph4">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="461.000"
+      end="463.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|acabar:3SIL_PAS1:3S:1C_CLI1-VER_111_3SIL:acabó .</a>
+  </u>
+  <u who="MON" uID="u87">
+    <w>se</w>
+    <w>acabó</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>mira</w>
+    <pause symbolic-length="simple"/>
+    <w>faltan</w>
+    <w>hojas</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u88">
+    <w>cuando</w>
+    <w>se</w>
+    <w>acabe</w>
+    <w>jugamos</w>
+    <w>a</w>
+    <w>otra</w>
+    <w>cosa</w>
+    <pause symbolic-length="simple"/>
+    <w>vale</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u89">
+    <pg><w>sí</w><actual><pw><ss type="1"/><ph id="ph0">ʃ</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="469.000"
+      end="470.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u90">
+    <w>aquí</w>
+    <w>vuelve</w>
+    <w>a</w>
+    <w>estar</w>
+    <w>la</w>
+    <w>vaquita</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u91">
+    <pg><w>uy</w><actual><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">u</ph><ph id="ph1">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="475.000"
+      end="476.000"
+      unit="s"
+    />
+    <a type="actions">toca la vaca del cuento y hace como si lo mordiese</a>
+  </u>
+  <u who="MON" uID="u92">
+    <w>y</w>
+    <w>aquí</w>
+    <w>se</w>
+    <w>encontró</w>
+    <w>con</w>
+    <w>el</w>
+    <t type="self interruption"></t>
+
+    <a type="actions">hace el sonido del cerdo</a>
+    <a type="comments">nadie responde</a>
+  </u>
+  <u who="MON" uID="u93">
+    <linker type="self completion"/>
+    <w>cerdito</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u94">
+    <pg><w>el</w><actual><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">a</ph></pw></model></pg>
+    <pg><w>agua</w><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">ɣ</ph><ph id="ph2">w</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">ɣ</ph><ph id="ph2">w</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="486.000"
+      end="488.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">lagua=el agua $CON $PHO $MIX ;</a>
+    <a type="extension" flavor="phon">$ADI</a>
+  </u>
+  <u who="MON" uID="u95">
+    <w>en</w>
+    <w>el</w>
+    <w>agua</w>
+    <pause symbolic-length="simple"/>
+    <w>sí</w>
+    <pause symbolic-length="simple"/>
+    <w>se</w>
+    <w>estaba</w>
+    <w>bañando</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u96">
+    <w>tú</w>
+    <w>te</w>
+    <w>bañas</w>
+    <pause symbolic-length="simple"/>
+    <w>dónde</w>
+    <w>te</w>
+    <w>bañas</w>
+    <w>tú</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u97">
+    <pg><w>baña</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">a</ph><ph id="ph2">ɲ</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">a</ph><ph id="ph2">ɲ</ph><ph id="ph3">a</ph></pw></model></pg>
+    <pg><w>papá</w><actual><pw><ph id="ph0">p</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">p</ph><ph id="ph3">a</ph></pw></actual><model><pw><ph id="ph0">p</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">p</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="494.000"
+      end="498.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|bañar:2SIL_PRES:3S:1C_VER-ARG1_111_2SIL:baña .</a>
+  </u>
+  <u who="MON" uID="u98">
+    <w>te</w>
+    <w>baña</w>
+    <w>papá</w>
+    <t type="q"></t>
+
+    <a type="comments">RIC asiente</a>
+  </u>
+  <u who="MON" uID="u99">
+    <w>y</w>
+    <w>a</w>
+    <w>ti</w>
+    <pause symbolic-length="simple"/>
+    <w>Iago</w>
+    <pause symbolic-length="simple"/>
+    <w>te</w>
+    <w>baña</w>
+    <w>papá</w>
+    <t type="q"></t>
+
+    <a type="comments">IAG no contesta</a>
+  </u>
+  <u who="RIC" uID="u100">
+    <pg><w>para</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">a</ph><ph id="ph2">ɾ</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">a</ph><ph id="ph2">ɾ</ph><ph id="ph3">a</ph></pw></model></pg>
+    <pg><w>mamá</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></actual><model><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="503.000"
+      end="505.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">pa=papá $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI $OMI</a>
+  </u>
+  <u who="MON" uID="u101">
+    <w>y</w>
+    <w>mamá</w>
+    <w>también</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u102">
+    <pg><w>para</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">a</ph><ph id="ph2">ɾ</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">a</ph><ph id="ph2">ɾ</ph><ph id="ph3">a</ph></pw></model></pg>
+    <pg><w>mamá</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></actual><model><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="507.000"
+      end="509.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">pa=papá $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI $OMI</a>
+  </u>
+  <u who="RIC" uID="u103">
+    <pg><w>agua</w><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">ɣ</ph><ph id="ph2">w</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">ɣ</ph><ph id="ph2">w</ph><ph id="ph3">a</ph></pw></model></pg>
+    <pg><w>mamá</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></actual><model><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="509.000"
+      end="511.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u104">
+    <w>y</w>
+    <w>tu</w>
+    <w>hermanito</w>
+    <w>te</w>
+    <w>baña</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u105">
+    <w>Guille</w>
+    <w>te</w>
+    <w>baña</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u106">
+    <w>se</w>
+    <w>baña</w>
+    <w>contigo</w>
+    <w>en</w>
+    <w>la</w>
+    <w>playa</w>
+    <w>Guille</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u107">
+    <pg><w>sí</w><actual><pw><ph id="ph0">ʃ</ph><ss type="1"/><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="541.000"
+      end="542.500"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u108">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">material no transcrito porque habla la educadora</a>
+  </u>
+  <u who="MON" uID="u109">
+    <w>voy</w>
+    <w>a</w>
+    <w>cambiar</w>
+    <w>el</w>
+    <w>cuento</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u110">
+    <w>a</w>
+    <w>ver</w>
+    <w>este</w>
+    <w>cuento</w>
+    <pause symbolic-length="simple"/>
+    <w>te</w>
+    <w>gustaba</w>
+    <w>este</w>
+    <w>cuento</w>
+    <pause symbolic-length="simple"/>
+    <w>Ricardo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u111">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u112">
+    <w>me</w>
+    <w>lo</w>
+    <w>cuentas</w>
+    <w>otra</w>
+    <w>vez</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u113">
+    <w>dónde</w>
+    <w>vas</w>
+    <pause symbolic-length="simple"/>
+    <w>Ana</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <w>quieres</w>
+    <w>escuchar</w>
+    <w>el</w>
+    <w>cuento</w>
+    <t type="q"></t>
+
+    <a type="actions">Ana se levanta</a>
+  </u>
+  <u who="RIC" uID="u114">
+    <pg><w>oso</w><actual><pw><ss type="1"/><ph id="ph0">o</ph><ph id="ph1">s</ph><ph id="ph2">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">o</ph><ph id="ph1">s</ph><ph id="ph2">o</ph></pw></model></pg>
+    <pg><w>sube</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">u</ph><ph id="ph2">β</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">u</ph><ph id="ph2">β</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="552.000"
+      end="554.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|subir:2SIL_PRES:3S:3C_ARG1-VER_111_2SIL:sube .</a>
+  </u>
+  <u who="MON" uID="u115">
+    <w>ala</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="RIC" uID="u116">
+    <pg><w>oso</w><actual><pw><ss type="1"/><ph id="ph0">o</ph><ph id="ph1">s</ph><ph id="ph2">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">o</ph><ph id="ph1">s</ph><ph id="ph2">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="556.000"
+      end="557.400"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u117">
+    <w>mira</w>
+    <w>cuántos</w>
+    <w>osos</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="RIC" uID="u118">
+    <pg><w>esto</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">t</ph><ph id="ph2">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="570.000"
+      end="571.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">eto=esto $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+    <a type="explanation">señala unos niños junto a los osos</a>
+  </u>
+  <u who="MON" uID="u119">
+    <w>y</w>
+    <w>si</w>
+    <w>el</w>
+    <w>oso</w>
+    <w>se</w>
+    <w>come</w>
+    <w>a</w>
+    <w>los</w>
+    <w>niños</w>
+    <w>qué</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u120">
+    <w>hay</w>
+    <w>que</w>
+    <w>estar</w>
+    <w>calladitos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u121">
+    <pg><w>calladito</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">ʎ</ph><ph id="ph3">a</ph><ss type="1"/><ph id="ph4">ð</ph><ph id="ph5">i</ph><ph id="ph6">t</ph><ph id="ph7">o</ph></pw></actual><model><pw><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">ʎ</ph><ph id="ph3">a</ph><ss type="1"/><ph id="ph4">ð</ph><ph id="ph5">i</ph><ph id="ph6">t</ph><ph id="ph7">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="579.000"
+      end="581.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u122">
+    <w>éstos</w>
+    <w>son</w>
+    <w>zorros</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u123">
+    <pg><w>comiendo</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">j</ph><ph id="ph4">e</ph><ph id="ph5">n</ph><ph id="ph6">d</ph><ph id="ph7">o</ph></pw></actual><model><pw><ph id="ph0">k</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">j</ph><ph id="ph4">e</ph><ph id="ph5">n</ph><ph id="ph6">d</ph><ph id="ph7">o</ph></pw></model></pg>
+    <pg><w>gato</w><actual><pw><ss type="1"/><ph id="ph0">ɡ</ph><ph id="ph1">a</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɡ</ph><ph id="ph1">a</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="584.000"
+      end="586.827"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|comer:2SIL_GER:2C_VER-ARG1_111_3SIL:comiendo .</a>
+  </u>
+  <u who="MON" uID="u124">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u125">
+    <w>qué</w>
+    <w>están</w>
+    <w>comiendo</w>
+    <pause symbolic-length="simple"/>
+    <w>un</w>
+    <w>bocadillo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u126">
+    <pg><w>sí</w><actual><pw><ss type="1"/><ph id="ph0">ʃ</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="593.000"
+      end="593.500"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u127">
+    <w>sí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u128">
+    <pg><w>bocadillo</w><actual><pw><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">k</ph><ph id="ph3">a</ph><ss type="1"/><ph id="ph4">ð</ph><ph id="ph5">i</ph><ph id="ph6">ʎ</ph><ph id="ph7">o</ph></pw></actual><model><pw><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">k</ph><ph id="ph3">a</ph><ss type="1"/><ph id="ph4">ð</ph><ph id="ph5">i</ph><ph id="ph6">ʎ</ph><ph id="ph7">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="596.000"
+      end="599.000"
+      unit="s"
+    />
+  </u>
+  <u who="RIC" uID="u129">
+    <linker type="self completion"/>
+    <w>bocadillo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u130">
+    <w>un</w>
+    <w>bocadillo</w>
+    <pause symbolic-length="simple"/>
+    <w>muy</w>
+    <w>bien</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u131">
+    <pg><w>mariposa</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">ɾ</ph><ph id="ph3">i</ph><ss type="1"/><ph id="ph4">p</ph><ph id="ph5">o</ph><ph id="ph6">s</ph><ph id="ph7">a</ph></pw></actual><model><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">ɾ</ph><ph id="ph3">i</ph><ss type="1"/><ph id="ph4">p</ph><ph id="ph5">o</ph><ph id="ph6">s</ph><ph id="ph7">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="602.000"
+      end="604.500"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u132">
+    <w>una</w>
+    <w>mariposa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u133">
+    <w>te</w>
+    <w>gustan</w>
+    <w>las</w>
+    <w>mariposas</w>
+    <pause symbolic-length="simple"/>
+    <w>Pablo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u134">
+    <w>acércate</w>
+    <w>un</w>
+    <w>poquito</w>
+    <pause symbolic-length="simple"/>
+    <w>sí</w>
+    <t type="q"></t>
+
+    <a type="comments">niega con la cabeza</a>
+  </u>
+  <u who="MON" uID="u135">
+    <w>no</w>
+    <pause symbolic-length="simple"/>
+    <w>bueno</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u136">
+    <pg><w>oh</w><actual><pw><ss type="1"/><ph id="ph0">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">o</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="615.000"
+      end="616.500"
+      unit="s"
+    />
+    <a type="comments">señalando otra página del libro</a>
+  </u>
+  <u who="MON" uID="u137">
+    <w>qué</w>
+    <w>bonito</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MON" uID="u138">
+    <w>y</w>
+    <w>dónde</w>
+    <w>están</w>
+    <w>los</w>
+    <w>niños</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u139">
+    <pg><w>sube</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">u</ph><ph id="ph2">β</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">u</ph><ph id="ph2">β</ph><ph id="ph3">e</ph></pw></model></pg>
+    <pg><w>niños</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">i</ph><ph id="ph2">ɲ</ph><ph id="ph3">o</ph><ph id="ph4">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">i</ph><ph id="ph2">ɲ</ph><ph id="ph3">o</ph><ph id="ph4">s</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="624.000"
+      end="626.500"
+      unit="s"
+    />
+    <a type="extension" flavor="par">sube=suben $AGR ;</a>
+    <a type="extension" flavor="mor">v|subir:2SIL_PRES:3S:3C_VER-ARG1_111_2SIL:sube .</a>
+  </u>
+  <u who="MON" uID="u140">
+    <w>a</w>
+    <w>dónde</w>
+    <w>se</w>
+    <w>subieron</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u141">
+    <pg><w>no</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw></model></pg>
+    <pg><w>sé</w><actual><pw><ss type="1"/><ph id="ph0">ʃ</ph><ph id="ph1">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="628.500"
+      end="630.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|saber:2SIL_PRES:1S:2C_NEG-VER_111_1SIL:sé .</a>
+  </u>
+  <u who="MON" uID="u142">
+    <w>a</w>
+    <w>una</w>
+    <w>montaña</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u143">
+    <pg><w>montaña</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ss type="1"/><ph id="ph3">t</ph><ph id="ph4">a</ph><ph id="ph5">ɲ</ph><ph id="ph6">a</ph></pw></actual><model><pw><ph id="ph0">m</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ss type="1"/><ph id="ph3">t</ph><ph id="ph4">a</ph><ph id="ph5">ɲ</ph><ph id="ph6">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="631.000"
+      end="633.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u144">
+    <w>Ana</w>
+    <pause symbolic-length="simple"/>
+    <w>te</w>
+    <w>vas</w>
+    <w>a</w>
+    <w>caer</w>
+    <pause symbolic-length="simple"/>
+    <w>te</w>
+    <w>vas</w>
+    <w>a</w>
+    <w>hacer</w>
+    <w>una</w>
+    <w>pupa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u145">
+    <pg><w>qué</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph></pw></model></pg>
+    <pg><w>es</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>eso</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">o</ph></pw></model></pg>
+    <t type="q"></t>
+    <media
+      start="642.000"
+      end="643.500"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_PRED'INT-VER-ARG1_111_1SIL:es ?</a>
+  </u>
+  <u who="MON" uID="u146">
+    <w>es</w>
+    <w>un</w>
+    <w>ciervo</w>
+    <w>que</w>
+    <w>está</w>
+    <w>en</w>
+    <w>el</w>
+    <w>bosque</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u147">
+    <w>Ana</w>
+    <pause symbolic-length="simple"/>
+    <w>tienes</w>
+    <w>una</w>
+    <w>pupa</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u148">
+    <pg><w>Iago</w><actual><pw><ss type="1"/><ph id="ph0">j</ph><ph id="ph1">a</ph><ph id="ph2">ɣ</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">j</ph><ph id="ph1">a</ph><ph id="ph2">ɣ</ph><ph id="ph3">o</ph></pw></model></pg>
+    <pg><w>pupa</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">u</ph><ph id="ph2">p</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">u</ph><ph id="ph2">p</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="654.000"
+      end="656.000"
+      unit="s"
+    />
+    <a type="actions">señala la cara de IAG</a>
+  </u>
+  <u who="MON" uID="u149">
+    <w>se</w>
+    <w>hizo</w>
+    <w>una</w>
+    <w>pupa</w>
+    <w>Iago</w>
+    <t type="q"></t>
+
+    <a type="comments">IAG asiente</a>
+  </u>
+  <u who="MON" uID="u150">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">material no transcrito porque MON habla con la educadora</a>
+  </u>
+  <u who="RIC" uID="u151">
+    <pg><w>gatito</w><actual><pw><ph id="ph0">ɡ</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">i</ph><ph id="ph4">t</ph><ph id="ph5">o</ph></pw></actual><model><pw><ph id="ph0">ɡ</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">i</ph><ph id="ph4">t</ph><ph id="ph5">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="704.000"
+      end="706.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u152">
+    <w>mira</w>
+    <w>una</w>
+    <w>ardilla</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MON" uID="u153">
+    <w>a</w>
+    <w>ti</w>
+    <w>te</w>
+    <w>gustan</w>
+    <w>las</w>
+    <w>ardillas</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u154">
+    <pg><w>sí</w><actual><pw><ss type="1"/><ph id="ph0">ʃ</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="711.000"
+      end="711.700"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u155">
+    <w>qué</w>
+    <w>bonitas</w>
+    <w>son</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MON" uID="u156">
+    <w>y</w>
+    <w>se</w>
+    <w>acabó</w>
+    <w>el</w>
+    <w>cuento</w>
+    <w>con</w>
+    <w>todos</w>
+    <w>los</w>
+    <w>animales</w>
+    <w>del</w>
+    <w>bosque</w>
+    <w>juntos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u157">
+    <pg><w>no</w>
+    <w>muerde</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw><pw><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">w</ph><ph id="ph4">e</ph><ph id="ph5">ð</ph><ph id="ph6">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">o</ph></pw><pw><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">w</ph><ph id="ph4">e</ph><ph id="ph5">ɾ</ph><ph id="ph6">ð</ph><ph id="ph7">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="735.000"
+      end="736.800"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|morder:2SIL_PRES:3S:2C_NEG-VER_111_2SIL:muerde .</a>
+    <a type="actions">hace que muerde un dedo pero no lo muerde</a>
+  </u>
+  <u who="MON" uID="u158">
+    <w>qué</w>
+    <t type="q"></t>
+
+    <a type="actions">RIC le enseña el dedo</a>
+  </u>
+  <u who="MON" uID="u159">
+    <w>qué</w>
+    <w>es</w>
+    <w>esto</w>
+    <pause symbolic-length="simple"/>
+    <w>una</w>
+    <w>pupa</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u160">
+    <pg><w>oh</w><actual><pw><ss type="1"/><ph id="ph0">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="745.000"
+      end="746.000"
+      unit="s"
+    />
+    <a type="actions">repite la simulación de morder el dedo</a>
+  </u>
+  <u who="MON" uID="u161">
+    <w>oh</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="RIC" uID="u162">
+    <pg><w>oh</w><actual><pw><ss type="1"/><ph id="ph0">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">o</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="750.000"
+      end="751.000"
+      unit="s"
+    />
+    <a type="actions">repite la simulación de morder el dedo</a>
+  </u>
+  <u who="MON" uID="u163">
+    <w>qué</w>
+    <w>te</w>
+    <w>pasa</w>
+    <pause symbolic-length="simple"/>
+    <w>por</w>
+    <w>qué</w>
+    <w>muerdes</w>
+    <w>el</w>
+    <w>dedo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u164">
+    <w>no</w>
+    <w>muerdas</w>
+    <w>el</w>
+    <w>dedo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u165">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">material no transcrito porque interviene la educadora para cambiar los estímulos</a>
+  </u>
+  <comment type="New Episode"></comment>
+  <comment type="Activities">juego de construcción con animales y coches</comment>
+  <u who="MON" uID="u166">
+    <w>quién</w>
+    <w>tiene</w>
+    <w>un</w>
+    <w>coche</w>
+    <t type="q"></t>
+
+    <a type="actions">RIC le enseña su coche</a>
+  </u>
+  <u who="MON" uID="u167">
+    <w>y</w>
+    <w>ese</w>
+    <w>ruido</w>
+    <pause symbolic-length="simple"/>
+    <w>son</w>
+    <w>las</w>
+    <w>ruedas</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u168">
+    <pg><w>rueda</w><actual><pw><ss type="1"/><ph id="ph0">r</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">ð</ph><ph id="ph4">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">r</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">ð</ph><ph id="ph4">a</ph></pw></model></pg>
+    <pg><w>coche</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">ʧ</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">ʧ</ph><ph id="ph3">e</ph></pw></model></pg>
+    <pg><w>rueda</w><actual><pw><ss type="1"/><ph id="ph0">r</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">ð</ph><ph id="ph4">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">r</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">ð</ph><ph id="ph4">a</ph></pw></model></pg>
+    <pg><w>coche</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">ʧ</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">ʧ</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="879.000"
+      end="884.826"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u169">
+    <w>para</w>
+    <w>correr</w>
+    <w>mucho</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u170">
+    <pg><w>ah</w><actual><pw><ss type="1"/><ph id="ph0">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="886.000"
+      end="887.000"
+      unit="s"
+    />
+    <a type="actions">mueve el coche por el suelo</a>
+  </u>
+  <u who="MON" uID="u171">
+    <w>cuánto</w>
+    <w>corre</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MON" uID="u172">
+    <w>y</w>
+    <w>estos</w>
+    <w>que</w>
+    <w>son</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u173">
+    <pg><w>vaca</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">a</ph><ph id="ph2">k</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">a</ph><ph id="ph2">k</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="892.000"
+      end="893.728"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u174">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>son</w>
+    <w>vacas</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u175">
+    <w>y</w>
+    <w>esto</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u176">
+    <pg><w>galiña</w><actual><pw><ph id="ph0">g</ph><ph id="ph1">a</ph><ph id="ph2">l</ph><ph id="ph3">i</ph><ss type="1"/><ph id="ph4">ɲ</ph><ph id="ph5">a</ph></pw></actual><model><pw><ph id="ph0">g</ph><ph id="ph1">a</ph><ph id="ph2">l</ph><ph id="ph3">i</ph><ss type="1"/><ph id="ph4">ɲ</ph><ph id="ph5">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="898.000"
+      end="899.500"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u177">
+    <w>qué</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u178">
+    <pg><w>galiña</w><actual><pw><ph id="ph0">g</ph><ph id="ph1">a</ph><ph id="ph2">l</ph><ph id="ph3">i</ph><ss type="1"/><ph id="ph4">ɲ</ph><ph id="ph5">a</ph></pw></actual><model><pw><ph id="ph0">g</ph><ph id="ph1">a</ph><ph id="ph2">l</ph><ph id="ph3">i</ph><ss type="1"/><ph id="ph4">ɲ</ph><ph id="ph5">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="902.000"
+      end="903.700"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u179">
+    <w>una</w>
+    <w>galiña</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MON" uID="u180">
+    <w>y</w>
+    <w>un</w>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="RIC" uID="u181">
+    <pg><w>caballo</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">β</ph><ph id="ph3">a</ph><ph id="ph4">ʎ</ph><ph id="ph5">o</ph></pw></actual><model><pw><ph id="ph0">k</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">β</ph><ph id="ph3">a</ph><ph id="ph4">ʎ</ph><ph id="ph5">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="933.000"
+      end="934.600"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u182">
+    <w>el</w>
+    <w>caballo</w>
+    <w>también</w>
+    <w>estaba</w>
+    <w>pastando</w>
+    <pause symbolic-length="simple"/>
+    <w>porque</w>
+    <w>aquí</w>
+    <w>había</w>
+    <w>hierba</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u183">
+    <w>de</w>
+    <w>qué</w>
+    <w>color</w>
+    <w>es</w>
+    <w>la</w>
+    <w>hierba</w>
+    <t type="q"></t>
+
+    <a type="comments">no responden</a>
+  </u>
+  <u who="MON" uID="u184">
+    <w>es</w>
+    <w>verde</w>
+    <t type="q"></t>
+
+    <a type="comments">no contestan</a>
+  </u>
+  <u who="MON" uID="u185">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">material no transcrito porque sólo habla MON mientras ellos juegan</a>
+  </u>
+  <u who="RIC" uID="u186">
+    <pg><w>hace</w><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">θ</ph><ph id="ph2">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">θ</ph><ph id="ph2">e</ph></pw></model></pg>
+    <pg><w>ruido</w><actual><pw><ss type="1"/><ph id="ph0">r</ph><ph id="ph1">w</ph><ph id="ph2">i</ph><ph id="ph3">ð</ph><ph id="ph4">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">r</ph><ph id="ph1">w</ph><ph id="ph2">i</ph><ph id="ph3">ð</ph><ph id="ph4">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1004.000"
+      end="1007.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|hacer:2SIL_PRES:3S:2C_VER-ARG2_111_2SIL:hace .</a>
+    <a type="explanation">se refiere al coche</a>
+  </u>
+  <u who="MON" uID="u187">
+    <w>hace</w>
+    <w>ruido</w>
+    <pause symbolic-length="simple"/>
+    <w>sí</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u188">
+    <w>ponle</w>
+    <w>un</w>
+    <w>señor</w>
+    <w>al</w>
+    <w>coche</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u189">
+    <pg><w>señor</w><actual><pw><ph id="ph0">s</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">ɲ</ph><ph id="ph3">o</ph><ph id="ph4">ɾ</ph></pw></actual><model><pw><ph id="ph0">s</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">ɲ</ph><ph id="ph3">o</ph><ph id="ph4">ɾ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1013.000"
+      end="1014.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u190">
+    <w>un</w>
+    <w>señor</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u191">
+    <w>cómo</w>
+    <w>se</w>
+    <w>llama</w>
+    <w>ese</w>
+    <w>señor</w>
+    <pause symbolic-length="simple"/>
+    <w>era</w>
+    <w>papá</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u192">
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual><model><pw><ph id="ph0">*</ph></pw></model></pg>
+    <pg><w>coche</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">ʧ</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">ʧ</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1028.000"
+      end="1030.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u193">
+    <w>se</w>
+    <w>lo</w>
+    <w>ponemos</w>
+    <w>al</w>
+    <w>coche</w>
+    <pause symbolic-length="simple"/>
+    <w>aquí</w>
+    <t type="p"></t>
+
+    <a type="actions">ayuda a RIC a encajar las piezas</a>
+  </u>
+  <u who="MON" uID="u194">
+    <w>y</w>
+    <w>ahora</w>
+    <w>le</w>
+    <w>ponemos</w>
+    <w>uno</w>
+    <w>detrás</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u195">
+    <pg><w>oh</w><actual><pw><ss type="1"/><ph id="ph0">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">o</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="1049.000"
+      end="1050.000"
+      unit="s"
+    />
+    <a type="actions">muestra a MON el resultado</a>
+  </u>
+  <u who="MON" uID="u196">
+    <w>detrás</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u197">
+    <pg><w>detrás</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">a</ph><ph id="ph2">s</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">ɾ</ph><ph id="ph4">a</ph><ph id="ph5">s</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1052.000"
+      end="1054.000"
+      unit="s"
+    />
+  </u>
+  <u who="RIC" uID="u198">
+    <pg><w>hace</w><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">z</ph><ph id="ph2">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">θ</ph><ph id="ph2">e</ph></pw></model></pg>
+    <pg><w>ruido</w><actual><pw><ss type="1"/><ph id="ph0">r</ph><ph id="ph1">w</ph><ph id="ph2">i</ph><ph id="ph3">ð</ph><ph id="ph4">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">r</ph><ph id="ph1">w</ph><ph id="ph2">i</ph><ph id="ph3">ð</ph><ph id="ph4">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1090.000"
+      end="1093.000"
+      unit="s"
+    />
+    <a type="actions">se refiere al coche arrastrándolo por el suelo</a>
+  </u>
+  <u who="MON" uID="u199">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u200">
+    <pg><w>pongo</w><actual><pw><ph id="ph0">p</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">n</ph><ph id="ph3">o</ph></pw></actual><model><pw><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ss type="1"/><ph id="ph3">g</ph><ph id="ph4">o</ph></pw></model></pg>
+    <pg><w>señoɾ</w><actual><pw><ph id="ph0">s</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">ɲ</ph><ph id="ph3">o</ph></pw></actual><model><pw><ph id="ph0">s</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">ɲ</ph><ph id="ph3">o</ph><ph id="ph4">ɾ</ph></pw></model></pg>
+    <pg><w>pongo</w><actual><pw><ph id="ph0">p</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">n</ph><ph id="ph3">o</ph></pw></actual><model><pw><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ss type="1"/><ph id="ph3">g</ph><ph id="ph4">o</ph></pw></model></pg>
+    <pg><w>señor</w><actual><pw><ph id="ph0">s</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">ɲ</ph><ph id="ph3">o</ph></pw></actual><model><pw><ph id="ph0">s</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">ɲ</ph><ph id="ph3">o</ph><ph id="ph4">ɾ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1094.000"
+      end="1098.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">pono=pongo $VER $PHO;</a>
+    <a type="extension" flavor="mor">v|poner:2SIL_PRES:1S:2C_VER-ARG2_111_2SIL:pono .</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="RIC" uID="u201">
+    <pg><w>pongo</w><actual><pw><ph id="ph0">p</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">n</ph><ph id="ph3">o</ph></pw></actual><model><pw><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ss type="1"/><ph id="ph3">g</ph><ph id="ph4">o</ph></pw></model></pg>
+    <pg><w>mamá</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></actual><model><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1098.000"
+      end="1100.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">pono=pongo $VER $PHO;</a>
+    <a type="extension" flavor="mor">v|poner:2SIL_PRES:1S:2C_VER-ARG2_111_2SIL:pono .</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="MON" uID="u202">
+    <w>pusiste</w>
+    <w>a</w>
+    <w>un</w>
+    <w>señor</w>
+    <w>y</w>
+    <w>a</w>
+    <w>mamá</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u203">
+    <w>ahora</w>
+    <w>pon</w>
+    <w>a</w>
+    <w>papá</w>
+    <pause symbolic-length="simple"/>
+    <w>busca</w>
+    <w>un</w>
+    <w>papá</w>
+    <w>por</w>
+    <w>ahí</w>
+    <t type="p"></t>
+
+    <a type="actions">coge otro muñeco</a>
+  </u>
+  <u who="MON" uID="u204">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>un</w>
+    <w>papá</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u205">
+    <w formType="interjection">uy</w>
+    <t type="e"></t>
+
+    <a type="actions">se cae sobre los juguetes</a>
+  </u>
+  <u who="MON" uID="u206">
+    <w>te</w>
+    <w>lastimaste</w>
+    <t type="q"></t>
+
+    <a type="actions">RIC intenta encajar el nuevo muñeco pero no lo consigue</a>
+    <a type="comments">RIC la mira sonriente</a>
+  </u>
+  <u who="RIC" uID="u207">
+    <pg><w>pongo</w><actual><pw><ph id="ph0">p</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">n</ph><ph id="ph3">o</ph></pw></actual><model><pw><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ss type="1"/><ph id="ph3">g</ph><ph id="ph4">o</ph></pw></model></pg>
+    <pg><w>pongo</w><actual><pw><ph id="ph0">p</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">n</ph><ph id="ph3">o</ph></pw></actual><model><pw><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ss type="1"/><ph id="ph3">g</ph><ph id="ph4">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1131.000"
+      end="1133.629"
+      unit="s"
+    />
+    <a type="extension" flavor="par">pono=pongo $VER $PHO;</a>
+    <a type="extension" flavor="mor">v|poner:2SIL_PRES:1S:2C_VER_111_2SIL:pono !</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="MON" uID="u208">
+    <w>te</w>
+    <w>lo</w>
+    <w>pongo</w>
+    <w>yo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u209">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u210">
+    <w>ala</w>
+    <pause symbolic-length="simple"/>
+    <w>van</w>
+    <w>tres</w>
+    <w>en</w>
+    <w>coche</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="RIC" uID="u211">
+    <w formType="interjection">ala</w>
+    <pause symbolic-length="simple"/>
+    <w>van</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="e"></t>
+
+    <a type="extension" flavor="mor">v|ir:1SIL_PRES:3P:3C_VER-INI_111_1SIL:van !</a>
+  </u>
+  <u who="MON" uID="u212">
+    <w>oh</w>
+    <pause symbolic-length="simple"/>
+    <w>pero</w>
+    <w>era</w>
+    <w>para</w>
+    <w>atrás</w>
+    <pause symbolic-length="simple"/>
+    <w>nos</w>
+    <w>confundimos</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="RIC" uID="u213">
+    <pg><w>hala</w><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">l</ph><ph id="ph2">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">l</ph><ph id="ph2">a</ph></pw></model></pg>
+    <pg><w>coche</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">ʧ</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">ʧ</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1142.000"
+      end="1144.000"
+      unit="s"
+    />
+  </u>
+  <u who="RIC" uID="u214">
+    <pg><w>oh</w><actual><pw><ss type="1"/><ph id="ph0">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">o</ph></pw></model></pg>
+    <pg><w>torre</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">o</ph><ph id="ph2">ɾ</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">o</ph><ph id="ph2">r</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="e"></t>
+    <media
+      start="1149.000"
+      end="1151.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">tore=torre $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+    <a type="actions">saca una pieza de debajo de su nalga</a>
+  </u>
+  <u who="MON" uID="u215">
+    <w>qué</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u216">
+    <pg><w>el</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">l</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">l</ph></pw></model></pg>
+    <pg><w>torre</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">o</ph><ph id="ph2">ɾ</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">o</ph><ph id="ph2">r</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1152.000"
+      end="1154.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">el=la $AGR ; tore=torre $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="MON" uID="u217">
+    <w>no</w>
+    <w>te</w>
+    <w>entiendo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u218">
+    <pg><w>siento</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">n</ph><ph id="ph4">t</ph><ph id="ph5">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">n</ph><ph id="ph4">t</ph><ph id="ph5">o</ph></pw></model></pg>
+    <pg><w>torre</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">o</ph><ph id="ph2">ɾ</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">o</ph><ph id="ph2">r</ph><ph id="ph3">e</ph></pw></model></pg>
+    <pg><w>siento</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">n</ph><ph id="ph4">t</ph><ph id="ph5">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">j</ph><ph id="ph2">e</ph><ph id="ph3">n</ph><ph id="ph4">t</ph><ph id="ph5">o</ph></pw></model></pg>
+    <pg><w>torre</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">o</ph><ph id="ph2">ɾ</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">o</ph><ph id="ph2">r</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1155.000"
+      end="1162.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">siento tore=me senté en la torre $CON $PRE ; tore=torre $PHO ;</a>
+    <a type="extension" flavor="mor">v|sentar:2SIL_PRES:1S:1C_VER-CIRC_111_2SIL:siento .</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="MON" uID="u219">
+    <w>te</w>
+    <w>sentaste</w>
+    <w>encima</w>
+    <w>de</w>
+    <w>la</w>
+    <w>pieza</w>
+    <w>de</w>
+    <w>la</w>
+    <w>torre</w>
+    <t type="q"></t>
+
+    <a type="comments">afirma con la cabeza</a>
+  </u>
+  <u who="MON" uID="u220">
+    <w>ah</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <w>te</w>
+    <w>entendía</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>burrica</w>
+    <w>soy</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="RIC" uID="u221">
+    <pg><w>pongo</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">g</ph><ph id="ph4">o</ph></pw></model></pg>
+    <pg><w>señor</w><actual><pw><ph id="ph0">s</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">ɲ</ph><ph id="ph3">o</ph></pw></actual><model><pw><ph id="ph0">s</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">ɲ</ph><ph id="ph3">o</ph><ph id="ph4">ɾ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1182.000"
+      end="1184.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">pono=pongo $VER $PHO; señor=el señor $PRE ;</a>
+    <a type="extension" flavor="mor">v|poner:2SIL_PRES:1S:2C_VER-ARG2_111_2SIL:pono !</a>
+    <a type="extension" flavor="phon">$OMI</a>
+    <a type="actions">ofrece a MON otro muñeco para ponerlo en el coche</a>
+  </u>
+  <u who="MON" uID="u222">
+    <w>pones</w>
+    <w>al</w>
+    <w>señor</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u223">
+    <w>ponlo</w>
+    <w>tú</w>
+    <pause symbolic-length="simple"/>
+    <w>ponlo</w>
+    <w>tú</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="RIC" uID="u224">
+    <pg><w>ponlo</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">l</ph><ph id="ph4">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">l</ph><ph id="ph4">o</ph></pw></model></pg>
+    <pg><w>tú</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">u</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">u</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1188.000"
+      end="1189.000"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|poner:2SIL_IMP:2S:2C_VER-CLI2-ARG1_111_1SIL:pon .</a>
+  </u>
+  <u who="MON" uID="u225">
+    <w>yo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u226">
+    <pg><w>sí</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1190.000"
+      end="1190.500"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u227">
+    <w>y</w>
+    <w>dónde</w>
+    <w>lo</w>
+    <w>pongo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u228">
+    <pg><w>en</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>ese</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">e</ph></pw></model></pg>
+    <pg><w>coche</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">ʧ</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">ʧ</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1192.000"
+      end="1194.000"
+      unit="s"
+    />
+    <a type="actions">se dispone a buscar un coche</a>
+  </u>
+  <u who="RIC" uID="u229">
+    <pg><w>en</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>ese</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">s</ph><ph id="ph2">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1200.000"
+      end="1202.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">ete=este $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="MON" uID="u230">
+    <w>en</w>
+    <w>éste</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MON" uID="u231">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">material no transcrito porque MON habla con la educadora</a>
+  </u>
+  <u who="MON" uID="u232">
+    <w>lleva</w>
+    <w>un</w>
+    <w>caballo</w>
+    <w>en</w>
+    <w>el</w>
+    <w>coche</w>
+    <t type="p"></t>
+
+    <a type="addressee">RIC</a>
+  </u>
+  <u who="RIC" uID="u233">
+    <pg><w>coche</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">ʧ</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">ʧ</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1375.000"
+      end="1376.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u234">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u235">
+    <pg><w>montoche</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ss type="1"/><ph id="ph3">t</ph><ph id="ph4">o</ph><ph id="ph5">ʧ</ph><ph id="ph6">e</ph></pw></actual><model><pw><ph id="ph0">m</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ss type="1"/><ph id="ph3">t</ph><ph id="ph4">o</ph><ph id="ph5">ʧ</ph><ph id="ph6">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1380.000"
+      end="1381.700"
+      unit="s"
+    />
+    <a type="extension" flavor="par">montoche=lo monto en el coche $CON ;</a>
+  </u>
+  <u who="MON" uID="u236">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u237">
+    <pg><w>montoche</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ss type="1"/><ph id="ph3">t</ph><ph id="ph4">o</ph><ph id="ph5">ʧ</ph><ph id="ph6">e</ph></pw></actual><model><pw><ph id="ph0">m</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ss type="1"/><ph id="ph3">t</ph><ph id="ph4">o</ph><ph id="ph5">ʧ</ph><ph id="ph6">e</ph></pw></model></pg>
+    <pg><w>montoche</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ss type="1"/><ph id="ph3">t</ph><ph id="ph4">o</ph><ph id="ph5">ʧ</ph><ph id="ph6">e</ph></pw></actual><model><pw><ph id="ph0">m</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ss type="1"/><ph id="ph3">t</ph><ph id="ph4">o</ph><ph id="ph5">ʧ</ph><ph id="ph6">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1389.000"
+      end="1394.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">montoche=lo monto en el coche $CON ;</a>
+  </u>
+  <u who="MON" uID="u238">
+    <w>montoche</w>
+    <pause symbolic-length="simple"/>
+    <w>qué</w>
+    <w>es</w>
+    <w>eso</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u239">
+    <w>montoche</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">montoche=lo monto en el coche $CON ;</a>
+  </u>
+  <u who="MON" uID="u240">
+    <w>se</w>
+    <w>montó</w>
+    <w>en</w>
+    <w>el</w>
+    <w>coche</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u241">
+    <g><w>montoche</w><k type="retracing"/></g>
+    <w>montoche</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">montoche=lo monto en el coche $CON ;</a>
+    <a type="actions">todos se ríen</a>
+  </u>
+  <u who="MON" uID="u242">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">MON está hablando con la educadora</a>
+  </u>
+  <u who="RIC" uID="u243">
+    <pg><w>pez</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">e</ph><ph id="ph2">θ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">e</ph><ph id="ph2">θ</ph></pw></model></pg>
+    <pg><w>pez</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">e</ph><ph id="ph2">θ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">e</ph><ph id="ph2">θ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1460.000"
+      end="1461.690"
+      unit="s"
+    />
+    <a type="actions">llama la atención de MON y señala varios dibujos de la pared</a>
+  </u>
+  <u who="RIC" uID="u244">
+    <pg><w>tomates</w><actual><pw><ph id="ph0">t</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">a</ph><ph id="ph4">t</ph><ph id="ph5">e</ph><ph id="ph6">s</ph></pw></actual><model><pw><ph id="ph0">t</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">m</ph><ph id="ph3">a</ph><ph id="ph4">t</ph><ph id="ph5">e</ph><ph id="ph6">s</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1464.000"
+      end="1465.900"
+      unit="s"
+    />
+  </u>
+  <u who="RIC" uID="u245">
+    <pg><w>nené</w><actual><pw><ph id="ph0">n</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">n</ph><ph id="ph3">e</ph></pw></actual><model><pw><ph id="ph0">n</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">n</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1465.900"
+      end="1467.900"
+      unit="s"
+    />
+  </u>
+  <u who="RIC" uID="u246">
+    <pg><w>manzana</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">n</ph><ss type="1"/><ph id="ph3">θ</ph><ph id="ph4">a</ph><ph id="ph5">n</ph><ph id="ph6">a</ph></pw></actual><model><pw><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">n</ph><ss type="1"/><ph id="ph3">θ</ph><ph id="ph4">a</ph><ph id="ph5">n</ph><ph id="ph6">a</ph></pw></model></pg>
+    <pg><w>come</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">m</ph><ph id="ph3">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">m</ph><ph id="ph3">e</ph></pw></model></pg>
+    <pg><w>nené</w><actual><pw><ph id="ph0">n</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">n</ph><ph id="ph3">e</ph></pw></actual><model><pw><ph id="ph0">n</ph><ph id="ph1">e</ph><ss type="1"/><ph id="ph2">n</ph><ph id="ph3">e</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1472.500"
+      end="1476.600"
+      unit="s"
+    />
+    <a type="extension" flavor="par">manzana come nené=el nené come una manzana $CON $PRE ;</a>
+    <a type="extension" flavor="mor">v|comer:2SIL_PRES:3S:2C_ARG2-VER-ARG1_111_2SIL:come .</a>
+    <a type="actions">describe un dibujo en el que un niño pinta una manzana</a>
+    <a type="comments">la educadora les dice que el niño quiere comer la manzana y por eso la pinta</a>
+  </u>
+  <u who="MON" uID="u247">
+    <w>Ana</w>
+    <pause symbolic-length="simple"/>
+    <w>Ana</w>
+    <pause symbolic-length="simple"/>
+    <w>Ana</w>
+    <pause symbolic-length="simple"/>
+    <w>vas</w>
+    <w>a</w>
+    <w>salir</w>
+    <w>en</w>
+    <w>la</w>
+    <w>foto</w>
+    <t type="p"></t>
+
+    <a type="actions">Ana se dirige hacia la cámara con intención de tirarla</a>
+  </u>
+  <u who="MON" uID="u248">
+    <w>ven</w>
+    <w>aquí</w>
+    <w>a</w>
+    <w>jugar</w>
+    <w>conmigo</w>
+    <pause symbolic-length="simple"/>
+    <w>que</w>
+    <w>yo</w>
+    <w>no</w>
+    <w>tengo</w>
+    <w>con</w>
+    <w>quién</w>
+    <w>jugar</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u249">
+    <pg><w>Ana</w><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">n</ph><ph id="ph2">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">n</ph><ph id="ph2">a</ph></pw></model></pg>
+    <pg><w>Ana</w><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">n</ph><ph id="ph2">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">n</ph><ph id="ph2">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1510.000"
+      end="1512.000"
+      unit="s"
+    />
+  </u>
+  <u who="MON" uID="u250">
+    <w>eso</w>
+    <w>quema</w>
+    <pause symbolic-length="simple"/>
+    <w>quema</w>
+    <w>y</w>
+    <w>luego</w>
+    <w>tienes</w>
+    <w>una</w>
+    <w>pupa</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u251">
+    <g><w>tú</w>
+    <w>quieres</w>
+    <w>tener</w>
+    <w>una</w>
+    <w>pupa</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="RIC" uID="u252">
+    <pg><w>pongo</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">ŋ</ph><ph id="ph3">ɡ</ph><ph id="ph4">o</ph></pw></model></pg>
+    <pg><w>casa</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1519.000"
+      end="1521.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">pono=pongo $VER $PHO; casa=la casa $PRE ;</a>
+    <a type="extension" flavor="mor">v|poner:2SIL_PRES:1S:2C_VER-ARG2_111_2SIL:pono .</a>
+    <a type="extension" flavor="phon">$OMI</a>
+    <a type="actions">sigue jugando con las piezas</a>
+  </u>
+  <u who="RIC" uID="u253">
+    <pg><w>pongo</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">ŋ</ph><ph id="ph3">ɡ</ph><ph id="ph4">o</ph></pw></model></pg>
+    <pg><w>casa</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1526.000"
+      end="1528.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">pono=pongo $VER $PHO; casa=la casa $PRE ;</a>
+    <a type="extension" flavor="mor">v|poner:2SIL_PRES:1S:2C_VER-ARG2_111_2SIL:pono .</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="MON" uID="u254">
+    <w>tú</w>
+    <w>tienes</w>
+    <w>un</w>
+    <w>moquito</w>
+    <pause symbolic-length="simple"/>
+    <w>verdad</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RIC" uID="u255">
+    <pg><w>pongo</w><actual><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">n</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">o</ph><ph id="ph2">ŋ</ph><ph id="ph3">ɡ</ph><ph id="ph4">o</ph></pw></model></pg>
+    <pg><w>casa</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">a</ph><ph id="ph2">s</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1533.000"
+      end="1535.000"
+      unit="s"
+    />
+    <a type="extension" flavor="par">pono=pongo $VER $PHO; casa=la casa $PRE ;</a>
+    <a type="extension" flavor="mor">v|poner:2SIL_PRES:1S:2C_VER-ARG2_111_2SIL:pono .</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+</CHAT>

@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00021913-1"
+      Version="2.20.0"
+      Lang="nld"
+      Corpus="CLPF"
+      Date="1990-07-12"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Leon"
+      role="Target_Child"
+      language="nld"
+      age="P2Y07M01D"
+      sex="male"
+
+      birthday="1987-12-11"
+
+    />
+  </Participants>
+  <comment type="Date">12-JUL-1990</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <pg><w>acht</w><actual><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">χ</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">χ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">eight</a>
+    <a type="extension" flavor="morphc">[A]</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <pg><w>boot</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">boat</a>
+    <a type="extension" flavor="morphc">[N]</a>
+  </u>
+  <u who="CHI" uID="u2">
+    <pg><w>brand</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɑ</ph><ph id="ph3">̝</ph><ph id="ph4">n</ph><ph id="ph5">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɑ</ph><ph id="ph3">n</ph><ph id="ph4">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">fire</a>
+    <a type="extension" flavor="morphc">[N]</a>
+  </u>
+  <u who="CHI" uID="u3">
+    <pg><w>brandweer</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɑ</ph><ph id="ph3">n</ph><ph id="ph4">t</ph><ph id="ph5">ʋ</ph><ph id="ph6">ɪ</ph><ph id="ph7">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɑ</ph><ph id="ph3">n</ph><ph id="ph4">t</ph><ph id="ph5">ʋ</ph><ph id="ph6">e</ph><ph id="ph7">ɹ</ph></pw></model></pg>
+    <pg><w>politie</w><actual><pw><ph id="ph0">p</ph><ph id="ph1">ɔ</ph><ss type="1"/><ph id="ph2">l</ph><ph id="ph3">i</ph><ph id="ph4">s</ph><ph id="ph5">̪</ph><ph id="ph6">i</ph></pw></actual><model><pw><ph id="ph0">p</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">l</ph><ph id="ph3">i</ph><ph id="ph4">t</ph><ph id="ph5">͡</ph><ph id="ph6">s</ph><ph id="ph7">i</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">fire brigade police</a>
+    <a type="extension" flavor="morphc">[N] [ ]</a>
+  </u>
+  <u who="CHI" uID="u4">
+    <pg><w>daar</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">a</ph><ph id="ph2">ʀ</ph></pw></model></pg>
+    <pg><w>zit</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">ɪ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">z</ph><ph id="ph1">ɪ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>die</w><actual><pw><ph id="ph0">t</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>kabouters</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">ɑ</ph><ss type="1"/><ph id="ph2">b</ph><ph id="ph3">ɑ</ph><ph id="ph4">t</ph><ph id="ph5">ɔ</ph><ph id="ph6">̈</ph><ph id="ph7">ʀ</ph><ph id="ph8">s</ph></pw></actual><model><pw><ph id="ph0">k</ph><ph id="ph1">ɑ</ph><ss type="1"/><ph id="ph2">b</ph><ph id="ph3">ɑ</ph><ph id="ph4">u</ph><ph id="ph5">t</ph><ph id="ph6">ə</ph><ph id="ph7">r</ph><ph id="ph8">s</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">there is those gnomes</a>
+    <a type="extension" flavor="morphc">[adv] [t] [!] [NPNPplS]</a>
+  </u>
+  <u who="CHI" uID="u5">
+    <pg><w>daar</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">a</ph><ph id="ph2">ɹ</ph></pw></model></pg>
+    <pg><w>zit</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">z</ph><ph id="ph1">ɪ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>ook</w><actual><pw><ph id="ph0">o</ph><ph id="ph1">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">o</ph><ph id="ph1">k</ph></pw></model></pg>
+    <pg><w>een</w><actual><pw><ph id="ph0">ə</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>hele</w><actual><pw><ss type="1"/><ph id="ph0">h</ph><ph id="ph1">e</ph><ph id="ph2">l</ph><ph id="ph3">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">h</ph><ph id="ph1">e</ph><ph id="ph2">l</ph><ph id="ph3">ə</ph></pw></model></pg>
+    <pg><w>grote</w><actual><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">o</ph><ph id="ph2">d</ph><ph id="ph3">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">ʀ</ph><ph id="ph2">o</ph><ph id="ph3">t</ph><ph id="ph4">ə</ph></pw></model></pg>
+    <pg><w>hok</w><actual><pw><ss type="1"/><ph id="ph0">h</ph><ph id="ph1">ɔ</ph><ph id="ph2">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">h</ph><ph id="ph1">ɔ</ph><ph id="ph2">k</ph></pw></model></pg>
+    <pg><w>in</w><actual><pw><ph id="ph0">ɪ</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">in there is a very big cage too</a>
+    <a type="extension" flavor="morphc">[adv] [t] [NP] [A] [P] [S] [ ] [ ]</a>
+  </u>
+  <u who="CHI" uID="u6">
+    <pg><w>daar</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">a</ph><ph id="ph2">ɹ</ph></pw></model></pg>
+    <pg><w>zit</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">ɪ</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">z</ph><ph id="ph1">ɪ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>ook</w><actual><pw><ss type="1"/><ph id="ph0">o</ph><ph id="ph1">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">o</ph><ph id="ph1">k</ph></pw></model></pg>
+    <pg><w>water</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">a</ph><ph id="ph2">t</ph><ph id="ph3">ə</ph><ph id="ph4">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">a</ph><ph id="ph2">t</ph><ph id="ph3">ə</ph><ph id="ph4">ɹ</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">there is water too</a>
+    <a type="extension" flavor="morphc">[adv] [t] [N] [S]</a>
+  </u>
+  <u who="CHI" uID="u7">
+    <pg><w>daaronder</w><actual><pw><ph id="ph0">d</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">ʀ</ph><ph id="ph3">ɔ</ph><ph id="ph4">n</ph><ph id="ph5">d</ph><ph id="ph6">ɔ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">a</ph><ph id="ph2">ʀ</ph><ph id="ph3">ɔ</ph><ph id="ph4">n</ph><ph id="ph5">d</ph><ph id="ph6">ə</ph><ph id="ph7">r</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">under that</a>
+    <a type="extension" flavor="morphc">[PP?]</a>
+  </u>
+  <u who="CHI" uID="u8">
+    <pg><w>dan</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɑ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɑ</ph><ph id="ph2">n</ph></pw></model></pg>
+    <pg><w>gaat</w><actual><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">a</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">a</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>ie</w><actual><pw><ph id="ph0">i</ph></pw></actual><model><pw><ph id="ph0">i</ph></pw></model></pg>
+    <pg><w>stuk</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">ʉ</ph><ph id="ph3">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">ʉ</ph><ph id="ph3">k</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">then it breaks down</a>
+    <a type="extension" flavor="morphc">[adv] [t] [cl] [S]</a>
+  </u>
+  <u who="CHI" uID="u9">
+    <pg><w>dan</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɔ</ph><ph id="ph2">̞</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɑ</ph><ph id="ph2">n</ph></pw></model></pg>
+    <pg><w>moeten</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">u</ph><ph id="ph2">t</ph><ph id="ph3">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">u</ph><ph id="ph2">t</ph><ph id="ph3">ə</ph><ph id="ph4">n</ph></pw></model></pg>
+    <pg><w>wij</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph></pw></model></pg>
+    <pg><w>weer</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɪ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">e</ph><ph id="ph2">ɹ</ph></pw></model></pg>
+    <pg><w>nieuwe</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɪ</ph><ph id="ph2">ʋ</ph><ph id="ph3">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">i</ph><ph id="ph2">u</ph><ph id="ph3">ʋ</ph><ph id="ph4">ə</ph></pw></model></pg>
+    <pg><w>kopen</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">ː</ph><ph id="ph3">p</ph><ph id="ph4">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">p</ph><ph id="ph3">ə</ph><ph id="ph4">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">then we have to buy new ones</a>
+    <a type="extension" flavor="morphc">[adv] [t] [cl] [NP] [A] [plplVS]</a>
+  </u>
+  <u who="CHI" uID="u10">
+    <pg><w>dat</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>is</w><actual><pw><ph id="ph0">ɪ</ph><ph id="ph1">̈</ph><ph id="ph2">s</ph></pw></actual><model><pw><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></model></pg>
+    <w type="omission">een</w>
+    <pg><w>brandweerslang</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɑ</ph><ph id="ph3">n</ph><ph id="ph4">t</ph><ph id="ph5">ʋ</ph><ph id="ph6">e</ph><ph id="ph7">ə</ph><ph id="ph8">ʀ</ph><ss type="2"/><ph id="ph9">s</ph><ph id="ph10">l</ph><ph id="ph11">ɑ</ph><ph id="ph12">ŋ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɑ</ph><ph id="ph3">n</ph><ph id="ph4">t</ph><ph id="ph5">ʋ</ph><ph id="ph6">e</ph><ph id="ph7">ɹ</ph><ss type="2"/><ph id="ph8">s</ph><ph id="ph9">l</ph><ph id="ph10">ɑ</ph><ph id="ph11">ŋ</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">that is a fire-hose</a>
+    <a type="extension" flavor="morphc">[NP] [t] [C] [S]</a>
+  </u>
+  <u who="CHI" uID="u11">
+    <pg><w>dat</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɑ</ph><ph id="ph2">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>is</w><actual><pw><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>een</w><actual><pw><ph id="ph0">ə</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>grote</w><actual><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">o</ph><ph id="ph2">t</ph><ph id="ph3">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">ʀ</ph><ph id="ph2">o</ph><ph id="ph3">t</ph><ph id="ph4">ə</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">that is a big one</a>
+    <a type="extension" flavor="morphc">[NP] [t] [A] [S]</a>
+  </u>
+  <u who="CHI" uID="u12">
+    <pg><w>dat</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ɑ</ph><ph id="ph2">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>is</w><actual><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>een</w><actual><pw><ph id="ph0">ə</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>grote</w><actual><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">o</ph><ph id="ph2">t</ph><ph id="ph3">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">ʀ</ph><ph id="ph2">o</ph><ph id="ph3">t</ph><ph id="ph4">ə</ph></pw></model></pg>
+    <pg><w>boot</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">that is a big boat</a>
+    <a type="extension" flavor="morphc">[S] [NP] [t] [A] [ ]</a>
+  </u>
+  <u who="CHI" uID="u13">
+    <pg><w>dat</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>weet</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">ɛ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">e</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>ik</w><actual><pw><ph id="ph0">i</ph><ph id="ph1">ɣ</ph><ph id="ph2">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">k</ph></pw></model></pg>
+    <pg><w>niet</w><actual><pw><ss type="2"/><ph id="ph0">i</ph><ph id="ph1">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">i</ph><ph id="ph2">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">I do not know that</a>
+    <a type="extension" flavor="morphc">[NP] [t] [cl] [negnegS]</a>
+  </u>
+  <u who="CHI" uID="u14">
+    <pg><w>denk</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ɪ</ph><ph id="ph2">ŋ</ph><ph id="ph3">k</ph><ph id="ph4">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɛ</ph><ph id="ph2">ŋ</ph><ph id="ph3">k</ph></pw></model></pg>
+    <pg><w>dat</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">(I) think that</a>
+    <a type="extension" flavor="morphc">[t] [SSNP?adv]</a>
+  </u>
+  <u who="CHI" uID="u15">
+    <pg><w>die</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">i</ph><ph id="ph2">̆</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>heeft</w><actual><pw><ss type="2"/><ph id="ph0">j</ph><ph id="ph1">e</ph><ph id="ph2">f</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">h</ph><ph id="ph1">e</ph><ph id="ph2">f</ph><ph id="ph3">t</ph></pw></model></pg>
+    <pg><w>blauwe</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">l</ph><ph id="ph2">ɑ</ph><ph id="ph3">u</ph><ph id="ph4">ʋ</ph><ph id="ph5">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">l</ph><ph id="ph2">ɑ</ph><ph id="ph3">u</ph><ph id="ph4">w</ph><ph id="ph5">ə</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">that one has blue ones</a>
+    <a type="extension" flavor="morphc">[NP] [t] [SSA]</a>
+  </u>
+  <u who="CHI" uID="u16">
+    <pg><w>die</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>is</w><actual><pw><ph id="ph0">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>naar</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">a</ph><ph id="ph2">ʀ</ph></pw></model></pg>
+    <pg><w>Bianca</w><actual><pw><ph id="ph0">b</ph><ph id="ph1">i</ph><ss type="1"/><ph id="ph2">j</ph><ph id="ph3">ɑ</ph><ph id="ph4">ŋ</ph><ph id="ph5">k</ph><ph id="ph6">a</ph></pw></actual><model><pw><ph id="ph0">b</ph><ph id="ph1">i</ph><ss type="1"/><ph id="ph2">j</ph><ph id="ph3">ɑ</ph><ph id="ph4">ŋ</ph><ph id="ph5">k</ph><ph id="ph6">a</ph></pw></model></pg>
+    <pg><w>logeren</w><actual><pw><ph id="ph0">l</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">s</ph><ph id="ph3">e</ph><ph id="ph4">ʀ</ph><ph id="ph5">ə</ph></pw></actual><model><pw><ph id="ph0">l</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">ʃ</ph><ph id="ph3">̟</ph><ph id="ph4">e</ph><ph id="ph5">ʀ</ph><ph id="ph6">ə</ph><ph id="ph7">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">he is (gone) to Bianca to stay (visit)</a>
+    <a type="extension" flavor="morphc">[NP] [t] [PP] [name] [VVS]</a>
+  </u>
+  <u who="CHI" uID="u17">
+    <pg><w>die</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɪ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>is</w><actual><pw><ph id="ph0">s</ph><ph id="ph1">̪</ph><ph id="ph2">ɪ</ph><ph id="ph3">̈</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></model></pg>
+    <w type="omission">op</w>
+    <pg><w>het</w><actual><pw><ph id="ph0">t</ph><ph id="ph1">ɪ</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">t</ph></pw></model></pg>
+    <pg><w>strand</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">ɑ</ph><ph id="ph3">n</ph><ph id="ph4">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">ʀ</ph><ph id="ph3">ɑ</ph><ph id="ph4">n</ph><ph id="ph5">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">that one is on the beach</a>
+    <a type="extension" flavor="morphc">[NP] [t] [PP] [S] [ ]</a>
+  </u>
+  <u who="CHI" uID="u18">
+    <pg><w>die</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>ligt</w><actual><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">i</ph><ph id="ph2">χ</ph><ph id="ph3">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">ɪ</ph><ph id="ph2">χ</ph><ph id="ph3">t</ph></pw></model></pg>
+    <pg><w>in</w><actual><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>de</w><actual><pw><ph id="ph0">ə</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">ə</ph></pw></model></pg>
+    <pg><w>kast</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɑ</ph><ph id="ph2">s</ph><ph id="ph3">̪</ph><ph id="ph4">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɑ</ph><ph id="ph2">s</ph><ph id="ph3">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">that one is in the cupboard</a>
+    <a type="extension" flavor="morphc">[NP] [t] [PP] [S] [ ]</a>
+  </u>
+  <u who="CHI" uID="u19">
+    <pg><w>die</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>zit</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">ɪ</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">z</ph><ph id="ph1">ɪ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>in</w><actual><pw><ph id="ph0">ɪ</ph><ph id="ph1">̞</ph><ph id="ph2">n</ph></pw></actual><model><pw><ph id="ph0">ɪ</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>hok</w><actual><pw><ss type="1"/><ph id="ph0">h</ph><ph id="ph1">ɔ</ph><ph id="ph2">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">h</ph><ph id="ph1">ɔ</ph><ph id="ph2">k</ph></pw></model></pg>
+    <pg><w>hok</w><actual><pw><ss type="1"/><ph id="ph0">h</ph><ph id="ph1">ɔ</ph><ph id="ph2">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">h</ph><ph id="ph1">ɔ</ph><ph id="ph2">k</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">that one is in cage</a>
+    <a type="extension" flavor="morphc">[NP] [t] [PP] [NNS] [ ]</a>
+  </u>
+  <u who="CHI" uID="u20">
+    <pg><w>dierentuin</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">i</ph><ph id="ph2">ʀ</ph><ph id="ph3">ə</ph><ss type="2"/><ph id="ph4">t</ph><ph id="ph5">œ</ph><ph id="ph6">̝</ph><ph id="ph7">y</ph><ph id="ph8">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">i</ph><ph id="ph2">ʀ</ph><ph id="ph3">ə</ph><ss type="2"/><ph id="ph4">t</ph><ph id="ph5">œ</ph><ph id="ph6">y</ph><ph id="ph7">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">zoo</a>
+    <a type="extension" flavor="morphc">[NNC]</a>
+  </u>
+  <u who="CHI" uID="u21">
+    <pg><w>dit</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ɪ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɪ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>is</w><actual><pw><ph id="ph0">s</ph><ph id="ph1">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>ook</w><actual><pw><ss type="1"/><ph id="ph0">o</ph><ph id="ph1">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">o</ph><ph id="ph1">k</ph></pw></model></pg>
+    <pg><w>een</w><actual><pw><ph id="ph0">ə</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>grote</w><actual><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">o</ph><ph id="ph2">t</ph><ph id="ph3">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">ʀ</ph><ph id="ph2">o</ph><ph id="ph3">t</ph><ph id="ph4">ə</ph></pw></model></pg>
+    <pg><w>boot</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">ː</ph><ph id="ph3">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">this is a big boat too</a>
+    <a type="extension" flavor="morphc">[NP] [t] [adv] [A] [S] [ ]</a>
+  </u>
+  <u who="CHI" uID="u22">
+    <pg><w>een</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">one</a>
+  </u>
+  <u who="CHI" uID="u23">
+    <pg><w>een</w><actual><pw><ph id="ph0">ɔ</ph><ph id="ph1">̈</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>beer</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">e</ph><ph id="ph2">ˑ</ph><ph id="ph3">ə</ph><ph id="ph4">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">e</ph><ph id="ph2">ɹ</ph></pw></model></pg>
+    <pg><w>daar</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">a</ph><ph id="ph2">ʁ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">a</ph><ph id="ph2">ɹ</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">a bear there</a>
+    <a type="extension" flavor="morphc">[NP] [adv] [ ]</a>
+  </u>
+  <u who="CHI" uID="u24">
+    <pg><w>en</w><actual><pw><ss type="2"/><ph id="ph0">ɛ</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɛ</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>daar</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">a</ph><ph id="ph2">ɹ</ph></pw></model></pg>
+    <pg><w>ook</w><actual><pw><ss type="1"/><ph id="ph0">ʀ</ph><ph id="ph1">o</ph><ph id="ph2">ː</ph><ph id="ph3">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">o</ph><ph id="ph1">k</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">and there too</a>
+    <a type="extension" flavor="morphc">[+] [adv] [ ]</a>
+  </u>
+  <u who="CHI" uID="u25">
+    <pg><w>even</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">f</ph><ph id="ph2">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">v</ph><ph id="ph2">ə</ph><ph id="ph3">n</ph></pw></model></pg>
+    <pg><w>naar</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">a</ph><ph id="ph2">̠</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">a</ph><ph id="ph2">ɹ</ph></pw></model></pg>
+    <pg><w>Loes</w><actual><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">u</ph><ph id="ph2">s</ph><ph id="ph3">̪</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">u</ph><ph id="ph2">s</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">for a while to Loes</a>
+    <a type="extension" flavor="morphc">[adv] [PP] [NPNPname]</a>
+  </u>
+  <u who="CHI" uID="u26">
+    <pg><w>grote</w><actual><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">ʀ</ph><ph id="ph2">o</ph><ph id="ph3">t</ph><ph id="ph4">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">ʀ</ph><ph id="ph2">o</ph><ph id="ph3">t</ph><ph id="ph4">ə</ph></pw></model></pg>
+    <pg><w>auto</w><actual><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">u</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">u</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></model></pg>
+    <pg><w>is</w><actual><pw><ss type="1"/><ph id="ph0">ɪ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>stuk</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">ʉ</ph><ph id="ph3">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">œ</ph><ph id="ph3">k</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">big car is broken</a>
+  </u>
+  <u who="CHI" uID="u27">
+    <pg><w>ik</w><actual><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">k</ph></pw></model></pg>
+    <pg><w>ben</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ɛ</ph><ph id="ph2">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ɛ</ph><ph id="ph2">n</ph></pw></model></pg>
+    <pg><w>verkeerd</w><actual><pw><ph id="ph0">f</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">k</ph><ph id="ph3">e</ph><ph id="ph4">ə</ph><ph id="ph5">ʀ</ph><ph id="ph6">t</ph></pw></actual><model><pw><ph id="ph0">v</ph><ph id="ph1">ə</ph><ph id="ph2">r</ph><ss type="1"/><ph id="ph3">k</ph><ph id="ph4">e</ph><ph id="ph5">r</ph><ph id="ph6">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">I am wrong</a>
+  </u>
+  <u who="CHI" uID="u28">
+    <pg><w>ik</w><actual><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">k</ph></pw></model></pg>
+    <pg><w>kruip</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ʀ</ph><ph id="ph2">œ</ph><ph id="ph3">y</ph><ph id="ph4">p</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ʀ</ph><ph id="ph2">œ</ph><ph id="ph3">y</ph><ph id="ph4">p</ph></pw></model></pg>
+    <pg><w>daar</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">a</ph><ph id="ph2">r</ph></pw></model></pg>
+    <pg><w>even</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">f</ph><ph id="ph2">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">v</ph><ph id="ph2">ə</ph></pw></model></pg>
+    <pg><w>onder</w><actual><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">n</ph><ph id="ph2">d</ph><ph id="ph3">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">n</ph><ph id="ph2">d</ph><ph id="ph3">ə</ph><ph id="ph4">r</ph></pw></model></pg>
+    <pg><w>de</w><actual><pw><ph id="ph0">d</ph><ph id="ph1">ə</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">ə</ph></pw></model></pg>
+    <pg><w>lamp</w><actual><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">ɑ</ph><ph id="ph2">m</ph><ph id="ph3">p</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">ɑ</ph><ph id="ph2">m</ph><ph id="ph3">p</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">I crawl there under the lamp for a while</a>
+  </u>
+  <u who="CHI" uID="u29">
+    <pg><w>ik</w><actual><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">k</ph></pw></model></pg>
+    <pg><w>zie</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph><ph id="ph2">j</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">z</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>hem</w><actual><pw><ph id="ph0">ə</ph><ph id="ph1">m</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">m</ph></pw></model></pg>
+    <pg><w>niet</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">i</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">i</ph><ph id="ph2">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">I do not see him</a>
+  </u>
+  <u who="CHI" uID="u30">
+    <pg><w>ik</w><actual><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">k</ph></pw></model></pg>
+    <pg><w>zie</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">z</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>nog</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></model></pg>
+    <pg><w>een</w><actual><pw><ph id="ph0">ə</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>boot</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">I see another boat</a>
+  </u>
+  <u who="CHI" uID="u31">
+    <pg><w>ik</w><actual><pw><ss type="1"/><ph id="ph0">ɪ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">k</ph></pw></model></pg>
+    <pg><w>zie</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">z</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>nog</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></model></pg>
+    <pg><w>een</w><actual><pw><ph id="ph0">ə</ph><ph id="ph1">̆</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>boot</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">ː</ph><ph id="ph3">u</ph><ph id="ph4">̆</ph><ph id="ph5">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>daar</w><actual><pw><ph id="ph0">t</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">a</ph><ph id="ph2">r</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">I see another boat there</a>
+  </u>
+  <u who="CHI" uID="u32">
+    <pg><w>is</w><actual><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>kapot</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">ɑ</ph><ss type="1"/><ph id="ph2">p</ph><ph id="ph3">ɔ</ph><ph id="ph4">t</ph></pw></actual><model><pw><ph id="ph0">k</ph><ph id="ph1">ɑ</ph><ss type="1"/><ph id="ph2">p</ph><ph id="ph3">ɔ</ph><ph id="ph4">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">is broken</a>
+  </u>
+  <u who="CHI" uID="u33">
+    <pg><w>kijk</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">k</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">look!</a>
+    <a type="extension" flavor="morphc">[verbverb(imperative)]</a>
+  </u>
+  <u who="CHI" uID="u34">
+    <pg><w>kijk</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">k</ph></pw></model></pg>
+    <pg><w>een</w><actual><pw><ph id="ph0">ə</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>muisje</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">œ</ph><ph id="ph2">y</ph><ph id="ph3">s</ph><ph id="ph4">̪</ph><ph id="ph5">͡</ph><ph id="ph6">j</ph><ph id="ph7">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">œ</ph><ph id="ph2">y</ph><ph id="ph3">s</ph><ph id="ph4">͡</ph><ph id="ph5">j</ph><ph id="ph6">ə</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">look a mouse (dim)</a>
+  </u>
+  <u who="CHI" uID="u35">
+    <pg><w>kijk</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">k</ph></pw></model></pg>
+    <pg><w>politie</w><actual><pw><ph id="ph0">p</ph><ph id="ph1">ɔ</ph><ph id="ph2">̝</ph><ss type="1"/><ph id="ph3">l</ph><ph id="ph4">i</ph><ph id="ph5">t</ph><ph id="ph6">͡</ph><ph id="ph7">s</ph><ph id="ph8">i</ph></pw></actual><model><pw><ss type="2"/><ph id="ph0">p</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">l</ph><ph id="ph3">i</ph><ph id="ph4">t</ph><ph id="ph5">͡</ph><ph id="ph6">s</ph><ph id="ph7">i</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">look police</a>
+  </u>
+  <u who="CHI" uID="u36">
+    <pg><w>kijk</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">k</ph></pw></model></pg>
+    <pg><w>wat</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɑ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>gebeurt</w><actual><pw><ph id="ph0">χ</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">b</ph><ph id="ph3">ø</ph><ph id="ph4">t</ph></pw></actual><model><pw><ph id="ph0">χ</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">b</ph><ph id="ph3">ø</ph><ph id="ph4">ɹ</ph><ph id="ph5">t</ph></pw></model></pg>
+    <pg><w>er</w><actual><pw><ph id="ph0">ə</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">r</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">look what is happening</a>
+  </u>
+  <u who="CHI" uID="u37">
+    <pg><w>kijk</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">k</ph></pw></model></pg>
+    <pg><w>wat</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>ie</w><actual><pw><ph id="ph0">i</ph></pw></actual><model><pw><ph id="ph0">i</ph></pw></model></pg>
+    <pg><w>omgegooid</w><actual><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">m</ph><ph id="ph2">χ</ph><ph id="ph3">ə</ph><ph id="ph4">χ</ph><ph id="ph5">o</ph><ph id="ph6">i</ph><ph id="ph7">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">m</ph><ph id="ph2">χ</ph><ph id="ph3">ə</ph><ss type="2"/><ph id="ph4">χ</ph><ph id="ph5">o</ph><ph id="ph6">i</ph><ph id="ph7">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">look what he (has) knocked over</a>
+  </u>
+  <u who="CHI" uID="u38">
+    <pg><w>kijken</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">k</ph><ph id="ph4">ɔ</ph><ph id="ph5">̈</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">k</ph><ph id="ph4">ə</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">look</a>
+  </u>
+  <u who="CHI" uID="u39">
+    <pg><w>kleine</w><actual><pw><ph id="ph0">f</ph><ss type="1"/><ph id="ph1">k</ph><ph id="ph2">l</ph><ph id="ph3">ɛ</ph><ph id="ph4">i</ph><ph id="ph5">n</ph><ph id="ph6">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">l</ph><ph id="ph2">ɛ</ph><ph id="ph3">i</ph><ph id="ph4">n</ph><ph id="ph5">ə</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">small</a>
+  </u>
+  <u who="CHI" uID="u40">
+    <pg><w>komt</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɔ</ph><ph id="ph2">m</ph><ph id="ph3">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɔ</ph><ph id="ph2">m</ph><ph id="ph3">t</ph></pw></model></pg>
+    <pg><w>ie</w><actual><pw><ph id="ph0">i</ph></pw></actual><model><pw><ph id="ph0">i</ph></pw></model></pg>
+    <pg><w>weer</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɪ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">e</ph><ph id="ph2">r</ph></pw></model></pg>
+    <pg><w>straks</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɑ</ph><ph id="ph3">s</ph><ph id="ph4">̪</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">ʀ</ph><ph id="ph3">ɑ</ph><ph id="ph4">k</ph><ph id="ph5">s</ph></pw></model></pg>
+    <pg><w>terug</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ʀ</ph><ph id="ph2">ʉ</ph><ph id="ph3">χ</ph></pw></actual><model><pw><ph id="ph0">t</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">ʀ</ph><ph id="ph3">œ</ph><ph id="ph4">χ</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">is he coming back again in a while</a>
+  </u>
+  <u who="CHI" uID="u41">
+    <pg><w>lijkt</w><actual><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">k</ph><ph id="ph4">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">l</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">k</ph><ph id="ph4">t</ph></pw></model></pg>
+    <pg><w>of</w><actual><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">f</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">f</ph></pw></model></pg>
+    <pg><w>dat</w><actual><pw><ph id="ph0">t</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>wel</w><actual><pw><ss type="2"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph><ph id="ph2">l</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph><ph id="ph2">l</ph></pw></model></pg>
+    <pg><w>brand</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɑ</ph><ph id="ph3">n</ph><ph id="ph4">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɑ</ph><ph id="ph3">n</ph><ph id="ph4">t</ph></pw></model></pg>
+    <pg><w>is</w><actual><pw><ph id="ph0">ɪ</ph><ph id="ph1">̞</ph><ph id="ph2">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">looks as if that ís fire</a>
+  </u>
+  <u who="CHI" uID="u42">
+    <pg><w>maar</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">a</ph><ph id="ph2">r</ph></pw></model></pg>
+    <pg><w>we</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph></pw></actual><model><pw><ph id="ph0">ʋ</ph><ph id="ph1">ə</ph></pw></model></pg>
+    <pg><w>hebben</w><actual><pw><ph id="ph0">b</ph><ph id="ph1">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">h</ph><ph id="ph1">ɛ</ph><ph id="ph2">b</ph><ph id="ph3">ə</ph><ph id="ph4">n</ph></pw></model></pg>
+    <pg><w>aan</w><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>de</w><actual><pw><ph id="ph0">ə</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">ə</ph></pw></model></pg>
+    <pg><w>brandweer</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɑ</ph><ph id="ph3">n</ph><ph id="ph4">t</ph><ph id="ph5">ʋ</ph><ph id="ph6">e</ph><ph id="ph7">ˑ</ph><ph id="ph8">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɑ</ph><ph id="ph3">n</ph><ph id="ph4">t</ph><ph id="ph5">ʋ</ph><ph id="ph6">e</ph><ph id="ph7">r</ph></pw></model></pg>
+    <pg><w>gevraagd</w><actual><pw><ph id="ph0">χ</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">f</ph><ph id="ph3">ʀ</ph><ph id="ph4">a</ph><ph id="ph5">ː</ph><ph id="ph6">χ</ph><ph id="ph7">t</ph></pw></actual><model><pw><ph id="ph0">χ</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">v</ph><ph id="ph3">ʀ</ph><ph id="ph4">a</ph><ph id="ph5">χ</ph><ph id="ph6">t</ph></pw></model></pg>
+    <pg><w>of</w><actual><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">f</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">v</ph></pw></model></pg>
+    <pg><w>die</w><actual><pw><ph id="ph0">t</ph><ph id="ph1">i</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>wel</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph><ph id="ph2">l</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph><ph id="ph2">l</ph></pw></model></pg>
+    <pg><w>stuk</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">œ</ph><ph id="ph3">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">œ</ph><ph id="ph3">k</ph></pw></model></pg>
+    <pg><w>is</w><actual><pw><ph id="ph0">ɪ</ph></pw></actual><model><pw><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">but we have asked the fire brigade whether it was broken</a>
+  </u>
+  <u who="CHI" uID="u43">
+    <pg><w>mama</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">ɑ</ph><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">ɑ</ph><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">mommy</a>
+  </u>
+  <u who="CHI" uID="u44">
+    <pg><w>meisje</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">ʃ</ph><ph id="ph4">̟</ph><ph id="ph5">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">ʃ</ph><ph id="ph4">̟</ph><ph id="ph5">ə</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">girl (dim)</a>
+  </u>
+  <u who="CHI" uID="u45">
+    <pg><w>met</w><actual><pw><ss type="2"/><ph id="ph0">m</ph><ph id="ph1">ɛ</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">ɛ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>de</w><actual><pw><ph id="ph0">ə</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">ə</ph></pw></model></pg>
+    <pg><w>auto</w><actual><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">u</ph><ph id="ph2">t</ph><ph id="ph3">o</ph><ph id="ph4">u</ph><ph id="ph5">̆</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">u</ph><ph id="ph2">t</ph><ph id="ph3">o</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">by car</a>
+  </u>
+  <u who="CHI" uID="u46">
+    <pg><w>met</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">ɛ</ph></pw></actual><model><pw><ss type="2"/><ph id="ph0">m</ph><ph id="ph1">ɛ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>de</w><actual><pw><ph id="ph0">d</ph><ph id="ph1">ə</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">ə</ph></pw></model></pg>
+    <pg><w>boot</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">ː</ph><ph id="ph3">u</ph><ph id="ph4">̆</ph><ph id="ph5">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">by boat</a>
+  </u>
+  <u who="CHI" uID="u47">
+    <pg><w>Michiel</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">ɑ</ph><ph id="ph2">m</ph><ph id="ph3">ə</ph><ph id="ph4">̆</ph><ss type="1"/><ph id="ph5">χ</ph><ph id="ph6">i</ph><ph id="ph7">u</ph><ph id="ph8">̆</ph></pw></actual><model><pw><ph id="ph0">m</ph><ph id="ph1">i</ph><ss type="1"/><ph id="ph2">χ</ph><ph id="ph3">i</ph><ph id="ph4">l</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Imitation</a>
+    <a type="extension" flavor="eng">Michiel</a>
+  </u>
+  <u who="CHI" uID="u48">
+    <pg><w>Michiel</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">χ</ph><ph id="ph3">i</ph><ph id="ph4">u</ph><ph id="ph5">̆</ph></pw></actual><model><pw><ph id="ph0">m</ph><ph id="ph1">i</ph><ss type="1"/><ph id="ph2">χ</ph><ph id="ph3">i</ph><ph id="ph4">l</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">Michiel</a>
+  </u>
+  <u who="CHI" uID="u49">
+    <pg><w>natuurlijk</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">y</ph><ph id="ph2">l</ph><ph id="ph3">ʉ</ph><ph id="ph4">k</ph></pw></actual><model><pw><ph id="ph0">n</ph><ph id="ph1">ɑ</ph><ss type="1"/><ph id="ph2">t</ph><ph id="ph3">y</ph><ph id="ph4">r</ph><ph id="ph5">l</ph><ph id="ph6">ə</ph><ph id="ph7">k</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">of course</a>
+  </u>
+  <u who="CHI" uID="u50">
+    <pg><w>niet</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">i</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">i</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>een</w><actual><pw><ph id="ph0">ə</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>stuur</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">y</ph><ph id="ph3">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">y</ph><ph id="ph3">ʀ</ph></pw></model></pg>
+    <pg><w>aan</w><actual><pw><ph id="ph0">a</ph><ph id="ph1">ː</ph><ph id="ph2">ŋ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">not a steering wheel on</a>
+  </u>
+  <u who="CHI" uID="u51">
+    <pg><w>niet</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">i</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>meer</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">e</ph><ph id="ph2">̆</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">e</ph><ph id="ph2">r</ph></pw></model></pg>
+    <pg><w>rijden</w><actual><pw><ss type="1"/><ph id="ph0">ʀ</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">d</ph><ph id="ph4">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">r</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">d</ph><ph id="ph4">ə</ph><ph id="ph5">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">do not ride anymore</a>
+  </u>
+  <u who="CHI" uID="u52">
+    <pg><w>nieuwe</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">i</ph><ph id="ph2">u</ph><ph id="ph3">ʋ</ph><ph id="ph4">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">i</ph><ph id="ph2">u</ph><ph id="ph3">ʋ</ph><ph id="ph4">ə</ph></pw></model></pg>
+    <pg><w>brandweer</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɑ</ph><ph id="ph3">n</ph><ph id="ph4">t</ph><ph id="ph5">ʋ</ph><ph id="ph6">e</ph><ph id="ph7">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɑ</ph><ph id="ph3">n</ph><ph id="ph4">t</ph><ss type="2"/><ph id="ph5">ʋ</ph><ph id="ph6">e</ph><ph id="ph7">r</ph></pw></model></pg>
+    <pg><w>kopen</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">p</ph><ph id="ph3">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">p</ph><ph id="ph3">ə</ph><ph id="ph4">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">buy new fire brigade</a>
+  </u>
+  <u who="CHI" uID="u53">
+    <pg><w>nog</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></model></pg>
+    <pg><w>een</w><actual><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>anker</w><actual><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">ŋ</ph><ph id="ph2">k</ph><ph id="ph3">ɔ</ph><ph id="ph4">̈</ph><ph id="ph5">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">ŋ</ph><ph id="ph2">k</ph><ph id="ph3">ə</ph><ph id="ph4">r</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">another anchor</a>
+  </u>
+  <u who="CHI" uID="u54">
+    <pg><w>nog</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></model></pg>
+    <pg><w>een</w><actual><pw><ph id="ph0">ɑ</ph><ph id="ph1">̈</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>anker</w><actual><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">ŋ</ph><ph id="ph2">k</ph><ph id="ph3">ɑ</ph><ph id="ph4">̈</ph><ph id="ph5">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">ŋ</ph><ph id="ph2">k</ph><ph id="ph3">ə</ph><ph id="ph4">r</ph></pw></model></pg>
+    <pg><w>zoeken</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">u</ph><ph id="ph2">k</ph><ph id="ph3">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">z</ph><ph id="ph1">u</ph><ph id="ph2">k</ph><ph id="ph3">ə</ph><ph id="ph4">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">look for another anchor</a>
+  </u>
+  <u who="CHI" uID="u55">
+    <pg><w>nog</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">̈</ph><ph id="ph3">χ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></model></pg>
+    <pg><w>een</w><actual><pw><ph id="ph0">ə</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>boek</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">u</ph><ph id="ph2">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">u</ph><ph id="ph2">k</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">another book</a>
+  </u>
+  <u who="CHI" uID="u56">
+    <pg><w>nog</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></model></pg>
+    <pg><w>een</w><actual><pw><ph id="ph0">ə</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>gekke</w><actual><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">ɛ</ph><ph id="ph2">k</ph><ph id="ph3">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">ɛ</ph><ph id="ph2">k</ph><ph id="ph3">ə</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">another strange one</a>
+  </u>
+  <u who="CHI" uID="u57">
+    <pg><w>nog</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">ə</ph><ph id="ph2">̆</ph><ss type="1"/><ph id="ph3">n</ph><ph id="ph4">ɔ</ph><ph id="ph5">χ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></model></pg>
+    <pg><w>een</w><actual><pw><ph id="ph0">ə</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>muisje</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">œ</ph><ph id="ph2">y</ph><ph id="ph3">j</ph><ph id="ph4">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">œ</ph><ph id="ph2">y</ph><ph id="ph3">s</ph><ph id="ph4">͡</ph><ph id="ph5">j</ph><ph id="ph6">ə</ph></pw></model></pg>
+    <pg><w>zoeken</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">u</ph><ph id="ph2">k</ph><ph id="ph3">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">z</ph><ph id="ph1">u</ph><ph id="ph2">k</ph><ph id="ph3">ə</ph><ph id="ph4">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">look for another mouse (dim)</a>
+  </u>
+  <u who="CHI" uID="u58">
+    <pg><w>nog</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></model></pg>
+    <pg><w>een</w><actual><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>politie</w><actual><pw><ph id="ph0">p</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">l</ph><ph id="ph3">i</ph><ph id="ph4">t</ph><ph id="ph5">͡</ph><ph id="ph6">s</ph><ph id="ph7">i</ph></pw></actual><model><pw><ph id="ph0">p</ph><ph id="ph1">o</ph><ss type="1"/><ph id="ph2">l</ph><ph id="ph3">i</ph><ph id="ph4">t</ph><ph id="ph5">͡</ph><ph id="ph6">s</ph><ph id="ph7">i</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">another police</a>
+  </u>
+  <u who="CHI" uID="u59">
+    <pg><w>of</w><actual><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">f</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">f</ph></pw></model></pg>
+    <pg><w>dit</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɪ</ph><ph id="ph2">t</ph><ph id="ph3">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɪ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>wel</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph><ph id="ph2">l</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph><ph id="ph2">l</ph></pw></model></pg>
+    <pg><w>water</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">a</ph><ph id="ph2">t</ph><ph id="ph3">ə</ph><ph id="ph4">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">a</ph><ph id="ph2">t</ph><ph id="ph3">ə</ph><ph id="ph4">r</ph></pw></model></pg>
+    <pg><w>is</w><actual><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">̞</ph><ph id="ph2">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">whether this is water</a>
+  </u>
+  <u who="CHI" uID="u60">
+    <pg><w>omdat</w><actual><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">m</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">m</ph><ph id="ph2">d</ph><ph id="ph3">ɑ</ph><ph id="ph4">t</ph></pw></model></pg>
+    <pg><w>onze</w><actual><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">̃</ph><ph id="ph2">n</ph><ph id="ph3">s</ph><ph id="ph4">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">n</ph><ph id="ph2">z</ph><ph id="ph3">ə</ph></pw></model></pg>
+    <pg><w>stoelen</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">u</ph><ph id="ph3">l</ph><ph id="ph4">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">u</ph><ph id="ph3">l</ph><ph id="ph4">ə</ph><ph id="ph5">n</ph></pw></model></pg>
+    <pg><w>wel</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph><ph id="ph2">l</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph><ph id="ph2">l</ph></pw></model></pg>
+    <pg><w>stuk</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">ʉ</ph><ph id="ph3">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">œ</ph><ph id="ph3">k</ph></pw></model></pg>
+    <pg><w>zijn</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">ɛ</ph><ph id="ph2">̝</ph><ph id="ph3">i</ph><ph id="ph4">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">z</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">because our chairs are broken indeed</a>
+  </u>
+  <u who="CHI" uID="u61">
+    <pg><w>onze</w><actual><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">n</ph><ph id="ph2">s</ph><ph id="ph3">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">n</ph><ph id="ph2">z</ph><ph id="ph3">ə</ph></pw></model></pg>
+    <pg><w>stoel</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">u</ph><ph id="ph3">l</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">u</ph><ph id="ph3">l</ph></pw></model></pg>
+    <pg><w>is</w><actual><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>stuk</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">ʉ</ph><ph id="ph3">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">œ</ph><ph id="ph3">k</ph></pw></model></pg>
+    <pg><w>gegaan</w><actual><pw><ph id="ph0">χ</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">χ</ph><ph id="ph3">a</ph><ph id="ph4">ː</ph><ph id="ph5">ŋ</ph></pw></actual><model><pw><ph id="ph0">χ</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">χ</ph><ph id="ph3">a</ph><ph id="ph4">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">our chair is broken</a>
+  </u>
+  <u who="CHI" uID="u62">
+    <pg><w>op</w><actual><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">p</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">p</ph></pw></model></pg>
+    <pg><w>de</w><actual><pw><ph id="ph0">ə</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">ə</ph></pw></model></pg>
+    <pg><w>grond</w><actual><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">ʉ</ph><ph id="ph2">̃</ph><ph id="ph3">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɔ</ph><ph id="ph3">n</ph><ph id="ph4">t</ph></pw></model></pg>
+    <pg><w>zitten</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">ɪ</ph><ph id="ph2">t</ph><ph id="ph3">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">z</ph><ph id="ph1">ɪ</ph><ph id="ph2">t</ph><ph id="ph3">ə</ph><ph id="ph4">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">sit on the floor</a>
+  </u>
+  <u who="CHI" uID="u63">
+    <pg><w>pliplaplof</w><actual><pw><ss type="2"/><ph id="ph0">t</ph><ph id="ph1">ɪ</ph><ph id="ph2">̞</ph><ph id="ph3">k</ph><ph id="ph4">ɑ</ph><ph id="ph5">̟</ph><ss type="1"/><ph id="ph6">p</ph><ph id="ph7">l</ph><ph id="ph8">ɔ</ph><ph id="ph9">f</ph></pw></actual><model><pw><ss type="2"/><ph id="ph0">p</ph><ph id="ph1">l</ph><ph id="ph2">i</ph><ss type="2"/><ph id="ph3">p</ph><ph id="ph4">l</ph><ph id="ph5">a</ph><ss type="1"/><ph id="ph6">p</ph><ph id="ph7">l</ph><ph id="ph8">ɔ</ph><ph id="ph9">f</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Imitation</a>
+    <a type="extension" flavor="eng">boom</a>
+  </u>
+  <u who="CHI" uID="u64">
+    <pg><w>straks</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">ʀ</ph><ph id="ph3">ɑ</ph><ph id="ph4">s</ph><ph id="ph5">̪</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">ʀ</ph><ph id="ph3">ɑ</ph><ph id="ph4">k</ph><ph id="ph5">s</ph></pw></model></pg>
+    <pg><w>zie</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">z</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>ik</w><actual><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">k</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">k</ph></pw></model></pg>
+    <pg><w>nog</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></model></pg>
+    <pg><w>een</w><actual><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>anker</w><actual><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">ŋ</ph><ph id="ph2">k</ph><ph id="ph3">ə</ph><ph id="ph4">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">ŋ</ph><ph id="ph2">k</ph><ph id="ph3">ə</ph><ph id="ph4">r</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">in a while I will see another anchor</a>
+  </u>
+  <u who="CHI" uID="u65">
+    <pg><w>stuur</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">y</ph><ph id="ph3">h</ph><ph id="ph4">u</ph><ph id="ph5">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">y</ph><ph id="ph3">r</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">steering wheel</a>
+    <a type="extension" flavor="morphc">[noun]</a>
+  </u>
+  <u who="CHI" uID="u66">
+    <pg><w>stuur</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">y</ph><ph id="ph3">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">y</ph><ph id="ph3">r</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">steering wheel</a>
+    <a type="extension" flavor="morphc">[noun]</a>
+  </u>
+  <u who="CHI" uID="u67">
+    <pg><w>tijger</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">χ</ph><ph id="ph4">ɔ</ph><ph id="ph5">̈</ph><ph id="ph6">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">χ</ph><ph id="ph4">ə</ph><ph id="ph5">ɹ</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">tiger</a>
+    <a type="extension" flavor="morphc">[N]</a>
+  </u>
+  <u who="CHI" uID="u68">
+    <pg><w>tractor</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɛ</ph><ph id="ph3">̞</ph><ph id="ph4">k</ph><ph id="ph5">t</ph><ph id="ph6">ɔ</ph><ph id="ph7">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɛ</ph><ph id="ph3">k</ph><ph id="ph4">t</ph><ph id="ph5">ɔ</ph><ph id="ph6">ʀ</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">tractor</a>
+    <a type="extension" flavor="morphc">[noun]</a>
+  </u>
+  <u who="CHI" uID="u69">
+    <pg><w>tractor</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɛ</ph><ph id="ph3">k</ph><ph id="ph4">t</ph><ph id="ph5">ɔ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɛ</ph><ph id="ph3">k</ph><ph id="ph4">t</ph><ph id="ph5">ɔ</ph><ph id="ph6">ʀ</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">tractor</a>
+    <a type="extension" flavor="morphc">[noun]</a>
+  </u>
+  <u who="CHI" uID="u70">
+    <pg><w>trein</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɛ</ph><ph id="ph3">i</ph><ph id="ph4">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɛ</ph><ph id="ph3">i</ph><ph id="ph4">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">train</a>
+  </u>
+  <u who="CHI" uID="u71">
+    <pg><w>twee</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ʋ</ph><ph id="ph2">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ʋ</ph><ph id="ph2">e</ph></pw></model></pg>
+    <pg><w>boten</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">t</ph><ph id="ph3">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">o</ph><ph id="ph2">t</ph><ph id="ph3">ə</ph><ph id="ph4">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">two boats</a>
+  </u>
+  <u who="CHI" uID="u72">
+    <pg><w>van</w><actual><pw><ss type="2"/><ph id="ph0">f</ph><ph id="ph1">ɑ</ph><ph id="ph2">n</ph></pw></actual><model><pw><ss type="2"/><ph id="ph0">v</ph><ph id="ph1">ɑ</ph><ph id="ph2">n</ph></pw></model></pg>
+    <pg><w>de</w><actual><pw><ph id="ph0">ə</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">ə</ph></pw></model></pg>
+    <pg><w>brandweer</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɑ</ph><ph id="ph3">n</ph><ph id="ph4">t</ph><ph id="ph5">ʋ</ph><ph id="ph6">e</ph><ph id="ph7">ː</ph><ph id="ph8">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɑ</ph><ph id="ph3">n</ph><ph id="ph4">t</ph><ph id="ph5">ʋ</ph><ph id="ph6">e</ph><ph id="ph7">r</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">from the fire brigade</a>
+  </u>
+  <u who="CHI" uID="u73">
+    <pg><w>van</w><actual><pw><ss type="1"/><ph id="ph0">f</ph><ph id="ph1">ɑ</ph><ph id="ph2">n</ph></pw></actual><model><pw><ss type="2"/><ph id="ph0">v</ph><ph id="ph1">ɑ</ph><ph id="ph2">n</ph></pw></model></pg>
+    <pg><w>de</w><actual><pw><ph id="ph0">d</ph><ph id="ph1">i</ph></pw></actual><model><pw><ph id="ph0">d</ph><ph id="ph1">ə</ph></pw></model></pg>
+    <pg><w>brandweer</w><actual><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɑ</ph><ph id="ph3">̝</ph><ph id="ph4">n</ph><ph id="ph5">ʋ</ph><ph id="ph6">ɪ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ʀ</ph><ph id="ph2">ɑ</ph><ph id="ph3">n</ph><ph id="ph4">t</ph><ph id="ph5">ʋ</ph><ph id="ph6">e</ph><ph id="ph7">r</ph></pw></model></pg>
+    <pg><w>kan</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɑ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɑ</ph></pw></model></pg>
+    <pg><w>niet</w><actual><pw><ph id="ph0">n</ph><ph id="ph1">i</ph><ph id="ph2">t</ph></pw></actual><model><pw><ph id="ph0">n</ph><ph id="ph1">i</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>goed</w><actual><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">u</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">χ</ph><ph id="ph1">u</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>rijden</w><actual><pw><ss type="1"/><ph id="ph0">ʀ</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">d</ph><ph id="ph4">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʀ</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">d</ph><ph id="ph4">ə</ph><ph id="ph5">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">from the fire brigade cannot drive well</a>
+  </u>
+  <u who="CHI" uID="u74">
+    <pg><w>van</w><actual><pw><ss type="2"/><ph id="ph0">f</ph><ph id="ph1">ɑ</ph><ph id="ph2">n</ph></pw></actual><model><pw><ss type="2"/><ph id="ph0">v</ph><ph id="ph1">ɑ</ph><ph id="ph2">n</ph></pw></model></pg>
+    <pg><w>kabouters</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">ɑ</ph><ss type="1"/><ph id="ph2">b</ph><ph id="ph3">ɑ</ph><ph id="ph4">u</ph><ph id="ph5">t</ph><ph id="ph6">ɔ</ph><ph id="ph7">̈</ph><ph id="ph8">ʀ</ph><ph id="ph9">s</ph></pw></actual><model><pw><ph id="ph0">k</ph><ph id="ph1">ɑ</ph><ss type="1"/><ph id="ph2">b</ph><ph id="ph3">ɑ</ph><ph id="ph4">u</ph><ph id="ph5">t</ph><ph id="ph6">ə</ph><ph id="ph7">r</ph><ph id="ph8">s</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">from gnomes</a>
+  </u>
+  <u who="CHI" uID="u75">
+    <pg><w>vast</w><actual><pw><ss type="1"/><ph id="ph0">f</ph><ph id="ph1">ɑ</ph><ph id="ph2">s</ph><ph id="ph3">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">v</ph><ph id="ph1">ɑ</ph><ph id="ph2">s</ph><ph id="ph3">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">fixed</a>
+  </u>
+  <u who="CHI" uID="u76">
+    <pg><w>verf</w><actual><pw><ss type="1"/><ph id="ph0">f</ph><ph id="ph1">ɛ</ph><ph id="ph2">ʀ</ph><ph id="ph3">ɔ</ph><ph id="ph4">f</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">v</ph><ph id="ph1">ɛ</ph><ph id="ph2">r</ph><ph id="ph3">f</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">paint</a>
+    <a type="extension" flavor="morphc">[noun]</a>
+  </u>
+  <u who="CHI" uID="u77">
+    <pg><w>vier</w><actual><pw><ss type="1"/><ph id="ph0">f</ph><ph id="ph1">ɪ</ph><ph id="ph2">ə</ph><ph id="ph3">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">v</ph><ph id="ph1">i</ph><ph id="ph2">ʀ</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">four</a>
+  </u>
+  <u who="CHI" uID="u78">
+    <pg><w>vos</w><actual><pw><ss type="1"/><ph id="ph0">f</ph><ph id="ph1">ɔ</ph><ph id="ph2">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">v</ph><ph id="ph1">ɔ</ph><ph id="ph2">s</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">fox</a>
+    <a type="extension" flavor="morphc">[noun]</a>
+  </u>
+  <u who="CHI" uID="u79">
+    <pg><w>waar</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɑ</ph><ph id="ph2">̆</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">a</ph><ph id="ph2">r</ph></pw></model></pg>
+    <pg><w>is</w><actual><pw><ph id="ph0">s</ph></pw></actual><model><pw><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>mijn</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">n</ph></pw></model></pg>
+    <pg><w>mama</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">ɑ</ph><ph id="ph2">m</ph><ph id="ph3">ɑ</ph><ph id="ph4">̈</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">ɑ</ph><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></model></pg>
+    <pg><w>naar</w><actual><pw><ph id="ph0">n</ph><ph id="ph1">a</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">a</ph><ph id="ph2">r</ph></pw></model></pg>
+    <pg><w>toe</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">u</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">u</ph></pw></model></pg>
+    <pg><w>gegaan</w><actual><pw><ph id="ph0">χ</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">χ</ph><ph id="ph3">a</ph><ph id="ph4">ˑ</ph><ph id="ph5">n</ph></pw></actual><model><pw><ph id="ph0">χ</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">χ</ph><ph id="ph3">a</ph><ph id="ph4">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">where did my mommy go to</a>
+  </u>
+  <u who="CHI" uID="u80">
+    <pg><w>waar</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɑ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">a</ph><ph id="ph2">r</ph></pw></model></pg>
+    <pg><w>zit</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">̪</ph><ph id="ph2">ɪ</ph><ph id="ph3">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">z</ph><ph id="ph1">ɪ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>water</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">a</ph><ph id="ph2">ː</ph><ph id="ph3">t</ph><ph id="ph4">ə</ph><ph id="ph5">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">a</ph><ph id="ph2">t</ph><ph id="ph3">ə</ph><ph id="ph4">r</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">where is water</a>
+  </u>
+  <u who="CHI" uID="u81">
+    <pg><w>waarom</w><actual><pw><ph id="ph0">ʋ</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">ʀ</ph><ph id="ph3">ɔ</ph><ph id="ph4">m</ph></pw></actual><model><pw><ss type="2"/><ph id="ph0">ʋ</ph><ph id="ph1">a</ph><ss type="1"/><ph id="ph2">ʀ</ph><ph id="ph3">ɔ</ph><ph id="ph4">m</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">why</a>
+  </u>
+  <u who="CHI" uID="u82">
+    <pg><w>waarom</w><actual><pw><ph id="ph0">ʋ</ph><ph id="ph1">a</ph><ph id="ph2">̆</ph><ss type="1"/><ph id="ph3">ʀ</ph><ph id="ph4">ɔ</ph><ph id="ph5">̃</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">a</ph><ph id="ph2">ʀ</ph><ph id="ph3">ɔ</ph><ph id="ph4">m</ph></pw></model></pg>
+    <pg><w>is</w><actual><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></actual><model><pw><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>die</w><actual><pw><ph id="ph0">t</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>gevangen</w><actual><pw><ph id="ph0">χ</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">f</ph><ph id="ph3">ɑ</ph><ph id="ph4">ŋ</ph><ph id="ph5">ə</ph></pw></actual><model><pw><ph id="ph0">χ</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">v</ph><ph id="ph3">ɑ</ph><ph id="ph4">ŋ</ph><ph id="ph5">ə</ph><ph id="ph6">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">why is he imprisoned</a>
+  </u>
+  <u who="CHI" uID="u83">
+    <pg><w>want</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɑ</ph><ph id="ph2">n</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɑ</ph><ph id="ph2">n</ph><ph id="ph3">t</ph></pw></model></pg>
+    <pg><w>dan</w><actual><pw><ph id="ph0">t</ph><ph id="ph1">ɑ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɑ</ph><ph id="ph2">n</ph></pw></model></pg>
+    <pg><w>moeten</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">u</ph><ph id="ph2">t</ph><ph id="ph3">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">u</ph><ph id="ph2">t</ph><ph id="ph3">ə</ph><ph id="ph4">n</ph></pw></model></pg>
+    <pg><w>wij</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph></pw></model></pg>
+    <pg><w>weer</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">e</ph><ph id="ph2">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">e</ph><ph id="ph2">r</ph></pw></model></pg>
+    <pg><w>nieuwe</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɪ</ph><ph id="ph2">u</ph><ph id="ph3">w</ph><ph id="ph4">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">i</ph><ph id="ph2">u</ph><ph id="ph3">ʋ</ph><ph id="ph4">ə</ph></pw></model></pg>
+    <pg><w>stoelen</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">u</ph><ph id="ph3">l</ph><ph id="ph4">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">u</ph><ph id="ph3">l</ph><ph id="ph4">e</ph><ph id="ph5">n</ph></pw></model></pg>
+    <pg><w>kopen</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">ː</ph><ph id="ph3">p</ph><ph id="ph4">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">p</ph><ph id="ph3">ə</ph><ph id="ph4">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">because we have to buy new chairs then</a>
+  </u>
+  <u who="CHI" uID="u84">
+    <pg><w>wat</w><actual><pw><ph id="ph0">ʋ</ph><ph id="ph1">ə</ph><ph id="ph2">̆</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>doet</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">u</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">u</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>die</w><actual><pw><ph id="ph0">t</ph><ph id="ph1">i</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">i</ph></pw></model></pg>
+    <pg><w>tijger</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">χ</ph><ph id="ph4">ɔ</ph><ph id="ph5">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">χ</ph><ph id="ph4">ə</ph><ph id="ph5">r</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">what is that tiger doing</a>
+  </u>
+  <u who="CHI" uID="u85">
+    <pg><w>wat</w><actual><pw><ph id="ph0">ʋ</ph><ph id="ph1">ɑ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>is</w><actual><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ɪ</ph><ph id="ph2">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>dat</w><actual><pw><ss type="2"/><ph id="ph0">d</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph><ph id="ph3">̪</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">what is that</a>
+    <a type="comments">Alternative form for IPA Target: ˈtɪsdɑt</a>
+  </u>
+  <u who="CHI" uID="u86">
+    <pg><w>wat</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɑ</ph><ph id="ph2">̝</ph><ph id="ph3">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>is</w><actual><pw><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></actual><model><pw><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>een</w><actual><pw><ph id="ph0">ə</ph><ph id="ph1">ŋ</ph></pw></actual><model><pw><ph id="ph0">ə</ph><ph id="ph1">n</ph></pw></model></pg>
+    <pg><w>anker</w><actual><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">ŋ</ph><ph id="ph2">k</ph><ph id="ph3">ə</ph><ph id="ph4">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">ŋ</ph><ph id="ph2">k</ph><ph id="ph3">ə</ph><ph id="ph4">r</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Imitation</a>
+    <a type="extension" flavor="eng">what is an anchor</a>
+  </u>
+  <u who="CHI" uID="u87">
+    <pg><w>wat</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɑ</ph><ph id="ph2">t</ph></pw></model></pg>
+    <pg><w>is</w><actual><pw><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɪ</ph><ph id="ph1">s</ph></pw></model></pg>
+    <pg><w>pliplaplof</w><actual><pw><ss type="2"/><ph id="ph0">p</ph><ph id="ph1">i</ph><ph id="ph2">k</ph><ph id="ph3">ɑ</ph><ss type="1"/><ph id="ph4">p</ph><ph id="ph5">l</ph><ph id="ph6">ɔ</ph><ph id="ph7">f</ph></pw></actual><model><pw><ss type="2"/><ph id="ph0">p</ph><ph id="ph1">l</ph><ph id="ph2">i</ph><ss type="2"/><ph id="ph3">p</ph><ph id="ph4">l</ph><ph id="ph5">a</ph><ss type="1"/><ph id="ph6">p</ph><ph id="ph7">l</ph><ph id="ph8">ɔ</ph><ph id="ph9">f</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">what is pliplaplof</a>
+  </u>
+  <u who="CHI" uID="u88">
+    <pg><w>wel</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph><ph id="ph2">l</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph><ph id="ph2">l</ph></pw></model></pg>
+    <pg><w>nieuw</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">i</ph><ph id="ph2">u</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">i</ph><ph id="ph2">u</ph><ph id="ph3">w</ph></pw></model></pg>
+    <pg><w>stuur</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">y</ph><ph id="ph3">̆</ph><ph id="ph4">ʀ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">y</ph><ph id="ph3">r</ph></pw></model></pg>
+    <pg><w>kopen</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">p</ph><ph id="ph3">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">o</ph><ph id="ph2">p</ph><ph id="ph3">ə</ph><ph id="ph4">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">do buy new steering wheel</a>
+  </u>
+  <u who="CHI" uID="u89">
+    <pg><w>welke</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph><ph id="ph2">l</ph><ph id="ph3">k</ph><ph id="ph4">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph><ph id="ph2">l</ph><ph id="ph3">k</ph><ph id="ph4">ə</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">which one</a>
+  </u>
+  <u who="CHI" uID="u90">
+    <pg><w>wij</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph></pw></model></pg>
+    <pg><w>hebben</w><actual><pw><ph id="ph0">p</ph><ph id="ph1">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">h</ph><ph id="ph1">ɛ</ph><ph id="ph2">b</ph><ph id="ph3">e</ph><ph id="ph4">n</ph></pw></model></pg>
+    <pg><w>nu</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">y</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">y</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">we have now</a>
+  </u>
+  <u who="CHI" uID="u91">
+    <pg><w>zal</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">ʉ</ph><ph id="ph2">̆</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">z</ph><ph id="ph1">ɑ</ph><ph id="ph2">l</ph></pw></model></pg>
+    <pg><w>ik</w><actual><pw><ph id="ph0">k</ph></pw></actual><model><pw><ph id="ph0">ɪ</ph><ph id="ph1">k</ph></pw></model></pg>
+    <pg><w>even</w><actual><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">f</ph><ph id="ph2">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">v</ph><ph id="ph2">ə</ph><ph id="ph3">n</ph></pw></model></pg>
+    <pg><w>kijken</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">k</ph><ph id="ph4">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɛ</ph><ph id="ph2">i</ph><ph id="ph3">k</ph><ph id="ph4">ə</ph><ph id="ph5">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">shall I take a look</a>
+  </u>
+  <u who="CHI" uID="u92">
+    <pg><w>zal</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">ɑ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">z</ph><ph id="ph1">ɑ</ph><ph id="ph2">l</ph></pw></model></pg>
+    <w type="omission">ik</w>
+    <pg><w>nog</w><actual><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">n</ph><ph id="ph1">ɔ</ph><ph id="ph2">χ</ph></pw></model></pg>
+    <w type="omission">een</w>
+    <pg><w>muisje</w><actual><pw><ss type="1"/><ph id="ph0">h</ph><ph id="ph1">œ</ph><ph id="ph2">y</ph><ph id="ph3">ʃ</ph><ph id="ph4">̟</ph><ph id="ph5">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">œ</ph><ph id="ph2">y</ph><ph id="ph3">s</ph><ph id="ph4">͡</ph><ph id="ph5">j</ph><ph id="ph6">ə</ph></pw></model></pg>
+    <pg><w>zoeken</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">u</ph><ph id="ph2">̹</ph><ph id="ph3">k</ph><ph id="ph4">ə</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">z</ph><ph id="ph1">u</ph><ph id="ph2">k</ph><ph id="ph3">ə</ph><ph id="ph4">n</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">shall I look for another mouse (dim)</a>
+  </u>
+  <u who="CHI" uID="u93">
+    <pg><w>zand</w><actual><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">ɔ</ph><ph id="ph2">n</ph><ph id="ph3">t</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">z</ph><ph id="ph1">ɑ</ph><ph id="ph2">n</ph><ph id="ph3">t</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">sand</a>
+    <a type="extension" flavor="morphc">[noun]</a>
+  </u>
+</CHAT>

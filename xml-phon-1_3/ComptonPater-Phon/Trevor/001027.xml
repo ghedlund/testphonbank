@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="001027" corpus="ComptonPater" version="PB1.2">
+    <header>
+        <date>1972-11-01</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Trevor</name>
+            <sex>male</sex>
+            <age>P0Y10M27DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="uttnum" grouped="false"/>
+        <userTier tierName="sesdat" grouped="false"/>
+        <userTier tierName="age" grouped="false"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="uttnum" visible="true" locked="false" font="default"/>
+        <tier tierName="sesdat" visible="true" locked="false" font="default"/>
+        <tier tierName="age" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Code">pid 11312/c-00011943-1</comment>
+        <comment type="Date">01-NOV-1972</comment>
+        <u speaker="CHI" id="330cd59b-03e9-48e9-aea0-8692a6afa4e6" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>again</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>əˈɡɛn</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="SS"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                        <ph indexes="4" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>ɡɛ</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <flatTier tierName="uttnum">10</flatTier>
+            <flatTier tierName="sesdat">1972-11-01</flatTier>
+            <flatTier tierName="age">0;10.28</flatTier>
+        </u>
+    </transcript>
+</session>

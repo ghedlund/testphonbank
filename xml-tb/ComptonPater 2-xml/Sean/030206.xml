@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011929-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1975-04-29"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Sean"
+      role="Target_Child"
+      language="eng"
+      age="P3Y02M06D"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">29-APR-1975</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>them</w>
+    <w>softer</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">dɛm sɔftɚ</a>
+    <a type="extension" flavor="mod">ˈðɛm ˈsɑftəɹ</a>
+    <a type="extension" flavor="uttnum">4363</a>
+    <a type="extension" flavor="sesdat">1975-04-29</a>
+    <a type="extension" flavor="age">3;2.6</a>
+    <a type="comments">I make them softer</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <w>avocados</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">æpɪdəkadoz</a>
+    <a type="extension" flavor="mod">ˌævəˈkɑdoʊz</a>
+    <a type="extension" flavor="uttnum">4364</a>
+    <a type="extension" flavor="sesdat">1975-04-29</a>
+    <a type="extension" flavor="age">3;2.6</a>
+    <a type="comments">why avocados ?</a>
+  </u>
+</CHAT>

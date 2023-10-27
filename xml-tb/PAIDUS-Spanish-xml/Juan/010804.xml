@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="010804" Mediatypes="audio"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00045169-1"
+      Version="2.20.0"
+      Lang="spa"
+      Corpus="PAIDUS-Spanish"
+      Date="1992-09-04"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Juan"
+      role="Target_Child"
+      language="spa"
+      age="P1Y08M04D"
+      sex="male"
+
+      birthday="1990-12-30"
+
+    />
+    <participant
+      id="MOT"
+    name="Mutter_von_uan"
+      role="Mother"
+      language="spa"
+      age="P35Y"
+      sex="female"
+
+    />
+    <participant
+      id="ANO"
+    name="Antonio"
+      role="Adult"
+      language="spa"
+      age="P35Y"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">04-SEP-1992</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+    <media
+      start="3.200"
+      end="4.700"
+      unit="s"
+    />
+    <a type="extension" flavor="lang">spanish</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="MOT" uID="u1">
+    <w>Todas</w>
+    <w>no</w>
+    <t type="p"></t>
+    <media
+      start="4.700"
+      end="5.575"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u2">
+    <w>Guárdalas</w>
+    <t type="p"></t>
+    <media
+      start="5.575"
+      end="6.013"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u3">
+    <w>Las</w>
+    <w>guardamos</w>
+    <w>en</w>
+    <w>la</w>
+    <w>caja</w>
+    <t type="q"></t>
+    <media
+      start="6.013"
+      end="8.200"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u4">
+    <w>No</w>
+    <t type="p"></t>
+    <media
+      start="8.200"
+      end="10.521"
+      unit="s"
+    />
+    <a type="extension" flavor="lang">spanish</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="MOT" uID="u5">
+    <w>Todas</w>
+    <t type="p"></t>
+    <media
+      start="10.521"
+      end="321.126"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u6">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+    <media
+      start="10.521"
+      end="1874.155"
+      unit="s"
+    />
+    <a type="extension" flavor="lang">spanish</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="MOT" uID="u7">
+    <w>Aquí</w>
+    <w>fuera</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>todas</w>
+    <w>las</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+    <media
+      start="321.126"
+      end="1874.155"
+      unit="s"
+    />
+  </u>
+</CHAT>

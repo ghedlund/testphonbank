@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="10711" Mediatypes="audio"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00012833-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="Goad"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Julia"
+      role="Target_Child"
+      language="eng"
+      age="P1Y07M11D"
+      sex="female"
+
+    />
+  </Participants>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <pg><w>nail</w><actual><pw><ph id="ph0">n</ph><ph id="ph1">ɛ</ph><ph id="ph2">ʔ</ph><ph id="ph3">ɛ</ph></pw></actual><model><pw><ph id="ph0">n</ph><ph id="ph1">e</ph><ph id="ph2">j</ph><ph id="ph3">ɫ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="16.598"
+      end="17.199"
+      unit="s"
+    />
+    <a type="extension" flavor="segtyp">Imitation</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <pg><w>no</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">o</ph><ph id="ph2">w</ph></pw></actual><model><pw><ph id="ph0">n</ph><ph id="ph1">o</ph><ph id="ph2">w</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="17.199"
+      end="18.081"
+      unit="s"
+    />
+    <a type="extension" flavor="segtyp">Spon . Speech</a>
+    <a type="comments">could be an eng ?</a>
+  </u>
+</CHAT>

@@ -1,0 +1,2162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="010101" Mediatypes="audio"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00045175-1"
+      Version="2.20.0"
+      Lang="spa"
+      Corpus="PAIDUS-Spanish"
+      Date="1991-11-18"
+      >
+  <Participants>
+    <participant
+      id="ANO"
+    name="Antonio"
+      role="Adult"
+      language="spa"
+      age="P35Y"
+      sex="male"
+
+    />
+    <participant
+      id="CHI"
+    name="María"
+      role="Target_Child"
+      language="spa"
+      age="P1Y01M01D"
+      sex="female"
+
+      birthday="1990-10-17"
+
+    />
+    <participant
+      id="MOT"
+    name="Mutter_von_María"
+      role="Mother"
+      language="spa"
+      age="P35Y"
+      sex="female"
+
+    />
+  </Participants>
+  <comment type="Situation">Se oye mucho ruido, María parece estar tirando algo.</comment>
+  <comment type="Date">18-NOV-1991</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="ANO" uID="u0">
+    <w>Hola</w>
+    <w>María</w>
+    <w>hola</w>
+    <t type="p"></t>
+    <media
+      start="20.582"
+      end="22.395"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u1">
+    <w>Ya</w>
+    <w>está</w>
+    <w>grabando</w>
+    <t type="p"></t>
+    <media
+      start="22.395"
+      end="24.208"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u2">
+    <w>Sí</w>
+    <w>ya</w>
+    <w>estamos</w>
+    <t type="p"></t>
+    <media
+      start="24.208"
+      end="26.021"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u3">
+    <pg><w>Hola</w><actual><pw><ph id="ph0">ɔ</ph><ph id="ph1">ç</ph><ph id="ph2">.</ph><ph id="ph3">h</ph><ph id="ph4">ɛ</ph><ph id="ph5">j</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="26.021"
+      end="57.920"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">VC.CVC</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">1</a>
+  </u>
+  <comment type="Situation">Mamá le muestra a María un libro de cuentos, Mamá le muestra el dibujo de un gato.</comment>
+  <u who="MOT" uID="u4">
+    <w>Mira</w>
+    <t type="p"></t>
+    <media
+      start="57.920"
+      end="58.608"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u5">
+    <w>éste</w>
+    <w>qué</w>
+    <w>es</w>
+    <t type="p"></t>
+    <media
+      start="58.608"
+      end="60.671"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u6">
+    <w>Cómo</w>
+    <w>hace</w>
+    <w>el</w>
+    <w>gatito</w>
+    <t type="p"></t>
+    <media
+      start="60.671"
+      end="63.421"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u7">
+    <pg><w>Miau-miau</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">ː</ph><ph id="ph2">æ</ph><ph id="ph3">ː</ph><ph id="ph4">ʰ</ph><ph id="ph5">.</ph><ph id="ph6">n</ph><ph id="ph7">ː</ph><ph id="ph8">æ</ph><ph id="ph9">ː</ph><ph id="ph10">h</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="63.421"
+      end="64.247"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CːVːCːVːC</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">2</a>
+  </u>
+  <u who="MOT" uID="u8">
+    <w>Miau</w>
+    <t type="p"></t>
+    <media
+      start="64.247"
+      end="64.660"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u9">
+    <w>Más</w>
+    <t type="p"></t>
+    <media
+      start="64.660"
+      end="65.073"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u10">
+    <w>Cómo</w>
+    <w>hace</w>
+    <w>el</w>
+    <w>gatito</w>
+    <t type="p"></t>
+    <media
+      start="65.073"
+      end="66.724"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u11">
+    <w>A</w>
+    <w>ver</w>
+    <t type="p"></t>
+    <media
+      start="66.724"
+      end="67.550"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u12">
+    <pg><w>miau-miau</w><actual><pw><ph id="ph0">w</ph><ph id="ph1">ɛ</ph><ph id="ph2">̃</ph><ph id="ph3">ʰ</ph><ph id="ph4">.</ph><ph id="ph5">ʔ</ph><ph id="ph6">w</ph><ph id="ph7">ɐ</ph><ph id="ph8">̯</ph><ph id="ph9">h</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="67.550"
+      end="68.814"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CCVC</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">3</a>
+  </u>
+  <u who="MOT" uID="u13">
+    <w>Anda</w>
+    <w>y</w>
+    <w>a</w>
+    <w>ver</w>
+    <w>aquí</w>
+    <w>sí</w>
+    <w>está</w>
+    <w>y</w>
+    <w>el</w>
+    <w>perrito</w>
+    <t type="p"></t>
+    <media
+      start="68.814"
+      end="75.136"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">Mamá le muestra a María el dibujo de un perro.</comment>
+  <u who="CHI" uID="u14">
+    <pg><w>Guau</w><actual><pw><ph id="ph0">ʋ</ph><ph id="ph1">a</ph></pw></actual></pg>
+    <pg><w>guau</w><actual><pw><ph id="ph0">ʋ</ph><ph id="ph1">a</ph></pw></actual></pg>
+    <pg><w>guau</w><actual><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">a</ph><ph id="ph2">ʷ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="75.136"
+      end="79.091"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">4</a>
+  </u>
+  <u who="MOT" uID="u15">
+    <w>Sí</w>
+    <t type="p"></t>
+    <media
+      start="79.091"
+      end="80.409"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">Mamá le habla a Alberto, el hermano de María.</comment>
+  <u who="MOT" uID="u16">
+    <w>Cómo</w>
+    <w>hace</w>
+    <w>el</w>
+    <w>perrito</w>
+    <w>María</w>
+    <t type="p"></t>
+    <media
+      start="80.409"
+      end="87.000"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u17">
+    <pg><w>Guau-guau</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">æ</ph><ph id="ph2">.</ph><ph id="ph3">w</ph><ph id="ph4">ə</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="87.000"
+      end="87.617"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">5</a>
+  </u>
+  <u who="MOT" uID="u18">
+    <w>Guau</w>
+    <w>guau</w>
+    <t type="p"></t>
+    <media
+      start="87.617"
+      end="88.234"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u19">
+    <w>Y</w>
+    <w>el</w>
+    <w>gatito</w>
+    <t type="p"></t>
+    <media
+      start="88.234"
+      end="89.159"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u20">
+    <w>Cómo</w>
+    <w>hace</w>
+    <t type="p"></t>
+    <media
+      start="89.159"
+      end="89.775"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u21">
+    <w>Cómo</w>
+    <w>hace</w>
+    <w>el</w>
+    <w>gatito</w>
+    <t type="p"></t>
+    <media
+      start="89.775"
+      end="91.008"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u22">
+    <pg><w>Guau</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">w</ph><ph id="ph2">ː</ph><ph id="ph3">ɵ</ph><ph id="ph4">ʰ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="91.008"
+      end="96.902"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CCːV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">6</a>
+  </u>
+  <u who="MOT" uID="u23">
+    <w>Guau</w>
+    <t type="p"></t>
+    <media
+      start="96.902"
+      end="102.796"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u24">
+    <pg><w>Guau</w><actual><pw><ph id="ph0">a</ph><ph id="ph1">.</ph><ph id="ph2">w</ph><ph id="ph3">a</ph><ph id="ph4">ʰ</ph></pw></actual></pg>
+    <pg><w>guau</w><actual><pw><ph id="ph0">a</ph><ph id="ph1">.</ph><ph id="ph2">w</ph><ph id="ph3">a</ph><ph id="ph4">ʰ</ph></pw></actual></pg>
+    <pg><w>guau</w><actual><pw><ph id="ph0">w</ph><ph id="ph1">a</ph><ph id="ph2">.</ph><ph id="ph3">w</ph><ph id="ph4">a</ph></pw></actual></pg>
+    <pg><w>guau</w><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">.</ph><ph id="ph2">w</ph><ph id="ph3">a</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="102.796"
+      end="107.535"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">VCV VCV CVCV VCV</a>
+    <a type="extension" flavor="type">imitation</a>
+    <a type="extension" flavor="uttn">7</a>
+  </u>
+  <comment type="Situation">Mamá pasa la hoja.</comment>
+  <u who="MOT" uID="u25">
+    <w>Mira</w>
+    <t type="p"></t>
+    <media
+      start="107.535"
+      end="130.099"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u26">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ɛ</ph><ph id="ph1">j</ph><ph id="ph2">ɛ</ph><ph id="ph3">ʰ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="108.720"
+      end="130.099"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">VCV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">8</a>
+  </u>
+  <comment type="Situation">María tiene una pelota.</comment>
+  <u who="MOT" uID="u27">
+    <w>María</w>
+    <w>tíramela</w>
+    <t type="p"></t>
+    <media
+      start="130.099"
+      end="136.896"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u28">
+    <w>Tira</w>
+    <t type="p"></t>
+    <media
+      start="136.896"
+      end="140.294"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u29">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ʝ</ph><ph id="ph1">ɛ</ph><ph id="ph2">ʰ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="140.294"
+      end="169.772"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">9</a>
+  </u>
+  <u who="MOT" uID="u30">
+    <w>Oye</w>
+    <t type="p"></t>
+    <media
+      start="169.772"
+      end="170.268"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u31">
+    <w>Y</w>
+    <w>cómo</w>
+    <w>hace</w>
+    <w>el</w>
+    <w>caballo</w>
+    <t type="p"></t>
+    <media
+      start="170.268"
+      end="172.753"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u32">
+    <w>Qué</w>
+    <w>más</w>
+    <t type="p"></t>
+    <media
+      start="172.753"
+      end="173.747"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u33">
+    <w>Cómo</w>
+    <w>hace</w>
+    <t type="p"></t>
+    <media
+      start="173.747"
+      end="174.741"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u34">
+    <pg><w>Babbliing</w><actual><pw><ph id="ph0">β</ph><ph id="ph1">ɛ</ph><ph id="ph2">h</ph><ph id="ph3">.</ph><ph id="ph4">w</ph><ph id="ph5">e</ph><ph id="ph6">ʰ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="174.741"
+      end="190.398"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVC.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">10</a>
+  </u>
+  <u who="MOT" uID="u35">
+    <w>Cómo</w>
+    <w>hace</w>
+    <w>el</w>
+    <w>caballo</w>
+    <w>María</w>
+    <t type="p"></t>
+    <media
+      start="190.398"
+      end="193.689"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u36">
+    <w>Así</w>
+    <t type="p"></t>
+    <media
+      start="193.689"
+      end="194.347"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u37">
+    <w>Y</w>
+    <w>el</w>
+    <w>perrito</w>
+    <t type="p"></t>
+    <media
+      start="194.347"
+      end="196.321"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u38">
+    <pg><w>Guau</w><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">w</ph><ph id="ph2">a</ph><ph id="ph3">ʰ</ph></pw></actual></pg>
+    <pg><w>guau</w><actual><pw><ss type="1"/><ph id="ph0">ʔ</ph><ph id="ph1">a</ph><ph id="ph2">w</ph><ph id="ph3">a</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="196.321"
+      end="198.321"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">VCV CVCV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">11</a>
+  </u>
+  <u who="MOT" uID="u39">
+    <w>A</w>
+    <w>ver</w>
+    <w>cómo</w>
+    <w>ladra</w>
+    <w>el</w>
+    <w>perrito</w>
+    <t type="p"></t>
+    <media
+      start="198.321"
+      end="200.033"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u40">
+    <pg><w>Guau</w><actual><pw><ph id="ph0">ʋ</ph><ph id="ph1">a</ph><ph id="ph2">ː</ph></pw></actual></pg>
+    <pg><w>guau</w><actual><pw><ph id="ph0">ʋ</ph><ph id="ph1">ɐ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="199.321"
+      end="200.033"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVːCV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">12</a>
+  </u>
+  <u who="CHI" uID="u41">
+    <pg><w>Guau</w><actual><pw><ph id="ph0">ʋ</ph><ph id="ph1">ɐ</ph><ph id="ph2">̞</ph><ph id="ph3">ʰ</ph></pw></actual></pg>
+    <pg><w>guau</w><actual><pw><ss type="1"/><ph id="ph0">β</ph><ph id="ph1">ʌ</ph><ph id="ph2">ɐ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="200.033"
+      end="204.352"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV CVV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">13</a>
+  </u>
+  <u who="MOT" uID="u42">
+    <w>Y</w>
+    <w>el</w>
+    <w>gatito</w>
+    <t type="p"></t>
+    <media
+      start="204.352"
+      end="210.832"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">Mamá le dice a Alberto que traiga el perro de María, Alberto sale a traerlo.</comment>
+  <u who="ANO" uID="u43">
+    <w>Qué</w>
+    <w>es</w>
+    <w>eso</w>
+    <t type="p"></t>
+    <media
+      start="210.832"
+      end="217.312"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u44">
+    <w>Cómo</w>
+    <w>se</w>
+    <w>llama</w>
+    <t type="p"></t>
+    <media
+      start="217.312"
+      end="223.791"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u45">
+    <w>Qué</w>
+    <w>es</w>
+    <w>eso</w>
+    <t type="p"></t>
+    <media
+      start="223.791"
+      end="230.271"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u46">
+    <w>Qué</w>
+    <w>es</w>
+    <w>eso</w>
+    <t type="p"></t>
+    <media
+      start="230.271"
+      end="236.750"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u47">
+    <w>Anda</w>
+    <t type="p"></t>
+    <media
+      start="236.750"
+      end="238.910"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u48">
+    <pg><w>Guau</w><actual><pw><ss type="1"/><ph id="ph0">w</ph><ph id="ph1">a</ph></pw></actual></pg>
+    <pg><w>guau</w><actual><pw><ss type="1"/><ph id="ph0">w</ph><ph id="ph1">a</ph><ph id="ph2">ʰ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="238.910"
+      end="345.051"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="CHI" uID="u49">
+    <pg><w>Guau</w><actual><pw><ph id="ph0">w</ph><ph id="ph1">a</ph></pw></actual></pg>
+    <pg><w>guau</w><actual><pw><ph id="ph0">w</ph><ph id="ph1">ɐ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="345.051"
+      end="349.086"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">14</a>
+  </u>
+  <u who="CHI" uID="u50">
+    <pg><w>Guau</w><actual><pw><ph id="ph0">ə</ph><ss type="1"/><ph id="ph1">w</ph><ph id="ph2">a</ph><ph id="ph3">ʰ</ph></pw></actual></pg>
+    <pg><w>guau</w><actual><pw><ph id="ph0">ɪ</ph><ph id="ph1">̽</ph><ss type="1"/><ph id="ph2">w</ph><ph id="ph3">æ</ph><ph id="ph4">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="349.086"
+      end="533.154"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">V.CV V.CVː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">15</a>
+  </u>
+  <comment type="Situation">leise</comment>
+  <u who="MOT" uID="u51">
+    <w>Uy</w>
+    <w>dale</w>
+    <w>un</w>
+    <w>besito</w>
+    <t type="p"></t>
+    <media
+      start="533.154"
+      end="550.353"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">María pega un grito. INT arregla los micrófonos; María se cae y lloriquea un poquito, el hermano la consuela; la mamá le muestra un perrito.</comment>
+  <u who="MOT" uID="u52">
+    <w>No</w>
+    <w>le</w>
+    <w>muerdas</w>
+    <t type="p"></t>
+    <media
+      start="550.353"
+      end="563.252"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u53">
+    <w>Mira</w>
+    <t type="p"></t>
+    <media
+      start="563.252"
+      end="567.551"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u54">
+    <pg><w>Guau</w><actual><pw><ss type="1"/><ph id="ph0">w</ph><ph id="ph1">ɐ</ph><ph id="ph2">ʊ</ph><ph id="ph3">̯</ph></pw></actual></pg>
+    <pg><w>guau</w><actual><pw><ph id="ph0">w</ph><ph id="ph1">ɐ</ph><ph id="ph2">ʰ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="567.551"
+      end="576.151"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVG CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">16</a>
+  </u>
+  <comment type="Situation">Se oye el sonido de un perrito de juguete que anda y ladra a baterías.</comment>
+  <comment type="Situation">starkes Nebengeräusch fast gleichzeitig.</comment>
+  <u who="CHI" uID="u55">
+    <pg><w>Guau-guau</w><actual><pw><ph id="ph0">w</ph><ph id="ph1">ɐ</ph><ph id="ph2">ʊ</ph><ph id="ph3">̯</ph><ph id="ph4">.</ph><ph id="ph5">w</ph><ph id="ph6">ɐ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="576.151"
+      end="584.750"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVG.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">16</a>
+  </u>
+  <u who="CHI" uID="u56">
+    <pg><w>Guau-guau</w><actual><pw><ph id="ph0">w</ph><ph id="ph1">ɛ</ph><ph id="ph2">ʰ</ph><ph id="ph3">.</ph><ph id="ph4">w</ph><ph id="ph5">ɐ</ph><ph id="ph6">h</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="584.750"
+      end="593.349"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CVC</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">17</a>
+  </u>
+  <u who="MOT" uID="u57">
+    <w>Oye</w>
+    <t type="p"></t>
+    <media
+      start="593.349"
+      end="597.649"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u58">
+    <w>Ay</w>
+    <w>el</w>
+    <w>reloj</w>
+    <w>es</w>
+    <w>que</w>
+    <w>tu</w>
+    <w>hermano</w>
+    <w>ha</w>
+    <w>traído</w>
+    <w>el</w>
+    <w>reloj</w>
+    <t type="p"></t>
+    <media
+      start="597.649"
+      end="644.945"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u59">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">w</ph><ph id="ph2">e</ph><ph id="ph3">̞</ph><ph id="ph4">.</ph><ph id="ph5">ʔ</ph><ph id="ph6">w</ph><ph id="ph7">ɛ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="644.945"
+      end="649.244"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CCV.CCV</a>
+    <a type="extension" flavor="uttn">18</a>
+  </u>
+  <u who="MOT" uID="u60">
+    <w>Eso</w>
+    <w>no</w>
+    <w>se</w>
+    <w>toca</w>
+    <t type="p"></t>
+    <media
+      start="649.244"
+      end="666.443"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">María llora un poco, INT juega con una pelota, María se queja cuando INT le pide la pelota.</comment>
+  <u who="ANO" uID="u61">
+    <w>Mira</w>
+    <w>qué</w>
+    <w>bonito</w>
+    <w>el</w>
+    <w>perrito</w>
+    <t type="p"></t>
+    <media
+      start="666.443"
+      end="687.941"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u62">
+    <w>Uy</w>
+    <w>qué</w>
+    <w>bonito</w>
+    <t type="p"></t>
+    <media
+      start="687.941"
+      end="700.840"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u63">
+    <w>Uy</w>
+    <t type="p"></t>
+    <media
+      start="700.840"
+      end="705.140"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u64">
+    <w>Te</w>
+    <w>muerde</w>
+    <t type="p"></t>
+    <media
+      start="705.140"
+      end="713.739"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u65">
+    <w>Que</w>
+    <w>te</w>
+    <w>muerde</w>
+    <t type="p"></t>
+    <media
+      start="713.739"
+      end="726.638"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u66">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ɛ</ph><ph id="ph1">̃</ph><ph id="ph2">ʔ</ph><ss type="1"/><ph id="ph3">ɛ</ph><ph id="ph4">̃</ph><ph id="ph5">ː</ph><ph id="ph6">ʰ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="726.638"
+      end="730.937"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">VC.Vː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">19</a>
+  </u>
+  <u who="ANO" uID="u67">
+    <w>Te</w>
+    <w>lo</w>
+    <w>come</w>
+    <w>el</w>
+    <w>conejo</w>
+    <t type="p"></t>
+    <media
+      start="730.937"
+      end="752.436"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">uegan con el perrito y un conejo, María lloriquea.</comment>
+  <u who="ANO" uID="u68">
+    <w>Uy</w>
+    <t type="p"></t>
+    <media
+      start="752.436"
+      end="756.735"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u69">
+    <w>Cómo</w>
+    <w>duerme</w>
+    <w>María</w>
+    <t type="p"></t>
+    <media
+      start="756.735"
+      end="769.634"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u70">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">ʰ</ph><ph id="ph2">œ</ph><ph id="ph3">h</ph><ph id="ph4">.</ph><ph id="ph5">h</ph><ph id="ph6">ʏ</ph><ph id="ph7">h</ph><ph id="ph8">.</ph><ph id="ph9">h</ph><ph id="ph10">ɵ</ph><ph id="ph11">h</ph><ph id="ph12">.</ph><ph id="ph13">h</ph><ph id="ph14">ɵ</ph><ph id="ph15">ʰ</ph><ph id="ph16">.</ph><ph id="ph17">h</ph><ph id="ph18">ʏ</ph><ph id="ph19">ʰ</ph><ph id="ph20">.</ph><ph id="ph21">h</ph><ph id="ph22">ʏ</ph><ph id="ph23">ʰ</ph><ph id="ph24">.</ph><ph id="ph25">h</ph><ph id="ph26">ʏ</ph><ph id="ph27">ʰ</ph><ph id="ph28">.</ph><ph id="ph29">h</ph><ph id="ph30">ʏ</ph><ph id="ph31">ʰ</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">e</ph><ph id="ph1">̞</ph><ph id="ph2">̃</ph><ph id="ph3">j</ph><ss type="1"/><ph id="ph4">ʝ</ph><ph id="ph5">ə</ph><ph id="ph6">ʰ</ph><ph id="ph7">h</ph><ph id="ph8">ʏ</ph><ph id="ph9">ː</ph><ph id="ph10">ə</ph><ph id="ph11">̯</ph><ph id="ph12">ʰ</ph><ss type="1"/><ph id="ph13">e</ph><ph id="ph14">j</ph><ph id="ph15">ː</ph><ph id="ph16">‿</ph><ph id="ph17">ə</ph><ss type="1"/><ph id="ph18">ø</ph><ph id="ph19">̽</ph><ss type="1"/><ph id="ph20">h</ph><ph id="ph21">ɵ</ph><ph id="ph22">̃</ph><ph id="ph23">ə</ph><ph id="ph24">̯</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><actual><pw><ph id="ph0">*</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="769.634"
+      end="778.233"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVC.CVC.CVC.CV.CV.CV.CV.CV VC.CVCVːG.VːV.CVG</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">2021</a>
+  </u>
+  <u who="MOT" uID="u71">
+    <w>Oye</w>
+    <w>la</w>
+    <w>queca</w>
+    <w>María</w>
+    <t type="p"></t>
+    <media
+      start="778.233"
+      end="795.432"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">María se aleja gateando, la mamá la trae de nuevo, María trae una muñeca (queca), la mamá le da la muñeca a María para que la duerma.</comment>
+  <u who="MOT" uID="u72">
+    <w>Ven</w>
+    <w>ven</w>
+    <w>María</w>
+    <t type="p"></t>
+    <media
+      start="795.432"
+      end="808.331"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u73">
+    <w>Duérmela</w>
+    <w>duérmela</w>
+    <t type="p"></t>
+    <media
+      start="808.331"
+      end="816.930"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u74">
+    <w>Duérmela</w>
+    <w>duérmela</w>
+    <w>que</w>
+    <w>tiene</w>
+    <w>sueño</w>
+    <t type="p"></t>
+    <media
+      start="816.930"
+      end="838.428"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u75">
+    <w>Ea</w>
+    <w>ea</w>
+    <w>ea</w>
+    <t type="p"></t>
+    <media
+      start="838.428"
+      end="851.327"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u76">
+    <w>Ea</w>
+    <w>ea</w>
+    <t type="p"></t>
+    <media
+      start="851.327"
+      end="859.926"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u77">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ə</ph><ph id="ph1">.</ph><ph id="ph2">ʔ</ph><ph id="ph3">æ</ph><ph id="ph4">ɪ</ph><ph id="ph5">̯</ph><ph id="ph6">θ</ph><ph id="ph7">ɬ</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ɯ</ph><ph id="ph1">̯</ph><ph id="ph2">æ</ph><ph id="ph3">ɪ</ph><ph id="ph4">̯</ph><ph id="ph5">h</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="859.926"
+      end="868.526"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">V.CVGCC GVGC</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">2223</a>
+  </u>
+  <u who="MOT" uID="u78">
+    <w>Sí</w>
+    <t type="p"></t>
+    <media
+      start="868.526"
+      end="872.825"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">María toca los micrófonos.</comment>
+  <u who="MOT" uID="u79">
+    <w>A</w>
+    <w>ver</w>
+    <w>y</w>
+    <w>eso</w>
+    <t type="p"></t>
+    <media
+      start="872.825"
+      end="890.024"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u80">
+    <w>Llámale</w>
+    <w>tú</w>
+    <w>al</w>
+    <w>guau-guau</w>
+    <w>para</w>
+    <w>que</w>
+    <w>vaya</w>
+    <t type="p"></t>
+    <media
+      start="890.024"
+      end="924.421"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u81">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ss type="1"/><ph id="ph0">h</ph><ph id="ph1">ɛ</ph><ph id="ph2">ʲ</ph><ph id="ph3">ʰ</ph><ss type="1"/><ph id="ph4">h</ph><ph id="ph5">æ</ph><ph id="ph6">j</ph><ph id="ph7">‿</ph><ph id="ph8">j</ph><ph id="ph9">ɐ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="924.421"
+      end="928.721"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">24</a>
+  </u>
+  <u who="MOT" uID="u82">
+    <w>Ven</w>
+    <w>aquí</w>
+    <w>no</w>
+    <w>te</w>
+    <w>vayas</w>
+    <w>ven</w>
+    <t type="p"></t>
+    <media
+      start="928.721"
+      end="954.518"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">María se entretiene con otros juguetes.</comment>
+  <u who="CHI" uID="u83">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">a</ph><ph id="ph1">ː</ph><ph id="ph2">h</ph><ph id="ph3">.</ph><ph id="ph4">ɐ</ph><ph id="ph5">̃</ph><ph id="ph6">ː</ph><ph id="ph7">ʰ</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">e</ph><ph id="ph2">ʰ</ph><ph id="ph3">.</ph><ph id="ph4">e</ph><ph id="ph5">̞</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="954.518"
+      end="963.118"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">VːC.Vː VC.V</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">2526</a>
+  </u>
+  <u who="ANO" uID="u84">
+    <w>Oy</w>
+    <t type="p"></t>
+    <media
+      start="963.118"
+      end="967.417"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u85">
+    <w>Mira</w>
+    <w>jugamos</w>
+    <w>aquí</w>
+    <t type="p"></t>
+    <media
+      start="967.417"
+      end="980.316"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u86">
+    <w>Bueno</w>
+    <w>no</w>
+    <w>hablas</w>
+    <w>nada</w>
+    <w>tú</w>
+    <t type="p"></t>
+    <media
+      start="980.316"
+      end="1001.814"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u87">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">e</ph><ph id="ph1">̃</ph><ss type="1"/><ph id="ph2">ɛ</ph><ph id="ph3">i</ph><ph id="ph4">̯</ph><ph id="ph5">ŋ</ph><ph id="ph6">.</ph><ph id="ph7">ə</ph><ph id="ph8">̃</ph><ss type="1"/><ph id="ph9">ɛ</ph><ph id="ph10">i</ph><ph id="ph11">̯</ph><ph id="ph12">ŋ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1001.814"
+      end="1006.114"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">V.VGC.V.VGC</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">27</a>
+  </u>
+  <u who="MOT" uID="u88">
+    <w>Éste</w>
+    <w>quién</w>
+    <w>es</w>
+    <t type="p"></t>
+    <media
+      start="1006.114"
+      end="1019.013"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u89">
+    <w>Quién</w>
+    <w>es</w>
+    <w>éste</w>
+    <t type="p"></t>
+    <media
+      start="1019.013"
+      end="1031.912"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u90">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">n</ph><ph id="ph1">æ</ph><ph id="ph2">h</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1031.912"
+      end="1036.211"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVC</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">28</a>
+  </u>
+  <u who="MOT" uID="u91">
+    <w>Quién</w>
+    <w>es</w>
+    <w>ese</w>
+    <w>quién</w>
+    <w>es</w>
+    <t type="p"></t>
+    <media
+      start="1036.211"
+      end="1057.710"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">María se esfuerza.</comment>
+  <u who="CHI" uID="u92">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ɛ</ph><ph id="ph1">̃</ph><ph id="ph2">p</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1057.710"
+      end="1062.009"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">VC</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">29</a>
+  </u>
+  <u who="MOT" uID="u93">
+    <w>Uy</w>
+    <t type="p"></t>
+    <media
+      start="1062.009"
+      end="1066.309"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">María y su mamá se entretienen con el perrito.</comment>
+  <u who="MOT" uID="u94">
+    <w>Llora</w>
+    <t type="p"></t>
+    <media
+      start="1066.309"
+      end="1070.608"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">María se divierte con el perrito.</comment>
+  <u who="CHI" uID="u95">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">ɪ</ph><ph id="ph2">̞</ph><ph id="ph3">h</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ɪ</ph><ph id="ph1">ʔ</ph><ph id="ph2">̚</ph><ph id="ph3">.</ph><ph id="ph4">ɪ</ph><ph id="ph5">h</ph><ph id="ph6">.</ph><ph id="ph7">ɪ</ph><ph id="ph8">̞</ph><ph id="ph9">h</ph><ph id="ph10">.</ph><ph id="ph11">ɛ</ph><ss type="1"/><ph id="ph12">ɪ</ph><ph id="ph13">̞</ph><ph id="ph14">h</ph><ph id="ph15">.</ph><ph id="ph16">ɛ</ph><ph id="ph17">ɐ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1070.608"
+      end="1079.208"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVC VC.VC.VC.V.VC.VV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">3031</a>
+  </u>
+  <comment type="Situation">María se aleja otra vez, María la trae de nuevo, INT le muestra una pelota y la lanza.</comment>
+  <u who="MOT" uID="u96">
+    <w>Perrito</w>
+    <t type="p"></t>
+    <media
+      start="1079.208"
+      end="1083.507"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u97">
+    <w>Tú</w>
+    <w>me</w>
+    <w>das</w>
+    <w>el</w>
+    <w>perrito</w>
+    <t type="p"></t>
+    <media
+      start="1083.507"
+      end="1105.005"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u98">
+    <w>Eh</w>
+    <t type="p"></t>
+    <media
+      start="1105.005"
+      end="1109.305"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u99">
+    <w>Mira</w>
+    <w>uy</w>
+    <t type="p"></t>
+    <media
+      start="1109.305"
+      end="1117.904"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u100">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">ə</ph><ph id="ph2">̃</ph><ph id="ph3">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1117.904"
+      end="1122.204"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">32</a>
+  </u>
+  <u who="ANO" uID="u101">
+    <w>Mira</w>
+    <t type="p"></t>
+    <media
+      start="1122.204"
+      end="1126.504"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u102">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">ɪ</ph><ph id="ph2">̞</ph><ph id="ph3">ʰ</ph><ph id="ph4">.</ph><ph id="ph5">h</ph><ph id="ph6">ɛ</ph><ph id="ph7">.</ph><ph id="ph8">ʔ</ph><ph id="ph9">e</ph><ph id="ph10">h</ph><ph id="ph11">̩</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1126.504"
+      end="1130.803"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CV.CVS</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">33</a>
+  </u>
+  <comment type="Situation">María tiene la pelota. María lloriquea un poco, INT y la mamá le muestran pelota con un patito a María.</comment>
+  <u who="ANO" uID="u103">
+    <w>Uy</w>
+    <w>uy</w>
+    <t type="p"></t>
+    <media
+      start="1130.803"
+      end="1139.403"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u104">
+    <w>Qué</w>
+    <w>bien</w>
+    <t type="p"></t>
+    <media
+      start="1139.403"
+      end="1148.002"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u105">
+    <w>Me</w>
+    <w>la</w>
+    <w>das</w>
+    <w>a</w>
+    <w>mí</w>
+    <w>la</w>
+    <w>pelota</w>
+    <t type="p"></t>
+    <media
+      start="1148.002"
+      end="1178.099"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u106">
+    <w>Mira</w>
+    <t type="p"></t>
+    <media
+      start="1178.099"
+      end="1182.399"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u107">
+    <w>Quién</w>
+    <w>es</w>
+    <t type="p"></t>
+    <media
+      start="1182.399"
+      end="1190.998"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u108">
+    <w>Hola</w>
+    <w>un</w>
+    <w>patito</w>
+    <t type="p"></t>
+    <media
+      start="1190.998"
+      end="1203.897"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u109">
+    <w>El</w>
+    <w>patito</w>
+    <t type="p"></t>
+    <media
+      start="1203.897"
+      end="1212.496"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u110">
+    <w>Qué</w>
+    <w>bonito</w>
+    <t type="p"></t>
+    <media
+      start="1212.496"
+      end="1221.096"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u111">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">β</ph><ph id="ph1">̃</ph><ph id="ph2">a</ph><ph id="ph3">j</ph><ph id="ph4">.</ph><ph id="ph5">m</ph><ph id="ph6">̞</ph><ph id="ph7">a</ph><ph id="ph8">j</ph><ph id="ph9">h</ph></pw></actual></pg>
+    <pg><w>Mamá</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">ː</ph><ph id="ph2">a</ph><ph id="ph3">m</ph><ph id="ph4">ɐ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1221.096"
+      end="1229.695"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVC.CVCC CːVCV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">3435</a>
+  </u>
+  <u who="CHI" uID="u112">
+    <pg><w>Mamá</w><actual><pw><ph id="ph0">m</ph><ph id="ph1">ː</ph><ph id="ph2">ɐ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1229.695"
+      end="1233.994"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CːV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">36</a>
+  </u>
+  <u who="ANO" uID="u113">
+    <w>Se</w>
+    <w>lo</w>
+    <w>das</w>
+    <w>a</w>
+    <w>mamá</w>
+    <t type="p"></t>
+    <media
+      start="1233.994"
+      end="1255.493"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u114">
+    <w>Sí</w>
+    <t type="p"></t>
+    <media
+      start="1255.493"
+      end="1259.792"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u115">
+    <w>No</w>
+    <w>me</w>
+    <w>lo</w>
+    <w>das</w>
+    <w>a</w>
+    <w>mí</w>
+    <t type="p"></t>
+    <media
+      start="1259.792"
+      end="1285.590"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u116">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">ʏ</ph><ph id="ph2">ʔ</ph><ph id="ph3">.</ph><ph id="ph4">i</ph><ph id="ph5">̞</ph><ph id="ph6">h</ph><ph id="ph7">ʔ</ph><ph id="ph8">i</ph><ph id="ph9">h</ph><ph id="ph10">ʔ</ph><ph id="ph11">ɛ</ph><ph id="ph12">h</ph><ph id="ph13">ʔ</ph><ph id="ph14">ɛ</ph><ph id="ph15">̯</ph><ph id="ph16">ø</ph><ph id="ph17">h</ph><ph id="ph18">.</ph><ph id="ph19">m</ph><ph id="ph20">̩</ph><ph id="ph21">ʔ</ph><ph id="ph22">i</ph><ph id="ph23">ː</ph><ph id="ph24">h</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ɛ</ph><ph id="ph1">i</ph><ph id="ph2">h</ph><ph id="ph3">ʔ</ph><ph id="ph4">æ</ph><ph id="ph5">h</ph><ph id="ph6">ʔ</ph><ph id="ph7">ɛ</ph><ph id="ph8">̯</ph><ph id="ph9">ø</ph><ph id="ph10">ə</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1285.590"
+      end="1289.890"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVC.VCCVCCVCCGVC.SCVːC.CVVCCVCC</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">37</a>
+  </u>
+  <u who="ANO" uID="u117">
+    <w>Muy</w>
+    <w>bien</w>
+    <t type="p"></t>
+    <media
+      start="1289.890"
+      end="1298.489"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">La mamá le muestra a María un libro de cuentos.</comment>
+  <u who="MOT" uID="u118">
+    <w>Oye</w>
+    <w>vamos</w>
+    <w>a</w>
+    <w>mirar</w>
+    <w>ahora</w>
+    <w>el</w>
+    <w>cuento</w>
+    <w>anda</w>
+    <t type="p"></t>
+    <media
+      start="1298.489"
+      end="1332.886"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u119">
+    <w>Los</w>
+    <w>pollitos</w>
+    <w>cómo</w>
+    <w>hacen</w>
+    <t type="p"></t>
+    <media
+      start="1332.886"
+      end="1350.085"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u120">
+    <pg><w>Guau</w><actual><pw><ph id="ph0">w</ph><ph id="ph1">ɐ</ph></pw></actual></pg>
+    <pg><w>guau</w><actual><pw><ss type="1"/><ph id="ph0">w</ph><ph id="ph1">ɐ</ph><ph id="ph2">w</ph><ph id="ph3">ʰ</ph></pw></actual></pg>
+    <pg><w>guau</w><actual><pw><ss type="1"/><ph id="ph0">w</ph><ph id="ph1">ɐ</ph></pw></actual></pg>
+    <pg><w>guau</w><actual><pw><ss type="1"/><ph id="ph0">w</ph><ph id="ph1">ɐ</ph><ph id="ph2">w</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1350.085"
+      end="1367.283"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV CVC*.CV CVC</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">38</a>
+  </u>
+  <u who="MOT" uID="u121">
+    <w>Ay</w>
+    <w>todos</w>
+    <w>hacen</w>
+    <w>guau-guau</w>
+    <t type="p"></t>
+    <media
+      start="1367.283"
+      end="1388.781"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u122">
+    <w>Oye</w>
+    <w>y</w>
+    <w>comen</w>
+    <w>mira</w>
+    <w>cómo</w>
+    <w>come</w>
+    <w>el</w>
+    <w>pollito</w>
+    <w>María</w>
+    <t type="p"></t>
+    <media
+      start="1388.781"
+      end="1427.478"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u123">
+    <pg><w>Guau</w><actual><pw><ph id="ph0">w</ph><ph id="ph1">ɐ</ph><ph id="ph2">h</ph></pw></actual></pg>
+    <pg><w>guau</w><actual><pw><ph id="ph0">w</ph><ph id="ph1">ɐ</ph><ph id="ph2">w</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1427.478"
+      end="1436.077"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVC CVC</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">39</a>
+  </u>
+  <u who="CHI" uID="u124">
+    <pg><w>Guau-guau</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">ɐ</ph><ph id="ph2">w</ph><ph id="ph3">ʊ</ph><ss type="1"/><ph id="ph4">w</ph><ph id="ph5">ː</ph><ph id="ph6">ɐ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1436.077"
+      end="1444.676"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVCV.CːV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">40</a>
+  </u>
+  <u who="CHI" uID="u125">
+    <pg><w>Guau-guau</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">ɐ</ph><ph id="ph2">.</ph><ph id="ph3">w</ph><ph id="ph4">ɐ</ph><ph id="ph5">h</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1444.676"
+      end="1453.276"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV.CVC</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">41</a>
+  </u>
+  <u who="ANO" uID="u126">
+    <w>El</w>
+    <w>guau-guau</w>
+    <t type="p"></t>
+    <media
+      start="1453.276"
+      end="1466.175"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">María juega con la muñeca.</comment>
+  <u who="MOT" uID="u127">
+    <w>Duerme</w>
+    <w>a</w>
+    <w>la</w>
+    <w>queca</w>
+    <w>mira</w>
+    <w>que</w>
+    <w>tiene</w>
+    <w>sueño</w>
+    <w>toma</w>
+    <w>duérmela</w>
+    <t type="p"></t>
+    <media
+      start="1466.175"
+      end="1509.171"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u128">
+    <w>Díle</w>
+    <t type="p"></t>
+    <media
+      start="1509.171"
+      end="1513.471"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u129">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">ʏ</ph><ph id="ph2">̃</ph><ph id="ph3">.</ph><ph id="ph4">d</ph><ph id="ph5">ʑ</ph><ph id="ph6">ɪ</ph><ph id="ph7">s</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1513.471"
+      end="1517.770"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CV CCVC</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">42</a>
+  </u>
+  <u who="MOT" uID="u130">
+    <w>Díː</w>
+    <w>Ay</w>
+    <w>ay</w>
+    <t type="p"></t>
+    <media
+      start="1517.770"
+      end="1530.669"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">La mamá le muestra un gatito a María.</comment>
+  <u who="ANO" uID="u131">
+    <w>Me</w>
+    <w>la</w>
+    <w>dejas</w>
+    <w>a</w>
+    <w>mí</w>
+    <t type="p"></t>
+    <media
+      start="1530.669"
+      end="1552.167"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u132">
+    <w>Oye</w>
+    <w>y</w>
+    <w>éste</w>
+    <w>quién</w>
+    <w>es</w>
+    <t type="p"></t>
+    <media
+      start="1552.167"
+      end="1573.665"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u133">
+    <w>Cómo</w>
+    <w>hace</w>
+    <w>el</w>
+    <w>gatito</w>
+    <t type="p"></t>
+    <media
+      start="1573.665"
+      end="1590.864"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u134">
+    <pg><w>Miau</w><actual><pw><ph id="ph0">æ</ph><ph id="ph1">ː</ph><ph id="ph2">h</ph></pw></actual></pg>
+    <pg><w>miau</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">ɛ</ph><ph id="ph2">̃</ph><ph id="ph3">ː</ph><ph id="ph4">h</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1590.864"
+      end="1599.463"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">VːC CVːC</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">43</a>
+  </u>
+  <u who="CHI" uID="u135">
+    <pg><w>Miau</w><actual><pw><ss type="1"/><ph id="ph0">h</ph><ph id="ph1">ɛ</ph><ph id="ph2">̃</ph><ph id="ph3">w</ph><ph id="ph4">ɐ</ph><ph id="ph5">h</ph></pw></actual></pg>
+    <pg><w>miau</w><actual><pw><ss type="1"/><ph id="ph0">ɛ</ph><ph id="ph1">ʋ</ph><ph id="ph2">æ</ph><ph id="ph3">h</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1599.463"
+      end="1608.062"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVCVC.VCVC</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">44</a>
+  </u>
+  <u who="MOT" uID="u136">
+    <w>Miau</w>
+    <t type="p"></t>
+    <media
+      start="1608.062"
+      end="1612.362"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u137">
+    <w>Muy</w>
+    <w>bien</w>
+    <t type="p"></t>
+    <media
+      start="1612.362"
+      end="1620.961"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u138">
+    <pg><w>Miau</w><actual><pw><ss type="1"/><ph id="ph0">j</ph><ph id="ph1">œ</ph><ph id="ph2">j</ph><ph id="ph3">æ</ph><ph id="ph4">ɛ</ph><ph id="ph5">ː</ph></pw></actual></pg>
+    <pg><w>miau</w><actual><pw><ph id="ph0">ʎ</ph><ph id="ph1">ɛ</ph><ph id="ph2">ʲ</ph><ph id="ph3">ʎ</ph><ph id="ph4">æ</ph><ph id="ph5">ː</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1620.961"
+      end="1629.561"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVCVVːCVCVː</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">45</a>
+  </u>
+  <u who="CHI" uID="u139">
+    <pg><w>Miau</w><actual><pw><ph id="ph0">j</ph><ph id="ph1">ɐ</ph><ph id="ph2">̃</ph><ph id="ph3">ː</ph><ph id="ph4">h</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1629.561"
+      end="1633.860"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVːC</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">46</a>
+  </u>
+  <u who="ANO" uID="u140">
+    <w>Y</w>
+    <w>el</w>
+    <w>perrito</w>
+    <t type="p"></t>
+    <media
+      start="1633.860"
+      end="1646.759"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u141">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">ɛ</ph><ph id="ph2">n</ph><ph id="ph3">ɐ</ph><ph id="ph4">h</ph><ph id="ph5">.</ph><ph id="ph6">h</ph><ph id="ph7">ɛ</ph><ph id="ph8">̃</ph><ph id="ph9">m</ph><ph id="ph10">n</ph><ph id="ph11">ʌ</ph><ph id="ph12">̃</ph><ph id="ph13">h</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">ɪ</ph><ph id="ph2">̃</ph><ph id="ph3">ʷ</ph><ph id="ph4">h</ph></pw></actual></pg>
+    <pg><w>Guau-guau</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">ə</ph><ph id="ph2">.</ph><ph id="ph3">w</ph><ph id="ph4">ɐ</ph><ph id="ph5">̞</ph><ss type="1"/><ph id="ph6">w</ph><ph id="ph7">ɵ</ph><ph id="ph8">.</ph><ph id="ph9">w</ph><ph id="ph10">ɵ</ph><ph id="ph11">ʰ</ph></pw></actual></pg>
+    <pg><w>guau-guau</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">ɐ</ph><ph id="ph2">.</ph><ph id="ph3">w</ph><ph id="ph4">a</ph><ph id="ph5">w</ph><ss type="1"/><ph id="ph6">w</ph><ph id="ph7">ɤ</ph><ph id="ph8">.</ph><ph id="ph9">w</ph><ph id="ph10">ɤ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1646.759"
+      end="1672.557"
+      unit="s"
+    />
+    <a type="extension" flavor="syll">CVCVC.CVCCVC CVC CVCV.CVCV.CVCVC.CVCV</a>
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">474849</a>
+  </u>
+  <u who="MOT" uID="u142">
+    <w>Uy</w>
+    <t type="p"></t>
+    <media
+      start="1672.557"
+      end="1676.857"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">INT y la mamá le muestran un caballito a María.</comment>
+  <u who="MOT" uID="u143">
+    <w>Se</w>
+    <w>quiere</w>
+    <w>comer</w>
+    <w>al</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <w>gatito</w>
+    <t type="p"></t>
+    <media
+      start="1676.857"
+      end="1702.654"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u144">
+    <w>A</w>
+    <w>ver</w>
+    <w>mira</w>
+    <w>quién</w>
+    <w>es</w>
+    <w>ése</w>
+    <t type="p"></t>
+    <media
+      start="1702.654"
+      end="1728.452"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u145">
+    <w>Cómo</w>
+    <w>hace</w>
+    <w>el</w>
+    <w>caballo</w>
+    <w>eh</w>
+    <t type="p"></t>
+    <media
+      start="1728.452"
+      end="1749.950"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u146">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ss type="1"/><ph id="ph0">d</ph><ph id="ph1">ɦ</ph><ph id="ph2">ɐ</ph><ph id="ph3">ː</ph><ph id="ph4">h</ph><ph id="ph5">d</ph><ph id="ph6">ə</ph><ph id="ph7">h</ph></pw></actual></pg>
+    <pg><w>Caballo</w><actual><pw><ph id="ph0">k</ph><ph id="ph1">ʎ</ph><ph id="ph2">æ</ph><ph id="ph3">ː</ph><ph id="ph4">β</ph><ph id="ph5">ʏ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1749.950"
+      end="1758.550"
+      unit="s"
+    />
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">50</a>
+  </u>
+  <u who="MOT" uID="u147">
+    <w>Cómo</w>
+    <w>hace</w>
+    <w>el</w>
+    <w>caballito</w>
+    <t type="p"></t>
+    <media
+      start="1758.550"
+      end="1775.748"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u148">
+    <w>Oye</w>
+    <w>cómo</w>
+    <w>duerme</w>
+    <w>María</w>
+    <t type="p"></t>
+    <media
+      start="1775.748"
+      end="1792.947"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u149">
+    <w>A</w>
+    <w>ver</w>
+    <w>cómo</w>
+    <w>duermes</w>
+    <t type="p"></t>
+    <media
+      start="1792.947"
+      end="1810.145"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u150">
+    <w>Cómo</w>
+    <w>cierra</w>
+    <w>los</w>
+    <w>ojitos</w>
+    <t type="p"></t>
+    <media
+      start="1810.145"
+      end="1827.344"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u151">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ss type="1"/><ph id="ph0">h</ph><ph id="ph1">ɪ</ph><ph id="ph2">.</ph><ph id="ph3">ɪ</ph><ph id="ph4">i</ph><ph id="ph5">ç</ph><ss type="1"/><ph id="ph6">h</ph><ph id="ph7">ɪ</ph><ph id="ph8">ɪ</ph><ph id="ph9">ɪ</ph><ph id="ph10">ç</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1827.344"
+      end="1831.643"
+      unit="s"
+    />
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">51</a>
+  </u>
+  <u who="MOT" uID="u152">
+    <w>Uchi</w>
+    <t type="p"></t>
+    <media
+      start="1831.643"
+      end="1835.943"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">María se entretiene con algo (para engachar).</comment>
+  <u who="ANO" uID="u153">
+    <w>Uy</w>
+    <t type="p"></t>
+    <media
+      start="1835.943"
+      end="1840.243"
+      unit="s"
+    />
+  </u>
+  <u who="ANO" uID="u154">
+    <w>Qué</w>
+    <w>has</w>
+    <w>visto</w>
+    <t type="p"></t>
+    <media
+      start="1840.243"
+      end="1853.141"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u155">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">d</ph><ph id="ph1">‿</ph><ph id="ph2">ʒ</ph><ph id="ph3">ɔ</ph><ph id="ph4">ʰ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1853.141"
+      end="1857.441"
+      unit="s"
+    />
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">52</a>
+  </u>
+  <u who="ANO" uID="u156">
+    <w>Uy</w>
+    <t type="p"></t>
+    <media
+      start="1857.441"
+      end="1861.741"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u157">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ss type="1"/><ph id="ph0">ø</ph><ph id="ph1">ɪ</ph><ph id="ph2">.</ph><ph id="ph3">h</ph><ph id="ph4">ʏ</ph><ph id="ph5">̯</ph><ph id="ph6">ɪ</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ɡ</ph><ph id="ph1">ː</ph><ph id="ph2">a</ph><ph id="ph3">ʎ</ph><ph id="ph4">ʰ</ph><ph id="ph5">.</ph><ph id="ph6">ɡ</ph><ph id="ph7">ʲ</ph><ph id="ph8">a</ph><ph id="ph9">j</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1861.741"
+      end="1870.340"
+      unit="s"
+    />
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">5354</a>
+  </u>
+  <u who="ANO" uID="u158">
+    <w>Qué</w>
+    <w>bonito</w>
+    <t type="p"></t>
+    <media
+      start="1870.340"
+      end="1878.939"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u159">
+    <w>Y</w>
+    <w>los</w>
+    <w>ojitos</w>
+    <w>de</w>
+    <w>María</w>
+    <t type="p"></t>
+    <media
+      start="1878.939"
+      end="1900.437"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u160">
+    <w>Dónde</w>
+    <w>están</w>
+    <t type="p"></t>
+    <media
+      start="1900.437"
+      end="1909.037"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u161">
+    <w>Y</w>
+    <w>la</w>
+    <w>boca</w>
+    <t type="p"></t>
+    <media
+      start="1909.037"
+      end="1921.936"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u162">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">ɵ</ph><ph id="ph2">ɐ</ph><ph id="ph3">ʰ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1921.936"
+      end="1926.235"
+      unit="s"
+    />
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">55</a>
+  </u>
+  <u who="ANO" uID="u163">
+    <w>Ah</w>
+    <w>muy</w>
+    <w>bien</w>
+    <t type="p"></t>
+    <media
+      start="1926.235"
+      end="1939.134"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">La mamá duerme a la muñeca, entra Alberto en la habitación, María tose un poco, María parece haberse metido algo a la boca.</comment>
+  <u who="MOT" uID="u164">
+    <w>Ah</w>
+    <w>ah</w>
+    <w>ah</w>
+    <t type="p"></t>
+    <media
+      start="1939.134"
+      end="1952.033"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u165">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">h</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">h</ph><ph id="ph3">ə</ph><ph id="ph4">̞</ph><ph id="ph5">h</ph><ph id="ph6">ə</ph><ph id="ph7">ʰ</ph><ph id="ph8">.</ph><ph id="ph9">h</ph><ph id="ph10">ɐ</ph><ph id="ph11">̃</ph><ss type="1"/><ph id="ph12">ɐ</ph><ph id="ph13">̃</ph><ph id="ph14">ɐ</ph><ph id="ph15">̃</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1952.033"
+      end="1956.333"
+      unit="s"
+    />
+    <a type="extension" flavor="type">imitation</a>
+    <a type="extension" flavor="uttn">56</a>
+  </u>
+  <u who="MOT" uID="u166">
+    <w>Qué</w>
+    <w>tienes</w>
+    <w>en</w>
+    <w>la</w>
+    <w>boca</w>
+    <t type="p"></t>
+    <media
+      start="1956.333"
+      end="1977.831"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u167">
+    <w>Los</w>
+    <w>dientes</w>
+    <t type="p"></t>
+    <media
+      start="1977.831"
+      end="1986.430"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u168">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ɛ</ph><ph id="ph1">‿</ph><ph id="ph2">ɛ</ph><ph id="ph3">.</ph><ph id="ph4">h</ph><ph id="ph5">ɛ</ph><ph id="ph6">ʰ</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="1986.430"
+      end="1990.730"
+      unit="s"
+    />
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">57</a>
+  </u>
+  <u who="MOT" uID="u169">
+    <w>No</w>
+    <w>eso</w>
+    <w>no</w>
+    <t type="p"></t>
+    <media
+      start="1990.730"
+      end="2003.629"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">Entra gente a la habitación, entre otros, el padre de María.</comment>
+  <u who="MOT" uID="u170">
+    <w>Y</w>
+    <w>los</w>
+    <w>ojos</w>
+    <t type="p"></t>
+    <media
+      start="2003.629"
+      end="2016.527"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u171">
+    <w>A</w>
+    <w>ver</w>
+    <w>cierra</w>
+    <w>los</w>
+    <w>ojos</w>
+    <t type="p"></t>
+    <media
+      start="2016.527"
+      end="2038.026"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">INT y el papá conversan un poco.</comment>
+  <u who="CHI" uID="u172">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">ɛ</ph><ph id="ph2">ː</ph><ph id="ph3">ʰ</ph><ph id="ph4">.</ph><ph id="ph5">ʔ</ph><ph id="ph6">ɛ</ph><ph id="ph7">ʰ</ph><ph id="ph8">.</ph><ph id="ph9">e</ph><ph id="ph10">ʰ</ph><ph id="ph11">.</ph><ph id="ph12">ʔ</ph><ph id="ph13">ɵ</ph><ph id="ph14">w</ph><ph id="ph15">ə</ph><ph id="ph16">.</ph><ph id="ph17">ʔ</ph><ph id="ph18">ɵ</ph><ph id="ph19">ʰ</ph><ph id="ph20">ʔ</ph><ph id="ph21">ə</ph><ph id="ph22">ʰ</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ð</ph><ph id="ph1">ɛ</ph><ph id="ph2">ː</ph><ph id="ph3">ʰ</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ɛ</ph><ph id="ph1">ː</ph><ph id="ph2">ɛ</ph><ph id="ph3">̞</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">ɛ</ph><ph id="ph2">ː</ph><ph id="ph3">ə</ph><ph id="ph4">̯</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="2038.026"
+      end="2055.224"
+      unit="s"
+    />
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">58596061</a>
+  </u>
+  <u who="ANO" uID="u173">
+    <w>Sí</w>
+    <w>dice</w>
+    <w>algo</w>
+    <w>va</w>
+    <w>diciendo</w>
+    <w>poquito</w>
+    <w>pero</w>
+    <t type="p"></t>
+    <media
+      start="2055.224"
+      end="2085.322"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u174">
+    <w>Dónde</w>
+    <w>está</w>
+    <w>el</w>
+    <w>guau-guau</w>
+    <t type="p"></t>
+    <media
+      start="2085.322"
+      end="2106.820"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u175">
+    <w>Dáselo</w>
+    <w>a</w>
+    <w>papá</w>
+    <t type="p"></t>
+    <media
+      start="2106.820"
+      end="2119.719"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u176">
+    <w>Dónde</w>
+    <w>está</w>
+    <t type="p"></t>
+    <media
+      start="2119.719"
+      end="2128.318"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u177">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">m</ph><ph id="ph2">.</ph><ph id="ph3">ʔ</ph><ph id="ph4">ə</ph><ph id="ph5">ʰ</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">œ</ph><ph id="ph2">ː</ph><ph id="ph3">œ</ph><ph id="ph4">.</ph><ph id="ph5">ɵ</ph><ph id="ph6">.</ph><ph id="ph7">ʔ</ph><ph id="ph8">ɵ</ph><ph id="ph9">̃</ph><ph id="ph10">ɐ</ph><ph id="ph11">̃</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="2128.318"
+      end="2136.917"
+      unit="s"
+    />
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">6263</a>
+  </u>
+  <u who="ANO" uID="u178">
+    <w>El</w>
+    <w>reloj</w>
+    <t type="p"></t>
+    <media
+      start="2136.917"
+      end="2145.516"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">Hablan la mamá, Alberto y el INT también. María se ha alejado, María grita y llora; luego María sale de la habitación otra vez; el papá la llama para adentro; María llora otra vez; la mamá y el INT conversan; María trata de salir nuevamente, no le hace caso al papá tampoco; María se entretiene con las llaves del padre.</comment>
+  <u who="CHI" uID="u179">
+    <pg><w untranscribed="unintelligible-with-pho">yyy</w><actual><pw><ph id="ph0">ʔ</ph><ph id="ph1">ɐ</ph><ph id="ph2">̃</ph><ph id="ph3">.</ph><ph id="ph4">ɐ</ph><ph id="ph5">̃</ph><ph id="ph6">.</ph><ph id="ph7">ɵ</ph><ph id="ph8">h</ph><ph id="ph9">.</ph><ph id="ph10">ɛ</ph><ph id="ph11">h</ph></pw></actual></pg>
+    <t type="p"></t>
+    <media
+      start="2145.516"
+      end="2149.816"
+      unit="s"
+    />
+    <a type="extension" flavor="type">spontaneous</a>
+    <a type="extension" flavor="uttn">64</a>
+  </u>
+</CHAT>

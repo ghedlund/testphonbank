@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011241-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1973-05-13"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Julia"
+      role="Target_Child"
+      language="eng"
+      age="P1Y04M26D"
+      sex="female"
+
+    />
+  </Participants>
+  <comment type="Date">13-MAY-1973</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>book</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">bʊk</a>
+    <a type="extension" flavor="mod">ˈbʊk</a>
+    <a type="extension" flavor="uttnum">73</a>
+    <a type="extension" flavor="sesdat">1973-05-13</a>
+    <a type="extension" flavor="age">1;4.26</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <w>book</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">bʊkʰ</a>
+    <a type="extension" flavor="mod">ˈbʊk</a>
+    <a type="extension" flavor="uttnum">74</a>
+    <a type="extension" flavor="sesdat">1973-05-13</a>
+    <a type="extension" flavor="age">1;4.26</a>
+  </u>
+</CHAT>

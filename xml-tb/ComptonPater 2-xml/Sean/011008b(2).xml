@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011714-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1974-01-01"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Sean"
+      role="Target_Child"
+      language="eng"
+      age="P1Y10M08D"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">01-JAN-1974</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>watch</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">waʧ</a>
+    <a type="extension" flavor="mod">ˈwɑʧ</a>
+    <a type="extension" flavor="uttnum">1182</a>
+    <a type="extension" flavor="sesdat">1974-01-01</a>
+    <a type="extension" flavor="age">1;10.9</a>
+    <a type="comments">(verb form)</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <w>hot</w>
+    <w>soup</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">ot sup</a>
+    <a type="extension" flavor="mod">ˈhɑt ˈsuːp</a>
+    <a type="extension" flavor="uttnum">1183</a>
+    <a type="extension" flavor="sesdat">1974-01-01</a>
+    <a type="extension" flavor="age">1;10.9</a>
+    <a type="comments">(imitation)</a>
+  </u>
+  <u who="CHI" uID="u2">
+    <w>I</w>
+    <w>want</w>
+    <w>hot</w>
+    <w>soup</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">an at supʰ</a>
+    <a type="extension" flavor="mod">ˈaɪ ˈwɑnt ˈhɑt ˈsuːp</a>
+    <a type="extension" flavor="uttnum">1184</a>
+    <a type="extension" flavor="sesdat">1974-01-01</a>
+    <a type="extension" flavor="age">1;10.9</a>
+  </u>
+</CHAT>

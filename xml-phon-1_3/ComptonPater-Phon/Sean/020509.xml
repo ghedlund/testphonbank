@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="020509" corpus="ComptonPater" version="PB1.2">
+    <header>
+        <date>1974-08-02</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Sean</name>
+            <sex>male</sex>
+            <age>P2Y5M9DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="uttnum" grouped="false"/>
+        <userTier tierName="sesdat" grouped="false"/>
+        <userTier tierName="age" grouped="false"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="uttnum" visible="true" locked="false" font="default"/>
+        <tier tierName="sesdat" visible="true" locked="false" font="default"/>
+        <tier tierName="age" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Code">pid 11312/c-00011803-1</comment>
+        <comment type="Date">02-AUG-1974</comment>
+        <u speaker="CHI" id="54e5f9c9-49da-4219-85cd-23ad1e3ff5b9" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>I</w>
+                    <w>am</w>
+                    <w>be&lt;ing&gt;</w>
+                    <w>gentle</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈaɪ</w>
+                    <w>ˈæm</w>
+                    <w>ˈbiː</w>
+                    <w>ˈʤɛntəl</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="WB"/>
+                        <ph indexes="4" scType="SS"/>
+                        <ph indexes="5" scType="UK"/>
+                        <ph indexes="6" scType="UK"/>
+                        <ph indexes="7" scType="WB"/>
+                        <ph indexes="8" scType="SS"/>
+                        <ph indexes="9" scType="UK"/>
+                        <ph indexes="10 11" scType="UK"/>
+                        <ph indexes="12" scType="WB"/>
+                        <ph indexes="13" scType="SS"/>
+                        <ph indexes="14" scType="UK"/>
+                        <ph indexes="15" scType="UK"/>
+                        <ph indexes="16" scType="UK"/>
+                        <ph indexes="17" scType="UK"/>
+                        <ph indexes="18" scType="UK"/>
+                        <ph indexes="19" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>ai</w>
+                    <w>æm</w>
+                    <w>bi</w>
+                    <w>ʤɛnto</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="WB"/>
+                        <ph indexes="3" scType="UK"/>
+                        <ph indexes="4" scType="UK"/>
+                        <ph indexes="5" scType="WB"/>
+                        <ph indexes="6" scType="UK"/>
+                        <ph indexes="7" scType="UK"/>
+                        <ph indexes="8" scType="WB"/>
+                        <ph indexes="9" scType="UK"/>
+                        <ph indexes="10" scType="UK"/>
+                        <ph indexes="11" scType="UK"/>
+                        <ph indexes="12" scType="UK"/>
+                        <ph indexes="13" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <notes tierName="Notes">(imitation for gentle)</notes>
+            <flatTier tierName="uttnum">*2594</flatTier>
+            <flatTier tierName="sesdat">1974-08-02</flatTier>
+            <flatTier tierName="age">2;5.10</flatTier>
+        </u>
+    </transcript>
+</session>

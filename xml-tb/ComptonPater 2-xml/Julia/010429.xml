@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011244-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1973-05-16"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Julia"
+      role="Target_Child"
+      language="eng"
+      age="P1Y04M29D"
+      sex="female"
+
+    />
+  </Participants>
+  <comment type="Date">16-MAY-1973</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>bootie</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">bʊdiː</a>
+    <a type="extension" flavor="mod">ˈbuːtiː</a>
+    <a type="extension" flavor="uttnum">86</a>
+    <a type="extension" flavor="sesdat">1973-05-16</a>
+    <a type="extension" flavor="age">1;4.29</a>
+    <a type="comments">Alternate IPA Actual: [bʊd̥iː]</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <w untranscribed="unintelligible-with-pho">yyy</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">oʒəbodi</a>
+    <a type="extension" flavor="mod">*</a>
+    <a type="extension" flavor="uttnum">87</a>
+    <a type="extension" flavor="sesdat">1973-05-16</a>
+    <a type="extension" flavor="age">1;4.29</a>
+    <a type="comments">jargon</a>
+  </u>
+  <u who="CHI" uID="u2">
+    <w>that's</w>
+    <w untranscribed="unintelligible-with-pho">yyy</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">dæs̠dəbɔdi</a>
+    <a type="extension" flavor="mod">ˈðæts *</a>
+    <a type="extension" flavor="uttnum">88</a>
+    <a type="extension" flavor="sesdat">1973-05-16</a>
+    <a type="extension" flavor="age">1;4.29</a>
+    <a type="comments">jargon</a>
+  </u>
+  <u who="CHI" uID="u3">
+    <w>mommy</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>mommy</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">mʌmimʌmi</a>
+    <a type="extension" flavor="mod">ˈmɑmiː ˈmɑmiː</a>
+    <a type="extension" flavor="uttnum">89</a>
+    <a type="extension" flavor="sesdat">1973-05-16</a>
+    <a type="extension" flavor="age">1;4.29</a>
+  </u>
+</CHAT>

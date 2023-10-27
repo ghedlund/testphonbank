@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="010001" Mediatypes="audio"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00045107-1"
+      Version="2.20.0"
+      Lang="spa"
+      Corpus="PAIDUS-Spanish"
+      Date="1992-02-24"
+      >
+  <Participants>
+    <participant
+      id="MOT"
+    name="Mutter_von_Ines"
+      role="Mother"
+      language="spa"
+      age="P35Y"
+      sex="female"
+
+    />
+    <participant
+      id="INS"
+    name="Ines"
+      role="Target_Child"
+      language="spa"
+      age="P1Y00M01D"
+      sex="female"
+
+      birthday="1991-02-23"
+
+    />
+    <participant
+      id="IN6"
+    name="Interviewer"
+      role="Investigator"
+      language="spa"
+      sex="female"
+
+    />
+  </Participants>
+  <comment type="Date">24-FEB-1992</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="MOT" uID="u0">
+    <w>Venga</w>
+    <t type="p"></t>
+    <media
+      start="0.400"
+      end="3.450"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u1">
+    <w untranscribed="untranscribed">www</w>
+    <w>Ah</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>no</w>
+    <w>no</w>
+    <w>no</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>muy</w>
+    <w>bien</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>muy</w>
+    <w>bien</w>
+    <t type="p"></t>
+    <media
+      start="3.450"
+      end="24.300"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u2">
+    <w>Vamos</w>
+    <t type="p"></t>
+    <media
+      start="24.300"
+      end="1894.060"
+      unit="s"
+    />
+  </u>
+</CHAT>

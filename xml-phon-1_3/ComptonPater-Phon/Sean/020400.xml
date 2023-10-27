@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="020400" corpus="ComptonPater" version="PB1.2">
+    <header>
+        <date>1974-06-23</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Sean</name>
+            <sex>male</sex>
+            <age>P2Y4M0DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="uttnum" grouped="false"/>
+        <userTier tierName="sesdat" grouped="false"/>
+        <userTier tierName="age" grouped="false"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="uttnum" visible="true" locked="false" font="default"/>
+        <tier tierName="sesdat" visible="true" locked="false" font="default"/>
+        <tier tierName="age" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Code">pid 11312/c-00011786-1</comment>
+        <comment type="Date">23-JUN-1974</comment>
+        <u speaker="CHI" id="14768717-2faf-46c0-9148-fde3846e5abc" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>Where's</w>
+                    <w>Ron</w>
+                    <p type="QUESTION">?</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈwɛɹz</w>
+                    <w>ˈɹɑn</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                        <ph indexes="4" scType="UK"/>
+                        <ph indexes="5" scType="WB"/>
+                        <ph indexes="6" scType="SS"/>
+                        <ph indexes="7" scType="UK"/>
+                        <ph indexes="8" scType="UK"/>
+                        <ph indexes="9" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>wɛɹz</w>
+                    <w>ɹat˺n</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                        <ph indexes="4" scType="WB"/>
+                        <ph indexes="5" scType="UK"/>
+                        <ph indexes="6" scType="UK"/>
+                        <ph indexes="7 8" scType="UK"/>
+                        <ph indexes="9" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <flatTier tierName="uttnum">2390</flatTier>
+            <flatTier tierName="sesdat">1974-06-23</flatTier>
+            <flatTier tierName="age">2;4.0</flatTier>
+        </u>
+        <u speaker="CHI" id="5d113391-a8b2-4369-8464-b09388853709" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>all</w>
+                    <w>gone</w>
+                    <p type="QUESTION">?</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈɑl</w>
+                    <w>ˈɡɑn</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="WB"/>
+                        <ph indexes="4" scType="SS"/>
+                        <ph indexes="5" scType="UK"/>
+                        <ph indexes="6" scType="UK"/>
+                        <ph indexes="7" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>ɔ</w>
+                    <w>ɡɔn</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="WB"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                        <ph indexes="4" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <flatTier tierName="uttnum">2391</flatTier>
+            <flatTier tierName="sesdat">1974-06-23</flatTier>
+            <flatTier tierName="age">2;4.0</flatTier>
+        </u>
+    </transcript>
+</session>

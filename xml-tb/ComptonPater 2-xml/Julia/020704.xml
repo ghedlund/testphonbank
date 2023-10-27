@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011537-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1974-07-21"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Julia"
+      role="Target_Child"
+      language="eng"
+      age="P2Y07M04D"
+      sex="female"
+
+    />
+  </Participants>
+  <comment type="Date">21-JUL-1974</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>this</w>
+    <w>is</w>
+    <w>a</w>
+    <w>thing</w>
+    <w>to</w>
+    <w>go</w>
+    <w>under</w>
+    <w>with</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="uttnum">4487</a>
+    <a type="extension" flavor="sesdat">1974-07-21</a>
+    <a type="extension" flavor="age">2;7.4</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <w>he</w>
+    <w>have</w>
+    <w>to</w>
+    <w>lacen</w>
+    <w>it</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="uttnum">4488</a>
+    <a type="extension" flavor="sesdat">1974-07-21</a>
+    <a type="extension" flavor="age">2;7.4</a>
+    <a type="comments">Meaning of “lacen”: tie the lace on his shoe</a>
+  </u>
+</CHAT>

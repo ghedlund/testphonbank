@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00021925-1"
+      Version="2.20.0"
+      Lang="nld"
+      Corpus="CLPF"
+      Date="1989-11-06"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Noortje"
+      role="Target_Child"
+      language="nld"
+      age="P1Y08M25D"
+      sex="female"
+
+      birthday="1988-02-11"
+
+    />
+  </Participants>
+  <comment type="Date">06-NOV-1989</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <pg><w>appel</w><actual><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">p</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ɑ</ph><ph id="ph1">p</ph><ph id="ph2">ə</ph><ph id="ph3">l</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">apple</a>
+    <a type="extension" flavor="morphc">[N]</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <pg><w>ja</w><actual><pw><ss type="1"/><ph id="ph0">j</ph><ph id="ph1">ɑ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">j</ph><ph id="ph1">a</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">yes</a>
+  </u>
+  <u who="CHI" uID="u2">
+    <pg><w>koe</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">u</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">u</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">cow</a>
+  </u>
+  <u who="CHI" uID="u3">
+    <pg><w>mama</w><actual><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">ɑ</ph><ph id="ph2">m</ph><ph id="ph3">a</ph><ph id="ph4">ː</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">m</ph><ph id="ph1">ɑ</ph><ph id="ph2">m</ph><ph id="ph3">a</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">mommy</a>
+  </u>
+  <u who="CHI" uID="u4">
+    <pg><w>woef</w><actual><pw><ss type="1"/><ph id="ph0">h</ph><ph id="ph1">ʉ</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">ʋ</ph><ph id="ph1">u</ph><ph id="ph2">f</ph></pw></model></pg>
+    <pg><w>woef</w><actual><pw><ss type="2"/><ph id="ph0">h</ph><ph id="ph1">ʉ</ph></pw></actual><model><pw><ss type="2"/><ph id="ph0">ʋ</ph><ph id="ph1">u</ph><ph id="ph2">f</ph></pw></model></pg>
+    <t type="p"></t>
+
+    <a type="extension" flavor="segtyp">Spontaneous</a>
+    <a type="extension" flavor="eng">woof woof</a>
+    <a type="extension" flavor="morphc">[onomatopee] [ ]</a>
+  </u>
+</CHAT>

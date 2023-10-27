@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011876-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1975-01-16"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Sean"
+      role="Target_Child"
+      language="eng"
+      age="P2Y10M23D"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">16-JAN-1975</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>smells</w>
+    <w>like</w>
+    <w>a</w>
+    <w>animal</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">smɛlz waik ʌ æmɪnʊl</a>
+    <a type="extension" flavor="mod">ˈsmɛlz ˈlaɪk ə ˈænəməl</a>
+    <a type="extension" flavor="uttnum">3571</a>
+    <a type="extension" flavor="sesdat">1975-01-16</a>
+    <a type="extension" flavor="age">2;10.24</a>
+    <a type="comments">Alternate IPA Actual for “smells”: [smɛwz]</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <w>little</w>
+    <w>bit</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">ɹiʊl bɪt</a>
+    <a type="extension" flavor="mod">ˈlɪtəl ˈbɪt</a>
+    <a type="extension" flavor="uttnum">3572</a>
+    <a type="extension" flavor="sesdat">1975-01-16</a>
+    <a type="extension" flavor="age">2;10.24</a>
+  </u>
+</CHAT>

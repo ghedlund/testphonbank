@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="vit1_02" Mediatypes="audio"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/a-00009163-1"
+      Version="2.20.0"
+      Lang="spa glg"
+      Corpus="Koine"
+      Date="1997-11-19"
+      >
+  <Participants>
+    <participant
+      id="ANP"
+    name="Ana"
+      role="Target_Child"
+      language="spa glg"
+      age="P2Y01M26D"
+      sex="female"
+      group="Vite"
+
+    />
+    <participant
+      id="INE"
+    name="Irene"
+      role="Target_Child"
+      language="spa glg"
+      age="P2Y10M10D"
+      sex="female"
+      group="Vite"
+
+    />
+    <participant
+      id="IAN"
+    name="Ian"
+      role="Target_Child"
+      language="spa glg"
+      age="P2Y10M01D"
+      sex="male"
+      group="Vite"
+
+    />
+    <participant
+      id="AUR"
+    name="Aurora"
+      role="Adult"
+      language="spa glg"
+      sex="female"
+      group="Vite"
+
+    />
+    <participant
+      id="ANC"
+    name="AnaCodesido"
+      role="Investigator"
+      language="spa glg"
+      sex="female"
+      group="Vite"
+
+    />
+  </Participants>
+  <comment type="Generic">PIL</comment>
+  <comment type="Location">Santiago de Compostela</comment>
+  <comment type="Situation">escuela infantil de Vite</comment>
+  <comment type="Activities">comen gusanitos</comment>
+  <comment type="Generic">1.2</comment>
+  <comment type="Date">19-NOV-1997</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="IAN" uID="u0">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="comments">no transcribo literalmente porque se trata de una grabación de toma de contacto (00:42 segundos).</a>
+  </u>
+  <u who="AUR" uID="u1">
+    <w>recolle</w>
+    <w>eso</w>
+    <w>Irene</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="INE" uID="u2">
+    <w>que</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="AUR" uID="u3">
+    <w>recolle</w>
+    <w>eso</w>
+    <pause symbolic-length="simple"/>
+    <w>eso</w>
+    <w>que</w>
+    <w>me</w>
+    <w>caeu</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="AUR" uID="u4">
+    <w>xa</w>
+    <w>me</w>
+    <w>estás</w>
+    <w>enfadando</w>
+    <w>moito</w>
+    <w>eh</w>
+    <pause symbolic-length="simple"/>
+    <w>si</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INE" uID="u5">
+    <w>esto</w>
+    <t type="q"></t>
+
+    <a type="comments">no se ha transcrito desde 00:53 a 01:27 .</a>
+  </u>
+  <u who="INE" uID="u6">
+    <w>y</w>
+    <w>te</w>
+    <g><w>enfaras</w><error/></g>
+    <pause symbolic-length="simple"/>
+    <w>verdad</w>
+    <t type="q"></t>
+
+    <a type="extension" flavor="par">enfaras=enfadas $PHO;</a>
+    <a type="extension" flavor="mor">v|enfadar:3SIL_PRES:2S:1C_ENL3-CLI1-VER_210_3SIL:enfadas ?</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="AUR" uID="u7">
+    <w>quen</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="INE" uID="u8">
+    <w>y</w>
+    <w>te</w>
+    <w>enfadas</w>
+    <t type="interruption"></t>
+
+    <a type="extension" flavor="mor">v|enfadar:3SIL_PRES:2S:1C_ENL3-CLI1-VER_210_3SIL:enfadas +/.</a>
+  </u>
+  <u who="AUR" uID="u9">
+    <w>que</w>
+    <w>non</w>
+    <w>se</w>
+    <w>escapen</w>
+    <w>os</w>
+    <w>gusanitos</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="AUR" uID="u10">
+    <w>Ian</w>
+    <pause symbolic-length="simple"/>
+    <w>díxenche</w>
+    <w>que</w>
+    <w>non</w>
+    <w>se</w>
+    <w>podían</w>
+    <w>sentar</w>
+    <w>os</w>
+    <w>nenos</w>
+    <w>con</w>
+    <w>cazadora</w>
+    <w>na</w>
+    <w>mesa</w>
+    <pause symbolic-length="simple"/>
+    <w>por</w>
+    <w>que</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="IAN" uID="u11">
+    <g><w>poque</w><error/></g>
+    <w>no</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">poque=porque $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+    <a type="comments">no se ha transcrito desde 01:48 hasta 01:59.</a>
+  </u>
+  <u who="INE" uID="u12">
+    <w formType="interjection">ei</w>
+    <pause symbolic-length="simple"/>
+    <w>esta</w>
+    <w>é</w>
+    <w>a</w>
+    <w>miña</w>
+    <w>silla</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>miña</w>
+    <w>silla</w>
+    <pause symbolic-length="simple"/>
+    <g><w>eu</w>
+    <w>non</w>
+    <w>teño</w>
+    <w>donde</w>
+    <w>sentarme</w><k type="retracing"/></g>
+    <w>eu</w>
+    <w>non</w>
+    <w>teño</w>
+    <w>donde</w>
+    <w>sentarme</w>
+    <pause symbolic-length="simple"/>
+    <w>eu</w>
+    <w>non</w>
+    <w>teño</w>
+    <w>donde</w>
+    <w>sentar</w>
+    <pause symbolic-length="simple"/>
+    <g><w>non</w><k type="retracing with correction"/></g>
+    <w>non</w>
+    <w>me</w>
+    <w>deixan</w>
+    <t type="interruption"></t>
+
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_ARG1-VER-PRED_210_1SIL:é ; v|ter:1SIL_PRES:1S:2C_ARG1-NEG-VER-ARG2_210_2SIL:teño ; v|sentar:2SIL_INF:1C_CIRC-VER-CLI1_210_2SIL_sentar ; v|ter:1SIL_PRES:1S:2C_ARG1-NEG-VER-ARG2_210_2SIL:teño ; v|sentar:2SIL_INF:1C_CIRC-VER-CLI1_210_2SIL:sentar ; v|ter:1SIL_PRES:1S:2C_ARG1-NEG-VER-ARG2_210_2SIL:teño ; v|sentar:2SIL_INF:1C_CIRC-CLI1-VER_210_2SIL:sentar ; v|deixar:2SIL_PRES:3P:1C_NEG-CLI3-VER_210_2SIL:deixan +/.</a>
+  </u>
+  <u who="AUR" uID="u13">
+    <w>ay</w>
+    <w>Dios</w>
+    <w>mío</w>
+    <w>que</w>
+    <w>pena</w>
+    <w>e</w>
+    <w>non</w>
+    <w>che</w>
+    <w>deixan</w>
+    <w>sentar</w>
+    <t type="e"></t>
+
+    <a type="comments">no se ha transcrito desde 02:24 a 02:45 .</a>
+  </u>
+  <u who="AUR" uID="u14">
+    <w>papá</w>
+    <w>e</w>
+    <w>máis</w>
+    <w>mamá</w>
+    <pause symbolic-length="simple"/>
+    <w>algunha</w>
+    <w>vez</w>
+    <w>na</w>
+    <w>festa</w>
+    <pause symbolic-length="simple"/>
+    <w>ten</w>
+    <w>que</w>
+    <w>estar</w>
+    <w>de</w>
+    <w>pé</w>
+    <pause symbolic-length="simple"/>
+    <w>verdade</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="AUR" uID="u15">
+    <w>poque</w>
+    <w>están</w>
+    <w>servindo</w>
+    <w>a</w>
+    <w>comida</w>
+    <pause symbolic-length="simple"/>
+    <w>verdade</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="INE" uID="u16">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>eu</w>
+    <w>son</w>
+    <w>mamá</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:1S:2C_ARG1-VER-PRED_210_1SIL:son .</a>
+  </u>
+  <u who="AUR" uID="u17">
+    <w>e</w>
+    <w>papá</w>
+    <w>é</w>
+    <w>Manel</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="AUR" uID="u18">
+    <w>un</w>
+    <w>platito</w>
+    <w>para</w>
+    <w>papá</w>
+    <w>y</w>
+    <w>mamá</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INE" uID="u19">
+    <w>si</w>
+    <g><w>pa</w><error/></g>
+    <w>min</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">pa=para $PHO;</a>
+    <a type="extension" flavor="phon">$OMI $OMI</a>
+  </u>
+  <u who="AUR" uID="u20">
+    <w>para</w>
+    <w>papá</w>
+    <w>y</w>
+    <w>mamá</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="AUR" uID="u21">
+    <w>así</w>
+    <pause symbolic-length="simple"/>
+    <w>muy</w>
+    <w>bien</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="INE" uID="u22">
+    <w>ahora</w>
+    <w>para</w>
+    <w>mí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="AUR" uID="u23">
+    <w>si</w>
+    <w>pa<shortening>ra</shortening></w>
+    <w>ti</w>
+    <w>tamén</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="AUR" uID="u24">
+    <w>come</w>
+    <w>deste</w>
+    <w>platiño</w>
+    <pause symbolic-length="simple"/>
+    <w>como</w>
+    <w>Manel</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="AUR" uID="u25">
+    <w>así</w>
+    <pause symbolic-length="simple"/>
+    <w>papá</w>
+    <w>e</w>
+    <w>máis</w>
+    <w>mamá</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="AUR" uID="u26">
+    <w>e</w>
+    <w>estos</w>
+    <w>son</w>
+    <w>os</w>
+    <w>nenés</w>
+    <pause symbolic-length="simple"/>
+    <w>Lidia</w>
+    <w>e</w>
+    <w>máis</w>
+    <w>Andrea</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="AUR" uID="u27">
+    <w>son</w>
+    <w>os</w>
+    <w>dous</w>
+    <w>nenés</w>
+    <w>vosos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="AUR" uID="u28">
+    <w>mirade</w>
+    <w>que</w>
+    <w>coman</w>
+    <w>ben</w>
+    <pause symbolic-length="simple"/>
+    <w>eh</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="AUR" uID="u29">
+    <w>que</w>
+    <w>hay</w>
+    <w>que</w>
+    <w>comer</w>
+    <w>bien</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="AUR" uID="u30">
+    <w>muy</w>
+    <w>bien</w>
+    <pause symbolic-length="simple"/>
+    <w>Andrea</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="AUR" uID="u31">
+    <w>Iago</w>
+    <pause symbolic-length="simple"/>
+    <w>apurades</w>
+    <w>a</w>
+    <w>comer</w>
+    <w>os</w>
+    <w>gusanitos</w>
+    <w>que</w>
+    <w>dá</w>
+    <w>gusto</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="AUR" uID="u32">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="AUR" uID="u33">
+    <w>ti</w>
+    <w>acabaches</w>
+    <pause symbolic-length="simple"/>
+    <w>Raúl</w>
+    <pause symbolic-length="simple"/>
+    <w>si</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="AUR" uID="u34">
+    <w>acabáchelos</w>
+    <w>todiños</w>
+    <t type="q"></t>
+
+    <a type="comments">no se ha transcrito desde 04:10 hasta 04:44 .</a>
+  </u>
+  <u who="AUR" uID="u35">
+    <w>Irene</w>
+    <pause symbolic-length="simple"/>
+    <w>estás</w>
+    <w>mirando</w>
+    <w>como</w>
+    <w>están</w>
+    <w>os</w>
+    <w>nenes</w>
+    <w>teus</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="AUR" uID="u36">
+    <w>os</w>
+    <w>teus</w>
+    <w>nenés</w>
+    <pause symbolic-length="simple"/>
+    <w>mira</w>
+    <w>Andrea</w>
+    <pause symbolic-length="simple"/>
+    <w>vaiche</w>
+    <w>a</w>
+    <w>caer</w>
+    <w>o</w>
+    <w>nené</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="AUR" uID="u37">
+    <w>dille</w>
+    <pause symbolic-length="simple"/>
+    <w>Andrea</w>
+    <pause symbolic-length="simple"/>
+    <w>séntate</w>
+    <w>ben</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="INE" uID="u38">
+    <w>séntate</w>
+    <w>ben</w>
+    <t type="e"></t>
+
+    <a type="extension" flavor="mor">v|sentar:2SIL_IMP:2S:1C_VER-CLI1-CIRC_210_2SIL:senta !</a>
+    <a type="speech act">$IMIT</a>
+    <a type="comments">no se ha transcrito desde 05:00 hasta 07:23 .</a>
+  </u>
+  <u who="AUR" uID="u39">
+    <w>mira</w>
+    <w>lo</w>
+    <w>enfadada</w>
+    <w>que</w>
+    <w>está</w>
+    <w>Aurora</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="INE" uID="u40">
+    <w>por</w>
+    <w>que</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="AUR" uID="u41">
+    <w>porque</w>
+    <w>á</w>
+    <w>hora</w>
+    <w>de</w>
+    <w>comer</w>
+    <w>hai</w>
+    <w>que</w>
+    <w>comer</w>
+    <w>a</w>
+    <w>comidiña</w>
+    <w>que</w>
+    <w>se</w>
+    <w>pon</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="AUR" uID="u42">
+    <w>e</w>
+    <w>Dani</w>
+    <w>non</w>
+    <w>a</w>
+    <w>come</w>
+    <w>nunca</w>
+    <w>nunca</w>
+    <w>nunca</w>
+    <w>nunca</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="AUR" uID="u43">
+    <w>que</w>
+    <w>me</w>
+    <w>trouxeches</w>
+    <w>ti</w>
+    <w>Irene</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="INE" uID="u44">
+    <w>un</w>
+    <w>muñeco</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="AUR" uID="u45">
+    <w>claro</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="AUR" uID="u46">
+    <w>e</w>
+    <w>esto</w>
+    <w>de</w>
+    <w>quen</w>
+    <w>é</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="INE" uID="u47">
+    <w>é</w>
+    <w>meu</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|ser:1SIL_PRES:3S:2C_VER-PRED_210_1SIL:é .</a>
+    <a type="comments">no se ha transcrito desde 07:51 a 10:03 .</a>
+  </u>
+  <u who="ANP" uID="u48">
+    <pg><w>qué</w><actual><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">e</ph></pw></model></pg>
+    <pg><w>haces</w><actual><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">θ</ph><ph id="ph2">e</ph><ph id="ph3">s</ph></pw></actual><model><pw><ss type="1"/><ph id="ph0">a</ph><ph id="ph1">θ</ph><ph id="ph2">e</ph><ph id="ph3">s</ph></pw></model></pg>
+    <t type="q"></t>
+    <media
+      start="599.156"
+      end="601.028"
+      unit="s"
+    />
+    <a type="extension" flavor="mor">v|hacer:2SIL_PRES:2S:2C_ARG2'INT-VER_201_2SIL:haces ?</a>
+  </u>
+  <u who="ANC" uID="u49">
+    <w>mira</w>
+    <w>que</w>
+    <w>película</w>
+    <w>estou</w>
+    <w>facendo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u50">
+    <w>dime</w>
+    <w>como</w>
+    <w>te</w>
+    <w>chamas</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u51">
+    <w>como</w>
+    <w>te</w>
+    <w>chamas</w>
+    <w>ti</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANC" uID="u52">
+    <w>oh</w>
+    <pause symbolic-length="simple"/>
+    <w>non</w>
+    <w>o</w>
+    <w>sabes</w>
+    <t type="e"></t>
+
+    <a type="comments">no se ha transcrito desde 10:14 hasta 11:18 .</a>
+  </u>
+  <comment type="New Episode"></comment>
+  <comment type="Activities">INE mira un libro con dibujos</comment>
+  <u who="INE" uID="u53">
+    <w>a</w>
+    <g><w>caretera</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">caretera=carretera $PHO;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="INE" uID="u54">
+    <w>a</w>
+    <g><w>carretera</w><error/></g>
+    <t type="e"></t>
+
+    <a type="extension" flavor="par">caretera=carretera $PHO;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="INE" uID="u55">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>hai</w>
+    <w>un</w>
+    <w>coche</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="mor">v|haber:2SIL_PRES:3S:2C_VER-ARG2_210_1SIL:hai .</a>
+    <a type="comments">no se ha transcrito desde 11:25 hasta 11:58 .</a>
+  </u>
+  <u who="INE" uID="u56">
+    <g><w>unha</w>
+    <w>casa</w><k type="retracing"/></g>
+    <w>unha</w>
+    <w>casa</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="INE" uID="u57">
+    <g><w><shortening>ah</shortening>ora</w><k type="retracing"/></g>
+    <w><shortening>ah</shortening>ora</w>
+    <w>esto</w>
+    <t type="p"></t>
+
+    <a type="comments">no se puede seguir transcribiendo desde 12:07 .</a>
+  </u>
+</CHAT>

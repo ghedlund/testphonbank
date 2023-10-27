@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011752-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1974-03-14"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Sean"
+      role="Target_Child"
+      language="eng"
+      age="P2Y00M21D"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">14-MAR-1974</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>I</w>
+    <w>want</w>
+    <w>drink</w>
+    <w type="omission">of</w>
+    <w>water</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">awi ɡwiŋk wadɚ</a>
+    <a type="extension" flavor="mod">ˈaɪ ˈwɑnt ˈdɹɪŋk ˈwɑtəɹ</a>
+    <a type="extension" flavor="uttnum">1744</a>
+    <a type="extension" flavor="sesdat">1974-03-14</a>
+    <a type="extension" flavor="age">2;0.19</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <w>hey</w>
+    <w>you</w>
+    <w>guys</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">he ju ɡaiθ</a>
+    <a type="extension" flavor="mod">ˈheɪ ˈjuː ˈɡaɪz</a>
+    <a type="extension" flavor="uttnum">1745</a>
+    <a type="extension" flavor="sesdat">1974-03-14</a>
+    <a type="extension" flavor="age">2;0.19</a>
+  </u>
+</CHAT>

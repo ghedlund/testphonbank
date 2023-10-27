@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011776-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1974-05-29"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Sean"
+      role="Target_Child"
+      language="eng"
+      age="P2Y03M06D"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">29-MAY-1974</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>look</w>
+    <w>at</w>
+    <w>eyes</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">wʌk ʌ aiz</a>
+    <a type="extension" flavor="mod">ˈlʊk ˈæt ˈaɪz</a>
+    <a type="extension" flavor="uttnum">2256</a>
+    <a type="extension" flavor="sesdat">1974-05-29</a>
+    <a type="extension" flavor="age">2;3.6</a>
+    <a type="comments">(looking at dog's eyes) Alternate IPA Actual for “eyes”: [ais]</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <w untranscribed="unintelligible-with-pho">yyy</w>
+    <w untranscribed="unintelligible-with-pho">yyy</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">mmm a</a>
+    <a type="extension" flavor="mod">* *</a>
+    <a type="extension" flavor="uttnum">2257</a>
+    <a type="extension" flavor="sesdat">1974-05-29</a>
+    <a type="extension" flavor="age">2;3.6</a>
+    <a type="comments">pretending to kiss dog</a>
+  </u>
+</CHAT>

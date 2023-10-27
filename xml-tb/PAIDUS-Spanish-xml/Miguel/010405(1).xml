@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="010405" Mediatypes="audio"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00045227-1"
+      Version="2.20.0"
+      Lang="spa"
+      Corpus="PAIDUS-Spanish"
+      Date="1991-12-18"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Miguel"
+      role="Target_Child"
+      language="spa"
+      age="P1Y04M05D"
+      sex="male"
+
+      birthday="1990-08-13"
+
+    />
+    <participant
+      id="ALM"
+    name="Almudena"
+      role="Adult"
+      language="spa"
+      age="P35Y"
+      sex="female"
+
+    />
+    <participant
+      id="FAM"
+    name="Vater_von_María"
+      role="Friend"
+      language="spa"
+      age="P35Y"
+      sex="male"
+
+    />
+    <participant
+      id="LUC"
+    name="Lucas"
+      role="Adult"
+      language="spa"
+      age="P35Y"
+      sex="female"
+
+    />
+  </Participants>
+  <comment type="Date">18-DEC-1991</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="FAM" uID="u0">
+    <w>Ven</w>
+    <w>aquí</w>
+    <t type="e"></t>
+    <media
+      start="0.000"
+      end="2.300"
+      unit="s"
+    />
+  </u>
+  <u who="FAM" uID="u1">
+    <w>Adios</w>
+    <t type="e"></t>
+    <media
+      start="2.300"
+      end="3.499"
+      unit="s"
+    />
+  </u>
+  <u who="FAM" uID="u2">
+    <w>Vamos</w>
+    <w>a</w>
+    <w>jugar</w>
+    <t type="p"></t>
+    <media
+      start="3.499"
+      end="6.999"
+      unit="s"
+    />
+  </u>
+  <comment type="Situation">zwei verschiedene Sprecherinnen?</comment>
+  <u who="FAM" uID="u3">
+    <w>Ven</w>
+    <t type="p"></t>
+    <media
+      start="6.999"
+      end="8.165"
+      unit="s"
+    />
+  </u>
+  <u who="FAM" uID="u4">
+    <w>Dónde</w>
+    <w>están</w>
+    <w>las</w>
+    <w>estrellitas</w>
+    <t type="q"></t>
+    <media
+      start="8.165"
+      end="12.831"
+      unit="s"
+    />
+  </u>
+  <u who="ALM" uID="u5">
+    <w>Sí</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sí</w>
+    <t type="p"></t>
+    <media
+      start="12.831"
+      end="15.164"
+      unit="s"
+    />
+  </u>
+  <u who="FAM" uID="u6">
+    <w>Se</w>
+    <w>han</w>
+    <w>ido</w>
+    <t type="p"></t>
+    <media
+      start="15.164"
+      end="18.663"
+      unit="s"
+    />
+  </u>
+  <u who="FAM" uID="u7">
+    <w>Se</w>
+    <w>han</w>
+    <w>ido</w>
+    <t type="p"></t>
+    <media
+      start="18.663"
+      end="22.163"
+      unit="s"
+    />
+  </u>
+  <u who="FAM" uID="u8">
+    <w>No</w>
+    <w>está</w>
+    <t type="p"></t>
+    <media
+      start="22.163"
+      end="24.495"
+      unit="s"
+    />
+  </u>
+</CHAT>

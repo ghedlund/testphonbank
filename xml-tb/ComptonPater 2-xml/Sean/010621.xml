@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011667-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1973-09-14"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Sean"
+      role="Target_Child"
+      language="eng"
+      age="P1Y06M21D"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">14-SEP-1973</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>tick</w>
+    <w>tock</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">kika</a>
+    <a type="extension" flavor="mod">ˈtɪk ˈtɑk</a>
+    <a type="extension" flavor="uttnum">646</a>
+    <a type="extension" flavor="sesdat">1973-09-14</a>
+    <a type="extension" flavor="age">1;6.22</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <w>tick</w>
+    <w>tock</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">kikɛ</a>
+    <a type="extension" flavor="mod">ˈtɪk ˈtɑk</a>
+    <a type="extension" flavor="uttnum">647</a>
+    <a type="extension" flavor="sesdat">1973-09-14</a>
+    <a type="extension" flavor="age">1;6.22</a>
+  </u>
+  <u who="CHI" uID="u2">
+    <w>no</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">naw</a>
+    <a type="extension" flavor="mod">ˈnoʊ</a>
+    <a type="extension" flavor="uttnum">648</a>
+    <a type="extension" flavor="sesdat">1973-09-14</a>
+    <a type="extension" flavor="age">1;6.22</a>
+  </u>
+</CHAT>

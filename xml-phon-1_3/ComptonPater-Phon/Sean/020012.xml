@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="020012" corpus="ComptonPater" version="PB1.2">
+    <header>
+        <date>1974-03-05</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Sean</name>
+            <sex>male</sex>
+            <age>P2Y0M12DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="uttnum" grouped="false"/>
+        <userTier tierName="sesdat" grouped="false"/>
+        <userTier tierName="age" grouped="false"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="uttnum" visible="true" locked="false" font="default"/>
+        <tier tierName="sesdat" visible="true" locked="false" font="default"/>
+        <tier tierName="age" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Code">pid 11312/c-00011746-1</comment>
+        <comment type="Date">05-MAR-1974</comment>
+        <u speaker="CHI" id="1c2d31ec-8099-4be8-a3a6-55e6dfcff546" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>I</w>
+                    <w>want</w>
+                    <w>bottle</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ˈaɪ</w>
+                    <w>ˈwɑnt</w>
+                    <w>ˈbɑtəl</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="WB"/>
+                        <ph indexes="4" scType="SS"/>
+                        <ph indexes="5" scType="UK"/>
+                        <ph indexes="6" scType="UK"/>
+                        <ph indexes="7" scType="UK"/>
+                        <ph indexes="8" scType="UK"/>
+                        <ph indexes="9" scType="WB"/>
+                        <ph indexes="10" scType="SS"/>
+                        <ph indexes="11" scType="UK"/>
+                        <ph indexes="12" scType="UK"/>
+                        <ph indexes="13" scType="UK"/>
+                        <ph indexes="14" scType="UK"/>
+                        <ph indexes="15" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>a</w>
+                    <w>wi</w>
+                    <w>balu</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="WB"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                        <ph indexes="4" scType="WB"/>
+                        <ph indexes="5" scType="UK"/>
+                        <ph indexes="6" scType="UK"/>
+                        <ph indexes="7" scType="UK"/>
+                        <ph indexes="8" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <flatTier tierName="uttnum">1672</flatTier>
+            <flatTier tierName="sesdat">1974-03-05</flatTier>
+            <flatTier tierName="age">2;0.10</flatTier>
+        </u>
+    </transcript>
+</session>

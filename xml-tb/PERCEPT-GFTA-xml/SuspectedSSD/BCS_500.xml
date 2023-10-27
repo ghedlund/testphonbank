@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="BCS_500" Mediatypes="audio"
+            DesignType="cross"
+            ActivityType="tests"
+            GroupType="PD"
+      PID="11312/a-00056806-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="PERCEPT-GFTA"
+      Date="2022-10-12"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="500"
+      role="Target_Child"
+      language="eng"
+      age="P11Y03M"
+      sex="male"
+      group="GFTA2"
+
+    />
+  </Participants>
+  <comment type="Date">12-OCT-2022</comment>
+  <comment type="Types">cross, tests, PD</comment>
+  <u who="CHI" uID="u0">
+    <pg><w>a-house</w><model><pw><ss type="1"/><ph id="ph0">e</ph><ss type="1"/><ph id="ph1">h</ph><ph id="ph2">a</ph><ph id="ph3">͡</ph><ph id="ph4">ʊ</ph><ph id="ph5">s</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="0.110"
+      end="0.749"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <pg><w>tree</w><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ɹ</ph><ph id="ph2">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="0.869"
+      end="1.687"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[T R IY1]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u2">
+    <pg><w>a-window</w><model><pw><ph id="ph0">ə</ph><ss type="1"/><ph id="ph1">w</ph><ph id="ph2">ɪ</ph><ph id="ph3">n</ph><ph id="ph4">d</ph><ph id="ph5">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="1.807"
+      end="2.663"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u3">
+    <pg><w>telephone</w><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">ɛ</ph><ph id="ph2">l</ph><ph id="ph3">ə</ph><ss type="2"/><ph id="ph4">f</ph><ph id="ph5">o</ph><ph id="ph6">n</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="2.783"
+      end="3.243"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[T EH1 L AH0 F OW2 N]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u4">
+    <pg><w>teacup</w><model><pw><ss type="1"/><ph id="ph0">t</ph><ph id="ph1">i</ph><ss type="2"/><ph id="ph2">k</ph><ph id="ph3">ʌ</ph><ph id="ph4">p</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="3.363"
+      end="4.040"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[T IY1 K AH2 P]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u5">
+    <pg><w>a-knife</w><model><pw><ss type="1"/><ph id="ph0">e</ph><ss type="1"/><ph id="ph1">n</ph><ph id="ph2">a</ph><ph id="ph3">͡</ph><ph id="ph4">ɪ</ph><ph id="ph5">f</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="4.160"
+      end="4.793"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u6">
+    <pg><w>a-spoon</w><model><pw><ph id="ph0">ə</ph><ss type="1"/><ph id="ph1">s</ph><ph id="ph2">p</ph><ph id="ph3">u</ph><ph id="ph4">n</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="4.913"
+      end="5.645"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u7">
+    <pg><w>girl</w><model><pw><ss type="1"/><ph id="ph0">g</ph><ph id="ph1">ɝ</ph><ph id="ph2">ɫ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="5.765"
+      end="6.670"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[G ER1 L]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u8">
+    <pg><w>ball</w><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ɑ</ph><ph id="ph2">ɫ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="6.790"
+      end="7.260"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[B AO1 L]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u9">
+    <pg><w>wagon</w><model><pw><ss type="1"/><ph id="ph0">w</ph><ph id="ph1">æ</ph><ph id="ph2">g</ph><ph id="ph3">n</ph><ph id="ph4">̩</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="7.380"
+      end="7.887"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[W AE1 G AH0 N]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u10">
+    <pg><w>shovel</w><model><pw><ss type="1"/><ph id="ph0">ʃ</ph><ph id="ph1">ʌ</ph><ph id="ph2">v</ph><ph id="ph3">ɫ</ph><ph id="ph4">̩</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="8.007"
+      end="8.620"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[SH AH1 V AH0 L]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u11">
+    <pg><w>a-monkey</w><model><pw><ph id="ph0">ə</ph><ss type="1"/><ph id="ph1">m</ph><ph id="ph2">ʌ</ph><ph id="ph3">ŋ</ph><ph id="ph4">k</ph><ph id="ph5">i</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="8.740"
+      end="9.509"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u12">
+    <pg><w>a-banana</w><model><pw><ss type="1"/><ph id="ph0">e</ph><ph id="ph1">b</ph><ph id="ph2">ə</ph><ss type="1"/><ph id="ph3">n</ph><ph id="ph4">æ</ph><ph id="ph5">n</ph><ph id="ph6">ə</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="9.629"
+      end="10.509"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u13">
+    <pg><w>a-zipper</w><model><pw><ss type="1"/><ph id="ph0">e</ph><ss type="1"/><ph id="ph1">z</ph><ph id="ph2">ɪ</ph><ph id="ph3">p</ph><ph id="ph4">ɚ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="10.629"
+      end="11.565"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u14">
+    <pg><w>scissors</w><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">ɪ</ph><ph id="ph2">z</ph><ph id="ph3">ɚ</ph><ph id="ph4">z</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="11.685"
+      end="12.540"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[S IH1 Z ER0 Z]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u15">
+    <pg><w>a-duck</w><model><pw><ss type="1"/><ph id="ph0">e</ph><ss type="1"/><ph id="ph1">d</ph><ph id="ph2">ʌ</ph><ph id="ph3">k</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="12.660"
+      end="13.059"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u16">
+    <pg><w>quack</w><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">w</ph><ph id="ph2">æ</ph><ph id="ph3">k</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="13.179"
+      end="14.010"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[K W AE1 K]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u17">
+    <pg><w>yellow</w><model><pw><ss type="1"/><ph id="ph0">j</ph><ph id="ph1">ɛ</ph><ph id="ph2">l</ph><ph id="ph3">o</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="14.130"
+      end="14.794"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[Y EH1 L OW0]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u18">
+    <pg><w>a-vacuum-cleaner</w><model><pw><ss type="1"/><ph id="ph0">e</ph><ss type="1"/><ph id="ph1">v</ph><ph id="ph2">æ</ph><ph id="ph3">k</ph><ph id="ph4">j</ph><ph id="ph5">u</ph><ph id="ph6">m</ph><ss type="1"/><ph id="ph7">k</ph><ph id="ph8">l</ph><ph id="ph9">i</ph><ph id="ph10">n</ph><ph id="ph11">ɚ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="14.914"
+      end="16.213"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u19">
+    <pg><w>a-watch</w><model><pw><ph id="ph0">ə</ph><ss type="1"/><ph id="ph1">w</ph><ph id="ph2">ɑ</ph><ph id="ph3">ʧ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="16.333"
+      end="17.620"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u20">
+    <pg><w>a-plane</w><model><pw><ph id="ph0">ə</ph><ss type="1"/><ph id="ph1">p</ph><ph id="ph2">l</ph><ph id="ph3">e</ph><ph id="ph4">n</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="17.740"
+      end="18.749"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u21">
+    <pg><w>swimming</w><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">w</ph><ph id="ph2">ɪ</ph><ph id="ph3">m</ph><ph id="ph4">ɪ</ph><ph id="ph5">ŋ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="18.869"
+      end="19.990"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[S W IH1 M IH0 NG]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u22">
+    <pg><w>watches</w><model><pw><ss type="1"/><ph id="ph0">w</ph><ph id="ph1">ɑ</ph><ph id="ph2">ʧ</ph><ph id="ph3">ə</ph><ph id="ph4">z</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="20.110"
+      end="21.187"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[W AA1 CH IH0 Z]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u23">
+    <pg><w>a-lamp</w><model><pw><ph id="ph0">ə</ph><ss type="1"/><ph id="ph1">l</ph><ph id="ph2">æ</ph><ph id="ph3">m</ph><ph id="ph4">p</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="21.307"
+      end="22.168"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u24">
+    <pg><w>a-car</w><model><pw><ss type="1"/><ph id="ph0">e</ph><ss type="1"/><ph id="ph1">k</ph><ph id="ph2">ɑ</ph><ph id="ph3">͡</ph><ph id="ph4">ɚ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="22.288"
+      end="23.125"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u25">
+    <pg><w>blue</w><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">l</ph><ph id="ph2">u</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="23.245"
+      end="24.083"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[B L UW1]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u26">
+    <pg><w>a-rabbit</w><model><pw><ss type="1"/><ph id="ph0">e</ph><ss type="1"/><ph id="ph1">ɹ</ph><ph id="ph2">æ</ph><ss type="2"/><ph id="ph3">b</ph><ph id="ph4">ɪ</ph><ph id="ph5">t</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="24.203"
+      end="25.088"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u27">
+    <pg><w>a-carrot</w><model><pw><ss type="1"/><ph id="ph0">e</ph><ss type="1"/><ph id="ph1">k</ph><ph id="ph2">æ</ph><ph id="ph3">ɹ</ph><ph id="ph4">ə</ph><ph id="ph5">t</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="25.208"
+      end="26.205"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u28">
+    <pg><w>orange</w><model><pw><ss type="1"/><ph id="ph0">ɔ</ph><ph id="ph1">ɹ</ph><ph id="ph2">n</ph><ph id="ph3">̩</ph><ph id="ph4">ʤ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="26.325"
+      end="27.094"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[AO1 R IH0 N JH]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u29">
+    <pg><w>fisher</w><model><pw><ss type="1"/><ph id="ph0">f</ph><ph id="ph1">ɪ</ph><ph id="ph2">ʃ</ph><ph id="ph3">ɚ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="27.214"
+      end="28.083"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[F IH1 SH ER0]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u30">
+    <pg><w>a-chair</w><model><pw><ph id="ph0">ə</ph><ss type="1"/><ph id="ph1">ʧ</ph><ph id="ph2">ɛ</ph><ph id="ph3">͡</ph><ph id="ph4">ɚ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="28.203"
+      end="29.064"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u31">
+    <pg><w>a-feather</w><model><pw><ph id="ph0">ə</ph><ss type="1"/><ph id="ph1">f</ph><ph id="ph2">ɛ</ph><ph id="ph3">ð</ph><ph id="ph4">ɚ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="29.184"
+      end="30.379"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u32">
+    <pg><w>pencils</w><model><pw><ss type="1"/><ph id="ph0">p</ph><ph id="ph1">ɛ</ph><ph id="ph2">n</ph><ph id="ph3">s</ph><ph id="ph4">ɫ</ph><ph id="ph5">̩</ph><ph id="ph6">z</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="30.499"
+      end="31.607"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[P EH1 N S AH0 L Z]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u33">
+    <pg><w>this-one</w><model><pw><ph id="ph0">ð</ph><ph id="ph1">ə</ph><ph id="ph2">s</ph><ss type="1"/><ph id="ph3">w</ph><ph id="ph4">ʌ</ph><ph id="ph5">n</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="31.727"
+      end="32.219"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u34">
+    <pg><w>a-bathtub</w><model><pw><ss type="1"/><ph id="ph0">e</ph><ss type="1"/><ph id="ph1">b</ph><ph id="ph2">æ</ph><ph id="ph3">θ</ph><ph id="ph4">t</ph><ph id="ph5">ə</ph><ph id="ph6">b</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="32.339"
+      end="33.410"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u35">
+    <pg><w>bath</w><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">æ</ph><ph id="ph2">θ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="33.530"
+      end="34.354"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[B AE1 TH]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u36">
+    <pg><w>a-ring</w><model><pw><ss type="1"/><ph id="ph0">e</ph><ss type="1"/><ph id="ph1">ɹ</ph><ph id="ph2">ɪ</ph><ph id="ph3">ŋ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="34.474"
+      end="35.287"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u37">
+    <pg><w>fingers</w><model><pw><ss type="1"/><ph id="ph0">f</ph><ph id="ph1">ɪ</ph><ph id="ph2">ŋ</ph><ph id="ph3">g</ph><ph id="ph4">ɚ</ph><ph id="ph5">z</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="35.407"
+      end="36.114"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[F IH1 NG G ER0 Z]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u38">
+    <pg><w>a-thumb</w><model><pw><ss type="1"/><ph id="ph0">e</ph><ss type="1"/><ph id="ph1">θ</ph><ph id="ph2">ʌ</ph><ph id="ph3">m</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="36.234"
+      end="37.065"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u39">
+    <pg><w>jumping</w><model><pw><ss type="1"/><ph id="ph0">ʤ</ph><ph id="ph1">ʌ</ph><ph id="ph2">m</ph><ph id="ph3">p</ph><ph id="ph4">ɪ</ph><ph id="ph5">ŋ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="37.185"
+      end="37.966"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[JH AH1 M P IH0 NG]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u40">
+    <pg><w>pajamas</w><model><pw><ph id="ph0">p</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">ʤ</ph><ph id="ph3">ɑ</ph><ph id="ph4">m</ph><ph id="ph5">ə</ph><ph id="ph6">z</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="38.086"
+      end="39.182"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[P AH0 JH AE1 M AH0 Z]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u41">
+    <pg><w>flowers</w><model><pw><ss type="1"/><ph id="ph0">f</ph><ph id="ph1">l</ph><ph id="ph2">a</ph><ph id="ph3">͡</ph><ph id="ph4">ʊ</ph><ph id="ph5">ɚ</ph><ph id="ph6">z</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="39.302"
+      end="40.465"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[F L AW1 ER0 Z]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u42">
+    <pg><w>brush</w><model><pw><ss type="1"/><ph id="ph0">b</ph><ph id="ph1">ɹ</ph><ph id="ph2">ʌ</ph><ph id="ph3">ʃ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="40.585"
+      end="41.601"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[B R AH1 SH]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u43">
+    <pg><w>a-drum</w><model><pw><ss type="1"/><ph id="ph0">e</ph><ss type="1"/><ph id="ph1">d</ph><ph id="ph2">ɹ</ph><ph id="ph3">ʌ</ph><ph id="ph4">m</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="41.721"
+      end="42.644"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u44">
+    <pg><w>a-frog</w><model><pw><ph id="ph0">ə</ph><ss type="1"/><ph id="ph1">f</ph><ph id="ph2">ɹ</ph><ph id="ph3">ɑ</ph><ph id="ph4">g</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="42.764"
+      end="43.872"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u45">
+    <pg><w>green</w><model><pw><ss type="1"/><ph id="ph0">g</ph><ph id="ph1">ɹ</ph><ph id="ph2">i</ph><ph id="ph3">n</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="43.992"
+      end="45.217"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[G R IY1 N]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u46">
+    <pg><w>a-clown</w><model><pw><ss type="1"/><ph id="ph0">e</ph><ss type="1"/><ph id="ph1">k</ph><ph id="ph2">l</ph><ph id="ph3">a</ph><ph id="ph4">͡</ph><ph id="ph5">ʊ</ph><ph id="ph6">n</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="45.337"
+      end="46.408"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u47">
+    <pg><w>balloons</w><model><pw><ph id="ph0">b</ph><ph id="ph1">ə</ph><ss type="1"/><ph id="ph2">l</ph><ph id="ph3">u</ph><ph id="ph4">n</ph><ph id="ph5">z</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="46.528"
+      end="47.605"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[B AH0 L UW1 N Z]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u48">
+    <pg><w>crying</w><model><pw><ss type="1"/><ph id="ph0">k</ph><ph id="ph1">ɹ</ph><ph id="ph2">a</ph><ph id="ph3">͡</ph><ph id="ph4">ɪ</ph><ph id="ph5">ɪ</ph><ph id="ph6">ŋ</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="47.725"
+      end="48.747"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[K R AY1 IH0 NG]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u49">
+    <pg><w>glasses</w><model><pw><ss type="1"/><ph id="ph0">g</ph><ph id="ph1">l</ph><ph id="ph2">æ</ph><ph id="ph3">s</ph><ph id="ph4">ə</ph><ph id="ph5">z</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="48.867"
+      end="50.086"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[G L AE1 S IH0 Z]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u50">
+    <pg><w>a-slide</w><model><pw><ss type="1"/><ph id="ph0">e</ph><ss type="1"/><ph id="ph1">s</ph><ph id="ph2">l</ph><ph id="ph3">a</ph><ph id="ph4">͡</ph><ph id="ph5">ɪ</ph><ph id="ph6">d</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="50.206"
+      end="51.203"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[ ]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u51">
+    <pg><w>stars</w><model><pw><ss type="1"/><ph id="ph0">s</ph><ph id="ph1">t</ph><ph id="ph2">ɑ</ph><ph id="ph3">͡</ph><ph id="ph4">ɚ</ph><ph id="ph5">z</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="51.323"
+      end="52.733"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[S T AA1 R Z]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+  <u who="CHI" uID="u52">
+    <pg><w>five</w><model><pw><ss type="1"/><ph id="ph0">f</ph><ph id="ph1">a</ph><ph id="ph2">͡</ph><ph id="ph3">ɪ</ph><ph id="ph4">v</ph></pw></model></pg>
+    <t type="p"></t>
+    <media
+      start="52.853"
+      end="53.610"
+      unit="s"
+    />
+    <a type="extension" flavor="phase">[EVAL]</a>
+    <a type="extension" flavor="arpact">[ ]</a>
+    <a type="extension" flavor="study">[BCS]</a>
+    <a type="extension" flavor="sessio">[1]</a>
+    <a type="extension" flavor="arptar">[F AY1 V]</a>
+    <a type="extension" flavor="gftave">[GFTA2]</a>
+  </u>
+</CHAT>

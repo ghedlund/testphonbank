@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00042307-1"
+      Version="2.20.0"
+      Lang="glg spa"
+      Corpus="Koine"
+      Date="1997-07-04"
+      >
+  <Participants>
+    <participant
+      id="ANA"
+    name="Ana"
+      role="Target_Child"
+      language="glg spa"
+      age="P2Y01M19D"
+      sex="female"
+      group="Elfos"
+
+    />
+    <participant
+      id="RUT"
+    name="Ruth"
+      role="Target_Child"
+      language="glg spa"
+      age="P2Y06M22D"
+      sex="female"
+      group="Elfos"
+
+    />
+    <participant
+      id="MON"
+    name="Montse"
+      role="Investigator"
+      language="glg spa"
+      sex="female"
+      group="Elfos"
+
+    />
+  </Participants>
+  <comment type="Transcriber">ISA</comment>
+  <comment type="Location">A Estrada</comment>
+  <comment type="Situation">en la escuela infantil</comment>
+  <comment type="Activities">descripción de cartas y láminas</comment>
+  <comment type="Tape Location">2.4</comment>
+  <comment type="Date">04-JUL-1997</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="MON" uID="u0">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">la imagen está desenfocada</a>
+  </u>
+  <u who="MON" uID="u1">
+    <w>para</w>
+    <w>verlos</w>
+    <w>todos</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANA" uID="u2">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>Ru</w>
+    <g><w>ete</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">ete=este $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+    <a type="comments">se refiere a un cuento</a>
+  </u>
+  <u who="MON" uID="u3">
+    <w>te</w>
+    <w>deja</w>
+    <w>Ruth</w>
+    <w>ese</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="ANA" uID="u4">
+    <w>sí</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u5">
+    <w>y</w>
+    <w>ese</w>
+    <w>es</w>
+    <w>bonito</w>
+    <w>o</w>
+    <w>es</w>
+    <w>feo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RUT" uID="u6">
+    <g><w>mía</w><error/></g>
+    <w>coche</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">mía=mira $PHO ;</a>
+    <a type="extension" flavor="mor">v|mirar:2SIL_IMP:2S:1C_VER-ARG2_206_2SIL:mía .</a>
+    <a type="extension" flavor="phon">$OMI</a>
+    <a type="actions">señala un dibujo del cuento que le ha dejado a ANA</a>
+  </u>
+  <u who="MON" uID="u7">
+    <w>qué</w>
+    <w>es</w>
+    <w>eso</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RUT" uID="u8">
+    <g><w>u</w><error/></g>
+    <g><w>doche</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">u=un $PHO ; doche=coche $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI ; $SUS-SON-FRON</a>
+  </u>
+  <u who="MON" uID="u9">
+    <w>un</w>
+    <w>coche</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="ANA" uID="u10">
+    <g><w>di</w><error/></g>
+    <g><w>coló</w><error/></g>
+    <g><w>amarilo</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">di=de $PHO ; coló=color $PHO ; amarilo=amarillo $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS ; $OMI ; $SUS</a>
+  </u>
+  <u who="MON" uID="u11">
+    <w>ese</w>
+    <w>es</w>
+    <w>amarillo</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RUT" uID="u12">
+    <w>no</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="RUT" uID="u13">
+    <g><w>e</w><error/></g>
+    <w>coche</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">e=el $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="MON" uID="u14">
+    <w>es</w>
+    <w>un</w>
+    <w>coche</w>
+    <w>de</w>
+    <w>color</w>
+    <t type="self interruption"></t>
+
+  </u>
+  <u who="RUT" uID="u15">
+    <linker type="other completion"/>
+    <g><w>rojo</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">rojo=rrojo $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS</a>
+  </u>
+  <u who="MON" uID="u16">
+    <w>un</w>
+    <w>coche</w>
+    <w>rojo</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u17">
+    <w>y</w>
+    <w>esto</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RUT" uID="u18">
+    <g><w>u</w><error/></g>
+    <t type="self interruption"></t>
+
+    <a type="extension" flavor="par">u=un $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI</a>
+  </u>
+  <u who="RUT" uID="u19">
+    <linker type="self completion"/>
+    <g><w>dojo</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">dojo=rojo $PHO ;</a>
+    <a type="extension" flavor="phon">$SUS-FRON</a>
+  </u>
+  <u who="MON" uID="u20">
+    <w>pero</w>
+    <w>qué</w>
+    <w>es</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="RUT" uID="u21">
+    <g><w>u</w><error/></g>
+    <g><w>ozo</w><error/></g>
+    <t type="p"></t>
+
+    <a type="extension" flavor="par">u=un $PHO ; ozo=oso $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI ; $SUS-FRON</a>
+  </u>
+  <u who="MON" uID="u22">
+    <w>un</w>
+    <w>oso</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANA" uID="u23">
+    <g><w>ete</w><error/></g>
+    <g><w>di</w><error/></g>
+    <g><w>coló</w><error/></g>
+    <w>na<shortening>ranja</shortening></w>
+    <t type="self interruption"></t>
+
+    <a type="extension" flavor="par">ete=este $PHO ; di=de $PHO ; coló=color $PHO ;</a>
+    <a type="extension" flavor="phon">$OMI ; $SUS ; $OMI</a>
+    <a type="actions">señala el libro</a>
+  </u>
+  <u who="RUT" uID="u24">
+    <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="ANA" uID="u25">
+    <linker type="self completion"/>
+    <g><w><shortening>na</shortening>ranja</w><overlap type="overlap precedes"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u26">
+    <w>naranja</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MON" uID="u27">
+    <w untranscribed="untranscribed">www</w>
+    <t type="p"></t>
+
+    <a type="explanation">la imagen permanece desenfocada durante la grabación; los niños se muestran poco participativos</a>
+  </u>
+</CHAT>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00011626-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="ComptonPater"
+      Date="1973-06-21"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Sean"
+      role="Target_Child"
+      language="eng"
+      age="P1Y03M28D"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">21-JUN-1973</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="CHI" uID="u0">
+    <w>cracker</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">ˈkæːkʊ</a>
+    <a type="extension" flavor="mod">ˈkɹækəɹ</a>
+    <a type="extension" flavor="uttnum">264</a>
+    <a type="extension" flavor="sesdat">1973-06-21</a>
+    <a type="extension" flavor="age">1;3.29</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <w untranscribed="unintelligible-with-pho">yyy</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">æːˈpu</a>
+    <a type="extension" flavor="mod">*</a>
+    <a type="extension" flavor="uttnum">265</a>
+    <a type="extension" flavor="sesdat">1973-06-21</a>
+    <a type="extension" flavor="age">1;3.29</a>
+    <a type="comments">Meaning: food</a>
+  </u>
+  <u who="CHI" uID="u2">
+    <w>apple</w>
+    <w>juice</w>
+    <t type="p"></t>
+
+    <a type="extension" flavor="pho">bætidu</a>
+    <a type="extension" flavor="mod">ˈæpəl ˈʤuːs</a>
+    <a type="extension" flavor="uttnum">266</a>
+    <a type="extension" flavor="sesdat">1973-06-21</a>
+    <a type="extension" flavor="age">1;3.29</a>
+  </u>
+</CHAT>

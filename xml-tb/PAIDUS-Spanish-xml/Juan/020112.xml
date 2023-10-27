@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="020112" Mediatypes="audio"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/c-00045172-1"
+      Version="2.20.0"
+      Lang="spa"
+      Corpus="PAIDUS-Spanish"
+      Date="1993-02-12"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Juan"
+      role="Target_Child"
+      language="spa"
+      age="P2Y01M12D"
+      sex="male"
+
+      birthday="1990-12-30"
+
+    />
+    <participant
+      id="MOT"
+    name="Mutter_von_uan"
+      role="Mother"
+      language="spa"
+      age="P35Y"
+      sex="female"
+
+    />
+    <participant
+      id="ANO"
+    name="Antonio"
+      role="Adult"
+      language="spa"
+      age="P35Y"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">12-FEB-1993</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+  <u who="MOT" uID="u0">
+    <w>Pero</w>
+    <w>casi</w>
+    <w>se</w>
+    <w>vee</w>
+    <w>muy</w>
+    <w>mal</w>
+    <w>el</w>
+    <w>cuento</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>pon</w>
+    <w>el</w>
+    <w>derecho</w>
+    <t type="p"></t>
+    <media
+      start="0.900"
+      end="3.400"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u1">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+    <media
+      start="3.400"
+      end="5.300"
+      unit="s"
+    />
+    <a type="extension" flavor="lang">Spanish</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="MOT" uID="u2">
+    <w>Al</w>
+    <w>revés</w>
+    <t type="p"></t>
+    <media
+      start="5.300"
+      end="6.900"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u3">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+    <media
+      start="6.900"
+      end="8.500"
+      unit="s"
+    />
+    <a type="extension" flavor="lang">Spanish</a>
+    <a type="extension" flavor="type">spontaneous</a>
+  </u>
+  <u who="MOT" uID="u4">
+    <w>No</w>
+    <w>veo</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>no</w>
+    <w>veo</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>no</w>
+    <w>se</w>
+    <w>que</w>
+    <w>hay</w>
+    <t type="p"></t>
+    <media
+      start="8.500"
+      end="13.033"
+      unit="s"
+    />
+  </u>
+</CHAT>
